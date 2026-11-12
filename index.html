@@ -189,7 +189,7 @@ body.presenting .topbar,body.presenting nav.tabs{display:none}
 .slide .box{border:1px solid var(--line);border-radius:12px;padding:12px 14px;background:var(--surface)}
 .slide .box h4{margin:0 0 8px;font-size:13px;text-transform:uppercase;letter-spacing:.05em;color:var(--muted)}
 .slide .chipsr{display:flex;flex-wrap:wrap;gap:6px}.slide .chipsr span{border:1px solid var(--line);border-radius:999px;padding:4px 10px;font-size:13px}
-.slide .cover{text-align:center;padding:24px 0}.slide .cover h2{font-size:30px}
+.slide .cover{text-align:center;padding:24px 0}.slide .band.sep{padding:28px 20px;text-align:left}.slide .band.sep h2{font-size:30px;line-height:1.15;margin:6px 0}.slide .cover h2{font-size:30px}
 .pres-nav{display:grid;grid-template-columns:1fr auto auto 1fr;gap:8px;padding:10px var(--gut-r,16px) calc(10px + env(safe-area-inset-bottom,0px)) var(--gut-l,16px);border-top:1px solid var(--line);background:var(--surface)}
 .pres-nav .btn{min-height:46px}
 .topbar h1{white-space:nowrap;overflow:hidden;text-overflow:ellipsis;min-width:0}
@@ -604,6 +604,7 @@ function renderToday(){
      <div class="row" style="justify-content:space-between;margin-top:10px;font-size:13px"><b>Rank: ${esc(lv.name)}</b><span class="num">${S.xp||0} XP${lv.next?" · "+(lv.need-(S.xp||0))+" to "+esc(lv.next):""}</span></div>
      <div class="xp"><i style="width:${lv.next?Math.round(((S.xp||0)-lv.from)/(lv.need-lv.from)*100):100}%"></i></div>
    </section>
+   ${todayCardHTML()}
    <section class="card" aria-labelledby="sessH">
      <div class="eyebrow">Today · ${minutesToday()} minutes</div>
      <h3 id="sessH">${doneToday?"Done for today — well played":"Focus: "+esc(se.focus)}</h3>
@@ -734,7 +735,7 @@ function renderSyllabus(){
   const match=n=>!q||(n._s||(n.t+" "+n.x).toLowerCase()).includes(q);
   view.innerHTML=`<div class="pad">
    <section class="band"><div class="kicker">Official PPSC syllabus · ${esc(meta&&meta.version||D.syl.version)}</div><h2>${cv.pc}% covered</h2><div class="gur">${cv.c} of ${cv.n} topics studied · ${cv.g} revised or strong</div></section>
-   <a class="btn block" href="#present" style="text-align:center;text-decoration:none">▶ Present the whole syllabus</a>
+   <a class="btn block" href="#present/hub" style="text-align:center;text-decoration:none">▶ Presentations — today, not yet seen, every subject</a>
    <div class="seg" style="grid-template-columns:repeat(3,1fr)" role="group" aria-label="Stage">${["Prelims","Mains","All"].map(s=>`<button data-st="${s}" aria-pressed="${s===sylStage}">${s}</button>`).join("")}</div>
    <div class="search"><input type="search" id="sq" placeholder="Search topics, e.g. Ranjit Singh, GST, ozone" value="${esc(sylQ)}" aria-label="Search the syllabus"></div>
    <p class="muted" style="margin:0;font-size:12px"><span class="dot" style="display:inline-block;vertical-align:-1px"></span> not started · <span class="dot s1" style="display:inline-block;vertical-align:-1px"></span> studied · <span class="dot s2" style="display:inline-block;vertical-align:-1px"></span> revised · <span class="dot s3" style="display:inline-block;vertical-align:-1px"></span> strong &nbsp;·&nbsp; <span class="pr H">H</span> high-yield</p>
@@ -1273,60 +1274,104 @@ function backupNudge(){if(!window.IS_PWA)return "";const last=S.lastBk||0;if(Dat
   return `<section class="card" style="border-left:4px solid var(--gold,#C9A227)"><div class="eyebrow">Back up your progress</div><p style="margin:6px 0">The offline app keeps progress on this phone only. ${last?"Your last backup was "+Math.floor((Date.now()-last)/864e5)+" days ago.":"You haven't made a backup yet."}</p><a class="btn alt" href="#guide" style="text-decoration:none">Make a backup code</a></section>`;}
 document.addEventListener("click",e=>{if(e.target&&e.target.id==="instGo"&&window.INSTALLEV){window.INSTALLEV.prompt();window.INSTALLEV.userChoice.finally(()=>{window.INSTALLEV=null;route(true);});}});
 
-/* ----- v5.3: presentation mode for the complete syllabus ----- */
-var presTimer=null,PRES={key:"",slides:[],i:0,auto:false,read:false};
-function presSlides(pid){const out=[];const papers=PAPERS.filter(p=>!pid||p.id===pid);const live=n=>!n.removed;
-  if(!pid){const nn=NODES.filter(live).length;out.push({k:"cover",n:nn});}
-  papers.forEach(p=>{const pnodes=[].concat(...p.sections.map(sc=>sc.nodes.filter(live)));out.push({k:"paper",p,count:pnodes.length});
-    p.sections.forEach(sc=>{const ns=sc.nodes.filter(live);if(!ns.length)return;if(p.sections.length>1)out.push({k:"sec",p,sc,ns});ns.forEach(n=>out.push({k:"node",p,sc,n:NODE[n.id]||n}));});});
+/* ----- v5.4: presentations — today's deck, not-yet-seen, every subject with a separator slide, papers ----- */
+var presTimer=null,PRES={key:"",title:"",slides:[],i:0,auto:false,read:false};
+const live_=n=>n&&!n.removed;
+function subjOrder(){const seen=[];planMonths().forEach(m=>(m.f||[]).forEach(g=>{if(GRP[g]&&!seen.includes(g))seen.push(g);}));Object.keys(GRP).forEach(g=>{if(!seen.includes(g))seen.push(g);});return seen.filter(g=>NODES.some(n=>n.g===g&&live_(n)));}
+function slSeen(id){return !!(S.seenSl&&S.seenSl[id]);}
+function markSeen(id){if(!S.seenSl)S.seenSl={};if(!S.seenSl[id]){S.seenSl[id]=ds();save();}}
+function prOrd(a,b){return (PRW[a.pr]||1)-(PRW[b.pr]||1);}
+function todayTopics(){const sess=todaySession();const ids=(sess.steps||[]).filter(x=>x.t==="learn").map(x=>x.id);const f=focusToday();
+  const out=ids.map(id=>NODE[id]).filter(live_);
+  NODES.filter(n=>live_(n)&&f.subs.includes(n.g)&&!slSeen(n.id)&&!out.includes(n)).sort(prOrd).slice(0,Math.max(0,5-out.length)).forEach(n=>out.push(n));
+  if(out.length<3)NODES.filter(n=>live_(n)&&!slSeen(n.id)&&!out.includes(n)).sort(prOrd).slice(0,3-out.length).forEach(n=>out.push(n));
   return out;}
-function presText(sl){if(sl.k==="cover")return "PPSC Punjab Civil Services. The complete syllabus, in "+sl.n+" topics.";
+function bySubject(nodes){const ord=subjOrder();const groups=[];ord.forEach(g=>{const ns=nodes.filter(n=>n.g===g);if(ns.length)groups.push({g,ns});});
+  const left=nodes.filter(n=>!ord.includes(n.g));if(left.length)groups.push({g:left[0].g,ns:left});return groups;}
+function deckFor(key){
+  if(paperOf(key)){const p=paperOf(key);const sl=[{k:"paper",p,count:[].concat(...p.sections.map(sc=>sc.nodes.filter(live_))).length}];
+    p.sections.forEach(sc=>{const ns=sc.nodes.filter(live_).map(n=>NODE[n.id]||n);if(!ns.length)return;if(p.sections.length>1)sl.push({k:"sec",p,sc,ns});ns.forEach(n=>sl.push({k:"node",n}));});
+    return {title:p.name,slides:sl};}
+  let title="",nodes=[],cover=null;
+  if(key==="today"){const f=focusToday();nodes=todayTopics();title="Today's presentation";cover={k:"cover",title:"Today · "+fmtDate(ds()),sub:f.label,n:nodes.length};}
+  else if(key==="unseen"||key.startsWith("unseen:")){const g=key.split(":")[1];nodes=NODES.filter(n=>live_(n)&&!slSeen(n.id)&&(!g||n.g===g)).sort(prOrd);title=g&&GRP[g]?"Not yet seen · "+GRP[g].short:"Not yet seen";cover=g?null:{k:"cover",title:"Not yet seen",sub:"Topics you haven't been shown yet, subject by subject",n:nodes.length};}
+  else if(key.startsWith("subj:")){const g=key.slice(5);nodes=NODES.filter(n=>live_(n)&&n.g===g).sort(prOrd);title=GRP[g]?GRP[g].n:"Subject";}
+  else {nodes=NODES.filter(live_);title="Whole syllabus";cover={k:"cover",title:"The complete syllabus",sub:"Every subject in the order I teach it",n:nodes.length,full:1};}
+  const sl=cover?[cover]:[];bySubject(nodes).forEach(({g,ns})=>{sl.push({k:"subj",g,ns});ns.forEach(n=>sl.push({k:"node",n}));});
+  if(!nodes.length)sl.push({k:"empty",key});
+  return {title,slides:sl};}
+function deckList(){return [["today","Today's presentation"],["unseen","Not yet seen"],["all","Whole syllabus, by subject"]].concat(subjOrder().map(g=>["subj:"+g,"Subject · "+GRP[g].n]),PAPERS.map(p=>[p.id,"Paper · "+p.name]));}
+function presText(sl){if(sl.k==="cover")return sl.title+". "+sl.sub+". "+sl.n+" topics.";
+  if(sl.k==="subj")return "Next subject: "+GRP[sl.g].n+". "+sl.ns.length+" topics: "+sl.ns.map(n=>n.t).join(", ")+".";
   if(sl.k==="paper")return sl.p.name+". "+sl.p.stage+". Marks: "+sl.p.marks+". Sections: "+sl.p.sections.map(x=>x.name).join(", ")+".";
   if(sl.k==="sec")return sl.sc.name+". Topics: "+sl.ns.map(n=>n.t).join(", ")+".";
+  if(sl.k==="empty")return "Nothing here.";
   const n=sl.n;return n.t+". "+(n.x||"")+" "+(n.brief||[]).slice(0,5).join(" ")+((n.punjab||[]).length?" Punjab angle: "+n.punjab.slice(0,2).join(" "):"");}
 function presHTML(sl){
-  if(sl.k==="cover"){const pre=PAPERS.filter(p=>p.stage==="Prelims"),mn=PAPERS.filter(p=>p.stage!=="Prelims");
-    return `<div class="slide"><div class="cover"><div class="crumb">PPSC PCS · Executive Branch</div><h2>The complete syllabus</h2><p class="sx">${sl.n} topics across ${PAPERS.length} papers</p></div>
-      <div class="box"><h4>Prelims</h4><ul>${pre.map(p=>`<li><b>${esc(p.name)}</b> — ${esc(p.marks)}</li>`).join("")}</ul></div>
-      <div class="box"><h4>Mains and interview</h4><ul>${mn.map(p=>`<li><b>${esc(p.name)}</b> — ${esc(p.marks)}</li>`).join("")}</ul></div>
-      <p class="muted" style="margin:0;font-size:13px;text-align:center">Swipe or use ◀ ▶. Tap “Open topic” on any slide for full notes and practice.</p></div>`;}
+  if(sl.k==="cover"){const subs=bySubject(sl.full?NODES.filter(live_):[]);
+    return `<div class="slide"><div class="cover"><div class="crumb">PPSC PCS · Executive Branch</div><h2>${esc(sl.title)}</h2><p class="sx">${esc(sl.sub)} · ${sl.n} topic${sl.n===1?"":"s"}</p></div>
+      ${sl.full?`<div class="box"><h4>${subs.length} subjects</h4><div class="chipsr">${subs.map(x=>`<span>${esc(GRP[x.g].short)} · ${x.ns.length}</span>`).join("")}</div></div>`:""}
+      <p class="muted" style="margin:0;font-size:13px;text-align:center">Swipe or use ◀ ▶. Each subject opens with a separator slide.</p></div>`;}
+  if(sl.k==="empty")return `<div class="slide"><div class="cover"><h2>All seen</h2><p class="sx">${sl.key.startsWith("unseen")?"You have seen every topic here. Revise with a subject deck.":"No topics here."}</p></div></div>`;
+  if(sl.k==="subj"){const G=GRP[sl.g],py=sl.ns.reduce((a,n)=>a+(PYQREF[n.id]||[]).length,0),sn=sl.ns.filter(n=>slSeen(n.id)).length,cv=sl.ns.filter(n=>nst(n.id)>=1).length;
+    return `<div class="slide"><section class="band sep"><div class="kicker">Subject</div><h2>${esc(G.n)}</h2><div class="gur">${sl.ns.length} topic${sl.ns.length===1?"":"s"} in this deck · ${sn} seen · ${cv} studied${py?` · PPSC asked ${py} question${py===1?"":"s"} from these in recent papers`:""}</div></section>
+      <div class="box"><h4>What you'll learn</h4><ol style="margin:0;padding-left:20px;display:grid;gap:6px">${sl.ns.slice(0,14).map(n=>`<li>${esc(n.t)}${n.pr==="H"?` <span class="pr H">H</span>`:""}${slSeen(n.id)?` <span class="muted" style="font-size:12px">✓ seen</span>`:""}</li>`).join("")}${sl.ns.length>14?`<li class="muted">…and ${sl.ns.length-14} more</li>`:""}</ol></div></div>`;}
   if(sl.k==="paper"){const cv=coverage(n=>n.paper===sl.p.id);
-    return `<div class="slide"><div class="crumb">${esc(sl.p.stage)} · ${esc(sl.p.marks)}</div><h2 class="st">${esc(sl.p.name)}</h2><p class="sx">${sl.count} topics · you have studied ${cv.c}</p>
-      <div class="box"><h4>Sections</h4><ul>${sl.p.sections.map(sc=>`<li>${esc(sc.name)} <span class="muted">(${sc.nodes.filter(n=>!n.removed).length})</span></li>`).join("")}</ul></div></div>`;}
-  if(sl.k==="sec")return `<div class="slide"><div class="crumb">${esc(sl.p.name)}</div><h2 class="st">${esc(sl.sc.name)}</h2>
-      <div class="box"><h4>${sl.ns.length} topics</h4><ul>${sl.ns.map(n=>`<li>${esc(n.t)}${n.pr==="H"?` <span class="pr H">H</span>`:""}</li>`).join("")}</ul></div></div>`;
-  const n=sl.n,s=nst(n.id),py=(PYQREF[n.id]||[]).length;
-  return `<div class="slide"><div class="crumb">${esc(sl.p.name.replace(/^(Mains )?Paper [0-9IV]+ — /,""))}${sl.p.sections.length>1?" › "+esc(sl.sc.name):""}</div>
+    return `<div class="slide"><section class="band sep"><div class="kicker">${esc(sl.p.stage)} · ${esc(sl.p.marks)}</div><h2>${esc(sl.p.name)}</h2><div class="gur">${sl.count} topics · you have studied ${cv.c}</div></section>
+      <div class="box"><h4>Sections</h4><ul>${sl.p.sections.map(sc=>`<li>${esc(sc.name)} <span class="muted">(${sc.nodes.filter(live_).length})</span></li>`).join("")}</ul></div></div>`;}
+  if(sl.k==="sec")return `<div class="slide"><section class="band sep"><div class="kicker">${esc(sl.p.name)}</div><h2>${esc(sl.sc.name)}</h2><div class="gur">${sl.ns.length} topics</div></section>
+      <div class="box"><h4>Topics</h4><ol style="margin:0;padding-left:20px;display:grid;gap:6px">${sl.ns.map(n=>`<li>${esc(n.t)}${n.pr==="H"?` <span class="pr H">H</span>`:""}</li>`).join("")}</ol></div></div>`;
+  const n=sl.n,s=nst(n.id),py=(PYQREF[n.id]||[]).length,p=paperOf(n.paper);
+  return `<div class="slide"><div class="crumb">${esc(GRP[n.g]?GRP[n.g].n:"")}${p?" · "+esc(p.name.replace(/^(Mains )?Paper [0-9IV]+ — /,"")):""}</div>
     <h2 class="st">${esc(n.t)}</h2>${n.x?`<p class="sx">${esc(n.x)}</p>`:""}
     <div class="chipsr">${n.pr==="H"?`<span><b>High-yield</b></span>`:""}${py?`<span>Asked ${py}× by PPSC</span>`:""}${(n.mcq||[]).length?`<span>${n.mcq.length} practice Qs</span>`:""}<span>${esc(STAT[s])}</span></div>
     ${(n.brief||[]).length?`<div class="box"><h4>Key points</h4><ul>${n.brief.slice(0,6).map(x=>`<li>${esc(x)}</li>`).join("")}</ul></div>`:""}
     ${(n.punjab||[]).length?`<div class="box"><h4>Punjab angle</h4><ul>${n.punjab.slice(0,3).map(x=>`<li>${esc(x)}</li>`).join("")}</ul></div>`:""}
     ${(n.deep||[]).length?`<div class="box"><h4>Deep dive covers</h4><div class="chipsr">${n.deep.slice(0,8).map(d=>`<span>${esc(d.h)}</span>`).join("")}</div></div>`:""}
     <a class="btn alt" href="#node/${esc(n.id)}" style="text-align:center;text-decoration:none">Open topic — full notes, deep dive, practice</a></div>`;}
-function presSave(){try{localStorage.setItem(KEY+"_pres",JSON.stringify({key:PRES.key,i:PRES.i}));}catch(e){}}
+function presPos(){try{return JSON.parse(localStorage.getItem(KEY+"_pres2")||"{}")||{};}catch(e){return {};}}
+function presSave(){try{const o=presPos();o[PRES.key]=PRES.i;localStorage.setItem(KEY+"_pres2",JSON.stringify(o));}catch(e){}}
 function renderPresent(){
-  const pid=arg&&paperOf(arg)?arg:"";const key=pid||"all";
-  if(PRES.key!==key||!PRES.slides.length){PRES.slides=presSlides(pid);PRES.key=key;PRES.i=0;try{const o=JSON.parse(localStorage.getItem(KEY+"_pres")||"null");if(o&&o.key===key&&o.i<PRES.slides.length)PRES.i=o.i;}catch(e){}}
-  document.body.classList.add("presenting");setTitle("Syllabus presentation");
-  const opts=[`<option value="">Whole syllabus</option>`].concat(PAPERS.map(p=>`<option value="${esc(p.id)}" ${p.id===pid?"selected":""}>${esc(p.name)}</option>`)).join("");
-  view.innerHTML=`<div class="pres"><div class="pres-top"><a class="iconbtn" href="#syllabus" aria-label="Exit presentation" title="Exit" style="text-decoration:none;color:inherit;min-width:40px;min-height:40px;display:inline-flex;align-items:center;justify-content:center">✕</a><a class="iconbtn" href="#today" aria-label="Home" title="Home" style="text-decoration:none;color:inherit;min-width:40px;min-height:40px;display:inline-flex;align-items:center;justify-content:center"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M3 11l9-7 9 7"/><path d="M5 10v10h5v-6h4v6h5V10"/></svg></a><select id="presP" aria-label="Choose paper">${opts}</select><span class="ctr num" id="presC"></span></div>
+  const key=arg||"hub";
+  if(key==="hub")return renderSlidesHub();
+  if(PRES.key!==key||!PRES.slides.length||(key==="today"&&PRES.day!==ds())){const d=deckFor(key);PRES.slides=d.slides;PRES.title=d.title;PRES.key=key;PRES.day=ds();const o=presPos();PRES.i=(o[key]!=null&&o[key]<d.slides.length)?o[key]:0;}
+  document.body.classList.add("presenting");setTitle(PRES.title);
+  const opts=deckList().map(([k,l])=>`<option value="${esc(k)}" ${k===key?"selected":""}>${esc(l)}</option>`).join("");
+  const ib='style="text-decoration:none;color:inherit;min-width:40px;min-height:40px;display:inline-flex;align-items:center;justify-content:center"';
+  view.innerHTML=`<div class="pres"><div class="pres-top"><a class="iconbtn" href="#present/hub" aria-label="All presentations" title="All presentations" ${ib}>✕</a><a class="iconbtn" href="#today" aria-label="Home" title="Home" ${ib}><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M3 11l9-7 9 7"/><path d="M5 10v10h5v-6h4v6h5V10"/></svg></a><select id="presP" aria-label="Choose presentation">${opts}</select><span class="ctr num" id="presC"></span></div>
     <div class="pres-bar"><i id="presB"></i></div><div class="pres-stage" id="presS" aria-live="polite"></div>
     <div class="pres-nav"><button class="btn alt" id="presPrev" aria-label="Previous slide">◀ Back</button><button class="btn alt" id="presRead" aria-pressed="${PRES.read}" title="Read each slide aloud">🔊</button><button class="btn alt" id="presAuto" aria-pressed="${PRES.auto}" title="Auto-advance every 20 seconds">${PRES.auto?"⏸":"⏵"}</button><button class="btn" id="presNext" aria-label="Next slide">Next ▶</button></div></div>`;
   const show=()=>{const n=PRES.slides.length,i=PRES.i,sl=PRES.slides.at(i);$("#presS").innerHTML=presHTML(sl);$("#presS").scrollTop=0;$("#presC").textContent=`${i+1} / ${n}`;$("#presB").style.width=((i+1)/n*100)+"%";
-    $("#presPrev").disabled=i===0;$("#presNext").textContent=i===n-1?"Finish ✓":"Next ▶";presSave();
+    $("#presPrev").disabled=i===0;$("#presNext").textContent=i===n-1?"Finish ✓":"Next ▶";presSave();if(sl.k==="node")markSeen(sl.n.id);
     if(PRES.read){try{speechSynthesis.cancel();}catch(e){}speaking=false;speak(presText(sl));}};
-  const step=d=>{const j=PRES.i+d;if(j<0)return;if(j>=PRES.slides.length){toast("End of the presentation");go("#syllabus");return;}PRES.i=j;show();};
+  const step=d=>{const j=PRES.i+d;if(j<0)return;if(j>=PRES.slides.length){const o=presPos();o[PRES.key]=0;try{localStorage.setItem(KEY+"_pres2",JSON.stringify(o));}catch(e){}if(PRES.key==="today"&&S.presDone!==ds()){S.presDone=ds();addXP(10,"Today's presentation");save();}toast("Presentation finished");PRES.slides=[];go("#present/hub");return;}PRES.i=j;show();};
   $("#presPrev").onclick=()=>step(-1);$("#presNext").onclick=()=>step(1);
-  $("#presP").onchange=e=>{PRES.slides=[];go(e.target.value?"#present/"+e.target.value:"#present");};
+  $("#presP").onchange=e=>{PRES.slides=[];go("#present/"+e.target.value);};
   $("#presRead").onclick=e=>{PRES.read=!PRES.read;e.currentTarget.setAttribute("aria-pressed",PRES.read);if(!PRES.read){try{speechSynthesis.cancel();}catch(x){}speaking=false;}else speak(presText(PRES.slides.at(PRES.i)));};
-  $("#presAuto").onclick=e=>{PRES.auto=!PRES.auto;e.currentTarget.setAttribute("aria-pressed",PRES.auto);e.currentTarget.textContent=PRES.auto?"⏸":"⏵";if(presTimer){clearInterval(presTimer);presTimer=null;}if(PRES.auto)presTimer=setInterval(()=>{if(current!=="present"){clearInterval(presTimer);presTimer=null;return;}step(1);},20000);};
-  if(PRES.auto&&!presTimer)presTimer=setInterval(()=>{if(current!=="present"){clearInterval(presTimer);presTimer=null;return;}step(1);},20000);
+  const tick=()=>{if(current!=="present"){clearInterval(presTimer);presTimer=null;return;}step(1);};
+  $("#presAuto").onclick=e=>{PRES.auto=!PRES.auto;e.currentTarget.setAttribute("aria-pressed",PRES.auto);e.currentTarget.textContent=PRES.auto?"⏸":"⏵";if(presTimer){clearInterval(presTimer);presTimer=null;}if(PRES.auto)presTimer=setInterval(tick,20000);};
+  if(PRES.auto&&!presTimer)presTimer=setInterval(tick,20000);
   let x0=null,y0=null;const st=$("#presS");st.addEventListener("touchstart",e=>{x0=e.touches[0].clientX;y0=e.touches[0].clientY;},{passive:true});
   st.addEventListener("touchend",e=>{if(x0==null)return;const dx=e.changedTouches[0].clientX-x0,dy=e.changedTouches[0].clientY-y0;if(Math.abs(dx)>60&&Math.abs(dx)>Math.abs(dy)*1.5)step(dx<0?1:-1);x0=null;},{passive:true});
   show();
 }
-document.addEventListener("keydown",e=>{if(current!=="present"||/INPUT|SELECT|TEXTAREA/.test((e.target||{}).tagName||""))return;
-  if(e.key==="ArrowRight"||e.key===" "||e.key==="PageDown"){e.preventDefault();$("#presNext").click();}else if(e.key==="ArrowLeft"||e.key==="PageUp"){e.preventDefault();$("#presPrev").click();}else if(e.key==="Escape")go("#syllabus");});
+function unseenBySubject(){return subjOrder().map(g=>{const all=NODES.filter(n=>live_(n)&&n.g===g);return {g,all:all.length,un:all.filter(n=>!slSeen(n.id)).length};});}
+function todayCardHTML(){const t=todayTopics(),subs=[...new Set(t.map(n=>n.g))].map(g=>GRP[g].short),done=S.presDone===ds(),un=NODES.filter(n=>live_(n)&&!slSeen(n.id)).length;
+  return `<section class="card"><div class="eyebrow">Today's presentation</div><p style="margin:6px 0">${t.length} topic${t.length===1?"":"s"} · ${esc(subs.join(", "))}${done?" · ✓ watched today":""}</p>
+   <div class="grid2"><a class="btn" href="#present/today" style="text-align:center;text-decoration:none">${done?"Watch again":"▶ Start"}</a><a class="btn alt" href="#present/hub" style="text-align:center;text-decoration:none">Not yet seen · ${un}</a></div></section>`;}
+function renderSlidesHub(){setTitle("Presentations");document.body.classList.remove("presenting");
+  const us=unseenBySubject(),totUn=us.reduce((a,x)=>a+x.un,0),tot=us.reduce((a,x)=>a+x.all,0);
+  const row=(href,title,sub,tag)=>`<a class="subrow" href="${href}" style="text-decoration:none;color:inherit"><span><b>${esc(title)}</b><br><small class="muted">${esc(sub)}</small></span><span class="tag">${esc(tag)}</span></a>`;
+  view.innerHTML=`<div class="pad"><div class="row"><a class="linkbtn" href="#syllabus">← Syllabus</a></div>
+   <section class="band"><div class="kicker">Learn by slides</div><h2>${tot-totUn} of ${tot} topics seen</h2><div class="gur">Every deck goes subject by subject, each subject opening with a separator slide.</div></section>
+   ${todayCardHTML()}
+   <section class="card"><div class="eyebrow">Not yet seen · ${totUn} topics</div>${totUn?row("#present/unseen","All unseen topics",`${totUn} topics across ${us.filter(x=>x.un).length} subjects`,"Present"):`<p class="muted" style="margin:6px 0">You've seen every topic. Use the subject decks to revise.</p>`}
+     ${us.filter(x=>x.un).map(x=>row("#present/unseen:"+x.g,GRP[x.g].n,`${x.un} unseen of ${x.all}`,`${x.un}`)).join("")}</section>
+   <section class="card"><div class="eyebrow">Every subject</div>${row("#present/all","Whole syllabus",`${tot} topics, ${us.length} subjects, in teaching order`,"Present")}
+     ${us.map(x=>row("#present/subj:"+x.g,GRP[x.g].n,`${x.all} topics · ${x.all-x.un} seen`,"Present")).join("")}</section>
+   <section class="card"><div class="eyebrow">By paper</div>${PAPERS.map(p=>row("#present/"+p.id,p.name,p.stage+" · "+p.marks,"Present")).join("")}</section></div>`;}
+document.addEventListener("keydown",e=>{if(current!=="present"||!$("#presNext")||/INPUT|SELECT|TEXTAREA/.test((e.target||{}).tagName||""))return;
+  if(e.key==="ArrowRight"||e.key===" "||e.key==="PageDown"){e.preventDefault();$("#presNext").click();}else if(e.key==="ArrowLeft"||e.key==="PageUp"){e.preventDefault();$("#presPrev").click();}else if(e.key==="Escape")go("#present/hub");});
 
 /* ----- v4: booklist & free library ----- */
 let libArea="All";
