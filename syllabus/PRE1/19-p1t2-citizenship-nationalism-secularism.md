@@ -1,6 +1,6 @@
 # Citizenship, nationalism, secularism
 
-**Paper I — General Studies** › Political Theory & International Order · Subject: Political Theory & Intl Order · Priority: Medium
+**Paper I — General Studies** › Political Theory & International Order · Subject: Political Theory & Intl Order · Priority: Medium · **Asked by PPSC: 🔁 2× (’18 ’25)**
 
 > Official syllabus line: Citizenship, nationalism, secularism etc.
 
@@ -137,6 +137,15 @@ Expect direct questions on Citizenship Act modes, citizen-only rights, CAA cut-o
 - M. Laxmikanth, Indian Polity - Citizenship chapter and Right to Freedom of Religion
 - NCERT Class 12 'Politics in India since Independence' Ch 1 (Challenges of Nation Building)
 
+## Asked in PPSC papers — 2 times (in 2 of 3 recent exams)
+
+| Paper | Years asked |
+|---|---|
+| Prelims GS | 2018, 2025 |
+
+- [Prelims 2025 · GS Q90](../../past-papers/pre_2025_GS.md#q90) — Consider the following statements with reference to the constitutional/statutory provisions on the citizenship of India :
+- [Prelims 2018 · GS Q24](../../past-papers/pre_2018_GS.md#q24) — Who coined the phrase, 'banal nationalism' ?
+
 ## Practice MCQs (12)
 
 **1.** Citizenship is dealt with in which Part of the Indian Constitution?
@@ -151,6 +160,8 @@ Expect direct questions on Citizenship Act modes, citizen-only rights, CAA cut-o
 **(c) Part II** — Citizenship (Arts 5-11) sits in Part II. Part III is tempting but holds the Fundamental Rights (Arts 12-35), not who is a citizen.
 
 </details>
+
+*Like a real PPSC question: [Prelims 2025 · GS Q90](../../past-papers/pre_2025_GS.md#q90)*
 
 **2.** Which Article empowers Parliament to make laws on acquisition and termination of citizenship?
 
@@ -232,6 +243,8 @@ Which of the statements given above is/are correct?
 **(d) Neither 1 nor 2** — Statement 1 is wrong: on 17 October 2024 a five-judge bench upheld Section 6A by a 4:1 majority. Statement 2 is wrong: Section 6A was inserted in 1985 to give effect to the Assam Accord (deemed citizenship for those who came before 1 January 1966); the 2019 amendment (CAA) is a separate law.
 
 </details>
+
+*Like a real PPSC question: [Prelims 2025 · GS Q90](../../past-papers/pre_2025_GS.md#q90)*
 
 **8.** Consider the following statements: 1. India is a party to the 1951 Refugee Convention. 2. The Immigration and Foreigners Act 2025 replaced the Foreigners Act 1946. Which of the statements given above is/are correct?
 

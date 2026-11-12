@@ -4,6 +4,8 @@ Held 2026-04-10. 20 questions. Question paper no. 53595 (PSCSCC Mains Examinatio
 
 Sources: [1](https://o2iasacademy.in/resources/punjab-pcs-previous-year-question-papers-pdfs-9506/) · [2](https://drive.google.com/file/d/1DvhCnH90kDPymCIVL7RzRD09idxG5X4a/view) · [3](https://www.adda247.com/exams/punjab/punjab-pcs-exam-date-2025/) · [4](https://www.downtoearth.org.in/water/punjabs-groundwater-crisis-52-more-groundwater-extraction-than-annual-availability-canals-being-sought-as-a-solution) · [5](https://www.tribuneindia.com/news/punjab/entire-state-declared-flood-hit) · [6](https://www.downtoearth.org.in/amp/story/health/waaw-2025-indias-much-awaited-second-version-of-the-national-action-plan-on-amr-released)
 
+<a id="q1"></a>
+
 **Q1.** Mention two traditional water conservation methods practised in Punjab. *(10 marks, 100 words)*
 
 <details><summary>Model answer points</summary>
@@ -26,6 +28,10 @@ Sources: [1](https://o2iasacademy.in/resources/punjab-pcs-previous-year-question
 Topic: [notes](../syllabus/GS4/09-g4v2-water-management.md)
 
 </details>
+
+*Topic asked 3× (2026)*
+
+<a id="q2"></a>
 
 **Q2.** What measures can be taken in terms of sustainable development to reduce vulnerability to natural hazards? *(10 marks, 100 words)*
 
@@ -53,6 +59,10 @@ Topic: [notes](../syllabus/GS4/11-g4v4-natural-hazards-risk-reduction.md)
 
 </details>
 
+*Topic asked 3× (2018, 2026)*
+
+<a id="q3"></a>
+
 **Q3.** Explain petroplants with examples. What is their role in sustainable development? *(10 marks, 100 words)*
 
 <details><summary>Model answer points</summary>
@@ -78,6 +88,10 @@ Topic: [notes](../syllabus/GS4/11-g4v4-natural-hazards-risk-reduction.md)
 Topic: [notes](../syllabus/GS4/05-g4t5-agricultural-science-biotech-veterinary.md)
 
 </details>
+
+*Topic asked 4× (2018, 2021, 2026) 🔥*
+
+<a id="q4"></a>
 
 **Q4.** What are the possible impacts of Climate Change on agriculture and water resources in the State of Punjab? *(10 marks, 100 words)*
 
@@ -106,6 +120,10 @@ Topic: [notes](../syllabus/GS4/08-g4v1-conservation-pollution-climate-change-eia
 
 </details>
 
+*↻ **Same theme also asked:** [Mains 2021 · GS4 Q13](mains_2021_GS4.md#q13) · Topic asked 8× (2018, 2021, 2026) 🔥*
+
+<a id="q5"></a>
+
 **Q5.** What is the objective of National Quantum Mission? Mention two practical uses of quantum technology for India. *(10 marks, 100 words)*
 
 <details><summary>Model answer points</summary>
@@ -131,6 +149,10 @@ Topic: [notes](../syllabus/GS4/03-g4t3-it-space-robotics-nanotech.md)
 
 </details>
 
+*Topic asked 10× (2018, 2021, 2026) 🔥*
+
+<a id="q6"></a>
+
 **Q6.** UPI is seen as India's IT achievement that affects daily life. Explain what UPI is and write two benefits and one major cyber risk. *(10 marks, 100 words)*
 
 <details><summary>Model answer points</summary>
@@ -154,6 +176,10 @@ Topic: [notes](../syllabus/GS4/03-g4t3-it-space-robotics-nanotech.md)
 Topic: [notes](../syllabus/GS4/01-g4t1-s-t-in-everyday-life.md)
 
 </details>
+
+*Topic asked 2× (2021, 2026)*
+
+<a id="q7"></a>
 
 **Q7.** What is Anusandhan National Research Foundation (ANRF)? What is its role in promoting research and its linkage with industry? *(10 marks, 100 words)*
 
@@ -179,6 +205,10 @@ Topic: [notes](../syllabus/GS4/01-g4t1-s-t-in-everyday-life.md)
 Topic: [notes](../syllabus/GS4/02-g4t2-indian-achievements-indigenisation.md)
 
 </details>
+
+*Topic asked 2× (2021, 2026)*
+
+<a id="q8"></a>
 
 **Q8.** Discuss India's recent advancements in supercomputing and Artificial Intelligence. How can these technologies support disaster prediction and early warning systems? *(10 marks, 100 words)*
 
@@ -206,6 +236,10 @@ Topic: [notes](../syllabus/GS4/03-g4t3-it-space-robotics-nanotech.md)
 
 </details>
 
+*Topic asked 10× (2018, 2021, 2026) 🔥*
+
+<a id="q9"></a>
+
 **Q9.** Assess the multifaceted challenges in managing urban solid waste in your state, including inadequate infrastructure, low recycling rates, and public apathy towards segregation. *(10 marks, 100 words)*
 
 <details><summary>Model answer points</summary>
@@ -232,6 +266,10 @@ Topic: [notes](../syllabus/GS4/14-g4d3-municipal-services-water-sanitation-slums
 
 </details>
 
+*↻ **Same theme also asked:** [Mains 2018 · GS2 Q14(a)](mains_2018_GS2.md#q14-a) · Topic asked 6× (2018, 2021, 2026) 🔥*
+
+<a id="q10"></a>
+
 **Q10.** Advocate for revitalizing police operations through adoption of predictive analytics, body cameras for accountability, and neighbourhood watch integrations to bolster efficiency in maintaining public order amid evolving crime landscapes. *(10 marks, 100 words)*
 
 <details><summary>Model answer points</summary>
@@ -256,6 +294,9 @@ Topic: [notes](../syllabus/GS4/14-g4d3-municipal-services-water-sanitation-slums
 Topic: [notes](../syllabus/GS4/12-g4d1-disasters-accidents-law-order-protests.md)
 
 </details>
+
+
+<a id="q11"></a>
 
 **Q11.** Discuss the causes and impact of floods in districts situated along the Sutlej and Beas rivers. What structural and non-structural measures can be adopted to mitigate this hazard? *(15 marks, 200 words)*
 
@@ -285,6 +326,10 @@ Topic: [notes](../syllabus/GS4/12-g4d1-disasters-accidents-law-order-protests.md
 Topic: [notes](../syllabus/GS4/11-g4v4-natural-hazards-risk-reduction.md)
 
 </details>
+
+*Topic asked 3× (2018, 2026)*
+
+<a id="q12"></a>
 
 **Q12.** What are the causes of depletion of ground water in Punjab? Suggest the mitigation strategy to overcome it. *(15 marks, 200 words)*
 
@@ -318,6 +363,10 @@ Topic: [notes](../syllabus/GS4/09-g4v2-water-management.md)
 
 </details>
 
+*Topic asked 3× (2026)*
+
+<a id="q13"></a>
+
 **Q13.** What is the Seechewal Model which transformed a sewage-filled drain back into a rejuvenated flowing river? *(15 marks, 200 words)*
 
 <details><summary>Model answer points</summary>
@@ -346,6 +395,10 @@ Topic: [notes](../syllabus/GS4/09-g4v2-water-management.md)
 Topic: [notes](../syllabus/GS4/09-g4v2-water-management.md)
 
 </details>
+
+*Topic asked 3× (2026)*
+
+<a id="q14"></a>
 
 **Q14.** Antimicrobial Resistance is rising due to the misuse of antibiotics in humans and animals. Discuss. Propose a One Health plan for a district of Punjab with clear actions for hospitals, pharmacies, veterinary use, and water and sanitation. *(15 marks, 200 words)*
 
@@ -378,6 +431,10 @@ Topic: [notes](../syllabus/GS4/07-g4t7-diseases-infections-immunity-vaccines.md)
 
 </details>
 
+*Topic asked 5× (2018, 2021, 2026) 🔥*
+
+<a id="q15"></a>
+
 **Q15.** Compare somatic gene therapy, gene editing, and germline editing. Explain the expected benefits and discuss the ethical issues involved with such practices. *(15 marks, 200 words)*
 
 <details><summary>Model answer points</summary>
@@ -408,6 +465,10 @@ Topic: [notes](../syllabus/GS4/06-g4t6-genetic-engineering-stem-cells.md)
 
 </details>
 
+*↻ **Same theme also asked:** [Mains 2021 · GS4 Q10(b)](mains_2021_GS4.md#q10-b) · Topic asked 6× (2018, 2021, 2026) 🔥*
+
+<a id="q16"></a>
+
 **Q16.** What is CRISPR-Cas9 technology? How can it contribute towards crop improvement? *(15 marks, 200 words)*
 
 <details><summary>Model answer points</summary>
@@ -437,6 +498,10 @@ Topic: [notes](../syllabus/GS4/06-g4t6-genetic-engineering-stem-cells.md)
 
 </details>
 
+*↻ **Same theme also asked:** [Mains 2021 · GS4 Q10(b)](mains_2021_GS4.md#q10-b) · Topic asked 6× (2018, 2021, 2026) 🔥*
+
+<a id="q17"></a>
+
 **Q17.** As Secretary of Punjab's Finance Department, you are navigating a severe fiscal crunch triggered by declining GST collections from agricultural slowdowns and industrial disruptions, resulting in delayed disbursements for key welfare schemes like old-age pensions and farmer subsidies. The state cabinet is pushing for populist announcements ahead of assembly elections, which could balloon the already high debt-to-GDP ratio and invite central government scrutiny under FRBM norms. Departmental audits reveal inefficiencies in revenue collection while public employees protest salary arrears. Opposition parties accuse the government of fiscal mismanagement and economic advisors warn of long-term impacts on infrastructure investments. What options are available for revenue enhancement? Propose reforms for sustainable implementation of government schemes in Punjab. *(15 marks, 200 words)*
 
 <details><summary>Model answer points</summary>
@@ -464,6 +529,10 @@ Topic: [notes](../syllabus/GS4/06-g4t6-genetic-engineering-stem-cells.md)
 Topic: [notes](../syllabus/GS4/15-g4d4-psu-revival-targets-gender-vulnerable-skills.md)
 
 </details>
+
+*Topic asked 4× (2018, 2026)*
+
+<a id="q18"></a>
 
 **Q18.** Aligning with the Directive Principles of State Policy in the Indian Constitution, which mandate provision of adequate means of livelihood and shelter for all citizens, the state administration has proposed converting a vast tract of protected wetlands into residential complexes for urban poor and migrant labourers displaced by rapid industrialization. These wetlands, however, serve as crucial ecological buffers: they absorb floodwaters during monsoons, recharge groundwater aquifers, host migratory birds and endemic species, and support fishing communities' livelihoods through sustainable harvesting. Despite warnings from ecologists about the proposal's harmful effects, proponents justify the move as essential for human rights. Additionally, the areas have seen rising human-animal conflicts, prompting claims that development would enhance safety and order. Discuss whether ecological sacrifice is justifiable for welfare goals. Propose alternatives to preserve both ecology and human needs. *(15 marks, 200 words)*
 
@@ -493,6 +562,10 @@ Topic: [notes](../syllabus/GS4/13-g4d2-land-acquisition-projects-schemes-ppp.md)
 
 </details>
 
+*Topic asked 3× (2021, 2026)*
+
+<a id="q19"></a>
+
 **Q19.** In Punjab, teacher recruitment processes for government schools have been mired in prolonged legal battles, resulting in vacant posts and overburdened staff affecting educational quality especially in border regions. As the state's Education Secretary, devise robust, transparent mechanisms to address this issue. *(15 marks, 200 words)*
 
 <details><summary>Model answer points</summary>
@@ -520,6 +593,10 @@ Topic: [notes](../syllabus/GS4/13-g4d2-land-acquisition-projects-schemes-ppp.md)
 Topic: [notes](../syllabus/GS4/15-g4d4-psu-revival-targets-gender-vulnerable-skills.md)
 
 </details>
+
+*Topic asked 4× (2018, 2026)*
+
+<a id="q20"></a>
 
 **Q20.** A district in Punjab has been facing severe water shortage. The District Collector has been mobilizing his subordinate officials to conserve the remaining water reserves for preventing the district from plunging into acute drinking water crisis. Along with an awareness campaign for conserving water, strict measures have been taken for stopping the over-exploitation of ground-water. Vigilance teams have been deployed to report any overexploitation of water by farmers. The farmers are agitated by such action. A delegation of farmers meets the District Collector with their issues and complaints that they are not being allowed to irrigate their crops, the big industries located near the river are drawing huge amounts of water through deep borewells, alleging that their administration is anti-farmer and corrupt, being bribed by the industry. The district administration needs to placate the farmers as they are threatening to go on a prolonged protest. At the same time, the District Collector has to deal with the water crisis. Discuss all the options available to the District Collector. What suitable actions can be taken by the District Collector in view of mutually compatible interests of the stakeholders? *(15 marks, 200 words)*
 
@@ -549,3 +626,5 @@ Topic: [notes](../syllabus/GS4/15-g4d4-psu-revival-targets-gender-vulnerable-ski
 Topic: [notes](../syllabus/GS4/14-g4d3-municipal-services-water-sanitation-slums.md)
 
 </details>
+
+*Topic asked 6× (2018, 2021, 2026) 🔥*

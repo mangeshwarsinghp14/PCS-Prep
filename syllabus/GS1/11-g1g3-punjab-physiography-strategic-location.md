@@ -1,6 +1,6 @@
 # Punjab physiography & strategic location
 
-**Paper 4 — GS I: History, Geography, Society** › Geography · Subject: GS I — History, Geography, Society · Priority: High
+**Paper 4 — GS I: History, Geography, Society** › Geography · Subject: GS I — History, Geography, Society · Priority: High · **Asked by PPSC: 🔁 3× (’21 ’26)**
 
 > Official syllabus line: Physiographic details of Punjab; geomorphic features of Punjab; Punjab's strategic location with reference to the International Border.
 
@@ -138,6 +138,16 @@ PPSC asks for physiographic divisions with characteristics, the role of rivers/d
 - Punjab Economic Survey 2025-26 (state profile)
 - India State of Forest Report (FSI) and Ramsar site information sheets
 - Ministry of Home Affairs annual report (Border Management chapter)
+
+## Asked in PPSC papers — 3 times (in 2 of 3 recent exams)
+
+| Paper | Years asked |
+|---|---|
+| Mains GS1 | 2021 (×2), 2026 |
+
+- [Mains 2026 · GS1 Q14](../../past-papers/mains_2026_GS1.md#q14) — Explain the major physiographic regions of Punjab. Discuss their role in shaping soil distribution, irrigation patterns, and cropping systems.
+- [Mains 2021 · GS1 Q9(a)](../../past-papers/mains_2021_GS1.md#q9-a) — Define the term 'Chos'. Discuss their associated problems with special reference to Punjab.
+- [Mains 2021 · GS1 Q9(b)](../../past-papers/mains_2021_GS1.md#q9-b) — Explain the salient features of physiography of Upper Bari Doab region.
 
 ## Mains practice questions (3)
 

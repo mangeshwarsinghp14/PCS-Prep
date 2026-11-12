@@ -1,6 +1,6 @@
 # Matter, atom, carbon
 
-**Paper I — General Studies** › Everyday Science · Subject: Everyday Science · Priority: Medium
+**Paper I — General Studies** › Everyday Science · Subject: Everyday Science · Priority: Medium · **Asked by PPSC: 🔁 3× (’18 ’25)**
 
 > Official syllabus line: States of matter, structure of atom, versatile nature of carbon.
 
@@ -133,6 +133,16 @@ Questions test examples (sublimation, isotopes and their uses, allotropes), disc
 - NCERT Class 10 Science Ch 4 (Carbon and its Compounds)
 - NCERT Class 11 Chemistry Unit 2 (Structure of Atom) for discoverers and models
 - Lucent's General Science (Chemistry section) for one-line facts
+
+## Asked in PPSC papers — 3 times (in 2 of 3 recent exams)
+
+| Paper | Years asked |
+|---|---|
+| Prelims GS | 2018 (×2), 2025 |
+
+- [Prelims 2025 · GS Q24](../../past-papers/pre_2025_GS.md#q24) — Consider the following types of solids :
+- [Prelims 2018 · GS Q66](../../past-papers/pre_2018_GS.md#q66) — The half-life period of a radioactive substance is 70 days. One gram of the same substance will become 0.25 gm after
+- [Prelims 2018 · GS Q96](../../past-papers/pre_2018_GS.md#q96) — When water is heated from 0 degree celsius to 10 degrees celsius, how does its volume change ?
 
 ## Practice MCQs (12)
 

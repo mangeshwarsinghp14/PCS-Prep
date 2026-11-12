@@ -1,6 +1,6 @@
 # Planning, growth, employment, budgeting
 
-**Paper 6 — GS III: Economy, Statistics, Security** › Indian Economy · Subject: GS III — Economy, Statistics, Security · Priority: High
+**Paper 6 — GS III: Economy, Statistics, Security** › Indian Economy · Subject: GS III — Economy, Statistics, Security · Priority: High · **Asked by PPSC: 🔥 7× (’18 ’21 ’26)**
 
 > Official syllabus line: Issues relating to planning, mobilization of resources, growth, development and employment; sustainable development; inclusive growth; government budgeting.
 
@@ -152,6 +152,21 @@ Questions link growth with jobs, inclusiveness and fiscal sustainability; examin
 - Economic Survey of India (latest) - Public Finance and Employment chapters
 - Punjab Economic Survey 2025-26 and Punjab Budget 2026-27 speech
 - NCERT Class 12 Indian Economic Development Ch 2 and Ch 7
+
+## Asked in PPSC papers — 7 times 🔥 (in every recent exam)
+
+| Paper | Years asked |
+|---|---|
+| Mains GS3 | 2018 (×2), 2021 (×3), 2026 |
+| Mains GS4 | 2018 |
+
+- [Mains 2026 · GS3 Q1](../../past-papers/mains_2026_GS3.md#q1) — Has the implementation of the FRBM Act constrained the role of fiscal policy in the growth and development of India? Discuss.
+- [Mains 2021 · GS3 Q5](../../past-papers/mains_2021_GS3.md#q5) — Critically analyse the suspension of the Insolvency and Bankruptcy Code by the Government of India in wake of the Covid-19 pandemic.
+- [Mains 2021 · GS3 Q6](../../past-papers/mains_2021_GS3.md#q6) — Comment on the stance of the Indian Government on the regulation of Cryptocurrencies in India. What are the advantages and disadvantages of Cryptocurrencies in 
+- [Mains 2021 · GS3 Q10](../../past-papers/mains_2021_GS3.md#q10) — Is the consolidation of Public Sector Banks a viable and sustainable solution to the problem of rising Non-Performing Assets which are likely to get aggravated 
+- [Mains 2018 · GS4 Q10](../../past-papers/mains_2018_GS4.md#q10) — Indicate the challenges of the economic policy of India after 2014 and the initiatives taken by the Government.
+- [Mains 2018 · GS3 Q2](../../past-papers/mains_2018_GS3.md#q2) — Explain the main aspects of the role of the Reserve Bank of India under the present financial regime compared to the regime prior to demonetization.
+- [Mains 2018 · GS3 Q8](../../past-papers/mains_2018_GS3.md#q8) — Do you think GST has facilitated the Indian business environment? Discuss.
 
 ## Mains practice questions (3)
 

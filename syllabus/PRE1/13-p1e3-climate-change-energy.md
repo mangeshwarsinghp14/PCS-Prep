@@ -1,6 +1,6 @@
 # Climate change & energy
 
-**Paper I — General Studies** › Environmental Studies · Subject: Environment · Priority: High
+**Paper I — General Studies** › Environmental Studies · Subject: Environment · Priority: High · **Asked by PPSC: 🔥 9× (’18 ’21 ’25)**
 
 > Official syllabus line: Climate change – fossil fuels, greenhouse gases, renewable energy, clean development mechanism, carbon credits.
 
@@ -145,6 +145,22 @@ Questions test treaty chronology (UNFCCC, Kyoto, Paris), CDM/carbon credit conce
 - PIB releases on India's updated NDC (2022) and MNRE year-end reviews
 - IPCC AR6 Synthesis Report - Summary for Policymakers
 
+## Asked in PPSC papers — 9 times 🔥 (in every recent exam)
+
+| Paper | Years asked |
+|---|---|
+| Prelims GS | 2018 (×2), 2021 (×4), 2025 (×3) |
+
+- [Prelims 2025 · GS Q57](../../past-papers/pre_2025_GS.md#q57) — Consider the following greenhouses gases :
+- [Prelims 2025 · GS Q61](../../past-papers/pre_2025_GS.md#q61) — Consider the following statements about carbon credits :
+- [Prelims 2025 · GS Q64](../../past-papers/pre_2025_GS.md#q64) — Which of the following statements is incorrect ?
+- [Prelims 2021 · GS Q6](../../past-papers/pre_2021_GS.md#q6) — The Prime Minister of India mentioned the mega plan of "One Sun, One World, One Grid" project in the Independence Day address. Which of the following statements
+- [Prelims 2021 · GS Q9](../../past-papers/pre_2021_GS.md#q9) — Recently 'Decarbonising Transport in India' project was launched by NITI Aayog in collaboration with International Transport Forum (ITF). Identify the incorrect
+- [Prelims 2021 · GS Q10](../../past-papers/pre_2021_GS.md#q10) — The United Nations Environment Programme and International Energy Agency jointly released a 'Cooling Emissions and Policy Synthesis Report' (CEPSR). Which of th
+- [Prelims 2021 · GS Q14](../../past-papers/pre_2021_GS.md#q14) — Ministry of Earth Sciences (MoES) released a report titled 'Assessment of Climate Change over the Indian Region'. Which of the following statements are true ?
+- [Prelims 2018 · GS Q8](../../past-papers/pre_2018_GS.md#q8) — Consider the following statements in the context of the Clean Energy Ministerial (CEM) :
+- [Prelims 2018 · GS Q54](../../past-papers/pre_2018_GS.md#q54) — In the context of 'Solar Briefcase', consider the following statements :
+
 ## Practice MCQs (12)
 
 **1.** The Clean Development Mechanism was created under the:
@@ -172,6 +188,8 @@ Questions test treaty chronology (UNFCCC, Kyoto, Paris), CDM/carbon credit conce
 **(b) One tonne of CO2-equivalent** — Credits are standardised in tonnes of CO2e.
 
 </details>
+
+*Like a real PPSC question: [Prelims 2025 · GS Q61](../../past-papers/pre_2025_GS.md#q61)*
 
 **3.** Consider India's updated NDC (2022): 1. Reduce emissions intensity of GDP by 45% from 2005 levels by 2030. 2. Achieve net zero emissions by 2050. Which is/are correct?
 

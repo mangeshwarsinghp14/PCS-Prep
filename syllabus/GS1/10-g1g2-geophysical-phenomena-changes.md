@@ -1,6 +1,6 @@
 # Geophysical phenomena & changes
 
-**Paper 4 — GS I: History, Geography, Society** › Geography · Subject: GS I — History, Geography, Society · Priority: Medium
+**Paper 4 — GS I: History, Geography, Society** › Geography · Subject: GS I — History, Geography, Society · Priority: Medium · **Asked by PPSC: 🔥 8× (’18 ’21 ’26)**
 
 > Official syllabus line: Earthquakes, tsunami, volcanic activity, cyclone etc., geographical features and their location; changes in critical geographical features (including water-bodies and ice-caps) and in flora and fauna and the effects of such changes.
 
@@ -131,9 +131,28 @@ UPSC-style questions ask for the mechanism of a phenomenon plus its distribution
 - IPCC AR6 Synthesis Report - Summary for Policymakers
 - NDMA guidelines and the Disaster Management Act 2005
 
+## Asked in PPSC papers — 8 times 🔥 (in every recent exam)
+
+| Paper | Years asked |
+|---|---|
+| Mains GS1 | 2018 (×2), 2021 (×3), 2026 (×3) |
+
+- [Mains 2026 · GS1 Q5](../../past-papers/mains_2026_GS1.md#q5) — Write a short note on cloud burst as hydro-meteorological disaster in India.
+- [Mains 2026 · GS1 Q15](../../past-papers/mains_2026_GS1.md#q15) — Discuss the revised Seismic Zonation Map of India released by the Bureau of Standards in Nov 2025 and its implications.
+- [Mains 2026 · GS1 Q16](../../past-papers/mains_2026_GS1.md#q16) — What is the importance of glaciers and ice caps? Explain glacial retreat changes in glaciers and their impact on environment.
+- [Mains 2021 · GS1 Q6](../../past-papers/mains_2021_GS1.md#q6) — "High mountain areas are prone to land slides." Suggest a suitable strategy to mitigate such natural disaster phenomenon.
+- [Mains 2021 · GS1 Q7](../../past-papers/mains_2021_GS1.md#q7) — Present a comparative account of Temperate & Tropical Cyclones on global scale.  
+  ↻ *Same theme also asked:* [Mains 2018 · GS1 Q10(b)](../../past-papers/mains_2018_GS1.md#q10-b)
+- [Mains 2021 · GS1 Q10(b)](../../past-papers/mains_2021_GS1.md#q10-b) — Write brief note on: Coral bleaching.
+- [Mains 2018 · GS1 Q10(a)](../../past-papers/mains_2018_GS1.md#q10-a) — Write brief notes on: Fohn, Depression, Tsunami, Richter Scale.
+- [Mains 2018 · GS1 Q10(b)](../../past-papers/mains_2018_GS1.md#q10-b) — Write brief notes on: Spatial distribution of tropical cyclones.  
+  ↻ *Same theme also asked:* [Mains 2021 · GS1 Q7](../../past-papers/mains_2021_GS1.md#q7)
+
 ## Mains practice questions (3)
 
 **1.** Explain the conditions necessary for the formation of tropical cyclones. Why does the Bay of Bengal experience more cyclones than the Arabian Sea, and what is changing? (250 words)
+
+*Like a real PPSC question: [Mains 2018 · GS1 Q10(b)](../../past-papers/mains_2018_GS1.md#q10-b)*
 
 <details><summary>Answer outline</summary>
 
@@ -147,6 +166,8 @@ UPSC-style questions ask for the mechanism of a phenomenon plus its distribution
 </details>
 
 **2.** Discuss the causes and consequences of the melting of glaciers and ice caps, with special reference to India. (250 words)
+
+*Like a real PPSC question: [Mains 2026 · GS1 Q16](../../past-papers/mains_2026_GS1.md#q16)*
 
 <details><summary>Answer outline</summary>
 

@@ -1,6 +1,6 @@
 # Current events — national & international
 
-**Paper I — General Studies** › Current Events · Subject: Current Affairs · Priority: High
+**Paper I — General Studies** › Current Events · Subject: Current Affairs · Priority: High · **Asked by PPSC: 🔥 28× (’18 ’21 ’25)**
 
 > Official syllabus line: Current events of national and international importance.
 
@@ -139,6 +139,41 @@ PPSC asks current affairs as direct facts (who/where/which rank) and as statemen
 - PIB (pib.gov.in) and PRS Legislative Research for Acts and budgets
 - Punjab Government press releases (punjab.gov.in) and the Punjab Economic Survey
 - This app's Updates tab — weekly verified items linked to syllabus topics
+
+## Asked in PPSC papers — 28 times 🔥 (in every recent exam)
+
+| Paper | Years asked |
+|---|---|
+| Prelims GS | 2018 (×8), 2021 (×7), 2025 (×13) |
+
+- [Prelims 2025 · GS Q27](../../past-papers/pre_2025_GS.md#q27) — In the Indian context, consider the following statements regarding marriage :
+- [Prelims 2025 · GS Q28](../../past-papers/pre_2025_GS.md#q28) — Consider the following statements regarding the Chandrayaan-4 Mission :
+- [Prelims 2025 · GS Q29](../../past-papers/pre_2025_GS.md#q29) — Which of the following statements best describes the 'Dragon Drones' recently seen in news ?
+- [Prelims 2025 · GS Q30](../../past-papers/pre_2025_GS.md#q30) — Consider the following statements :
+- [Prelims 2025 · GS Q31](../../past-papers/pre_2025_GS.md#q31) — Consider the following statements :
+- [Prelims 2025 · GS Q32](../../past-papers/pre_2025_GS.md#q32) — Consider the following languages :
+- [Prelims 2025 · GS Q33](../../past-papers/pre_2025_GS.md#q33) — Consider the following statements regarding the Union Budget Estimates for 2025-26 :
+- [Prelims 2025 · GS Q34](../../past-papers/pre_2025_GS.md#q34) — Which of the following apps has been launched by the Reserve Bank of India (RBI) to enable retail investors to directly participate in the Government Securities
+- [Prelims 2025 · GS Q35](../../past-papers/pre_2025_GS.md#q35) — Consider the following statements regarding the Hurun Global Unicorn Index, 2024 :
+- [Prelims 2025 · GS Q36](../../past-papers/pre_2025_GS.md#q36) — For the Assertion (A) and Reason (R) given below, choose the correct alternative from the following :
+- [Prelims 2025 · GS Q37](../../past-papers/pre_2025_GS.md#q37) — Consider the following statements about 'Zorawar' :
+- [Prelims 2025 · GS Q40](../../past-papers/pre_2025_GS.md#q40) — Consider the following statements regarding chess titles and recent developments :
+- [Prelims 2025 · GS Q51](../../past-papers/pre_2025_GS.md#q51) — Which of the following is not a government initiative related to school education ?
+- [Prelims 2021 · GS Q3](../../past-papers/pre_2021_GS.md#q3) — Recently, the Union Minister of Commerce and Industry launched National GIS-enabled Land Bank System. Which of the following statements are correct about the sy
+- [Prelims 2021 · GS Q13](../../past-papers/pre_2021_GS.md#q13) — The Union Cabinet recently approved the New Education Policy (NEP), 2020. Which of the following statements are correct about the policy ?
+- [Prelims 2021 · GS Q20](../../past-papers/pre_2021_GS.md#q20) — National Commodity and Derivatives Exchange (NCDEX) announced the commencement of trading in the country's first agriculture futures index called :
+- [Prelims 2021 · GS Q31](../../past-papers/pre_2021_GS.md#q31) — JIGYASA programme of Council of Scientific and Industrial Research (CSIR) is a/an
+- [Prelims 2021 · GS Q57](../../past-papers/pre_2021_GS.md#q57) — Consider the following pairings of the names of Government initiated portals and the area/industry with which they are associated :
+- [Prelims 2021 · GS Q95](../../past-papers/pre_2021_GS.md#q95) — As part of 'Vaccine Maitri' policy which of the following countries became first recipients of the Made-in-India COVID-19 vaccine.
+- [Prelims 2021 · GS Q96](../../past-papers/pre_2021_GS.md#q96) — Recently again in controversy, Jallikattu, is the bull taming traditional sport of which Indian State ?
+- [Prelims 2018 · GS Q2](../../past-papers/pre_2018_GS.md#q2) — The recent Supreme Court ruling about the limitations of the powers of Lt. Governor of Delhi vis-à-vis the Chief Minister of Delhi has been making news. In this
+- [Prelims 2018 · GS Q30](../../past-papers/pre_2018_GS.md#q30) — The Rohingya crisis has been making news lately. Consider the following statements about the Rohingyas :
+- [Prelims 2018 · GS Q39](../../past-papers/pre_2018_GS.md#q39) — Celebrating its 50 years, Booker Prize declared its "Best of Man Booker Prize" on 7th of July 2018. Which book won this prize ?
+- [Prelims 2018 · GS Q45](../../past-papers/pre_2018_GS.md#q45) — The International Movement "Me Too", started against sexual harassment, that was popularized by Alyssa Milano in 2017 was originally started around 2006 by
+- [Prelims 2018 · GS Q47](../../past-papers/pre_2018_GS.md#q47) — Which of the following statements are true about Agni-5 Missile that was successfully test fired from Wheeler Island on June 3, 2018 ?
+- [Prelims 2018 · GS Q51](../../past-papers/pre_2018_GS.md#q51) — Which of the following is related to the recently launched 'Innovate in India (i3)' programme ?
+- [Prelims 2018 · GS Q75](../../past-papers/pre_2018_GS.md#q75) — Pakistan Tehreek-e-Insaf is one of the prominent political parties in Pakistan. Which of the following belongs to the above political party ?
+- [Prelims 2018 · GS Q91](../../past-papers/pre_2018_GS.md#q91) — Who is the current President of FIFA (The Federation Internationale de Football Association) ?
 
 ## Practice MCQs (12)
 

@@ -1,6 +1,6 @@
 # Planning, transport, trade
 
-**Paper I — General Studies** › Geography · Subject: Geography · Priority: Medium
+**Paper I — General Studies** › Geography · Subject: Geography · Priority: Medium · **Asked by PPSC: 🔥 5× (’18 ’21 ’25)**
 
 > Official syllabus line: Planning and sustainable development in India. Transport and communication. International trade.
 
@@ -131,6 +131,18 @@ Questions test the NCERT case studies (Bharmaur, Indira Gandhi Canal), corridor 
 - NCERT Class 12 'India: People and Economy' Ch 9 (Planning and Sustainable Development), Ch 10 (Transport and Communication), Ch 11 (International Trade)
 - NCERT Class 12 'Fundamentals of Human Geography' Ch 7-9 (Transport, Communication and Trade)
 - Ministry of Commerce - Foreign Trade Policy 2023; Ministry of Road Transport annual report
+
+## Asked in PPSC papers — 5 times 🔥 (in every recent exam)
+
+| Paper | Years asked |
+|---|---|
+| Prelims GS | 2018 (×2), 2021 (×2), 2025 |
+
+- [Prelims 2025 · GS Q75](../../past-papers/pre_2025_GS.md#q75) — Consider the following statements about the Indian Railways :
+- [Prelims 2021 · GS Q58](../../past-papers/pre_2021_GS.md#q58) — Consider the following statements with respect to the Export Preparedness Index, 2020 :
+- [Prelims 2021 · GS Q83](../../past-papers/pre_2021_GS.md#q83) — Consider the following statements about Thal Ghat :
+- [Prelims 2018 · GS Q18](../../past-papers/pre_2018_GS.md#q18) — Which among the following city is called "Zero Mile Centre" because of its location on India's Geographic centre ?
+- [Prelims 2018 · GS Q21](../../past-papers/pre_2018_GS.md#q21) — "Setu Bharatam" project is connected with which of the following transport sectors ?
 
 ## Practice MCQs (12)
 

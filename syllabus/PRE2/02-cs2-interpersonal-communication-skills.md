@@ -1,6 +1,6 @@
 # Interpersonal & communication skills
 
-**Paper II — CSAT** › Civil Services Aptitude Test · Subject: CSAT (Paper II) · Priority: Medium
+**Paper II — CSAT** › Civil Services Aptitude Test · Subject: CSAT (Paper II) · Priority: Medium · **Asked by PPSC: 🔁 3× (’21)**
 
 > Official syllabus line: Interpersonal skills including communication skills.
 
@@ -106,6 +106,16 @@ Questions are mostly situational: a citizen, colleague or crowd scenario with fo
 - Daniel Goleman, Emotional Intelligence
 - UPSC CSAT 2011-2013 papers (interpersonal and decision-making items)
 - 2nd ARC 12th Report, Citizen Centric Administration
+
+## Asked in PPSC papers — 3 times (in 1 of 3 recent exams)
+
+| Paper | Years asked |
+|---|---|
+| Prelims CSAT | 2021 (×3) |
+
+- [Prelims 2021 · CSAT Q1](../../past-papers/pre_2021_CSAT.md#q1) — In a meeting Rajita always begins her sentences with 'I may be wrong, but…' or, 'Excuse my impertinence, but…' What style of communication is Rajita following ?
+- [Prelims 2021 · CSAT Q2](../../past-papers/pre_2021_CSAT.md#q2) — Before any negotiation, Ramesh first met the client informally, chatted with him and listened attentively to all his points. Only when he gathered all the relev
+- [Prelims 2021 · CSAT Q3](../../past-papers/pre_2021_CSAT.md#q3) — Gita listened to the views of others and then analysed them according to their merit. Her listening style was
 
 ## Practice MCQs (20)
 

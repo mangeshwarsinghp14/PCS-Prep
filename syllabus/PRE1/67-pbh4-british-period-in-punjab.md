@@ -1,6 +1,6 @@
 # British period in Punjab
 
-**Paper I — General Studies** › Punjab · Subject: Punjab History · Priority: High
+**Paper I — General Studies** › Punjab · Subject: Punjab History · Priority: High · **Asked by PPSC: 🔁 1× (’25)**
 
 > Official syllabus line: The British period.
 
@@ -141,6 +141,14 @@ Sequence of administrative changes (1849, 1853, 1859, 1901, 1921), land and colo
 - Indu Banga, Agrarian System of the Sikhs and J.S. Grewal, The Sikhs of the Punjab
 - Imran Ali, The Punjab under Imperialism 1885–1947
 - Bipan Chandra, India's Struggle for Independence
+
+## Asked in PPSC papers — 1 time (in 1 of 3 recent exams)
+
+| Paper | Years asked |
+|---|---|
+| Prelims GS | 2025 |
+
+- [Prelims 2025 · GS Q100](../../past-papers/pre_2025_GS.md#q100) — Match List-I with List-II and choose the answer from the codes given below :
 
 ## Practice MCQs (16)
 

@@ -1,6 +1,6 @@
 # Acids, bases, salts, corrosion, soaps
 
-**Paper I — General Studies** › Everyday Science · Subject: Everyday Science · Priority: Medium
+**Paper I — General Studies** › Everyday Science · Subject: Everyday Science · Priority: Medium · **Asked by PPSC: 🔁 5× (’18 ’25)**
 
 > Official syllabus line: Acids, bases, salts, corrosion in metals, action of soaps.
 
@@ -123,6 +123,18 @@ PPSC asks match-the-following on natural acids, chemical names and uses of commo
 - NCERT Class 10 Science Ch 4 (soaps and detergents section)
 - NCERT Class 8 Science (Metals and Non-metals; rusting)
 - Lucent's General Science (Chemistry: acids, bases, salts)
+
+## Asked in PPSC papers — 5 times (in 2 of 3 recent exams)
+
+| Paper | Years asked |
+|---|---|
+| Prelims GS | 2018 (×3), 2025 (×2) |
+
+- [Prelims 2025 · GS Q15](../../past-papers/pre_2025_GS.md#q15) — Consider the following statements regarding soaps :
+- [Prelims 2025 · GS Q16](../../past-papers/pre_2025_GS.md#q16) — For the Assertion (A) and Reason (R) given below, choose the correct alternative from the following :
+- [Prelims 2018 · GS Q67](../../past-papers/pre_2018_GS.md#q67) — Iodised salt is a
+- [Prelims 2018 · GS Q68](../../past-papers/pre_2018_GS.md#q68) — Vinegar is a solution of
+- [Prelims 2018 · GS Q69](../../past-papers/pre_2018_GS.md#q69) — Litmus is obtained from
 
 ## Practice MCQs (12)
 

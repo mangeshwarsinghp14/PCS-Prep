@@ -1,6 +1,6 @@
 # Policies, NGOs, SHGs, development actors
 
-**Paper 5 — GS II: Constitution, Polity, Governance, IR** › Governance · Subject: GS II — Constitution, Polity, Governance, IR · Priority: High
+**Paper 5 — GS II: Constitution, Polity, Governance, IR** › Governance · Subject: GS II — Constitution, Polity, Governance, IR · Priority: High · **Asked by PPSC: 🔥 6× (’18 ’21 ’26)**
 
 > Official syllabus line: Government policies and interventions for development and issues in their design and implementation; development processes – role of NGOs, SHGs, donors, charities, institutional and other stakeholders.
 
@@ -129,6 +129,21 @@ Questions ask about design-implementation gaps in welfare schemes, role of NGOs/
 - NITI Aayog DMEO evaluation reports; Ministry of Rural Development DAY-NRLM guidelines
 - Economic Survey of India (chapters on welfare delivery/JAM)
 - Punjab Economic Survey 2025-26
+
+## Asked in PPSC papers — 6 times 🔥 (in every recent exam)
+
+| Paper | Years asked |
+|---|---|
+| Mains GS2 | 2018 (×2), 2021, 2026 (×3) |
+
+- [Mains 2026 · GS2 Q2](../../past-papers/mains_2026_GS2.md#q2) — Critically examine the limitations of SHGs as instruments of development. Do they reinforce existing social hierarchies? Explain in the context of SHGs in Punja
+- [Mains 2026 · GS2 Q4](../../past-papers/mains_2026_GS2.md#q4) — Analyse the role of private institutions in implementing Punjab government schemes through the Public-Private Partnership (PPP) model. Discuss their contributio
+- [Mains 2026 · GS2 Q15](../../past-papers/mains_2026_GS2.md#q15) — Examine the role of corporate social responsibility (CSR) in the state of Punjab. Discuss its focus areas, impact on social development, and challenges in effec  
+  ↻ *Same theme also asked:* [Mains 2021 · GS2 Q8](../../past-papers/mains_2021_GS2.md#q8)
+- [Mains 2021 · GS2 Q8](../../past-papers/mains_2021_GS2.md#q8) — The Companies Act, 2013 has made Corporate Social Responsibility (CSR) mandatory for business corporates in India. However, the impact of CSR contributions towa  
+  ↻ *Same theme also asked:* [Mains 2026 · GS2 Q15](../../past-papers/mains_2026_GS2.md#q15)
+- [Mains 2018 · GS2 Q3(b)](../../past-papers/mains_2018_GS2.md#q3-b) — Critically examine the role of NGOs in the development of a society with special reference to the protection of environment.
+- [Mains 2018 · GS2 Q8(b)](../../past-papers/mains_2018_GS2.md#q8-b) — Comment on the direct cash transfer system of the welfare scheme to minimize corruption.
 
 ## Mains practice questions (3)
 

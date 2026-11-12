@@ -1,6 +1,6 @@
 # Basic numeracy
 
-**Paper II — CSAT** › Civil Services Aptitude Test · Subject: CSAT (Paper II) · Priority: High
+**Paper II — CSAT** › Civil Services Aptitude Test · Subject: CSAT (Paper II) · Priority: High · **Asked by PPSC: 🔁 49× (’21 ’25)**
 
 > Official syllabus line: Basic numerical skills; numbers, magnitudes, percentages, numerical relation appreciation.
 
@@ -105,6 +105,66 @@ Numeracy is at Class 10 level but time-bound: percentages, ratios, averages, spe
 - R.S. Aggarwal, Quantitative Aptitude
 - UPSC CSAT and PPSC Prelims Paper II previous papers
 
+## Asked in PPSC papers — 49 times (in 2 of 3 recent exams)
+
+| Paper | Years asked |
+|---|---|
+| Prelims CSAT | 2021 (×19), 2025 (×30) |
+
+- [Prelims 2025 · CSAT Q1](../../past-papers/pre_2025_CSAT.md#q1) — If a = √0.25, b = 0.25, c = (0.25)^2 and d = 0.05 then,
+- [Prelims 2025 · CSAT Q5](../../past-papers/pre_2025_CSAT.md#q5) — Sudha's grandfather was 8 times older to her 16 years ago. He would be 3 times of her age 8 years from now. Eight years ago, what was the ratio of Sudha's age t
+- [Prelims 2025 · CSAT Q6](../../past-papers/pre_2025_CSAT.md#q6) — Out of the three given numbers, the first number is twice the second and thrice the third. If the average of the three numbers is 121, what is the difference be
+- [Prelims 2025 · CSAT Q7](../../past-papers/pre_2025_CSAT.md#q7) — 13.08 × 24.98 + √624 = ?
+- [Prelims 2025 · CSAT Q8](../../past-papers/pre_2025_CSAT.md#q8) — 0.0005 × 76 × 103 + ? = 170% of 29.98
+- [Prelims 2025 · CSAT Q9](../../past-papers/pre_2025_CSAT.md#q9) — If W/X = 6/11, Y/Z = 16/23 and W/Y = 9/16, then what is the value of X/Y ?
+- [Prelims 2025 · CSAT Q10](../../past-papers/pre_2025_CSAT.md#q10) — If a^3 − b^3 = 91 and a − b = 1, what is the value of (ab) ?
+- [Prelims 2025 · CSAT Q11](../../past-papers/pre_2025_CSAT.md#q11) — What number should be added to each of the numbers 94, 24, 100 and 26 so that resulting numbers are in proportion ?
+- [Prelims 2025 · CSAT Q17](../../past-papers/pre_2025_CSAT.md#q17) — Directions (Question No. 17) : Study the following information to answer the question given below.
+- [Prelims 2025 · CSAT Q18](../../past-papers/pre_2025_CSAT.md#q18) — If X : Y = 9 : 11, then the value of (5x + 3y)/(3x + 5y) is :
+- [Prelims 2025 · CSAT Q19](../../past-papers/pre_2025_CSAT.md#q19) — Total 900 shirts were produced on Monday and Tuesday together. 5% and 4% of the shirts produced on Monday and Tuesday, respectively, were defective. If number o
+- [Prelims 2025 · CSAT Q20](../../past-papers/pre_2025_CSAT.md#q20) — Bhim invested 28% of his monthly salary of ₹ 40,000 in mutual funds. He spent the remaining salary in the respective ratio of 1 : 4 : 3 on house rent, groceries
+- [Prelims 2025 · CSAT Q21](../../past-papers/pre_2025_CSAT.md#q21) — When a two-digit number 'X' is reversed, the number so formed is 63 more than 'X'. If the sum of digits of 'X' is 11, what is the value of 'X + 21' ?
+- [Prelims 2025 · CSAT Q22](../../past-papers/pre_2025_CSAT.md#q22) — Directions (Question No. 22 and 23) : What will come in place of the question mark (?) in the given number series ?
+- [Prelims 2025 · CSAT Q23](../../past-papers/pre_2025_CSAT.md#q23) — Directions (Question No. 22 and 23) : What will come in place of the question mark (?) in the given number series ?
+- [Prelims 2025 · CSAT Q24](../../past-papers/pre_2025_CSAT.md#q24) — A fraction is greater than twice its reciprocal by 7/15. What is the fraction ?
+- [Prelims 2025 · CSAT Q36](../../past-papers/pre_2025_CSAT.md#q36) — A man divides his property, so that his son's share to his wife's and wife's shares to his daughter's are both as in the ratio 3 : 1. If the daughter gets ₹ 10,
+- [Prelims 2025 · CSAT Q37](../../past-papers/pre_2025_CSAT.md#q37) — Four numbers are in the ratio 1 : 2 : 3 : 4. Their sum is 16. The sum of the first and fourth number is equal to :
+- [Prelims 2025 · CSAT Q38](../../past-papers/pre_2025_CSAT.md#q38) — The daily wages of A and B respectively are ₹ 3.50 and ₹ 2.50. When A finishes a certain work, he gets a total wage of ₹ 63. When B does the same work, he gets 
+- [Prelims 2025 · CSAT Q39](../../past-papers/pre_2025_CSAT.md#q39) — A, B and C did certain investments and the ratio of the durations of their investments is 3 : 2 : 7 respectively. Ratio of the profits of A, B and C is 4 : 3 : 
+- [Prelims 2025 · CSAT Q40](../../past-papers/pre_2025_CSAT.md#q40) — Working alone A can do a task in 27 hours and B can do the same in 54 hours. Find C's share (in ₹) if A, B and C get paid ₹ 4,320 for completing a task in 12 ho
+- [Prelims 2025 · CSAT Q41](../../past-papers/pre_2025_CSAT.md#q41) — Two men and 7 women can complete a work in 28 days, whereas 6 men and 16 women can do the same work in 11 days. In how many days will 5 men and 4 women, working  
+  ↻ *Same theme also asked:* [Prelims 2021 · CSAT Q46](../../past-papers/pre_2021_CSAT.md#q46)
+- [Prelims 2025 · CSAT Q43](../../past-papers/pre_2025_CSAT.md#q43) — P = (40% of A) + (65% of B) and Q = (50% of A) + (50% of B), where A is greater than B. In this context, which of the following statements is correct ?
+- [Prelims 2025 · CSAT Q58](../../past-papers/pre_2025_CSAT.md#q58) — A wheat merchant has four varieties of wheat – A, B, C, D with him. He mixed the entire quantity of the wheat of varieties A and B together. With this mixture, 
+- [Prelims 2025 · CSAT Q59](../../past-papers/pre_2025_CSAT.md#q59) — Akshay has a big drum for storing milk. The radius of the drum is 80 cm while its height is 1.5 metres. Initially, the drum is empty. He wants to fill up the dr
+- [Prelims 2025 · CSAT Q60](../../past-papers/pre_2025_CSAT.md#q60) — Directions (Question No. 60 and 61) : The letters of the word MIDDLE are written on blank cards, one letter per card. The letters are shuffled and a toddler (wh
+- [Prelims 2025 · CSAT Q61](../../past-papers/pre_2025_CSAT.md#q61) — Directions (Question No. 60 and 61) : The letters of the word MIDDLE are written on blank cards, one letter per card. The letters are shuffled and a toddler (wh
+- [Prelims 2025 · CSAT Q62](../../past-papers/pre_2025_CSAT.md#q62) — How many natural numbers having at most five digits have a sum of their digits as at most six ?
+- [Prelims 2025 · CSAT Q63](../../past-papers/pre_2025_CSAT.md#q63) — A plane travelled a certain distance at a uniform speed. Had the speed been 216 kmph more, the journey would have taken one hour less and had the speed been 108  
+  ↻ *Same theme also asked:* [Prelims 2021 · CSAT Q45](../../past-papers/pre_2021_CSAT.md#q45)
+- [Prelims 2025 · CSAT Q64](../../past-papers/pre_2025_CSAT.md#q64) — Of the total amount that Harish spent in a shopping mall, excluding taxes, he spent 40% on clothing, 20% on grocery items and 40% on computer accessories. If he
+- [Prelims 2021 · CSAT Q9](../../past-papers/pre_2021_CSAT.md#q9) — The afternoon classes in a school begin at 2:00 P.M. and end at 4:52 P.M. There are four afternoon class periods with 4 minutes between periods. The number of m
+- [Prelims 2021 · CSAT Q10](../../past-papers/pre_2021_CSAT.md#q10) — At a party there are 3 large pizzas of equal size. Each pizza has been cut into 9 equal pieces. 8/9 of the first pizza has been eaten; 2/3 of the second pizza h
+- [Prelims 2021 · CSAT Q12](../../past-papers/pre_2021_CSAT.md#q12) — According to a survey at a company, 20 percent of the employees owned cell phones in 1994, and 60 percent of the employees owned cell phones in 1998. From 1994 
+- [Prelims 2021 · CSAT Q13](../../past-papers/pre_2021_CSAT.md#q13) — From 2018 to 2019, Mohan's annual salary increased by 10 percent and Arun's annual salary decreased by 5 percent. If their annual salaries were equal in 2019, t
+- [Prelims 2021 · CSAT Q14](../../past-papers/pre_2021_CSAT.md#q14) — A candidate scores 20% and fails by 45 marks and another candidate who scores 45% marks gets 30 marks more than the minimum required to pass the examination. Fi
+- [Prelims 2021 · CSAT Q17](../../past-papers/pre_2021_CSAT.md#q17) — BMI is defined as being the mass of a person (in kg) divided by the square of the height (in metres). The data about 5 persons : A — 1.45 m, 45 kg; B — 1.50 m, 
+- [Prelims 2021 · CSAT Q18](../../past-papers/pre_2021_CSAT.md#q18) — BMI is defined as being the mass of a person (in kg) divided by the square of the height (in metres). The data about 5 persons : A — 1.45 m, 45 kg; B — 1.50 m, 
+- [Prelims 2021 · CSAT Q25](../../past-papers/pre_2021_CSAT.md#q25) — Set M has 42 students and set N has 60 students. At least 12 of the students in set M are not in set N. Which of the following cannot be the possible number of 
+- [Prelims 2021 · CSAT Q27](../../past-papers/pre_2021_CSAT.md#q27) — A container of milk was 3/4 full. When 5 bottles of milk were taken out and 3 bottles of milk were poured into it, it was 2/3 full. How many bottles of milk can
+- [Prelims 2021 · CSAT Q28](../../past-papers/pre_2021_CSAT.md#q28) — The cost of mowing a square lawn at the rate of INR 700 per hectare is INR 4,375. The cost of putting a fence around the lawn at the rate of INR 45.45 per meter
+- [Prelims 2021 · CSAT Q44](../../past-papers/pre_2021_CSAT.md#q44) — A bartender stole vodka from bottle A that contained 50% alcohol and he replaced what he had stolen with vodka from bottle B containing 20% alcohol. He used wat
+- [Prelims 2021 · CSAT Q45](../../past-papers/pre_2021_CSAT.md#q45) — Rate of consumption of coal by a locomotive varies as the square of the speed and is 1000 kg/hour when the speed is 60 km/hour. If the coal costs the railway co  
+  ↻ *Same theme also asked:* [Prelims 2025 · CSAT Q63](../../past-papers/pre_2025_CSAT.md#q63)
+- [Prelims 2021 · CSAT Q46](../../past-papers/pre_2021_CSAT.md#q46) — A completes 2/3 of a certain job in 6 days. B can complete 1/3 of the same job in 8 days and C can complete 3/4 of the job in 12 days. All of them work together  
+  ↻ *Same theme also asked:* [Prelims 2025 · CSAT Q41](../../past-papers/pre_2025_CSAT.md#q41)
+- [Prelims 2021 · CSAT Q48](../../past-papers/pre_2021_CSAT.md#q48) — A ladder reaches a window that is 8 m above the ground on one side of the street. Keeping its foot on the same point, the ladder is twined to the other side of 
+- [Prelims 2021 · CSAT Q49](../../past-papers/pre_2021_CSAT.md#q49) — Sanjay writes a letter to his friend, Kesari. It is known that one out of 10 letters that are posted does not reach its destination. If Sanjay does not receive 
+- [Prelims 2021 · CSAT Q50](../../past-papers/pre_2021_CSAT.md#q50) — In a school, a total of 180 students are enrolled in the foreign languages program. The foreign languages offered are : French, German and Chinese and the numbe
+- [Prelims 2021 · CSAT Q51](../../past-papers/pre_2021_CSAT.md#q51) — Three alarm clocks ring their alarms at regular intervals of 20, 21 and T minutes respectively. If the clocks beep together at 12 noon, for which value of T wou
+- [Prelims 2021 · CSAT Q52](../../past-papers/pre_2021_CSAT.md#q52) — A person of 6 ft. height wants to pluck a fruit which is hanging at 1/4th distance from the top of a 20 ft. high tree. The person standing at a distance of 28 f
+- [Prelims 2021 · CSAT Q53](../../past-papers/pre_2021_CSAT.md#q53) — The cost of 10 pears, 8 guavas and 6 mangoes is ₹44. If the cost of each of the fruits, in rupees, is a natural number and cost of no two fruits is the same, fi
+
 ## Practice MCQs (20)
 
 **1.** The price of an item is first increased by 20% and then decreased by 20%. The net change in price is:
@@ -159,6 +219,8 @@ Numeracy is at Class 10 level but time-bound: percentages, ratios, averages, spe
 
 </details>
 
+*Like a real PPSC question: [Prelims 2025 · CSAT Q11](../../past-papers/pre_2025_CSAT.md#q11), [Prelims 2025 · CSAT Q6](../../past-papers/pre_2025_CSAT.md#q6)*
+
 **5.** A car travels from Ludhiana to Jalandhar at 60 km/h and returns along the same road at 40 km/h. Its average speed for the whole journey is:
 
 (a) 50 km/h  
@@ -185,6 +247,8 @@ Numeracy is at Class 10 level but time-bound: percentages, ratios, averages, spe
 
 </details>
 
+*Like a real PPSC question: [Prelims 2021 · CSAT Q46](../../past-papers/pre_2021_CSAT.md#q46), [Prelims 2025 · CSAT Q41](../../past-papers/pre_2025_CSAT.md#q41)*
+
 **7.** Ten years ago a father was four times as old as his son. Ten years from now he will be twice as old as his son. What is the father's present age?
 
 (a) 45 years  
@@ -197,6 +261,8 @@ Numeracy is at Class 10 level but time-bound: percentages, ratios, averages, spe
 **(b) 50 years** — Let the son be s and the father f today. Ten years ago: f - 10 = 4(s - 10), so f = 4s - 30. Ten years hence: f + 10 = 2(s + 10), so f = 2s + 10. Equate: 4s - 30 = 2s + 10, so s = 20 and f = 50. Check: ten years ago 40 and 10 (4 times); ten years later 60 and 30 (twice).
 
 </details>
+
+*Like a real PPSC question: [Prelims 2025 · CSAT Q5](../../past-papers/pre_2025_CSAT.md#q5)*
 
 **8.** Gurpreet starts a business with Rs 60,000. After 3 months Navdeep joins with Rs 80,000. At the end of the year the profit is Rs 51,000. What is Navdeep's share?
 
@@ -224,6 +290,8 @@ Numeracy is at Class 10 level but time-bound: percentages, ratios, averages, spe
 
 </details>
 
+*Like a real PPSC question: [Prelims 2025 · CSAT Q41](../../past-papers/pre_2025_CSAT.md#q41), [Prelims 2021 · CSAT Q46](../../past-papers/pre_2021_CSAT.md#q46)*
+
 **10.** In how many different ways can the letters of the word LUDHIANA be arranged?
 
 (a) 20,160  
@@ -236,6 +304,8 @@ Numeracy is at Class 10 level but time-bound: percentages, ratios, averages, spe
 **(a) 20,160** — LUDHIANA has 8 letters: L, U, D, H, I, A, N, A — the letter A appears twice and the rest once. Arrangements = 8! / 2! = 40,320 / 2 = 20,160. 40,320 forgets the repeated A; 5,040 is 7!.
 
 </details>
+
+*Like a real PPSC question: [Prelims 2025 · CSAT Q61](../../past-papers/pre_2025_CSAT.md#q61), [Prelims 2025 · CSAT Q60](../../past-papers/pre_2025_CSAT.md#q60)*
 
 **11.** A cylindrical water tank has an inner radius of 70 cm and a height of 2 m. How many litres of water does it hold when full? (Take pi = 22/7.)
 
@@ -262,6 +332,8 @@ Numeracy is at Class 10 level but time-bound: percentages, ratios, averages, spe
 **(a) 2.5 km/h** — Downstream speed = 30 / 2 = 15 km/h; upstream speed = 30 / 3 = 10 km/h. Stream speed = (15 - 10) / 2 = 2.5 km/h, and boat speed in still water = (15 + 10) / 2 = 12.5 km/h (the trap option).
 
 </details>
+
+*Like a real PPSC question: [Prelims 2025 · CSAT Q40](../../past-papers/pre_2025_CSAT.md#q40)*
 
 **13.** Consider the following statements: 1. If a number is divisible by both 4 and 6, it must be divisible by 24. 2. The sum of any three consecutive integers is divisible by 3. Which of the statements given above is/are correct?
 

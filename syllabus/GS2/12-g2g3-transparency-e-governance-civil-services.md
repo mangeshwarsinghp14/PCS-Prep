@@ -1,6 +1,6 @@
 # Transparency, e-governance, civil services
 
-**Paper 5 — GS II: Constitution, Polity, Governance, IR** › Governance · Subject: GS II — Constitution, Polity, Governance, IR · Priority: High
+**Paper 5 — GS II: Constitution, Polity, Governance, IR** › Governance · Subject: GS II — Constitution, Polity, Governance, IR · Priority: High · **Asked by PPSC: 🔥 5× (’18 ’21 ’26)**
 
 > Official syllabus line: Governance, transparency and accountability, e-governance – applications, models, successes, limitations and potential; citizens charters; role of civil services in a democracy; changing trends in governance.
 
@@ -133,6 +133,18 @@ Frequent themes: e-governance potential vs exclusion, citizens' charters vs righ
 - 2nd ARC 1st Report 'Right to Information: Master Key to Good Governance'
 - DARPG — Sevottam framework and CPGRAMS reports
 - Mission Karmayogi (NPCSCB) framework document
+
+## Asked in PPSC papers — 5 times 🔥 (in every recent exam)
+
+| Paper | Years asked |
+|---|---|
+| Mains GS2 | 2018 (×2), 2021, 2026 (×2) |
+
+- [Mains 2026 · GS2 Q13](../../past-papers/mains_2026_GS2.md#q13) — Explain the key components of the Sevottam Model and discuss how it improves efficiency, accountability, and citizen satisfaction in government services.
+- [Mains 2026 · GS2 Q16](../../past-papers/mains_2026_GS2.md#q16) — Analyse the impact of the Right to Privacy judgment (Puttaswamy) on the State's e-governance architecture.
+- [Mains 2021 · GS2 Q2(b)](../../past-papers/mains_2021_GS2.md#q2-b) — Examine any of the two recent E-Governance initiatives to illustrate how they have enhanced transparency and efficiency in government services.
+- [Mains 2018 · GS2 Q1](../../past-papers/mains_2018_GS2.md#q1) — "Transparency and Accountability are the key to the success of Good Governance." Build your case for or against it.
+- [Mains 2018 · GS2 Q7(a)](../../past-papers/mains_2018_GS2.md#q7-a) — What is social audit? Examine its significance in promoting the accountability and transparency in administration.
 
 ## Mains practice questions (3)
 

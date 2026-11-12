@@ -4,6 +4,8 @@ Held 2018. 21 questions.
 
 Sources: [1](https://theiashub.com/upsc/punjab-pcs-previous-year-question-paper/) · [2](https://earnmoneyjobs.com/punjab-civil-service-exam-dates-2018-announced-ppsc-exam-dates/) · [3](https://www.scribd.com/document/405157714/Result-PPSC-Combined-Civil-Services-Main-Exam) · [4](https://abhipedia.abhimanu.com/Free/554/1036/PCS-2018-Result-dec-14-6-2019-) · [5](https://drive.google.com/file/d/1_PWiy5vI_r821HY5k2-2SK_oy-4H6j3l/view)
 
+<a id="q1"></a>
+
 **Q1.** "Transparency and Accountability are the key to the success of Good Governance." Build your case for or against it. *(15 marks, 200 words)*
 
 <details><summary>Model answer points</summary>
@@ -28,6 +30,10 @@ Sources: [1](https://theiashub.com/upsc/punjab-pcs-previous-year-question-paper/
 Topic: [notes](../syllabus/GS2/12-g2g3-transparency-e-governance-civil-services.md)
 
 </details>
+
+*Topic asked 5× (2018, 2021, 2026) 🔥*
+
+<a id="q2"></a>
 
 **Q2.** "Corruption in public life is a great challenge to the Indian democracy." Explain it. *(15 marks, 200 words)*
 
@@ -54,6 +60,10 @@ Topic: [notes](../syllabus/GS2/14-g2g5-probity-rti-codes-corruption.md)
 
 </details>
 
+*Topic asked 4× (2018, 2021, 2026) 🔥*
+
+<a id="q3-a"></a>
+
 **Q3(a).** Identify the major hindrances in the functioning of parliamentary democracy in India. *(10 marks, 100 words)*
 
 <details><summary>Model answer points</summary>
@@ -79,6 +89,10 @@ Topic: [notes](../syllabus/GS2/05-g2p5-parliament-state-legislatures.md)
 
 </details>
 
+*↻ **Same theme also asked:** [Mains 2026 · GS2 Q3](mains_2026_GS2.md#q3) · Topic asked 4× (2018, 2021, 2026) 🔥*
+
+<a id="q3-b"></a>
+
 **Q3(b).** Critically examine the role of NGOs in the development of a society with special reference to the protection of environment. *(10 marks, 100 words)*
 
 <details><summary>Model answer points</summary>
@@ -101,6 +115,10 @@ Topic: [notes](../syllabus/GS2/05-g2p5-parliament-state-legislatures.md)
 Topic: [notes](../syllabus/GS2/11-g2g2-policies-ngos-shgs-development-actors.md)
 
 </details>
+
+*Topic asked 6× (2018, 2021, 2026) 🔥*
+
+<a id="q4"></a>
 
 **Q4.** "Federal principle is one of the basic features of Indian Constitution but it is equally true that federalism under the Indian Constitution leans in favour of a strong Centre that militates against the concept of federalism." Discuss. *(15 marks, 200 words)*
 
@@ -128,6 +146,10 @@ Topic: [notes](../syllabus/GS2/02-g2p2-federalism-devolution.md)
 
 </details>
 
+*Topic asked 5× (2018, 2021, 2026) 🔥*
+
+<a id="q5"></a>
+
 **Q5.** Explain the meaning of judicial activism. Discuss the need of judicial activism in restructuring the administrative requirement in India. *(10 marks, 100 words)*
 
 <details><summary>Model answer points</summary>
@@ -150,6 +172,10 @@ Topic: [notes](../syllabus/GS2/02-g2p2-federalism-devolution.md)
 Topic: [notes](../syllabus/GS2/03-g2p3-separation-of-powers-dispute-redressal.md)
 
 </details>
+
+*Topic asked 2× (2018, 2026)*
+
+<a id="q6"></a>
 
 **Q6.** Discuss the benefits and challenges to go for simultaneous elections to Lok Sabha and State Assemblies. *(15 marks, 200 words)*
 
@@ -176,6 +202,10 @@ Topic: [notes](../syllabus/GS2/07-g2p7-representation-of-the-people-act.md)
 
 </details>
 
+*Topic asked 2× (2018, 2021)*
+
+<a id="q7-a"></a>
+
 **Q7(a).** What is social audit? Examine its significance in promoting the accountability and transparency in administration. *(10 marks, 100 words)*
 
 <details><summary>Model answer points</summary>
@@ -198,6 +228,10 @@ Topic: [notes](../syllabus/GS2/07-g2p7-representation-of-the-people-act.md)
 Topic: [notes](../syllabus/GS2/12-g2g3-transparency-e-governance-civil-services.md)
 
 </details>
+
+*Topic asked 5× (2018, 2021, 2026) 🔥*
+
+<a id="q7-b"></a>
 
 **Q7(b).** What, Why and Who are "We", the first word of the Preamble of the Constitution of India? *(10 marks, 100 words)*
 
@@ -223,6 +257,10 @@ Topic: [notes](../syllabus/GS2/01-g2p1-constitution-evolution-features-basic-str
 
 </details>
 
+*↻ **Same theme also asked:** [Prelims 2025 · GS Q85](pre_2025_GS.md#q85) · Topic asked 4× (2018, 2021, 2026) 🔥*
+
+<a id="q8-a"></a>
+
 **Q8(a).** Discuss the recent challenges before the Election Commission of India with special reference to the ongoing controversy related to the Electronic Voting Machines (EVMs). *(10 marks, 100 words)*
 
 <details><summary>Model answer points</summary>
@@ -246,6 +284,10 @@ Topic: [notes](../syllabus/GS2/08-g2p8-constitutional-posts-bodies.md)
 
 </details>
 
+*Topic asked 2× (2018, 2021)*
+
+<a id="q8-b"></a>
+
 **Q8(b).** Comment on the direct cash transfer system of the welfare scheme to minimize corruption. *(10 marks, 100 words)*
 
 <details><summary>Model answer points</summary>
@@ -268,6 +310,10 @@ Topic: [notes](../syllabus/GS2/08-g2p8-constitutional-posts-bodies.md)
 Topic: [notes](../syllabus/GS2/11-g2g2-policies-ngos-shgs-development-actors.md)
 
 </details>
+
+*Topic asked 6× (2018, 2021, 2026) 🔥*
+
+<a id="q9-a"></a>
 
 **Q9(a).** Write short note on: Salient features of Madhav Gadgil Report on deteriorating ecosystem of Western Ghats. *(10 marks, 100 words)*
 
@@ -293,6 +339,10 @@ Topic: [notes](../syllabus/GS4/08-g4v1-conservation-pollution-climate-change-eia
 
 </details>
 
+*Topic asked 8× (2018, 2021, 2026) 🔥*
+
+<a id="q9-b"></a>
+
 **Q9(b).** Write short note on: CRISPR babies. *(10 marks, 100 words)*
 
 <details><summary>Model answer points</summary>
@@ -315,6 +365,10 @@ Topic: [notes](../syllabus/GS4/08-g4v1-conservation-pollution-climate-change-eia
 Topic: [notes](../syllabus/GS4/06-g4t6-genetic-engineering-stem-cells.md)
 
 </details>
+
+*↻ **Same theme also asked:** [Mains 2021 · GS4 Q10(b)](mains_2021_GS4.md#q10-b) · Topic asked 6× (2018, 2021, 2026) 🔥*
+
+<a id="q10"></a>
 
 **Q10.** Discuss the impact of industrial effluents on aquatic life with reference to the rivers of Punjab. Also suggest some valid mitigation measures. *(15 marks, 200 words)*
 
@@ -342,6 +396,10 @@ Topic: [notes](../syllabus/GS4/06-g4t6-genetic-engineering-stem-cells.md)
 Topic: [notes](../syllabus/GS4/08-g4v1-conservation-pollution-climate-change-eia.md)
 
 </details>
+
+*Topic asked 8× (2018, 2021, 2026) 🔥*
+
+<a id="q11"></a>
 
 **Q11.** Public Sector Undertakings have been the mainstay of India’s industrialization thrust. The same model was accepted by the States of the Union. However, over a period of time, some of the public sector undertakings due to faulty policy of governance landed themselves in a grave situation. Slowly and gradually, the ill effects of poor governance resulted in continuing losses for the PSUs, resulting in their being declared as a sick unit. As a newly posted Managing Director of such a sick PSU, you are saddled with the task of reviving it. In your effort to revive, you need to highlight the main drawbacks which were the bedrock of such a situation, and, the new initiatives you would deploy to revive the sick unit. *(15 marks, 200 words)*
 
@@ -372,6 +430,10 @@ Topic: [notes](../syllabus/GS4/15-g4d4-psu-revival-targets-gender-vulnerable-ski
 
 </details>
 
+*Topic asked 4× (2018, 2026)*
+
+<a id="q12"></a>
+
 **Q12.** Urban Slums pose a serious challenge before the urban planners. According to an estimate by 2030, 50% of India’s population would reside in urban areas. The impact of globalization and urbanization has stimulated the urban migration, resulting in a situation where the center-state collaboration could be the key to solve the riddle of re-setting and housing the newly migrated urban population. As an administrator, responsible for the cohesive urban development of the state, what policy initiatives would you propose to meet the emerging challenge. *(15 marks, 200 words)*
 
 <details><summary>Model answer points</summary>
@@ -399,6 +461,10 @@ Topic: [notes](../syllabus/GS4/14-g4d3-municipal-services-water-sanitation-slums
 
 </details>
 
+*Topic asked 6× (2018, 2021, 2026) 🔥*
+
+<a id="q13"></a>
+
 **Q13.** The latest World Health Report (2018) claimed that India is the second-most “unequal country” in the world in terms of income inequalities. India’s average national income is $1,800 (about Rs.1,32,000/-) a year. However, 80% of Indian earn less than the average. Only, 6% of Indian earn more than Rs.2,40,000/- a year. The riddle is, a rising income inequality cannot sustain the long-term growth of the economy. Agriculture, the mainstay of India’s livelihood still relies on traditional methodology; the aftermath is, India’s agricultural production is half of what the developed world harvests. Even after the technology boom, India and Indians lack severely in terms of skills which are based on modern technology. As an administrator at the Block level, you can plan for the workers’ technological growth/ skill development. What paradigm shift would you adopt to achieve your goal in agriculture and other fields? *(15 marks, 200 words)*
 
 <details><summary>Model answer points</summary>
@@ -425,6 +491,10 @@ Topic: [notes](../syllabus/GS4/15-g4d4-psu-revival-targets-gender-vulnerable-ski
 
 </details>
 
+*Topic asked 4× (2018, 2026)*
+
+<a id="q14-a"></a>
+
 **Q14(a).** The disposal of solid waste in any urban conglomerate is a formidable task. Evaluate in the context of your State. *(10 marks, 100 words)*
 
 <details><summary>Model answer points</summary>
@@ -447,6 +517,10 @@ Topic: [notes](../syllabus/GS4/15-g4d4-psu-revival-targets-gender-vulnerable-ski
 Topic: [notes](../syllabus/GS4/14-g4d3-municipal-services-water-sanitation-slums.md)
 
 </details>
+
+*↻ **Same theme also asked:** [Mains 2026 · GS4 Q9](mains_2026_GS4.md#q9) · Topic asked 6× (2018, 2021, 2026) 🔥*
+
+<a id="q14-b"></a>
 
 **Q14(b).** Suggest steps to make education more inclusive for the deprived stratum of the society. *(10 marks, 100 words)*
 
@@ -472,6 +546,10 @@ Topic: [notes](../syllabus/GS1/20-g1s8-health-education-poverty-malnutrition.md)
 
 </details>
 
+*↻ **Same theme also asked:** [Mains 2021 · GS1 Q15](mains_2021_GS1.md#q15) · Topic asked 4× (2018, 2021)*
+
+<a id="q15-a"></a>
+
 **Q15(a).** In the present situation and style of police working, suggest an approach to make police organization more efficient and modern to maintain the law and order in our country. *(10 marks, 100 words)*
 
 <details><summary>Model answer points</summary>
@@ -495,6 +573,10 @@ Topic: [notes](../syllabus/GS3/14-g3s5-security-forces-agencies.md)
 
 </details>
 
+*Topic asked 4× (2018, 2021, 2026) 🔥*
+
+<a id="q15-b"></a>
+
 **Q15(b).** Explain the three major legislative measures for the women empowerment in India. *(10 marks, 100 words)*
 
 <details><summary>Model answer points</summary>
@@ -516,3 +598,4 @@ Topic: [notes](../syllabus/GS3/14-g3s5-security-forces-agencies.md)
 Topic: [notes](../syllabus/GS1/19-g1s7-vulnerable-sections-welfare-schemes.md)
 
 </details>
+

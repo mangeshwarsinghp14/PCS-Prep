@@ -1,6 +1,6 @@
 # Europeans & British rule
 
-**Paper I — General Studies** › History of India & World History · Subject: Indian History · Priority: Medium
+**Paper I — General Studies** › History of India & World History · Subject: Indian History · Priority: Medium · **Asked by PPSC: 🔁 5× (’18 ’25)**
 
 > Official syllabus line: The coming of the European Powers and the advent of the British rule.
 
@@ -139,6 +139,18 @@ PPSC asks about first factories and founders, battles with year and participants
 - Rajiv Ahir, A Brief History of Modern India (Spectrum)
 - Bipan Chandra, History of Modern India
 
+## Asked in PPSC papers — 5 times (in 2 of 3 recent exams)
+
+| Paper | Years asked |
+|---|---|
+| Prelims GS | 2018 (×2), 2025 (×3) |
+
+- [Prelims 2025 · GS Q8](../../past-papers/pre_2025_GS.md#q8) — Which of the following statements is true regarding the appointment of Indians to public offices under the British rule ?
+- [Prelims 2025 · GS Q9](../../past-papers/pre_2025_GS.md#q9) — Indigo cultivation in India declined by the beginning of the 20th century because of :
+- [Prelims 2025 · GS Q82](../../past-papers/pre_2025_GS.md#q82) — Match List-I (Acts) with List-II (Provisions) and select the correct answer from the codes given below :
+- [Prelims 2018 · GS Q85](../../past-papers/pre_2018_GS.md#q85) — The Dastak system which was adopted by the British in the initial stages of their expansion was related to the
+- [Prelims 2018 · GS Q94](../../past-papers/pre_2018_GS.md#q94) — Consider the following statements :
+
 ## Practice MCQs (12)
 
 **1.** The 1717 farman granting the English Company duty-free trade in Bengal was issued by:
@@ -231,6 +243,8 @@ PPSC asks about first factories and founders, battles with year and participants
 **(c) Both 1 and 2** — Both are correct: the Charter Act of 1813 ended the Company's trade monopoly except tea and the China trade, and the Act of 1833 made the Governor-General of Bengal the Governor-General of India. Neither is overstated.
 
 </details>
+
+*Like a real PPSC question: [Prelims 2018 · GS Q94](../../past-papers/pre_2018_GS.md#q94)*
 
 **8.** Consider the following statements: 1. The Treaty of Bhyrowal (1846) placed a British Resident and a council of regency in charge at Lahore. 2. The Battle of Chillianwala was fought during the First Anglo-Sikh War. Which of the statements given above is/are correct?
 

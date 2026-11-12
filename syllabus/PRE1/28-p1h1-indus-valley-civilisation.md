@@ -1,6 +1,6 @@
 # Indus Valley Civilisation
 
-**Paper I — General Studies** › History of India & World History · Subject: Indian History · Priority: Medium
+**Paper I — General Studies** › History of India & World History · Subject: Indian History · Priority: Medium · **Asked by PPSC: 🔥 3× (’18 ’21 ’25)**
 
 > Official syllabus line: The Indus valley civilisation.
 
@@ -157,6 +157,16 @@ Questions are mostly site-feature matching (Great Bath, dockyard, ploughed field
 - NCERT Class 12 Themes in Indian History Part I, Ch 1 (Bricks, Beads and Bones)
 - R.S. Sharma, India's Ancient Past (chapter on Harappan Culture)
 - Upinder Singh, A History of Ancient and Early Medieval India (Harappan chapter)
+
+## Asked in PPSC papers — 3 times 🔥 (in every recent exam)
+
+| Paper | Years asked |
+|---|---|
+| Prelims GS | 2018, 2021, 2025 |
+
+- [Prelims 2025 · GS Q1](../../past-papers/pre_2025_GS.md#q1) — Consider the following statements on ancient history based on archaeological and literary sources :
+- [Prelims 2021 · GS Q72](../../past-papers/pre_2021_GS.md#q72) — Which of the following was/were found in Mohenjodaro ?
+- [Prelims 2018 · GS Q80](../../past-papers/pre_2018_GS.md#q80) — Harappan seals were made mostly of
 
 ## Practice MCQs (12)
 

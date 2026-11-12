@@ -1,6 +1,6 @@
 # Freedom struggle (Punjab focus)
 
-**Paper 4 — GS I: History, Geography, Society** › History · Subject: GS I — History, Geography, Society · Priority: High
+**Paper 4 — GS I: History, Geography, Society** › History · Subject: GS I — History, Geography, Society · Priority: High · **Asked by PPSC: 🔥 6× (’18 ’21 ’26)**
 
 > Official syllabus line: The Freedom Struggle – its various stages and important contributors/contributions from different parts of the country with special reference to Punjab.
 
@@ -135,6 +135,19 @@ Expect questions on Punjab's specific role (Ghadar, Jallianwala, Akali, Bhagat S
 - Harish K. Puri, 'Ghadar Movement: Ideology, Organisation and Strategy'
 - PSEB Class 12 'History of Punjab' (Punjab in the freedom struggle)
 - Rajiv Ahir, 'A Brief History of Modern India'
+
+## Asked in PPSC papers — 6 times 🔥 (in every recent exam)
+
+| Paper | Years asked |
+|---|---|
+| Mains GS1 | 2018, 2021 (×2), 2026 (×3) |
+
+- [Mains 2026 · GS1 Q2](../../past-papers/mains_2026_GS1.md#q2) — Participation of women in Indian National Movement is generally regarded as a feature of Gandhian Movements but it was not limited to the Gandhian Movements onl
+- [Mains 2026 · GS1 Q4](../../past-papers/mains_2026_GS1.md#q4) — The Amritsar massacre left a scar on the Indo-British relations which could never be erased. Analyse.
+- [Mains 2026 · GS1 Q11](../../past-papers/mains_2026_GS1.md#q11) — Bhagat Singh was not merely a martyr but also a thinker who left behind a rich intellectual legacy. Elucidate.
+- [Mains 2021 · GS1 Q2(b)](../../past-papers/mains_2021_GS1.md#q2-b) — The Gurudwara Reform Movement of Punjab made an important contribution towards India's freedom struggle. Discuss.
+- [Mains 2021 · GS1 Q3](../../past-papers/mains_2021_GS1.md#q3) — What were the circumstances that led Mahatma Gandhi to start the Non-cooperation Movement? Examine its contribution to India's struggle for freedom.
+- [Mains 2018 · GS1 Q3](../../past-papers/mains_2018_GS1.md#q3) — Describe the contribution of revolutionary activities outside India with special reference to Ghadar Party and Udham Singh.
 
 ## Mains practice questions (3)
 

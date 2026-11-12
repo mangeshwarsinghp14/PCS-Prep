@@ -1,6 +1,6 @@
 # Regions, agro-climatic zones, rivers
 
-**Paper I — General Studies** › Punjab · Subject: Punjab Geography · Priority: High
+**Paper I — General Studies** › Punjab · Subject: Punjab Geography · Priority: High · **Asked by PPSC: 🔁 3× (’18 ’21)**
 
 > Official syllabus line: Geography: geographical and agro-climatic regions, rivers.
 
@@ -138,6 +138,16 @@ PPSC asks direct facts: which river flows where, confluences, doabs, regions, bo
 - Punjab Economic Survey 2025-26 (state profile)
 - PAU Package of Practices (agro-climatic zones)
 - ISFR 2023 and Ramsar site list (MoEFCC)
+
+## Asked in PPSC papers — 3 times (in 2 of 3 recent exams)
+
+| Paper | Years asked |
+|---|---|
+| Prelims GS | 2018 (×2), 2021 |
+
+- [Prelims 2021 · GS Q29](../../past-papers/pre_2021_GS.md#q29) — Consider the following statements :
+- [Prelims 2018 · GS Q12](../../past-papers/pre_2018_GS.md#q12) — What is the zoological name of the State bird of Punjab ?
+- [Prelims 2018 · GS Q15](../../past-papers/pre_2018_GS.md#q15) — Match the agro-climatic zone given in column 'A' with its area given in column 'B' :
 
 ## Practice MCQs (16)
 
@@ -280,6 +290,8 @@ Which of the statements given above are correct?
 **(b) 2 and 3 only** — Bathinda, Mansa, Muktsar and Fazilka form the western zone, and the Shivalik foothill districts form the sub-mountain undulating zone. Ludhiana lies in the central plain zone with Amritsar, Jalandhar and Patiala, not in the western plain (Ferozepur, Moga, Faridkot). (PAU, Ludhiana zoning)
 
 </details>
+
+*Like a real PPSC question: [Prelims 2018 · GS Q15](../../past-papers/pre_2018_GS.md#q15)*
 
 **11.** Consider the following statements:  
 1. The Chakki stream joins the Ravi near Pathankot.  

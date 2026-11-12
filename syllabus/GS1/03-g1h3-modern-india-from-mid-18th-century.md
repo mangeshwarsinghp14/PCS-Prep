@@ -1,6 +1,6 @@
 # Modern India from mid-18th century
 
-**Paper 4 — GS I: History, Geography, Society** › History · Subject: GS I — History, Geography, Society · Priority: High
+**Paper 4 — GS I: History, Geography, Society** › History · Subject: GS I — History, Geography, Society · Priority: High · **Asked by PPSC: 🔁 1× (’21)**
 
 > Official syllabus line: Modern Indian history from the middle of the eighteenth century until the present – significant events, personalities and issues.
 
@@ -143,6 +143,14 @@ Questions span the whole period: British expansion, economic critique, phases of
 - Bipan Chandra et al., 'India's Struggle for Independence'
 - Bipan Chandra, Mridula Mukherjee, Aditya Mukherjee, 'India Since Independence'
 - Sekhar Bandyopadhyay, 'From Plassey to Partition and After'
+
+## Asked in PPSC papers — 1 time (in 1 of 3 recent exams)
+
+| Paper | Years asked |
+|---|---|
+| Mains GS1 | 2021 |
+
+- [Mains 2021 · GS1 Q2(a)](../../past-papers/mains_2021_GS1.md#q2-a) — Analyse the role of Pre-Congress Political Associations in rise of political consciousness in India.
 
 ## Mains practice questions (3)
 

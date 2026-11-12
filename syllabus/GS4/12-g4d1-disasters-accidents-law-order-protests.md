@@ -1,6 +1,6 @@
 # Disasters, accidents, law & order, protests
 
-**Paper 7 — GS IV: S&T, Environment, Problem Solving** › Situations in Civil Service — Problem Solving & Decision Making · Subject: GS IV — S&T, Environment, Problem solving · Priority: High
+**Paper 7 — GS IV: S&T, Environment, Problem Solving** › Situations in Civil Service — Problem Solving & Decision Making · Subject: GS IV — S&T, Environment, Problem solving · Priority: High · **Asked by PPSC: 🔁 1× (’26)**
 
 > Official syllabus line: Tackling natural disasters, major accidents, law and order, controlling riots, handling public protests and dharnas.
 
@@ -132,6 +132,14 @@ PPSC case studies test what an SDM would actually do, in sequence, within the la
 - Bharatiya Nagarik Suraksha Sanhita 2023 (Sections 148–150, 163) — bare act
 - Second ARC Reports: 'Crisis Management' (3rd) and 'Public Order' (5th)
 - Lexicon for Ethics, Integrity and Aptitude (case-study chapters) and NDMA crowd management guide
+
+## Asked in PPSC papers — 1 time (in 1 of 3 recent exams)
+
+| Paper | Years asked |
+|---|---|
+| Mains GS4 | 2026 |
+
+- [Mains 2026 · GS4 Q10](../../past-papers/mains_2026_GS4.md#q10) — Advocate for revitalizing police operations through adoption of predictive analytics, body cameras for accountability, and neighbourhood watch integrations to b
 
 ## Mains practice questions (3)
 

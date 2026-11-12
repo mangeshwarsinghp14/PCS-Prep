@@ -4,6 +4,8 @@ Held 2026-04-01. 12 questions. Three parts (A, B, C) with four topics each; atte
 
 Sources: [1](https://o2iasacademy.in/resources/punjab-pcs-previous-year-question-papers-pdfs-9506/) · [2](https://drive.google.com/file/d/1Kwl6kTlI9Y7cKG6smnTTEiaPc4Sa3uLQ/view) · [3](https://www.adda247.com/exams/punjab/punjab-pcs-exam-date-2025/)
 
+<a id="qa1"></a>
+
 **QA1.** Social Media as a Tool of Empowerment or Surveillance: A Governance Paradox. *(50 marks, 800 words)*
 
 <details><summary>Model answer points</summary>
@@ -30,6 +32,10 @@ Sources: [1](https://o2iasacademy.in/resources/punjab-pcs-previous-year-question
 Topic: [notes](../syllabus/MES/01-es1-three-short-essays.md)
 
 </details>
+
+*↻ **Same theme also asked:** [Mains 2018 · Essay Q2](mains_2018_ESSAY.md#q2) · Topic asked 24× (2018, 2021, 2026) 🔥*
+
+<a id="qa2"></a>
 
 **QA2.** Artificial Intelligence: A Tool of Human Progress or Challenge to Human Values? *(50 marks, 800 words)*
 
@@ -58,6 +64,10 @@ Topic: [notes](../syllabus/MES/01-es1-three-short-essays.md)
 
 </details>
 
+*↻ **Same theme also asked:** [Mains 2018 · Essay Q4](mains_2018_ESSAY.md#q4) · Topic asked 24× (2018, 2021, 2026) 🔥*
+
+<a id="qa3"></a>
+
 **QA3.** Digital innovation in administration must be tempered by ethical vigilance to prevent societal divides. *(50 marks, 800 words)*
 
 <details><summary>Model answer points</summary>
@@ -84,6 +94,10 @@ Topic: [notes](../syllabus/MES/01-es1-three-short-essays.md)
 Topic: [notes](../syllabus/MES/01-es1-three-short-essays.md)
 
 </details>
+
+*Topic asked 24× (2018, 2021, 2026) 🔥*
+
+<a id="qa4"></a>
 
 **QA4.** Can technology alone solve India's environmental crises, or is behavioural change more crucial? *(50 marks, 800 words)*
 
@@ -112,6 +126,10 @@ Topic: [notes](../syllabus/MES/01-es1-three-short-essays.md)
 
 </details>
 
+*Topic asked 24× (2018, 2021, 2026) 🔥*
+
+<a id="qb1"></a>
+
 **QB1.** In an age of constant connectivity, silence has become the rarest form of freedom. *(50 marks, 800 words)*
 
 <details><summary>Model answer points</summary>
@@ -138,6 +156,10 @@ Topic: [notes](../syllabus/MES/01-es1-three-short-essays.md)
 Topic: [notes](../syllabus/MES/01-es1-three-short-essays.md)
 
 </details>
+
+*Topic asked 24× (2018, 2021, 2026) 🔥*
+
+<a id="qb2"></a>
 
 **QB2.** The greatest danger to progress is not resistance to change, but unthinking acceptance of it. *(50 marks, 800 words)*
 
@@ -166,6 +188,10 @@ Topic: [notes](../syllabus/MES/01-es1-three-short-essays.md)
 
 </details>
 
+*Topic asked 24× (2018, 2021, 2026) 🔥*
+
+<a id="qb3"></a>
+
 **QB3.** When speed becomes a virtue, reflection turns into a liability. *(50 marks, 800 words)*
 
 <details><summary>Model answer points</summary>
@@ -192,6 +218,10 @@ Topic: [notes](../syllabus/MES/01-es1-three-short-essays.md)
 Topic: [notes](../syllabus/MES/01-es1-three-short-essays.md)
 
 </details>
+
+*Topic asked 24× (2018, 2021, 2026) 🔥*
+
+<a id="qb4"></a>
 
 **QB4.** Civilisations advance not merely by what they create, but by what they choose to restrain. *(50 marks, 800 words)*
 
@@ -220,6 +250,10 @@ Topic: [notes](../syllabus/MES/01-es1-three-short-essays.md)
 
 </details>
 
+*Topic asked 24× (2018, 2021, 2026) 🔥*
+
+<a id="qc1"></a>
+
 **QC1.** True empowerment of the marginalized lies not in policies alone, but in empathetic and decisive administrative action. *(50 marks, 800 words)*
 
 <details><summary>Model answer points</summary>
@@ -246,6 +280,10 @@ Topic: [notes](../syllabus/MES/01-es1-three-short-essays.md)
 Topic: [notes](../syllabus/MES/01-es1-three-short-essays.md)
 
 </details>
+
+*Topic asked 24× (2018, 2021, 2026) 🔥*
+
+<a id="qc2"></a>
 
 **QC2.** India's growth story is service-led rather than manufacturing-led. Is this sustainable for long-term employment generation? *(50 marks, 800 words)*
 
@@ -274,6 +312,10 @@ Topic: [notes](../syllabus/MES/01-es1-three-short-essays.md)
 
 </details>
 
+*Topic asked 24× (2018, 2021, 2026) 🔥*
+
+<a id="qc3"></a>
+
 **QC3.** "Punjab's fiscal health is strained by subsidies, debt, and limited revenue generation." Critically assess whether current fiscal policies are sustainable, and suggest reforms that balance welfare needs with long-term economic stability. *(50 marks, 800 words)*
 
 <details><summary>Model answer points</summary>
@@ -301,6 +343,10 @@ Topic: [notes](../syllabus/MES/01-es1-three-short-essays.md)
 
 </details>
 
+*Topic asked 24× (2018, 2021, 2026) 🔥*
+
+<a id="qc4"></a>
+
 **QC4.** Without inclusive and quality development of human capital, the demographic dividend risks becoming a demographic burden. *(50 marks, 800 words)*
 
 <details><summary>Model answer points</summary>
@@ -327,3 +373,5 @@ Topic: [notes](../syllabus/MES/01-es1-three-short-essays.md)
 Topic: [notes](../syllabus/MES/01-es1-three-short-essays.md)
 
 </details>
+
+*Topic asked 24× (2018, 2021, 2026) 🔥*

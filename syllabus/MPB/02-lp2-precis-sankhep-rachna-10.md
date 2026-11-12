@@ -1,6 +1,6 @@
 # Precis — sankhep rachna (10)
 
-**Paper 1 — Punjabi (Gurmukhi), 10+2 standard** › ਪੰਜਾਬੀ · Subject: Language papers (Punjabi & English) · Priority: Medium
+**Paper 1 — Punjabi (Gurmukhi), 10+2 standard** › ਪੰਜਾਬੀ · Subject: Language papers (Punjabi & English) · Priority: Medium · **Asked by PPSC: 🔁 1× (’26)**
 
 > Official syllabus line: Summary of a passage in about one-third of its words.
 
@@ -108,6 +108,14 @@ A Punjabi passage is to be reduced to about one-third with a title. Examiners re
 - PSEB Punjabi Vyakaran ate Lekh Rachna (ਸੰਖੇਪ ਰਚਨਾ chapter)
 - PSEB Class 11-12 Punjabi (Compulsory) grammar book
 - PPSC Mains Punjabi previous papers
+
+## Asked in PPSC papers — 1 time (in 1 of 3 recent exams)
+
+| Paper | Years asked |
+|---|---|
+| Mains Punjabi | 2026 |
+
+- [Mains 2026 · Punjabi Q2](../../past-papers/mains_2026_PUN.md#q2) — ਪ੍ਰਸ਼ਨ 2: ਹੇਠ ਲਿਖੇ ਪੈਰ੍ਹੇ ਦੀ ਇਕ-ਤਿਹਾਈ ਸ਼ਬਦਾਂ ਵਿੱਚ ਸੰਖੇਪ ਰਚਨਾ ਕਰੋ ਅਤੇ ਪੈਰ੍ਹੇ ਦਾ ਢੁਕਵਾਂ ਸਿਰਲੇਖ ਵੀ ਦਿਓ। (8+2=10) [Passage of about 225 words, not reproduced — on t
 
 ## Mains practice questions (7)
 

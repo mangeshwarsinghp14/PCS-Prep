@@ -1,6 +1,6 @@
 # Water resources
 
-**Paper I — General Studies** › Geography · Subject: Geography · Priority: Medium
+**Paper I — General Studies** › Geography · Subject: Geography · Priority: Medium · **Asked by PPSC: 🔥 6× (’18 ’21 ’25)**
 
 > Official syllabus line: Water resources.
 
@@ -114,6 +114,19 @@ Questions test water availability figures, irrigation sources by region, traditi
 - NCERT Class 12 'India: People and Economy' Ch 6 (Water Resources)
 - NCERT Class 10 'Contemporary India II' Ch 3 (Water Resources)
 - Central Ground Water Board - Dynamic Ground Water Resources Assessment reports
+
+## Asked in PPSC papers — 6 times 🔥 (in every recent exam)
+
+| Paper | Years asked |
+|---|---|
+| Prelims GS | 2018 (×2), 2021 (×3), 2025 |
+
+- [Prelims 2025 · GS Q73](../../past-papers/pre_2025_GS.md#q73) — What is the correct East-to-West order of the following rivers of India ?
+- [Prelims 2021 · GS Q25](../../past-papers/pre_2021_GS.md#q25) — The Bureau of Indian Standards has prepared a draft standard for the supply of piped drinking water, named as "Drinking Water Supply Quality Management System-r
+- [Prelims 2021 · GS Q82](../../past-papers/pre_2021_GS.md#q82) — Match the following pairs : State — Dams and Reservoirs
+- [Prelims 2021 · GS Q92](../../past-papers/pre_2021_GS.md#q92) — Consider the following statements :
+- [Prelims 2018 · GS Q16](../../past-papers/pre_2018_GS.md#q16) — Read the following statements :
+- [Prelims 2018 · GS Q19](../../past-papers/pre_2018_GS.md#q19) — What are the benefits of implementing the "Integrated Watershed Development Programme" ?
 
 ## Practice MCQs (12)
 

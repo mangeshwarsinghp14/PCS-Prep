@@ -1,6 +1,6 @@
 # Statistical analysis, graphs & diagrams
 
-**Paper 6 — GS III: Economy, Statistics, Security** › Statistics · Subject: GS III — Economy, Statistics, Security · Priority: High
+**Paper 6 — GS III: Economy, Statistics, Security** › Statistics · Subject: GS III — Economy, Statistics, Security · Priority: High · **Asked by PPSC: 🔥 12× (’18 ’21 ’26)**
 
 > Official syllabus line: Ability to draw conclusions from information presented in statistical, graphical or diagrammatical form and to interpret it.
 
@@ -139,9 +139,30 @@ PPSC gives tables or charts and asks for computation plus interpretation; marks 
 - Punjab Economic Survey 2025-26 statistical appendix
 - PLFS Annual Report - concepts and definitions chapter
 
+## Asked in PPSC papers — 12 times 🔥 (in every recent exam)
+
+| Paper | Years asked |
+|---|---|
+| Mains GS3 | 2018 (×4), 2021 (×3), 2026 (×5) |
+
+- [Mains 2026 · GS3 Q5](../../past-papers/mains_2026_GS3.md#q5) — An analysis of monthly wages paid to the workers of two firms A and B belonging to the same industry gives the following results: Firm A — No. of workers 500, A
+- [Mains 2026 · GS3 Q6(a)](../../past-papers/mains_2026_GS3.md#q6-a) — Two welfare schemes show the following distribution of welfare benefits: Scheme A — Mean Rs 10,000, SD Rs 2,000; Scheme B — Mean Rs 25,000, SD Rs 4,000. Using t
+- [Mains 2026 · GS3 Q6(b)](../../past-papers/mains_2026_GS3.md#q6-b) — Correlation coefficients among three variables are given below: Motivation–Attendance 0.62; Motivation–Achievement 0.58; Attendance–Achievement 0.71 (each varia
+- [Mains 2026 · GS3 Q16](../../past-papers/mains_2026_GS3.md#q16) — The bar graph shows the income and expenditure (in million INR) of five companies in the year 2001. Expenditure / Income: M 45 / 35; N 40 / 50; P 45 / 40; Q 30 
+- [Mains 2026 · GS3 Q17](../../past-papers/mains_2026_GS3.md#q17) — Two bar graphs show (i) the amount invested by a company in raw materials and (ii) the value of sales of finished goods (Rs in lakh) for 1995–2000. Raw material
+- [Mains 2021 · GS3 Q15](../../past-papers/mains_2021_GS3.md#q15) — Consider the following loan (in '000 Rs.) extended by various lending institutions.
+- [Mains 2021 · GS3 Q16](../../past-papers/mains_2021_GS3.md#q16) — Based on the given data, answer the following questions:
+- [Mains 2021 · GS3 Q17](../../past-papers/mains_2021_GS3.md#q17) — The following charts depict the distribution of tourists to India from various countries in year 2018 along with their age distribution. [Pie chart 'Tourists to
+- [Mains 2018 · GS3 Q13](../../past-papers/mains_2018_GS3.md#q13) — The following data gives 2007 Gross Domestic Product (GDP) in billions of dollars for all 50 States of US. The data are entered in the alphabetical order of the
+- [Mains 2018 · GS3 Q14](../../past-papers/mains_2018_GS3.md#q14) — Study the data given in the following multiple bar chart which shows the production, export and import (in million kg) of various commodities by Country X and a
+- [Mains 2018 · GS3 Q15(a)](../../past-papers/mains_2018_GS3.md#q15-a) — The mean monthly salary paid to all employees in a certain company was Rs.600/-. The mean monthly salaries paid to male and female employees were Rs.620/- and R
+- [Mains 2018 · GS3 Q15(b)](../../past-papers/mains_2018_GS3.md#q15-b) — The mean and standard deviation of marks of 50 students was 40 and 10 respectively. On the valid complaint of cheating in examination, the controller of examina
+
 ## Mains practice questions (3)
 
 **1.** Worked DI 1 (hypothetical data). Wheat in State X. Table: Year | Area (lakh ha) | Production (lakh tonnes) -- 2020-21 | 35.0 | 175.0 ; 2021-22 | 35.0 | 150.5 ; 2022-23 | 34.5 | 165.6 ; 2023-24 | 35.0 | 182.0. (a) Find yield for each year. (b) % change in production from 2020-21 to 2021-22 and from 2022-23 to 2023-24. (c) Average production. (d) CAGR of production 2020-21 to 2023-24. (e) What does the data suggest?
+
+*Like a real PPSC question: [Mains 2018 · GS3 Q14](../../past-papers/mains_2018_GS3.md#q14)*
 
 <details><summary>Answer outline</summary>
 

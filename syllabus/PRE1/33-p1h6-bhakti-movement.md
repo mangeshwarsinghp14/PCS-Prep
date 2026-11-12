@@ -1,6 +1,6 @@
 # Bhakti movement
 
-**Paper I — General Studies** › History of India & World History · Subject: Indian History · Priority: Medium
+**Paper I — General Studies** › History of India & World History · Subject: Indian History · Priority: Medium · **Asked by PPSC: 🔁 1× (’18)**
 
 > Official syllabus line: The Bhakti Movement.
 
@@ -124,6 +124,14 @@ Expect saint–region–philosophy–text matching, nirguna vs saguna classifica
 - NCERT Class 12 Themes in Indian History Part II, Ch 6 (Bhakti-Sufi Traditions)
 - NCERT Class 7 Our Pasts II, Ch 8 (Devotional Paths to the Divine)
 - Satish Chandra, History of Medieval India (chapter on Bhakti and Sufi movements)
+
+## Asked in PPSC papers — 1 time (in 1 of 3 recent exams)
+
+| Paper | Years asked |
+|---|---|
+| Prelims GS | 2018 |
+
+- [Prelims 2018 · GS Q86](../../past-papers/pre_2018_GS.md#q86) — Who among the following was the reformer and philosopher from Ramanandi Sampradaya in the lineage of Jagadguru Ramanandacharya ?
 
 ## Practice MCQs (12)
 

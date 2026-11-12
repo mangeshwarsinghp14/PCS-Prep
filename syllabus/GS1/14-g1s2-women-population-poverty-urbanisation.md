@@ -1,6 +1,6 @@
 # Women, population, poverty, urbanisation
 
-**Paper 4 — GS I: History, Geography, Society** › Society · Subject: GS I — History, Geography, Society · Priority: High
+**Paper 4 — GS I: History, Geography, Society** › Society · Subject: GS I — History, Geography, Society · Priority: High · **Asked by PPSC: 🔥 6× (’18 ’21 ’26)**
 
 > Official syllabus line: Role of women and women's organization, population and associated issues, poverty and developmental issues, urbanization, their problems and their remedies.
 
@@ -127,9 +127,24 @@ Mains questions pair a social issue with remedies: women's organisations and emp
 - NITI Aayog, 'Multidimensional Poverty in India since 2005-06' (2024)
 - Census of India 2011 and Economic Survey of India (social infrastructure chapter)
 
+## Asked in PPSC papers — 6 times 🔥 (in every recent exam)
+
+| Paper | Years asked |
+|---|---|
+| Mains GS1 | 2018 (×2), 2021 (×2), 2026 (×2) |
+
+- [Mains 2026 · GS1 Q17](../../past-papers/mains_2026_GS1.md#q17) — Discuss the role of Women's organizations and Self-Help Groups (SHGs) in Punjab in strengthening agrarian economy and social development.
+- [Mains 2026 · GS1 Q18](../../past-papers/mains_2026_GS1.md#q18) — Elucidate the causes and consequences of declining sex ratio in Punjab. Suggest some measures to curtail it.
+- [Mains 2021 · GS1 Q12(a)](../../past-papers/mains_2021_GS1.md#q12-a) — Critically examine the process of urbanisation in Punjab.
+- [Mains 2021 · GS1 Q12(b)](../../past-papers/mains_2021_GS1.md#q12-b) — Discuss the role of women in the ongoing agrarian upsurge.
+- [Mains 2018 · GS1 Q11](../../past-papers/mains_2018_GS1.md#q11) — Describe the changing patterns of rural-urban demography in India.
+- [Mains 2018 · GS1 Q15](../../past-papers/mains_2018_GS1.md#q15) — Critically examine the causes and consequences of increasing atrocities against women despite the existence of stringent laws.
+
 ## Mains practice questions (3)
 
 **1.** Assess the role of women's organisations and self-help groups in the empowerment of women in India. (250 words)
+
+*Like a real PPSC question: [Mains 2026 · GS1 Q17](../../past-papers/mains_2026_GS1.md#q17)*
 
 <details><summary>Answer outline</summary>
 
@@ -158,6 +173,8 @@ Mains questions pair a social issue with remedies: women's organisations and emp
 </details>
 
 **3.** Identify the major problems of urbanisation in India and suggest remedies. (150 words)
+
+*Like a real PPSC question: [Mains 2021 · GS1 Q12(a)](../../past-papers/mains_2021_GS1.md#q12-a)*
 
 <details><summary>Answer outline</summary>
 

@@ -1,6 +1,6 @@
 # Municipal services, water, sanitation, slums
 
-**Paper 7 — GS IV: S&T, Environment, Problem Solving** › Situations in Civil Service — Problem Solving & Decision Making · Subject: GS IV — S&T, Environment, Problem solving · Priority: High
+**Paper 7 — GS IV: S&T, Environment, Problem Solving** › Situations in Civil Service — Problem Solving & Decision Making · Subject: GS IV — S&T, Environment, Problem solving · Priority: High · **Asked by PPSC: 🔥 6× (’18 ’21 ’26)**
 
 > Official syllabus line: Managing and financing municipal services (solid waste management); conservation of water and forests; pollution control; urban slums and housing; urban/rural drinking water and sanitation.
 
@@ -120,6 +120,22 @@ Cases revolve around garbage crises, polluted drains/ponds and slum evictions. R
 - Second ARC 6th Report 'Local Governance'; 15th Finance Commission report (local bodies chapter)
 - NGT orders on solid and liquid waste compliance by Punjab (2022) — news summaries
 - PMAY-U 2.0, SBM-U 2.0, AMRUT 2.0 and JJM guidelines (official portals)
+
+## Asked in PPSC papers — 6 times 🔥 (in every recent exam)
+
+| Paper | Years asked |
+|---|---|
+| Mains GS4 | 2021 (×2), 2026 (×2) |
+| Mains GS2 | 2018 (×2) |
+
+- [Mains 2026 · GS4 Q9](../../past-papers/mains_2026_GS4.md#q9) — Assess the multifaceted challenges in managing urban solid waste in your state, including inadequate infrastructure, low recycling rates, and public apathy towa  
+  ↻ *Same theme also asked:* [Mains 2018 · GS2 Q14(a)](../../past-papers/mains_2018_GS2.md#q14-a)
+- [Mains 2026 · GS4 Q20](../../past-papers/mains_2026_GS4.md#q20) — A district in Punjab has been facing severe water shortage. The District Collector has been mobilizing his subordinate officials to conserve the remaining water
+- [Mains 2021 · GS4 Q9](../../past-papers/mains_2021_GS4.md#q9) — Why sanitation is a big challenge for India? How technology can play role in providing better sanitation services?
+- [Mains 2021 · GS4 Q16](../../past-papers/mains_2021_GS4.md#q16) — The over use of pesticides in farming has increased the water, air, and soil pollution levels which has affected the human health by causing some serious ailmen
+- [Mains 2018 · GS2 Q12](../../past-papers/mains_2018_GS2.md#q12) — Urban Slums pose a serious challenge before the urban planners. According to an estimate by 2030, 50% of India’s population would reside in urban areas. The imp
+- [Mains 2018 · GS2 Q14(a)](../../past-papers/mains_2018_GS2.md#q14-a) — The disposal of solid waste in any urban conglomerate is a formidable task. Evaluate in the context of your State.  
+  ↻ *Same theme also asked:* [Mains 2026 · GS4 Q9](../../past-papers/mains_2026_GS4.md#q9)
 
 ## Mains practice questions (3)
 

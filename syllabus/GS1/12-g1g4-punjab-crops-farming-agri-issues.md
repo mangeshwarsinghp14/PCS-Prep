@@ -1,6 +1,6 @@
 # Punjab crops, farming, agri issues
 
-**Paper 4 — GS I: History, Geography, Society** › Geography · Subject: GS I — History, Geography, Society · Priority: High
+**Paper 4 — GS I: History, Geography, Society** › Geography · Subject: GS I — History, Geography, Society · Priority: High · **Asked by PPSC: 🔥 4× (’18 ’21 ’26)**
 
 > Official syllabus line: Crops of Punjab; modern concepts of farming; problems faced by agriculturists / issues in agriculture: depletion of ground water etc.
 
@@ -125,6 +125,17 @@ Expect questions on the wheat-paddy cycle, groundwater depletion, stubble burnin
 - PAU 'Package of Practices for Kharif and Rabi Crops'
 - CGWB 'Dynamic Ground Water Resources of India' reports
 - Johl Committee reports on agricultural diversification (1986, 2002)
+
+## Asked in PPSC papers — 4 times 🔥 (in every recent exam)
+
+| Paper | Years asked |
+|---|---|
+| Mains GS1 | 2018, 2021, 2026 (×2) |
+
+- [Mains 2026 · GS1 Q7](../../past-papers/mains_2026_GS1.md#q7) — Assess the status of water resources in Punjab. What are the key ecological and socio-economic challenges emerging from their overexploitation?
+- [Mains 2026 · GS1 Q8](../../past-papers/mains_2026_GS1.md#q8) — Discuss the issues affecting agricultural productivity and sustainability in Punjab.
+- [Mains 2021 · GS1 Q10(d)](../../past-papers/mains_2021_GS1.md#q10-d) — Write brief note on: Corporate Farming.
+- [Mains 2018 · GS1 Q6](../../past-papers/mains_2018_GS1.md#q6) — What is groundwater crisis in Punjab? How its depletion creates water crisis in Punjab; relate with the cropping pattern.
 
 ## Mains practice questions (3)
 

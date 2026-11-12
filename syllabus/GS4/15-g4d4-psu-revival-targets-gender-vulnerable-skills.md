@@ -1,6 +1,6 @@
 # PSU revival, targets, gender, vulnerable, skills
 
-**Paper 7 — GS IV: S&T, Environment, Problem Solving** › Situations in Civil Service — Problem Solving & Decision Making · Subject: GS IV — S&T, Environment, Problem solving · Priority: High
+**Paper 7 — GS IV: S&T, Environment, Problem Solving** › Situations in Civil Service — Problem Solving & Decision Making · Subject: GS IV — S&T, Environment, Problem solving · Priority: High · **Asked by PPSC: 🔁 4× (’18 ’26)**
 
 > Official syllabus line: Reviving a loss-making PSU; planning and target achievement; gender sensitisation and women empowerment; empowerment of vulnerable sections; improving education and skill development.
 
@@ -119,6 +119,18 @@ Cases test managerial skill (turnaround plan, targets) and sensitivity (gender, 
 - Second ARC Reports (12th 'Citizen Centric Administration', 10th 'Refurbishing of Personnel Administration')
 - NEP 2020 document; Ministry of Women and Child Development annual report
 - Punjab Economic Survey 2025-26 and Punjab Budget 2026-27 speech
+
+## Asked in PPSC papers — 4 times (in 2 of 3 recent exams)
+
+| Paper | Years asked |
+|---|---|
+| Mains GS4 | 2026 (×2) |
+| Mains GS2 | 2018 (×2) |
+
+- [Mains 2026 · GS4 Q17](../../past-papers/mains_2026_GS4.md#q17) — As Secretary of Punjab's Finance Department, you are navigating a severe fiscal crunch triggered by declining GST collections from agricultural slowdowns and in
+- [Mains 2026 · GS4 Q19](../../past-papers/mains_2026_GS4.md#q19) — In Punjab, teacher recruitment processes for government schools have been mired in prolonged legal battles, resulting in vacant posts and overburdened staff aff
+- [Mains 2018 · GS2 Q11](../../past-papers/mains_2018_GS2.md#q11) — Public Sector Undertakings have been the mainstay of India’s industrialization thrust. The same model was accepted by the States of the Union. However, over a p
+- [Mains 2018 · GS2 Q13](../../past-papers/mains_2018_GS2.md#q13) — The latest World Health Report (2018) claimed that India is the second-most “unequal country” in the world in terms of income inequalities. India’s average nati
 
 ## Mains practice questions (3)
 

@@ -1,6 +1,6 @@
 # Grammar — vyakaran (50)
 
-**Paper 1 — Punjabi (Gurmukhi), 10+2 standard** › ਪੰਜਾਬੀ · Subject: Language papers (Punjabi & English) · Priority: High
+**Paper 1 — Punjabi (Gurmukhi), 10+2 standard** › ਪੰਜਾਬੀ · Subject: Language papers (Punjabi & English) · Priority: High · **Asked by PPSC: 🔁 18× (’21 ’26)**
 
 > Official syllabus line: ਵਿਆਕਰਣ — Section B, 50 marks.
 
@@ -231,6 +231,31 @@ Section B (50 marks) has many short items: meanings and sentence use of ਮੁ�
 - PSEB Class 11-12 Punjabi (Compulsory) Vyakaran
 - Punjabi University, Patiala: Punjabi grammar and spelling guides (ਸ਼ਬਦ-ਜੋੜ ਕੋਸ਼)
 - PPSC Mains Punjabi previous papers (Section B)
+
+## Asked in PPSC papers — 18 times (in 2 of 3 recent exams)
+
+| Paper | Years asked |
+|---|---|
+| Mains Punjabi | 2021 (×9), 2026 (×9) |
+
+- [Mains 2026 · Punjabi Q7](../../past-papers/mains_2026_PUN.md#q7) — ਪ੍ਰਸ਼ਨ 7: ਹੇਠ ਲਿਖੇ ਮੁਹਾਵਰਿਆਂ ਨੂੰ ਵਾਕਾਂ ਵਿੱਚ ਵਰਤੋ:
+- [Mains 2026 · Punjabi Q8](../../past-papers/mains_2026_PUN.md#q8) — ਪ੍ਰਸ਼ਨ 8: ਹੇਠ ਲਿਖੇ ਬਹੁਤੇ ਸ਼ਬਦਾਂ ਦੀ ਥਾਂ ਇਕ ਸ਼ਬਦ ਲਿਖੋ:
+- [Mains 2026 · Punjabi Q9](../../past-papers/mains_2026_PUN.md#q9) — ਪ੍ਰਸ਼ਨ 9: ਹੇਠ ਲਿਖੇ ਸ਼ਬਦਾਂ ਦੇ ਦੋ-ਦੋ ਸਮਾਨਾਰਥਕ ਸ਼ਬਦ ਲਿਖੋ: ੳ. ਓੜਕ  ਅ. ਇਕਰਾਰ  ੲ. ਸਭਿਅਤਾ  ਸ. ਸਵਾਰਥ  ਹ. ਠਰੰਮਾ
+- [Mains 2026 · Punjabi Q10](../../past-papers/mains_2026_PUN.md#q10) — ਪ੍ਰਸ਼ਨ 10: ਹੇਠ ਲਿਖੇ ਸ਼ਬਦਾਂ ਦੇ ਵਿਰੋਧੀ ਸ਼ਬਦ ਲਿਖੋ: ੳ. ਪੁੱਟਣਾ  ਅ. ਮੰਨਣਾ  ੲ. ਉੱਸਰਨਾ  ਸ. ਸਲਾਹੁਣਾ  ਹ. ਬੇਹਾ
+- [Mains 2026 · Punjabi Q11](../../past-papers/mains_2026_PUN.md#q11) — ਪ੍ਰਸ਼ਨ 11: ਹੇਠ ਲਿਖੇ ਸ਼ਬਦਾਂ ਦਾ ਸ਼ੁੱਧ ਰੂਪ ਲਿਖੋ: ੳ. ਸੁਖ਼ਸ਼ੀਅਤ  ਅ. ਜਹਾਜ੍ਹ  ੲ. ਫ਼ਤਹ  ਸ. ਦਪੈਹੁਰ  ਹ. ਇਜ਼ਾਜਤ
+- [Mains 2026 · Punjabi Q12](../../past-papers/mains_2026_PUN.md#q12) — ਪ੍ਰਸ਼ਨ 12: ਹੇਠ ਲਿਖੇ ਅਗੇਤਰ ਲਾ ਕੇ ਸ਼ਬਦ ਬਣਾਓ: ਨਿ, ਪੜ, ਨਿਸ਼, ਦੁਰ, ਬਾ
+- [Mains 2026 · Punjabi Q13](../../past-papers/mains_2026_PUN.md#q13) — ਪ੍ਰਸ਼ਨ 13: ਹੇਠ ਲਿਖੇ ਕਿਰਿਆ ਸ਼ਬਦਾਂ ਤੋਂ ਭਾਵਵਾਚਕ ਨਾਂਵ ਬਣਾਓ: ੳ. ਉਜੜ  ਅ. ਵੱਢਣ  ੲ. ਗਿਣ  ਸ. ਚੜ੍ਹ  ਹ. ਜਣ
+- [Mains 2026 · Punjabi Q14](../../past-papers/mains_2026_PUN.md#q14) — ਪ੍ਰਸ਼ਨ 14: ਹੇਠ ਲਿਖੇ ਵਾਕਾਂ ਨੂੰ ਸਹੀ ਵਿਸਰਾਮ ਚਿੰਨ੍ਹ ਲਾ ਕੇ ਲਿਖੋ:
+- [Mains 2026 · Punjabi Q15](../../past-papers/mains_2026_PUN.md#q15) — ਪ੍ਰਸ਼ਨ 15: ਬ੍ਰੈਕਟ ਵਿੱਚ ਦਿੱਤੀਆਂ ਹਦਾਇਤਾਂ ਅਨੁਸਾਰ ਉੱਤਰ ਦਿਓ:
+- [Mains 2021 · Punjabi Q6](../../past-papers/mains_2021_PUN.md#q6) — ਹੇਠ ਲਿਖੇ ਸ਼ਬਦਾਂ ਨੂੰ ਵਾਕਾਂ ਵਿਚ ਇਸ ਤਰ੍ਹਾਂ ਵਰਤੋ ਕਿ ਅਰਥ ਸਪਸ਼ਟ ਹੋ ਜਾਣ: 1) ਪਿੜ 2) ਮਾਲ੍ਹ 3) ਕੁੱਪ 4) ਤੱਕਲਾ 5) ਗੁਹਾਰਾ
+- [Mains 2021 · Punjabi Q7](../../past-papers/mains_2021_PUN.md#q7) — ਹੇਠ ਲਿਖੇ ਅਖਾਣਾਂ, ਮੁਹਾਵਰਿਆਂ ਨੂੰ ਵਾਕ ਵਿਚ ਇਸ ਤਰ੍ਹਾਂ ਵਰਤੋ ਕਿ ਅਰਥ ਸਪਸ਼ਟ ਹੋ ਜਾਣ: 1) ਟਿੰਡ 'ਚ ਕਾਨਾ 2) ਨਗਾਰਖਾਨੇ 'ਚ ਤੂਤੀ 3) ਖੂਹ ਦੀ ਮਿੱਟੀ ਖੂਹ ਨੂੰ ਲੱਗਣੀ 4) ਬਿੱਲੀ ਦੇ ਗਲ ਟੱਲੀ
+- [Mains 2021 · Punjabi Q8](../../past-papers/mains_2021_PUN.md#q8) — ਹੇਠ ਲਿਖੇ ਅਗੇਤਰ ਲਗਾ ਕੇ ਦੋ-ਦੋ ਸ਼ਬਦ ਬਣਾਓ: 1) ਮਨ 2) ਉਪ 3) ਨਿਰ 4) ਅ 5) ਖ਼ੁਸ਼
+- [Mains 2021 · Punjabi Q9](../../past-papers/mains_2021_PUN.md#q9) — ਹੇਠ ਲਿਖੇ ਪਿਛੇਤਰ ਲਗਾ ਕੇ ਦੋ-ਦੋ ਸ਼ਬਦ ਬਣਾਓ: 1) ਕਾਰ 2) ਦਾਰ 3) ਨਾਕ 4) ਹੀਣ 5) ਸਾਰ
+- [Mains 2021 · Punjabi Q10](../../past-papers/mains_2021_PUN.md#q10) — ਹੇਠ ਲਿਖੇ ਬਹੁਤੇ ਸ਼ਬਦਾਂ ਦੀ ਥਾਂ ਇਕ ਸ਼ਬਦ ਲਿਖੋ: 1) ਜ਼ਖ਼ਮ, ਜੋ ਕੱਚਾ ਹੋਵੇ 2) ਕਾਵਿ, ਜਿਸ ਵਿੱਚ ਯੁੱਧ ਦੀ ਮਹਿਮਾ ਹੋਵੇ 3) ਦੁੱਧ ਦੇਣ ਵਾਲੀ ਮੱਝ ਜਾਂ ਗਾਂ 4) ਚਾਰ ਪੈਰਾਂ ਵਾਲਾ ਜਾਨਵਰ 5) ਦ
+- [Mains 2021 · Punjabi Q11](../../past-papers/mains_2021_PUN.md#q11) — ਹੇਠ ਲਿਖੇ ਸ਼ਬਦ-ਜੋੜ ਠੀਕ ਕਰਕੇ ਲਿਖੋ: 1) ਸਿਰਾਣਾ 2) ਪੰਚੈਤੀ 3) ਦੁਪੈਹਰ 4) ਸੌਹਰਾ 5) ਮਹਿਨਤ
+- [Mains 2021 · Punjabi Q12](../../past-papers/mains_2021_PUN.md#q12) — ਹੇਠ ਲਿਖੇ ਸ਼ਬਦਾਂ ਨੂੰ ਦੋ-ਦੋ ਵਾਕਾਂ ਵਿੱਚ ਇਸ ਤਰ੍ਹਾਂ ਵਰਤੋ ਕਿ ਬਹੁ-ਅਰਥਕ ਸ਼ਬਦਾਂ ਦੇ ਅਰਥ ਸਪਸ਼ਟ ਹੋ ਜਾਣ: 1) ਵਾਰ 2) ਸੁਹਾਗਾ 3) ਸਰ 4) ਸਾਰ 5) ਆਰ
+- [Mains 2021 · Punjabi Q13](../../past-papers/mains_2021_PUN.md#q13) — ਹੇਠ ਲਿਖੇ ਵਾਕਾਂ ਨੂੰ ਨਾਲ ਦਿੱਤੀਆਂ ਹਦਾਇਤਾਂ ਅਨੁਸਾਰ ਹੱਲ ਕਰੋ: 1) ਤੁਸੀਂ ਕਿੱਥੇ ਹੋ? (ਵਾਕ ਕਿਸ ਕਾਲ ਦਾ ਸੂਚਕ ਹੈ?) 2) ਮੁੰਡੇ ਨੇ ਰੋਟੀ ਖਾਧੀ। (ਕਰਤਾ ਸ਼ਬਦ ਦੱਸੋ) 3) ਦਾਨੀ ਹੀ ਪੁੰਨ ਖੱਟਦ
+- [Mains 2021 · Punjabi Q14](../../past-papers/mains_2021_PUN.md#q14) — ਹੇਠ ਲਿਖੇ ਵਾਕਾਂ ਨੂੰ ਨਾਲ ਦਿੱਤੀਆਂ ਹਦਾਇਤਾਂ ਅਨੁਸਾਰ ਹੱਲ ਕਰੋ: 1) 'ਸੋਨਾ' ਸ਼ਬਦ ਦਾ ਵਿਸ਼ੇਸ਼ਣ ਸ਼ਬਦ ਕੀ ਹੈ? 2) ਚਿੜੀ ਅਤੇ ਕਾਂ ਨੇ ਖਿਚੜੀ ਬਣਾਈ। (ਯੋਜਕ ਸ਼ਬਦ ਦੀ ਪਛਾਣ ਕਰੋ) 3) ਉਸ ਨੇ ਜੂ
 
 ## Practice MCQs (40)
 

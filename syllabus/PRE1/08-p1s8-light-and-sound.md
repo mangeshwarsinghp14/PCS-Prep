@@ -1,6 +1,6 @@
 # Light and sound
 
-**Paper I — General Studies** › Everyday Science · Subject: Everyday Science · Priority: Medium
+**Paper I — General Studies** › Everyday Science · Subject: Everyday Science · Priority: Medium · **Asked by PPSC: 🔁 6× (’18 ’25)**
 
 > Official syllabus line: Light – reflection & refraction – concepts and applications. Sound – propagation & reflection – concepts and applications.
 
@@ -117,6 +117,19 @@ Expect 'why' questions from daily life (blue sky, twinkling stars, rear-view mir
 - NCERT Class 12 Physics Ch 9 (Ray Optics) for total internal reflection
 - Lucent's General Science (Physics: light and sound)
 
+## Asked in PPSC papers — 6 times (in 2 of 3 recent exams)
+
+| Paper | Years asked |
+|---|---|
+| Prelims GS | 2018 (×4), 2025 (×2) |
+
+- [Prelims 2025 · GS Q20](../../past-papers/pre_2025_GS.md#q20) — Consider the following :
+- [Prelims 2025 · GS Q23](../../past-papers/pre_2025_GS.md#q23) — When a wave passes from one medium to another, which of the following change ?
+- [Prelims 2018 · GS Q63](../../past-papers/pre_2018_GS.md#q63) — Velocity of sound in air does not depend on
+- [Prelims 2018 · GS Q64](../../past-papers/pre_2018_GS.md#q64) — What happens when light travels from air to glass ?
+- [Prelims 2018 · GS Q65](../../past-papers/pre_2018_GS.md#q65) — Which of the following medical procedure uses the principle of total internal reflection ?
+- [Prelims 2018 · GS Q95](../../past-papers/pre_2018_GS.md#q95) — While watching three-dimensional pictures we need to wear
+
 ## Practice MCQs (12)
 
 **1.** The blue colour of the clear sky is due to:
@@ -145,6 +158,8 @@ Expect 'why' questions from daily life (blue sky, twinkling stars, rear-view mir
 
 </details>
 
+*Like a real PPSC question: [Prelims 2025 · GS Q20](../../past-papers/pre_2025_GS.md#q20)*
+
 **3.** Optical fibres work on the principle of:
 
 (a) Dispersion of white light  
@@ -158,6 +173,8 @@ Expect 'why' questions from daily life (blue sky, twinkling stars, rear-view mir
 
 </details>
 
+*Like a real PPSC question: [Prelims 2018 · GS Q65](../../past-papers/pre_2018_GS.md#q65)*
+
 **4.** Consider: 1. Sound can travel through vacuum. 2. Sound travels faster in steel than in air. Which is/are correct?
 
 (a) 1 only  
@@ -170,6 +187,8 @@ Expect 'why' questions from daily life (blue sky, twinkling stars, rear-view mir
 **(b) 2 only** — Sound is fastest in solids; being a mechanical wave, it cannot travel through vacuum.
 
 </details>
+
+*Like a real PPSC question: [Prelims 2018 · GS Q63](../../past-papers/pre_2018_GS.md#q63)*
 
 **5.** Myopia (short-sightedness) is corrected using a:
 

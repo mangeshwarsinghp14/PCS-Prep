@@ -1,6 +1,6 @@
 # Globalisation & Indian society
 
-**Paper 4 — GS I: History, Geography, Society** › Society · Subject: GS I — History, Geography, Society · Priority: Medium
+**Paper 4 — GS I: History, Geography, Society** › Society · Subject: GS I — History, Geography, Society · Priority: Medium · **Asked by PPSC: 🔥 3× (’18 ’21 ’26)**
 
 > Official syllabus line: Effects of globalization on Indian society.
 
@@ -123,9 +123,21 @@ Questions ask about effects of globalisation on culture, family, women, youth or
 - Ram Ahuja, 'Social Problems in India'
 - NITI Aayog, 'India's Booming Gig and Platform Economy' (2022)
 
+## Asked in PPSC papers — 3 times 🔥 (in every recent exam)
+
+| Paper | Years asked |
+|---|---|
+| Mains GS1 | 2018, 2021, 2026 |
+
+- [Mains 2026 · GS1 Q19](../../past-papers/mains_2026_GS1.md#q19) — Globalisation has simultaneously promoted cultural homogenisation and heterogenization in India. Examine the growing impact of globalisation on both these aspec
+- [Mains 2021 · GS1 Q8](../../past-papers/mains_2021_GS1.md#q8) — Covid-19 pandemic has led to a shift in the recent trends of international migration. Analyse.
+- [Mains 2018 · GS1 Q12(a)](../../past-papers/mains_2018_GS1.md#q12-a) — Write short note on: Globalization versus Regionalism.
+
 ## Mains practice questions (3)
 
 **1.** Does globalisation lead to cultural homogenisation or cultural hybridisation in India? Discuss with examples. (250 words)
+
+*Like a real PPSC question: [Mains 2026 · GS1 Q19](../../past-papers/mains_2026_GS1.md#q19)*
 
 <details><summary>Answer outline</summary>
 
@@ -139,6 +151,8 @@ Questions ask about effects of globalisation on culture, family, women, youth or
 </details>
 
 **2.** Analyse the impact of globalisation on women and the family in India. (250 words)
+
+*Like a real PPSC question: [Mains 2026 · GS1 Q19](../../past-papers/mains_2026_GS1.md#q19)*
 
 <details><summary>Answer outline</summary>
 

@@ -1,6 +1,6 @@
 # Genetic engineering & stem cells
 
-**Paper 7 — GS IV: S&T, Environment, Problem Solving** › Science & Technology · Subject: GS IV — S&T, Environment, Problem solving · Priority: Medium
+**Paper 7 — GS IV: S&T, Environment, Problem Solving** › Science & Technology · Subject: GS IV — S&T, Environment, Problem solving · Priority: Medium · **Asked by PPSC: 🔥 6× (’18 ’21 ’26)**
 
 > Official syllabus line: Introduction to and applications of genetic engineering & stem cell research.
 
@@ -130,9 +130,29 @@ Questions test basic concepts plus applications and ethics; write a simple defin
 - DBT annual report; PIB on Genome India Project
 - Spectrum/Agrahari S&T book chapter on biotechnology
 
+## Asked in PPSC papers — 6 times 🔥 (in every recent exam)
+
+| Paper | Years asked |
+|---|---|
+| Mains GS4 | 2018, 2021 (×2), 2026 (×2) |
+| Mains GS2 | 2018 |
+
+- [Mains 2026 · GS4 Q15](../../past-papers/mains_2026_GS4.md#q15) — Compare somatic gene therapy, gene editing, and germline editing. Explain the expected benefits and discuss the ethical issues involved with such practices.  
+  ↻ *Same theme also asked:* [Mains 2021 · GS4 Q10(b)](../../past-papers/mains_2021_GS4.md#q10-b)
+- [Mains 2026 · GS4 Q16](../../past-papers/mains_2026_GS4.md#q16) — What is CRISPR-Cas9 technology? How can it contribute towards crop improvement?  
+  ↻ *Same theme also asked:* [Mains 2021 · GS4 Q10(b)](../../past-papers/mains_2021_GS4.md#q10-b)
+- [Mains 2021 · GS4 Q10(b)](../../past-papers/mains_2021_GS4.md#q10-b) — Write short note on: CRISPR Cas9 as a gene-editing tool.  
+  ↻ *Same theme also asked:* [Mains 2018 · GS2 Q9(b)](../../past-papers/mains_2018_GS2.md#q9-b), [Mains 2026 · GS4 Q15](../../past-papers/mains_2026_GS4.md#q15), [Mains 2026 · GS4 Q16](../../past-papers/mains_2026_GS4.md#q16)
+- [Mains 2021 · GS4 Q12](../../past-papers/mains_2021_GS4.md#q12) — What is Genetic Rescue and how it aids in conservation? Discuss with some suitable examples.
+- [Mains 2018 · GS4 Q4](../../past-papers/mains_2018_GS4.md#q4) — What are monoclonal antibodies and what role they can play in diagnosis and therapy of various diseases?
+- [Mains 2018 · GS2 Q9(b)](../../past-papers/mains_2018_GS2.md#q9-b) — Write short note on: CRISPR babies.  
+  ↻ *Same theme also asked:* [Mains 2021 · GS4 Q10(b)](../../past-papers/mains_2021_GS4.md#q10-b)
+
 ## Mains practice questions (3)
 
 **1.** What is CRISPR-Cas9? Discuss its potential applications in health and agriculture and the ethical concerns it raises. (250 words)
+
+*Like a real PPSC question: [Mains 2021 · GS4 Q10(b)](../../past-papers/mains_2021_GS4.md#q10-b)*
 
 <details><summary>Answer outline</summary>
 

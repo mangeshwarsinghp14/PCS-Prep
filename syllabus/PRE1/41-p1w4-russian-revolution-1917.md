@@ -1,6 +1,6 @@
 # Russian Revolution 1917
 
-**Paper I — General Studies** › History of India & World History · Subject: World History · Priority: Low
+**Paper I — General Studies** › History of India & World History · Subject: World History · Priority: Low · **Asked by PPSC: 🔁 2× (’18)**
 
 > Official syllabus line: The Russian Revolution 1917.
 
@@ -143,6 +143,15 @@ Questions test February vs October revolutions, calendar difference, Lenin's Apr
 - Norman Lowe, Mastering Modern World History (chapters on Russia 1900–1924)
 - Arjun Dev, History of the World (old NCERT)
 
+## Asked in PPSC papers — 2 times (in 1 of 3 recent exams)
+
+| Paper | Years asked |
+|---|---|
+| Prelims GS | 2018 (×2) |
+
+- [Prelims 2018 · GS Q76](../../past-papers/pre_2018_GS.md#q76) — Vladimir Ilyich Ulyanov was popularly known as
+- [Prelims 2018 · GS Q77](../../past-papers/pre_2018_GS.md#q77) — The Treaty of Brest-Litovsk was a peace treaty signed between which counties ?
+
 ## Practice MCQs (12)
 
 **1.** The 'April Theses' (1917) were issued by:
@@ -170,6 +179,8 @@ Questions test February vs October revolutions, calendar difference, Lenin's Apr
 **(a) Germany** — The treaty of March 1918 was signed with Germany and the Central Powers.
 
 </details>
+
+*Like a real PPSC question: [Prelims 2018 · GS Q77](../../past-papers/pre_2018_GS.md#q77)*
 
 **3.** 'Bloody Sunday' (1905) in St Petersburg involved a peaceful march led by:
 

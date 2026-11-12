@@ -1,6 +1,6 @@
 # Human body, life processes, nutrition
 
-**Paper I — General Studies** › Everyday Science · Subject: Everyday Science · Priority: High
+**Paper I — General Studies** › Everyday Science · Subject: Everyday Science · Priority: High · **Asked by PPSC: 🔥 4× (’18 ’21 ’25)**
 
 > Official syllabus line: Human body and life processes, nutrition.
 
@@ -127,6 +127,17 @@ Questions are factual: vitamin-deficiency pairs, enzyme-organ pairs, hormone-gla
 - NCERT Class 11 Biology Unit V (Human Physiology: digestion, breathing, body fluids, excretion)
 - NCERT Class 6 Science (Components of Food) for vitamins and deficiency diseases
 - Lucent's General Science (Biology: human body)
+
+## Asked in PPSC papers — 4 times 🔥 (in every recent exam)
+
+| Paper | Years asked |
+|---|---|
+| Prelims GS | 2018, 2021, 2025 (×2) |
+
+- [Prelims 2025 · GS Q17](../../past-papers/pre_2025_GS.md#q17) — Consider the following statements about enzymes :
+- [Prelims 2025 · GS Q21](../../past-papers/pre_2025_GS.md#q21) — Which of the following products are obtained by anaerobic respiration in plants ?
+- [Prelims 2021 · GS Q2](../../past-papers/pre_2021_GS.md#q2) — Which of the following statements are correct ?
+- [Prelims 2018 · GS Q70](../../past-papers/pre_2018_GS.md#q70) — In an undamaged blood vessel, conversion of Prothrombin to Thrombin is prevented by
 
 ## Practice MCQs (12)
 

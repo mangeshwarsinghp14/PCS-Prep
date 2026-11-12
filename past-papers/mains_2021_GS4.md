@@ -4,6 +4,8 @@ Held 2021-04-01. 20 questions.
 
 Sources: [1](https://theiashub.com/upsc/punjab-pcs-previous-year-question-paper/) · [2](https://www.freejobalert.com/punjab-civil-services-2020/852429/) · [3](https://drive.google.com/file/d/1IuhszvDAt-4NIhQLMIxjEHlFRmgdT824/view) · [4](https://www.adda247.com/jobs/wp-content/uploads/sites/22/2025/11/18111218/PCS-Mains-Exam-General-Paper-IV.pdf)
 
+<a id="q1"></a>
+
 **Q1.** Analyse the role of the private sector in proposed Draft Spacecom Policy 2020 for reforming the Indian space sector. *(15 marks, 200 words)*
 
 <details><summary>Model answer points</summary>
@@ -32,6 +34,10 @@ Topic: [notes](../syllabus/GS4/03-g4t3-it-space-robotics-nanotech.md)
 
 </details>
 
+*Topic asked 10× (2018, 2021, 2026) 🔥*
+
+<a id="q2"></a>
+
 **Q2.** Discuss the features and significance of the Hypersonic Technology Demonstration Vehicle (HSTDV). *(15 marks, 200 words)*
 
 <details><summary>Model answer points</summary>
@@ -57,6 +63,10 @@ Topic: [notes](../syllabus/GS4/03-g4t3-it-space-robotics-nanotech.md)
 Topic: [notes](../syllabus/GS4/02-g4t2-indian-achievements-indigenisation.md)
 
 </details>
+
+*Topic asked 2× (2021, 2026)*
+
+<a id="q3"></a>
 
 **Q3.** What are Trans Fats? Describe the recent measures taken up by WHO and FSSAI for their elimination towards healthier food systems. *(15 marks, 200 words)*
 
@@ -84,6 +94,10 @@ Topic: [notes](../syllabus/GS4/07-g4t7-diseases-infections-immunity-vaccines.md)
 
 </details>
 
+*Topic asked 5× (2018, 2021, 2026) 🔥*
+
+<a id="q4"></a>
+
 **Q4.** Discuss the benefits and challenges of Precision agriculture in sustainable farm management using ICT. *(15 marks, 200 words)*
 
 <details><summary>Model answer points</summary>
@@ -109,6 +123,10 @@ Topic: [notes](../syllabus/GS4/07-g4t7-diseases-infections-immunity-vaccines.md)
 Topic: [notes](../syllabus/GS4/05-g4t5-agricultural-science-biotech-veterinary.md)
 
 </details>
+
+*Topic asked 4× (2018, 2021, 2026) 🔥*
+
+<a id="q5"></a>
 
 **Q5.** What are Microplastics? Critically analyse Microplastics as an emerging contaminant in nature. *(15 marks, 200 words)*
 
@@ -136,6 +154,10 @@ Topic: [notes](../syllabus/GS4/05-g4t5-agricultural-science-biotech-veterinary.m
 Topic: [notes](../syllabus/GS4/08-g4v1-conservation-pollution-climate-change-eia.md)
 
 </details>
+
+*Topic asked 8× (2018, 2021, 2026) 🔥*
+
+<a id="q6"></a>
 
 **Q6.** How technology can help farmers harvest and sell fresh fruits and vegetables? Elaborate with the help of suitable examples. Discuss the initiatives of government in this regard. *(15 marks, 200 words)*
 
@@ -165,6 +187,10 @@ Topic: [notes](../syllabus/GS4/05-g4t5-agricultural-science-biotech-veterinary.m
 
 </details>
 
+*Topic asked 4× (2018, 2021, 2026) 🔥*
+
+<a id="q7"></a>
+
 **Q7.** "Data is the fuel to keep moving the industry 4.0"- elaborate. What is big data and discuss the technological components associated with it. Critically analyse the role of social media in this context? *(15 marks, 200 words)*
 
 <details><summary>Model answer points</summary>
@@ -190,6 +216,10 @@ Topic: [notes](../syllabus/GS4/05-g4t5-agricultural-science-biotech-veterinary.m
 Topic: [notes](../syllabus/GS4/03-g4t3-it-space-robotics-nanotech.md)
 
 </details>
+
+*Topic asked 10× (2018, 2021, 2026) 🔥*
+
+<a id="q8"></a>
 
 **Q8.** Explain the underlying technology used in Driverless Cars and discuss the latest breakthroughs. Will electric vehicles succeed in India? Justify your answer. *(15 marks, 200 words)*
 
@@ -217,6 +247,10 @@ Topic: [notes](../syllabus/GS4/01-g4t1-s-t-in-everyday-life.md)
 
 </details>
 
+*Topic asked 2× (2021, 2026)*
+
+<a id="q9"></a>
+
 **Q9.** Why sanitation is a big challenge for India? How technology can play role in providing better sanitation services? *(15 marks, 200 words)*
 
 <details><summary>Model answer points</summary>
@@ -243,6 +277,10 @@ Topic: [notes](../syllabus/GS4/14-g4d3-municipal-services-water-sanitation-slums
 
 </details>
 
+*Topic asked 6× (2018, 2021, 2026) 🔥*
+
+<a id="q10-a"></a>
+
 **Q10(a).** Write short note on: National Digital Health Mission (NDHM). *(5 marks, 50 words)*
 
 <details><summary>Model answer points</summary>
@@ -263,6 +301,10 @@ Topic: [notes](../syllabus/GS4/14-g4d3-municipal-services-water-sanitation-slums
 Topic: [notes](../syllabus/GS4/07-g4t7-diseases-infections-immunity-vaccines.md)
 
 </details>
+
+*Topic asked 5× (2018, 2021, 2026) 🔥*
+
+<a id="q10-b"></a>
 
 **Q10(b).** Write short note on: CRISPR Cas9 as a gene-editing tool. *(5 marks, 50 words)*
 
@@ -285,6 +327,10 @@ Topic: [notes](../syllabus/GS4/06-g4t6-genetic-engineering-stem-cells.md)
 
 </details>
 
+*↻ **Same theme also asked:** [Mains 2018 · GS2 Q9(b)](mains_2018_GS2.md#q9-b), [Mains 2026 · GS4 Q15](mains_2026_GS4.md#q15), [Mains 2026 · GS4 Q16](mains_2026_GS4.md#q16) · Topic asked 6× (2018, 2021, 2026) 🔥*
+
+<a id="q10-c"></a>
+
 **Q10(c).** Write short note on: Meta barcoding. *(5 marks, 50 words)*
 
 <details><summary>Model answer points</summary>
@@ -305,6 +351,10 @@ Topic: [notes](../syllabus/GS4/06-g4t6-genetic-engineering-stem-cells.md)
 Topic: [notes](../syllabus/GS4/08-g4v1-conservation-pollution-climate-change-eia.md)
 
 </details>
+
+*Topic asked 8× (2018, 2021, 2026) 🔥*
+
+<a id="q10-d"></a>
 
 **Q10(d).** Write short note on: Antiviral nano-coatings on anti-Covid-19 face masks. *(5 marks, 50 words)*
 
@@ -327,6 +377,10 @@ Topic: [notes](../syllabus/GS4/03-g4t3-it-space-robotics-nanotech.md)
 
 </details>
 
+*Topic asked 10× (2018, 2021, 2026) 🔥*
+
+<a id="q10-e"></a>
+
 **Q10(e).** Write short note on: HL-2M Tokamak reactor. *(5 marks, 50 words)*
 
 <details><summary>Model answer points</summary>
@@ -347,6 +401,10 @@ Topic: [notes](../syllabus/GS4/03-g4t3-it-space-robotics-nanotech.md)
 Topic: [notes](../syllabus/GS4/03-g4t3-it-space-robotics-nanotech.md)
 
 </details>
+
+*Topic asked 10× (2018, 2021, 2026) 🔥*
+
+<a id="q11"></a>
 
 **Q11.** What are the major threats to global ecosystems? Explain PANORAMA. Discuss the role of IUCN in biodiversity conservation. *(15 marks, 200 words)*
 
@@ -374,6 +432,10 @@ Topic: [notes](../syllabus/GS4/08-g4v1-conservation-pollution-climate-change-eia
 
 </details>
 
+*Topic asked 8× (2018, 2021, 2026) 🔥*
+
+<a id="q12"></a>
+
 **Q12.** What is Genetic Rescue and how it aids in conservation? Discuss with some suitable examples. *(15 marks, 200 words)*
 
 <details><summary>Model answer points</summary>
@@ -400,6 +462,10 @@ Topic: [notes](../syllabus/GS4/06-g4t6-genetic-engineering-stem-cells.md)
 
 </details>
 
+*Topic asked 6× (2018, 2021, 2026) 🔥*
+
+<a id="q13"></a>
+
 **Q13.** Discuss with some suitable examples, the eco-friendly measures suggested by Ministry of Environment, Forest and Climate Change (MoEFCC) to mitigate the impacts of linear infrastructure on Wildlife. *(15 marks, 200 words)*
 
 <details><summary>Model answer points</summary>
@@ -425,6 +491,10 @@ Topic: [notes](../syllabus/GS4/06-g4t6-genetic-engineering-stem-cells.md)
 Topic: [notes](../syllabus/GS4/08-g4v1-conservation-pollution-climate-change-eia.md)
 
 </details>
+
+*↻ **Same theme also asked:** [Mains 2026 · GS4 Q4](mains_2026_GS4.md#q4) · Topic asked 8× (2018, 2021, 2026) 🔥*
+
+<a id="q14"></a>
 
 **Q14.** Critically evaluate the difficulties that come in the process of Land Acquisition. What would be your approach as a Land Acquisition Collector in Punjab to deal with them. *(15 marks, 200 words)*
 
@@ -456,6 +526,10 @@ Topic: [notes](../syllabus/GS4/13-g4d2-land-acquisition-projects-schemes-ppp.md)
 
 </details>
 
+*Topic asked 3× (2021, 2026)*
+
+<a id="q15"></a>
+
 **Q15.** What is eco-tourism? What would be your plan as Director Tourism to develop Punjab as eco-tourism hub? *(15 marks, 200 words)*
 
 <details><summary>Model answer points</summary>
@@ -481,6 +555,10 @@ Topic: [notes](../syllabus/GS4/13-g4d2-land-acquisition-projects-schemes-ppp.md)
 Topic: [notes](../syllabus/GS4/13-g4d2-land-acquisition-projects-schemes-ppp.md)
 
 </details>
+
+*Topic asked 3× (2021, 2026)*
+
+<a id="q16"></a>
 
 **Q16.** The over use of pesticides in farming has increased the water, air, and soil pollution levels which has affected the human health by causing some serious ailments like cancer. Suggest remedial steps as a Sub Divisional Magistrate (SDM) to tackle this prevailing menace in your area. *(15 marks, 200 words)*
 
@@ -510,3 +588,5 @@ Topic: [notes](../syllabus/GS4/13-g4d2-land-acquisition-projects-schemes-ppp.md)
 Topic: [notes](../syllabus/GS4/14-g4d3-municipal-services-water-sanitation-slums.md)
 
 </details>
+
+*Topic asked 6× (2018, 2021, 2026) 🔥*

@@ -1,6 +1,6 @@
 # Three short essays
 
-**Paper 3 — Essay** › Essay · Subject: Essay · Priority: High
+**Paper 3 — Essay** › Essay · Subject: Essay · Priority: High · **Asked by PPSC: 🔥 24× (’18 ’21 ’26)**
 
 > Official syllabus line: Three short essays in English or Punjabi on specified topics; choice of subjects given. Keep closely to the subject, arrange ideas in an orderly fashion, write concisely. Credit for content value, effective and exact expression.
 
@@ -185,6 +185,41 @@ Topics range from Punjab-specific issues to abstract and quote-based themes. Exa
 - Punjab Economic Survey 2025-26 and Punjab Budget 2026-27 speech
 - Editorials in The Tribune and The Indian Express
 - Yojana and Kurukshetra magazines for development themes
+
+## Asked in PPSC papers — 24 times 🔥 (in every recent exam)
+
+| Paper | Years asked |
+|---|---|
+| Mains Essay | 2018 (×6), 2021 (×6), 2026 (×12) |
+
+- [Mains 2026 · Essay QA1](../../past-papers/mains_2026_ESSAY.md#qa1) — Social Media as a Tool of Empowerment or Surveillance: A Governance Paradox.  
+  ↻ *Same theme also asked:* [Mains 2018 · Essay Q2](../../past-papers/mains_2018_ESSAY.md#q2)
+- [Mains 2026 · Essay QA2](../../past-papers/mains_2026_ESSAY.md#qa2) — Artificial Intelligence: A Tool of Human Progress or Challenge to Human Values?  
+  ↻ *Same theme also asked:* [Mains 2018 · Essay Q4](../../past-papers/mains_2018_ESSAY.md#q4)
+- [Mains 2026 · Essay QA3](../../past-papers/mains_2026_ESSAY.md#qa3) — Digital innovation in administration must be tempered by ethical vigilance to prevent societal divides.
+- [Mains 2026 · Essay QA4](../../past-papers/mains_2026_ESSAY.md#qa4) — Can technology alone solve India's environmental crises, or is behavioural change more crucial?
+- [Mains 2026 · Essay QB1](../../past-papers/mains_2026_ESSAY.md#qb1) — In an age of constant connectivity, silence has become the rarest form of freedom.
+- [Mains 2026 · Essay QB2](../../past-papers/mains_2026_ESSAY.md#qb2) — The greatest danger to progress is not resistance to change, but unthinking acceptance of it.
+- [Mains 2026 · Essay QB3](../../past-papers/mains_2026_ESSAY.md#qb3) — When speed becomes a virtue, reflection turns into a liability.
+- [Mains 2026 · Essay QB4](../../past-papers/mains_2026_ESSAY.md#qb4) — Civilisations advance not merely by what they create, but by what they choose to restrain.
+- [Mains 2026 · Essay QC1](../../past-papers/mains_2026_ESSAY.md#qc1) — True empowerment of the marginalized lies not in policies alone, but in empathetic and decisive administrative action.
+- [Mains 2026 · Essay QC2](../../past-papers/mains_2026_ESSAY.md#qc2) — India's growth story is service-led rather than manufacturing-led. Is this sustainable for long-term employment generation?
+- [Mains 2026 · Essay QC3](../../past-papers/mains_2026_ESSAY.md#qc3) — "Punjab's fiscal health is strained by subsidies, debt, and limited revenue generation." Critically assess whether current fiscal policies are sustainable, and 
+- [Mains 2026 · Essay QC4](../../past-papers/mains_2026_ESSAY.md#qc4) — Without inclusive and quality development of human capital, the demographic dividend risks becoming a demographic burden.
+- [Mains 2021 · Essay Q1](../../past-papers/mains_2021_ESSAY.md#q1) — Economics is too Important to be left to the Economists.
+- [Mains 2021 · Essay Q2](../../past-papers/mains_2021_ESSAY.md#q2) — Indian Democracy is Increasingly becoming Hostage to Party Politics.
+- [Mains 2021 · Essay Q3](../../past-papers/mains_2021_ESSAY.md#q3) — Pandemic Times: Experiments with Different Models of Technology and Sociality.
+- [Mains 2021 · Essay Q4](../../past-papers/mains_2021_ESSAY.md#q4) — Agrarian Crisis in Punjab: Need for Sagacious Agro-Economic Policies.
+- [Mains 2021 · Essay Q5](../../past-papers/mains_2021_ESSAY.md#q5) — Ethics and Politics of Environment.
+- [Mains 2021 · Essay Q6](../../past-papers/mains_2021_ESSAY.md#q6) — Indian Diaspora's Nativist Glance and Contribution.
+- [Mains 2018 · Essay Q1](../../past-papers/mains_2018_ESSAY.md#q1) — Standard of Dissent in Indian Electioneering: How Low is too Low?
+- [Mains 2018 · Essay Q2](../../past-papers/mains_2018_ESSAY.md#q2) — Mass Media versus Social Media: A Prognosis.  
+  ↻ *Same theme also asked:* [Mains 2026 · Essay QA1](../../past-papers/mains_2026_ESSAY.md#qa1)
+- [Mains 2018 · Essay Q3](../../past-papers/mains_2018_ESSAY.md#q3) — Global Currency Wars and their implications for India.
+- [Mains 2018 · Essay Q4](../../past-papers/mains_2018_ESSAY.md#q4) — Artificial Intelligence and Its Impact on our World.  
+  ↻ *Same theme also asked:* [Mains 2026 · Essay QA2](../../past-papers/mains_2026_ESSAY.md#qa2)
+- [Mains 2018 · Essay Q5](../../past-papers/mains_2018_ESSAY.md#q5) — Implications of Rising Consumerism in the Indian Middle class.
+- [Mains 2018 · Essay Q6](../../past-papers/mains_2018_ESSAY.md#q6) — Water Crisis and Riparian Laws.
 
 ## Mains practice questions (21)
 
@@ -395,6 +430,8 @@ Topics range from Punjab-specific issues to abstract and quote-based themes. Exa
 </details>
 
 **15.** Essay: 'Climate change is a crisis of justice before it is a crisis of science.'
+
+*Like a real PPSC question: [Mains 2018 · Essay Q6](../../past-papers/mains_2018_ESSAY.md#q6)*
 
 <details><summary>Answer outline</summary>
 

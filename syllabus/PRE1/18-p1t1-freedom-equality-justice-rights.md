@@ -1,6 +1,6 @@
 # Freedom, equality, justice, rights
 
-**Paper I — General Studies** › Political Theory & International Order · Subject: Political Theory & Intl Order · Priority: Medium
+**Paper I — General Studies** › Political Theory & International Order · Subject: Political Theory & Intl Order · Priority: Medium · **Asked by PPSC: 🔁 4× (’18 ’21)**
 
 > Official syllabus line: Basic concept of freedom, equality, social justice, rights & duties.
 
@@ -156,6 +156,17 @@ Questions pair a thinker with a concept (Mill-harm principle, Rawls-veil of igno
 - NCERT Class 11 'Indian Constitution at Work' Ch 2 (Rights in the Indian Constitution)
 - M. Laxmikanth, Indian Polity - chapters on Fundamental Rights and Fundamental Duties
 - O.P. Gauba, An Introduction to Political Theory (for thinkers and definitions)
+
+## Asked in PPSC papers — 4 times (in 2 of 3 recent exams)
+
+| Paper | Years asked |
+|---|---|
+| Prelims GS | 2018 (×2), 2021 (×2) |
+
+- [Prelims 2021 · GS Q7](../../past-papers/pre_2021_GS.md#q7) — The Government of India has constituted National Council for Transgender Persons. Which of the following statements are correct about the Council ?
+- [Prelims 2021 · GS Q87](../../past-papers/pre_2021_GS.md#q87) — The COVID-19 pandemic has exposed the vulnerability and plight of sex workers across the world. Which among the following statements are true about the recent a
+- [Prelims 2018 · GS Q23](../../past-papers/pre_2018_GS.md#q23) — Who said, "Injustice anywhere is a threat to justice everywhere" ?
+- [Prelims 2018 · GS Q36](../../past-papers/pre_2018_GS.md#q36) — The word 'Bureaucracy' was first coined by
 
 ## Practice MCQs (12)
 

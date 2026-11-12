@@ -1,6 +1,6 @@
 # Force, motion, gravitation, energy
 
-**Paper I — General Studies** › Everyday Science · Subject: Everyday Science · Priority: Medium
+**Paper I — General Studies** › Everyday Science · Subject: Everyday Science · Priority: Medium · **Asked by PPSC: 🔁 4× (’18 ’25)**
 
 > Official syllabus line: Force – laws of motion & gravitation, Archimedes principle. Energy – kinetic & potential.
 
@@ -131,6 +131,17 @@ Questions are conceptual and everyday-based: which law explains an example, vari
 - NCERT Class 9 Science Ch 8 (Motion), Ch 9 (Force and Laws of Motion), Ch 10 (Gravitation), Ch 11 (Work and Energy)
 - NCERT Class 11 Physics Ch 5 (Laws of Motion) and Ch 8 (Gravitation) for advanced points
 - Lucent's General Science (Physics: mechanics)
+
+## Asked in PPSC papers — 4 times (in 2 of 3 recent exams)
+
+| Paper | Years asked |
+|---|---|
+| Prelims GS | 2018 (×2), 2025 (×2) |
+
+- [Prelims 2025 · GS Q18](../../past-papers/pre_2025_GS.md#q18) — Consider the following statements :
+- [Prelims 2025 · GS Q19](../../past-papers/pre_2025_GS.md#q19) — Two types of measuring devices — the beam balance and the spring balance — are commonly used in shops. If we take them to the Moon, which of the following will 
+- [Prelims 2018 · GS Q61](../../past-papers/pre_2018_GS.md#q61) — When a ball drops on the floor it bounces. This is according to
+- [Prelims 2018 · GS Q62](../../past-papers/pre_2018_GS.md#q62) — The hydraulic brake used in automobiles is a direct application of
 
 ## Practice MCQs (12)
 

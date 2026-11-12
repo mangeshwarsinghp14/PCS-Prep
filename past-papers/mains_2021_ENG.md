@@ -4,6 +4,8 @@ Held 2021-04-01. 14 questions. Paper header reads 'PSCSCC Main Examination, 2020
 
 Sources: [1](https://www.adda247.com/exams/punjab/punjab-pcs-previous-year-question-papers/) · [2](https://www.adda247.com/jobs/wp-content/uploads/sites/22/2025/11/18111201/PCS-Mains-Exam-English.pdf) · [3](https://www.freejobalert.com/punjab-civil-services-2020/852429/)
 
+<a id="q1"></a>
+
 **Q1.**  *(10 marks)*
 
 <details><summary>Model answer points</summary>
@@ -12,6 +14,9 @@ Topic: [notes](../syllabus/MEN/01-le1-comprehension-10.md)
 
 </details>
 
+
+<a id="q2"></a>
+
 **Q2.**  *(10 marks)*
 
 <details><summary>Model answer points</summary>
@@ -19,6 +24,9 @@ Topic: [notes](../syllabus/MEN/01-le1-comprehension-10.md)
 Topic: [notes](../syllabus/MEN/02-le2-precis-10.md)
 
 </details>
+
+
+<a id="q3"></a>
 
 **Q3.** Write a letter to the editor of a national newspaper about street begging and suggest the ways to tackle it. OR You are the Student Union in-charge of your college. Write a letter to the Dean of your institution regarding the deteriorating mental health of students due to exam pressure and competitiveness. Suggest ways to create a healthier environment for students. *(10 marks)*
 
@@ -44,6 +52,9 @@ Topic: [notes](../syllabus/MEN/03-le3-letter-200-words-10.md)
 
 </details>
 
+
+<a id="q4"></a>
+
 **Q4.** Write an essay on any one of the following in about 300 words: (a) Work from home during Pandemic: pros & cons (b) Unity is strength but uniformity could be disastrous. (c) Judicial delays kill the spirit of justice. *(10 marks)*
 
 <details><summary>Model answer points</summary>
@@ -65,6 +76,9 @@ Topic: [notes](../syllabus/MEN/03-le3-letter-200-words-10.md)
 Topic: [notes](../syllabus/MEN/04-le4-essay-300-words-10.md)
 
 </details>
+
+
+<a id="q5"></a>
 
 **Q5.** Translate the following into English: (1) ਪੰਜਾਬ ਵਿੱਚ ਪਹਿਲੀ ਅਪਰੈਲ ਤੋਂ ਔਰਤਾਂ ਲਈ ਸਰਕਾਰੀ ਬੱਸਾਂ ਵਿੱਚ ਮੁਫ਼ਤ ਬਸ ਸੇਵਾ ਦੀ ਸਹੂਲਤ ਦਿੱਤੀ ਗਈ ਹੈ। (2) ਕਰੋਨਾ ਮਹਾਂਮਾਰੀ ਨੇ ਸਾਡੇ ਸਿਹਤ ਢਾਂਚੇ ਦੀਆਂ ਊਣਤਾਈਆਂ ਨੂੰ ਜ਼ਾਹਰ ਕੀਤਾ ਹੈ। (3) ਮੀਡੀਆ ਦੀ ਆਜ਼ਾਦੀ ਤੋਂ ਬਿਨਾਂ ਲੋਕਤੰਤਰ ਸੰਭਵ ਹੀ ਨਹੀਂ। (4) ਮੇਰੇ ਇਕ ਮਿੱਤਰ ਨੂੰ ਸਾਰੀ ਦੁਨੀਆਂ ਘੁੰਮਣ ਦੀ ਖ਼ਬਤ ਹੈ। (5) ਜੇ ਮੈਂ ਲੇਟ ਹੋ ਗਿਆ ਤਾਂ ਚਿੰਤਾ ਨਾ ਕਰਿਉ। (6) ਮੈਨੂੰ ਜਾਪਦਾ ਹੈ ਕਿ ਵਾਤਾਵਰਣ ਦੇ ਦੂਸ਼ਿਤ ਹੋਣ ਨਾਲ ਮਨੁੱਖੀ ਜੀਵਨ ਵੀ ਖ਼ਤਮ ਹੋ ਸਕਦਾ ਹੈ। (7) ਪਿੰਡਾਂ ਵਿੱਚ ਪੜ੍ਹਾਈ-ਲਿਖਾਈ ਲਈ ਸਕੂਲ ਸਥਾਪਿਤ ਕਰਨਾ ਸਾਰੇ ਸਮਾਜ ਦੀ ਇੱਕ ਪਵਿੱਤਰ ਜ਼ਿੰਮੇਵਾਰੀ ਹੋਣੀ ਚਾਹੀਦੀ ਹੈ। (8) ਮਾਹਿਰਾਂ ਦੀ ਮੀਟਿੰਗ ਵਿੱਚ ਮੁਕੰਮਲ ਕੀਤੇ ਗਏ ਕਾਰਜਾਂ ਦੀ ਸਮੀਖਿਆ ਕੀਤੀ ਗਈ। (9) ਇੱਕ ਵਾਇਰਸ ਨੇ ਦੁਨੀਆਂ ਉਲਟਾ ਕੇ ਰੱਖ ਦਿੱਤੀ ਹੈ ਅਤੇ ਹਾਲੇ ਉਸਨੇ ਰੂਪ ਬਦਲ-ਬਦਲ ਕੇ ਆਉਣਾ ਹੈ। (10) ਮਿਆਂਮਾਰ ਦੀ ਫ਼ੌਜ ਨੇ ਮੁਲਕ ਦੇ ਪੂਰਬੀ ਖੇਤਰ ਵਿਚ ਹੋਰ ਹਵਾਈ ਹਮਲੇ ਕੀਤੇ ਹਨ ਜਿਸ ਵਿੱਚ ਬਹੁਤ ਲੋਕ ਮਾਰੇ ਗਏ ਹਨ। *(10 marks)*
 
@@ -95,6 +109,9 @@ Topic: [notes](../syllabus/MEN/05-le5-translation-10.md)
 
 </details>
 
+
+<a id="q6"></a>
+
 **Q6.** Give one word substitute for the following: a) A person who compiles a dictionary. b) Irrelevant talk. c) Period of gradual recovery of health after illness. d) Irresistible desire to steal. e) Fear of closed spaces. *(5 marks)*
 
 <details><summary>Model answer points</summary>
@@ -118,6 +135,10 @@ Topic: [notes](../syllabus/MEN/05-le5-translation-10.md)
 Topic: [notes](../syllabus/MEN/06-le6-grammar-50.md)
 
 </details>
+
+*Topic asked 9× (2021)*
+
+<a id="q7"></a>
 
 **Q7.** Use the following words first as noun and then as verb in your sentences: a) Counter b) Bark c) Reign d) Bang e) Men [as printed; probably 'Mend'] *(5 marks)*
 
@@ -143,6 +164,10 @@ Topic: [notes](../syllabus/MEN/06-le6-grammar-50.md)
 
 </details>
 
+*Topic asked 9× (2021)*
+
+<a id="q8"></a>
+
 **Q8.** Give both synonyms and antonyms of the following words: a) Abridge b) Reticent c) Benediction d) Myopia e) Fecund *(5 marks)*
 
 <details><summary>Model answer points</summary>
@@ -166,6 +191,10 @@ Topic: [notes](../syllabus/MEN/06-le6-grammar-50.md)
 Topic: [notes](../syllabus/MEN/06-le6-grammar-50.md)
 
 </details>
+
+*Topic asked 9× (2021)*
+
+<a id="q9"></a>
 
 **Q9.** Use the following idioms/phrases in your sentences: a) To kick the bucket. b) To take to altar. c) To make a mark. d) Fall out. e) To put on the back burner. *(5 marks)*
 
@@ -191,6 +220,10 @@ Topic: [notes](../syllabus/MEN/06-le6-grammar-50.md)
 
 </details>
 
+*Topic asked 9× (2021)*
+
+<a id="q10"></a>
+
 **Q10.** Rewrite the following sentences after changing the narration: a) He said to his wife, "Why did you buy this shirt if you did not like it? You've wasted so much money." b) The gardener told his assistant to water the plants properly. c) He advised his younger brother to go abroad for higher studies. d) The doctor told his patient, "Don't smoke so long as you are under my treatment." e) The Commander said to the troops, "Keep your eyes and ears open tonight. Mind you, nobody will sleep. It is a difficult night." *(5 marks)*
 
 <details><summary>Model answer points</summary>
@@ -214,6 +247,10 @@ Topic: [notes](../syllabus/MEN/06-le6-grammar-50.md)
 Topic: [notes](../syllabus/MEN/06-le6-grammar-50.md)
 
 </details>
+
+*Topic asked 9× (2021)*
+
+<a id="q11"></a>
 
 **Q11.** Change the voice of the following: a) So, why didn't she swear it? b) Some of the boys in the neighbourhood formed a super hero club. c) Our eyes, though looking at the same subject, were sharing a different focus. d) She will play the guitar for the talent show. e) The management will pay the workers. *(5 marks)*
 
@@ -239,6 +276,10 @@ Topic: [notes](../syllabus/MEN/06-le6-grammar-50.md)
 
 </details>
 
+*Topic asked 9× (2021)*
+
+<a id="q12"></a>
+
 **Q12.** Do as directed: 1. Researchers were asked to make an analysis of the results. (Change the noun form to verb form) 2. A law-abiding citizen pays his taxes promptly. (Remove the gender bias) 3. I liked the house in which I lived formerly. (Convert into a simple sentence) 4. It was a great idea. It was a risky idea. (Combine with an appropriate connective) 5. You should do your work immediately ...... ? (Add a question tag) *(5 marks)*
 
 <details><summary>Model answer points</summary>
@@ -263,6 +304,10 @@ Topic: [notes](../syllabus/MEN/06-le6-grammar-50.md)
 
 </details>
 
+*Topic asked 9× (2021)*
+
+<a id="q13"></a>
+
 **Q13.** Rewrite the given paragraph using appropriate punctuation marks. (A short unpunctuated paragraph of dialogue between the writer and a colleague named Atima about an experiment.) *(5 marks)*
 
 <details><summary>Model answer points</summary>
@@ -286,6 +331,10 @@ Topic: [notes](../syllabus/MEN/06-le6-grammar-50.md)
 Topic: [notes](../syllabus/MEN/06-le6-grammar-50.md)
 
 </details>
+
+*Topic asked 9× (2021)*
+
+<a id="q14"></a>
 
 **Q14.** Rewrite the following sentences after making necessary corrections, if needed: 1) My car gives better mileage from your car. 2) I have known him from the last two years. 3) Every student have written well. 4) You are invited to the wedding. Why didn't you go? 5) Would you like to be the actor in your life? 6) He fell down the steps, but fortunately he didn't hurt. 7) I went to the shop but didn't buy something. 8) Even she can't drive, she has bought a car. 9) My pair of spectacles need new glasses. 10) I saw him yesterday when he was cross the road. *(10 marks)*
 
@@ -315,3 +364,5 @@ Topic: [notes](../syllabus/MEN/06-le6-grammar-50.md)
 Topic: [notes](../syllabus/MEN/06-le6-grammar-50.md)
 
 </details>
+
+*Topic asked 9× (2021)*

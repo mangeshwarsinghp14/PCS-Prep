@@ -4,6 +4,8 @@ Held 2018. 20 questions.
 
 Sources: [1](https://theiashub.com/upsc/punjab-pcs-previous-year-question-paper/) · [2](https://earnmoneyjobs.com/punjab-civil-service-exam-dates-2018-announced-ppsc-exam-dates/) · [3](https://www.scribd.com/document/405157714/Result-PPSC-Combined-Civil-Services-Main-Exam) · [4](https://abhipedia.abhimanu.com/Free/554/1036/PCS-2018-Result-dec-14-6-2019-) · [5](https://drive.google.com/file/d/10tE0ggujrWAUF86ek4HhbclCOGSfEwGi/view)
 
+<a id="q1"></a>
+
 **Q1.** Critically explain the financial relationship between the Centre and the States against the backdrop of the recommendations of 14th Finance Commission. *(15 marks, 200 words)*
 
 <details><summary>Model answer points</summary>
@@ -31,6 +33,10 @@ Topic: [notes](../syllabus/GS2/02-g2p2-federalism-devolution.md)
 
 </details>
 
+*Topic asked 5× (2018, 2021, 2026) 🔥*
+
+<a id="q2"></a>
+
 **Q2.** Explain the main aspects of the role of the Reserve Bank of India under the present financial regime compared to the regime prior to demonetization. *(15 marks, 200 words)*
 
 <details><summary>Model answer points</summary>
@@ -56,6 +62,10 @@ Topic: [notes](../syllabus/GS2/02-g2p2-federalism-devolution.md)
 Topic: [notes](../syllabus/GS3/01-g3e1-planning-growth-employment-budgeting.md)
 
 </details>
+
+*Topic asked 7× (2018, 2021, 2026) 🔥*
+
+<a id="q3"></a>
 
 **Q3.** Despite subsidies and minimum support price, the state of farmers has not changed drastically. Discuss the reasons for the failure. *(15 marks, 200 words)*
 
@@ -83,6 +93,10 @@ Topic: [notes](../syllabus/GS3/02-g3e2-crops-irrigation-marketing-msp-subsidies.
 
 </details>
 
+*Topic asked 2× (2018, 2026)*
+
+<a id="q4"></a>
+
 **Q4.** Discuss the role of education and health in enhancing the human capital. Explain its importance in economic development. *(15 marks, 200 words)*
 
 <details><summary>Model answer points</summary>
@@ -107,6 +121,10 @@ Topic: [notes](../syllabus/GS3/02-g3e2-crops-irrigation-marketing-msp-subsidies.
 Topic: [notes](../syllabus/GS3/07-g3e7-human-capital-unemployment-skills.md)
 
 </details>
+
+*Topic asked 4× (2018, 2021, 2026) 🔥*
+
+<a id="q5"></a>
 
 **Q5.** The Punjab economy has failed to remain competitive with many other developed states. Do you agree? Justify. *(15 marks, 200 words)*
 
@@ -135,6 +153,10 @@ Topic: [notes](../syllabus/GS3/08-g3e8-punjab-economy-planning-industry-infrastr
 
 </details>
 
+*Topic asked 4× (2018, 2021, 2026) 🔥*
+
+<a id="q6-a"></a>
+
 **Q6(a).** How does public distribution system work? *(10 marks, 100 words)*
 
 <details><summary>Model answer points</summary>
@@ -157,6 +179,10 @@ Topic: [notes](../syllabus/GS3/08-g3e8-punjab-economy-planning-industry-infrastr
 Topic: [notes](../syllabus/GS3/03-g3e3-pds-buffer-stocks-food-security.md)
 
 </details>
+
+*↻ **Same theme also asked:** [Mains 2026 · GS3 Q4](mains_2026_GS3.md#q4) · Topic asked 3× (2018, 2026)*
+
+<a id="q6-b"></a>
 
 **Q6(b).** What are buffer norms? What are its objectives? Is any change in buffer norms in pipeline? *(10 marks, 100 words)*
 
@@ -181,6 +207,10 @@ Topic: [notes](../syllabus/GS3/03-g3e3-pds-buffer-stocks-food-security.md)
 
 </details>
 
+*Topic asked 3× (2018, 2026)*
+
+<a id="q7-a"></a>
+
 **Q7(a).** Do you think economic inequality is one of the undesirable outcomes of the liberalization in the Indian economy? Elucidate. *(10 marks, 100 words)*
 
 <details><summary>Model answer points</summary>
@@ -204,6 +234,10 @@ Topic: [notes](../syllabus/GS3/05-g3e5-land-reforms-liberalisation-industrial-po
 
 </details>
 
+*Topic asked 4× (2018, 2021, 2026) 🔥*
+
+<a id="q7-b"></a>
+
 **Q7(b).** How can a primary producer gain while participating in the food processing industry? *(10 marks, 100 words)*
 
 <details><summary>Model answer points</summary>
@@ -226,6 +260,10 @@ Topic: [notes](../syllabus/GS3/05-g3e5-land-reforms-liberalisation-industrial-po
 Topic: [notes](../syllabus/GS3/04-g3e4-food-processing.md)
 
 </details>
+
+*Topic asked 2× (2018, 2026)*
+
+<a id="q8"></a>
 
 **Q8.** Do you think GST has facilitated the Indian business environment? Discuss. *(15 marks, 200 words)*
 
@@ -253,6 +291,10 @@ Topic: [notes](../syllabus/GS3/01-g3e1-planning-growth-employment-budgeting.md)
 
 </details>
 
+*Topic asked 7× (2018, 2021, 2026) 🔥*
+
+<a id="q9"></a>
+
 **Q9.** What is China Pakistan Economic Corridor (CPEC)? What are its implications on security of India? *(15 marks, 200 words)*
 
 <details><summary>Model answer points</summary>
@@ -278,6 +320,10 @@ Topic: [notes](../syllabus/GS3/01-g3e1-planning-growth-employment-budgeting.md)
 Topic: [notes](../syllabus/GS3/13-g3s4-border-areas-organised-crime-terror.md)
 
 </details>
+
+*Topic asked 7× (2018, 2021, 2026) 🔥*
+
+<a id="q10"></a>
 
 **Q10.** Write a short note on recent initiatives of Comprehensive Integrated Border Management System. Also mention the challenges linked with border management for India particularly in view of the long porous border India shares with Pakistan, Bangladesh and China. *(15 marks, 200 words)*
 
@@ -305,6 +351,10 @@ Topic: [notes](../syllabus/GS3/13-g3s4-border-areas-organised-crime-terror.md)
 
 </details>
 
+*↻ **Same theme also asked:** [Mains 2026 · GS3 Q20](mains_2026_GS3.md#q20) · Topic asked 7× (2018, 2021, 2026) 🔥*
+
+<a id="q11-a"></a>
+
 **Q11(a).** Narco-Drug trafficking has gained serious proportions. Explain how it is a threat to internal security of India with special reference to Punjab. *(10 marks, 100 words)*
 
 <details><summary>Model answer points</summary>
@@ -327,6 +377,10 @@ Topic: [notes](../syllabus/GS3/13-g3s4-border-areas-organised-crime-terror.md)
 Topic: [notes](../syllabus/GS3/13-g3s4-border-areas-organised-crime-terror.md)
 
 </details>
+
+*↻ **Same theme also asked:** [Mains 2026 · GS3 Q10](mains_2026_GS3.md#q10) · Topic asked 7× (2018, 2021, 2026) 🔥*
+
+<a id="q11-b"></a>
 
 **Q11(b).** What is Hologrammatic Terrorism? Explain the challenges of asymmetric war against India. *(10 marks, 100 words)*
 
@@ -351,6 +405,10 @@ Topic: [notes](../syllabus/GS3/11-g3s2-internal-security-actors-media.md)
 
 </details>
 
+*Topic asked 3× (2018, 2026)*
+
+<a id="q12-a"></a>
+
 **Q12(a).** Elaborate the relationship between Media (both print & electronic) and National Security. *(10 marks, 100 words)*
 
 <details><summary>Model answer points</summary>
@@ -374,6 +432,10 @@ Topic: [notes](../syllabus/GS3/11-g3s2-internal-security-actors-media.md)
 
 </details>
 
+*Topic asked 3× (2018, 2026)*
+
+<a id="q12-b"></a>
+
 **Q12(b).** Explain how is comprehensive security a significant departure from conventional security paradigm? *(10 marks, 100 words)*
 
 <details><summary>Model answer points</summary>
@@ -396,6 +458,10 @@ Topic: [notes](../syllabus/GS3/11-g3s2-internal-security-actors-media.md)
 Topic: [notes](../syllabus/GS3/10-g3s1-development-extremism.md)
 
 </details>
+
+*Topic asked 2× (2018, 2021)*
+
+<a id="q13"></a>
 
 **Q13.** The following data gives 2007 Gross Domestic Product (GDP) in billions of dollars for all 50 States of US. The data are entered in the alphabetical order of the States.  
 166 45 247 95 1813 236 216 60 735 397  
@@ -427,6 +493,10 @@ Topic: [notes](../syllabus/GS3/09-g3st1-statistical-analysis-graphs-diagrams.md)
 
 </details>
 
+*Topic asked 12× (2018, 2021, 2026) 🔥*
+
+<a id="q14"></a>
+
 **Q14.** Study the data given in the following multiple bar chart which shows the production, export and import (in million kg) of various commodities by Country X and answer the questions given below. [Values read from the bar chart: Jute — production 240, export 120, import 80; Tea — 170, 90, 130; Coffee — 80, 30, 50; Sugar — 225, 120, 20; Cotton — 165, 125, 50.]  
 (a) In the case of which commodities are the ratios of production to export highest and lowest? Give the two values also.  
 (b) In the case of which commodity is the highest percent of its production exported? Give the percentage values also.  
@@ -454,6 +524,10 @@ Topic: [notes](../syllabus/GS3/09-g3st1-statistical-analysis-graphs-diagrams.md)
 
 </details>
 
+*Topic asked 12× (2018, 2021, 2026) 🔥*
+
+<a id="q15-a"></a>
+
 **Q15(a).** The mean monthly salary paid to all employees in a certain company was Rs.600/-. The mean monthly salaries paid to male and female employees were Rs.620/- and Rs.520/- respectively. Find the percentage of male to female employees in the company. *(10 marks)*
 
 <details><summary>Model answer points</summary>
@@ -476,6 +550,10 @@ Topic: [notes](../syllabus/GS3/09-g3st1-statistical-analysis-graphs-diagrams.md)
 
 </details>
 
+*Topic asked 12× (2018, 2021, 2026) 🔥*
+
+<a id="q15-b"></a>
+
 **Q15(b).** The mean and standard deviation of marks of 50 students was 40 and 10 respectively. On the valid complaint of cheating in examination, the controller of examination decides to deduct 10 marks from marks of each student. Find the revised mean and standard deviation of marks of all 50 students. *(10 marks)*
 
 <details><summary>Model answer points</summary>
@@ -496,3 +574,5 @@ Topic: [notes](../syllabus/GS3/09-g3st1-statistical-analysis-graphs-diagrams.md)
 Topic: [notes](../syllabus/GS3/09-g3st1-statistical-analysis-graphs-diagrams.md)
 
 </details>
+
+*Topic asked 12× (2018, 2021, 2026) 🔥*

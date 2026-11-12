@@ -1,6 +1,6 @@
 # Diseases — causes & prevention
 
-**Paper I — General Studies** › Everyday Science · Subject: Everyday Science · Priority: High
+**Paper I — General Studies** › Everyday Science · Subject: Everyday Science · Priority: High · **Asked by PPSC: 🔁 2× (’21 ’25)**
 
 > Official syllabus line: Disease – its causes & prevention, infectious diseases, lifestyle diseases.
 
@@ -115,6 +115,15 @@ Expect match-type questions on disease-pathogen-vector pairs, transmission route
 - Lucent's General Science (Biology: diseases and pathogens)
 - Ministry of Health and Family Welfare / NPCDCS (now NP-NCD) programme pages
 
+## Asked in PPSC papers — 2 times (in 2 of 3 recent exams)
+
+| Paper | Years asked |
+|---|---|
+| Prelims GS | 2021, 2025 |
+
+- [Prelims 2025 · GS Q14](../../past-papers/pre_2025_GS.md#q14) — Consider the following pairs (Disease - Causative agent) :
+- [Prelims 2021 · GS Q5](../../past-papers/pre_2021_GS.md#q5) — ICMR published "National Guidelines for Gene Therapy Product Development and Clinical Trials". Which of the following statements are correct about Gene Therapy 
+
 ## Practice MCQs (12)
 
 **1.** Which mosquito transmits dengue?
@@ -142,6 +151,8 @@ Expect match-type questions on disease-pathogen-vector pairs, transmission route
 **(b) Kala-azar** — Kala-azar is caused by Leishmania donovani, spread by sandflies; typhoid is bacterial, measles viral, ringworm fungal.
 
 </details>
+
+*Like a real PPSC question: [Prelims 2025 · GS Q14](../../past-papers/pre_2025_GS.md#q14)*
 
 **3.** Consider: 1. Hepatitis A and E spread mainly through contaminated food and water. 2. Hepatitis B spreads mainly through blood and body fluids. Which is/are correct?
 

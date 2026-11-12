@@ -1,6 +1,6 @@
 # Mauryas & Guptas
 
-**Paper I — General Studies** › History of India & World History · Subject: Indian History · Priority: Medium
+**Paper I — General Studies** › History of India & World History · Subject: Indian History · Priority: Medium · **Asked by PPSC: 🔥 4× (’18 ’21 ’25)**
 
 > Official syllabus line: The Maurya Gupta periods.
 
@@ -141,6 +141,17 @@ Expect questions on edicts and inscriptions (which edict says what, who composed
 - NCERT Class 12 Themes in Indian History Part I, Ch 2 (Kings, Farmers and Towns)
 - R.S. Sharma, India's Ancient Past (chapters on the Mauryas and the Guptas)
 - Upinder Singh, A History of Ancient and Early Medieval India
+
+## Asked in PPSC papers — 4 times 🔥 (in every recent exam)
+
+| Paper | Years asked |
+|---|---|
+| Prelims GS | 2018, 2021, 2025 (×2) |
+
+- [Prelims 2025 · GS Q3](../../past-papers/pre_2025_GS.md#q3) — The decline of the Nanda dynasty at the hands of Chandragupta Maurya and Kautilya has been vividly portrayed in which of the following Sanskrit plays ?
+- [Prelims 2025 · GS Q4](../../past-papers/pre_2025_GS.md#q4) — Which foreign traveller stated that — Harshavardhana could not subdue Badami Chalukya's Pulakeshin II ?
+- [Prelims 2021 · GS Q71](../../past-papers/pre_2021_GS.md#q71) — Sangam texts suggest several stages of social evolution of Tamil people. In this context consider the following statements :
+- [Prelims 2018 · GS Q83](../../past-papers/pre_2018_GS.md#q83) — Who was the Persian appointed by Ashoka to administer the Western province ?
 
 ## Practice MCQs (12)
 

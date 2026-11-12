@@ -1,6 +1,6 @@
 # World Wars I & II
 
-**Paper I — General Studies** › History of India & World History · Subject: World History · Priority: Medium
+**Paper I — General Studies** › History of India & World History · Subject: World History · Priority: Medium · **Asked by PPSC: 🔁 3× (’18 ’21)**
 
 > Official syllabus line: World Wars I & II.
 
@@ -162,6 +162,16 @@ Expect causes, alliance membership, treaties and their terms, turning-point batt
 - NCERT Class 9 India and the Contemporary World I, Ch 3 (Nazism and the Rise of Hitler)
 - Arjun Dev, History of the World (old NCERT)
 
+## Asked in PPSC papers — 3 times (in 2 of 3 recent exams)
+
+| Paper | Years asked |
+|---|---|
+| Prelims GS | 2018 (×2), 2021 |
+
+- [Prelims 2021 · GS Q78](../../past-papers/pre_2021_GS.md#q78) — From July 17 to August 2, 1945, leaders from the Allied nations met at the Potsdam Conference to decide the sanctions to be put in place against the recently de
+- [Prelims 2018 · GS Q78](../../past-papers/pre_2018_GS.md#q78) — Name the two German representatives who were forced to append their signatures on the Treaty of Versailles in 1919 ?
+- [Prelims 2018 · GS Q79](../../past-papers/pre_2018_GS.md#q79) — Operation Barbarossa was the code name for the invasion on which country ?
+
 ## Practice MCQs (12)
 
 **1.** Archduke Franz Ferdinand was assassinated in 1914 at:
@@ -189,6 +199,8 @@ Expect causes, alliance membership, treaties and their terms, turning-point batt
 **(a) 1919** — It was signed on 28 June 1919, five years after the Sarajevo assassination.
 
 </details>
+
+*Like a real PPSC question: [Prelims 2018 · GS Q78](../../past-papers/pre_2018_GS.md#q78)*
 
 **3.** World War II began with the German invasion of:
 

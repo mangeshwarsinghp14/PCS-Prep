@@ -1,6 +1,6 @@
 # National Movement 1857–1947
 
-**Paper I — General Studies** › History of India & World History · Subject: Indian History · Priority: High
+**Paper I — General Studies** › History of India & World History · Subject: Indian History · Priority: High · **Asked by PPSC: 🔥 7× (’18 ’21 ’25)**
 
 > Official syllabus line: The British rule and the Indian National Movement (1857–1947).
 
@@ -139,6 +139,20 @@ This is a high-weight topic: chronology questions, session–president–resolut
 - Rajiv Ahir, A Brief History of Modern India (Spectrum)
 - NCERT Class 12 Themes in Indian History Part III, Ch 13 (Mahatma Gandhi and the Nationalist Movement)
 - PSEB Class 12 History of Punjab (freedom struggle in Punjab)
+
+## Asked in PPSC papers — 7 times 🔥 (in every recent exam)
+
+| Paper | Years asked |
+|---|---|
+| Prelims GS | 2018, 2021 (×2), 2025 (×4) |
+
+- [Prelims 2025 · GS Q10](../../past-papers/pre_2025_GS.md#q10) — What was the significant political move made by Wavell on the instructions by Churchill in June 1945 in anticipation of the British elections ?
+- [Prelims 2025 · GS Q11](../../past-papers/pre_2025_GS.md#q11) — What was the primary purpose of the Babington-Smith Committee, appointed in 1919 ?
+- [Prelims 2025 · GS Q12](../../past-papers/pre_2025_GS.md#q12) — For the Assertion (A) and Reason (R) given below, choose the correct alternative from the following :
+- [Prelims 2025 · GS Q13](../../past-papers/pre_2025_GS.md#q13) — Match the following leaders with their journals :
+- [Prelims 2021 · GS Q23](../../past-papers/pre_2021_GS.md#q23) — The All India Trade Union Congress (AITUC), the first pan-India trade union recently completed 100 years. Who among the following contributed to the formation o
+- [Prelims 2021 · GS Q69](../../past-papers/pre_2021_GS.md#q69) — In the Indian Freedom Struggle, who among the following revolutionaries carried out their activities from abroad ?
+- [Prelims 2018 · GS Q90](../../past-papers/pre_2018_GS.md#q90) — Which of the following was popularly known as the "Firebrand of South India" ?
 
 ## Practice MCQs (12)
 

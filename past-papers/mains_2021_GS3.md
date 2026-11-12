@@ -4,6 +4,8 @@ Held 2021-04-01. 17 questions.
 
 Sources: [1](https://theiashub.com/upsc/punjab-pcs-previous-year-question-paper/) · [2](https://www.freejobalert.com/punjab-civil-services-2020/852429/) · [3](https://drive.google.com/file/d/1DJgwI3fDdZ0PTp_6egHad1Xy91nzN8Vk/view) · [4](https://www.adda247.com/jobs/wp-content/uploads/sites/22/2025/11/18111213/PCS-Mains-Exam-General-Paper-III.pdf) · [5](https://ksandk.com/labour-employment/all-four-labour-codes-enforced-from-21-november-2025/) · [6](https://www.downtoearth.org.in/amp/story/energy/india-reaches-50-non-fossil-fuel-power-capacity-five-years-ahead-of-target) · [7](https://powerline.net.in/2025/02/05/eedl-signs-spa-to-acquire-100-per-cent-stake-distribution-company-in-chandigarh/)
 
+<a id="q1"></a>
+
 **Q1.** Discuss the characteristics of the Indian labour market. What are the reforms that are needed to improve the state of employment in India and what do the four codes on wages, on industrial relations, on occupational health, safety and working conditions and on social security propose in achieving the labour reforms? *(15 marks, 200 words)*
 
 <details><summary>Model answer points</summary>
@@ -33,6 +35,10 @@ Topic: [notes](../syllabus/GS3/07-g3e7-human-capital-unemployment-skills.md)
 
 </details>
 
+*Topic asked 4× (2018, 2021, 2026) 🔥*
+
+<a id="q2"></a>
+
 **Q2.** "Infrastructure investment is one of the key pillars of sustained economic development". Critically examine the recommendations of the Task Force on National Infrastructure Pipeline to promote infrastructure investment in India. *(10 marks, 100 words)*
 
 <details><summary>Model answer points</summary>
@@ -56,6 +62,10 @@ Topic: [notes](../syllabus/GS3/07-g3e7-human-capital-unemployment-skills.md)
 Topic: [notes](../syllabus/GS3/06-g3e6-infrastructure-investment-models.md)
 
 </details>
+
+*Topic asked 3× (2021, 2026)*
+
+<a id="q3"></a>
 
 **Q3.** Explain the structure and state of the power sector in India. Present a critical analysis of the government proposal to privatise power distribution companies in the country via the Electricity Amendment Bill 2020 and the Draft Standard Bidding Document for privatisation of Discoms. *(15 marks, 200 words)*
 
@@ -87,6 +97,10 @@ Topic: [notes](../syllabus/GS3/06-g3e6-infrastructure-investment-models.md)
 
 </details>
 
+*Topic asked 3× (2021, 2026)*
+
+<a id="q4"></a>
+
 **Q4.** Discuss the concepts of network trade and network products. Critically analyse India's performance in the manufacture and trade of network products. Do you think that the Covid-19 crisis has presented India with a unique opportunity to replace China as the manufacturing hub of the world? *(15 marks, 200 words)*
 
 <details><summary>Model answer points</summary>
@@ -112,6 +126,10 @@ Topic: [notes](../syllabus/GS3/06-g3e6-infrastructure-investment-models.md)
 Topic: [notes](../syllabus/GS3/05-g3e5-land-reforms-liberalisation-industrial-policy.md)
 
 </details>
+
+*Topic asked 4× (2018, 2021, 2026) 🔥*
+
+<a id="q5"></a>
 
 **Q5.** Critically analyse the suspension of the Insolvency and Bankruptcy Code by the Government of India in wake of the Covid-19 pandemic. *(15 marks, 200 words)*
 
@@ -139,6 +157,10 @@ Topic: [notes](../syllabus/GS3/01-g3e1-planning-growth-employment-budgeting.md)
 
 </details>
 
+*Topic asked 7× (2018, 2021, 2026) 🔥*
+
+<a id="q6"></a>
+
 **Q6.** Comment on the stance of the Indian Government on the regulation of Cryptocurrencies in India. What are the advantages and disadvantages of Cryptocurrencies in the Indian context? Discuss. *(15 marks, 200 words)*
 
 <details><summary>Model answer points</summary>
@@ -165,6 +187,10 @@ Topic: [notes](../syllabus/GS3/01-g3e1-planning-growth-employment-budgeting.md)
 Topic: [notes](../syllabus/GS3/01-g3e1-planning-growth-employment-budgeting.md)
 
 </details>
+
+*Topic asked 7× (2018, 2021, 2026) 🔥*
+
+<a id="q7"></a>
 
 **Q7.** In the post economic reforms period, the slowdown of agriculture sector of Punjab has impacted and restricted the growth of other sectors of the economy which resulted into marginalization of the state's economy. Examine this statement critically. *(15 marks, 200 words)*
 
@@ -195,6 +221,10 @@ Topic: [notes](../syllabus/GS3/08-g3e8-punjab-economy-planning-industry-infrastr
 
 </details>
 
+*Topic asked 4× (2018, 2021, 2026) 🔥*
+
+<a id="q8"></a>
+
 **Q8.** Explain that with Covid's looming impact on the economy, there is an urgent need to increase skill imparting initiatives to hold onto India's Demographic Dividend. *(15 marks, 200 words)*
 
 <details><summary>Model answer points</summary>
@@ -220,6 +250,10 @@ Topic: [notes](../syllabus/GS3/08-g3e8-punjab-economy-planning-industry-infrastr
 Topic: [notes](../syllabus/GS3/07-g3e7-human-capital-unemployment-skills.md)
 
 </details>
+
+*Topic asked 4× (2018, 2021, 2026) 🔥*
+
+<a id="q9"></a>
 
 **Q9.** Discuss the main aspects of the Atmanirbhar Bharat Abhiyan. What are the enabling policy reforms and institutions that are needed to make this program a success? Discuss. *(15 marks, 200 words)*
 
@@ -247,6 +281,10 @@ Topic: [notes](../syllabus/GS3/05-g3e5-land-reforms-liberalisation-industrial-po
 
 </details>
 
+*Topic asked 4× (2018, 2021, 2026) 🔥*
+
+<a id="q10"></a>
+
 **Q10.** Is the consolidation of Public Sector Banks a viable and sustainable solution to the problem of rising Non-Performing Assets which are likely to get aggravated due to the Covid-19 crisis? Discuss. *(10 marks, 100 words)*
 
 <details><summary>Model answer points</summary>
@@ -269,6 +307,10 @@ Topic: [notes](../syllabus/GS3/05-g3e5-land-reforms-liberalisation-industrial-po
 Topic: [notes](../syllabus/GS3/01-g3e1-planning-growth-employment-budgeting.md)
 
 </details>
+
+*Topic asked 7× (2018, 2021, 2026) 🔥*
+
+<a id="q11"></a>
 
 **Q11.** Do you think that the reforms in Police as a law enforcement agency is one of the bottlenecks in the internal security policy of India. Examine critically. *(15 marks, 200 words)*
 
@@ -295,6 +337,10 @@ Topic: [notes](../syllabus/GS3/01-g3e1-planning-growth-employment-budgeting.md)
 Topic: [notes](../syllabus/GS3/14-g3s5-security-forces-agencies.md)
 
 </details>
+
+*Topic asked 4× (2018, 2021, 2026) 🔥*
+
+<a id="q12"></a>
 
 **Q12.** Explain the 'Dark Web'. How is it posing challenge to the law enforcement agencies? What are the counter measures that India has taken in response to the cyber terrorism? *(15 marks, 200 words)*
 
@@ -323,6 +369,10 @@ Topic: [notes](../syllabus/GS3/12-g3s3-cyber-security-money-laundering.md)
 
 </details>
 
+*Topic asked 3× (2021, 2026)*
+
+<a id="q13"></a>
+
 **Q13.** Often the causes of violent extremism are categorised into 'push' and 'pull' factors and overlooks the links between 'individual' and 'community' factors. Critically examine the individual and community factors which are useful to understand extremism in India? *(15 marks, 200 words)*
 
 <details><summary>Model answer points</summary>
@@ -349,6 +399,10 @@ Topic: [notes](../syllabus/GS3/12-g3s3-cyber-security-money-laundering.md)
 Topic: [notes](../syllabus/GS3/10-g3s1-development-extremism.md)
 
 </details>
+
+*Topic asked 2× (2018, 2021)*
+
+<a id="q14"></a>
 
 **Q14.** India has been strongly criticising state sponsored cross-border terrorism. With what approaches India has been countering this type of terrorism. Give your opinion especially in context of India's neighbours. *(15 marks, 200 words)*
 
@@ -377,6 +431,10 @@ Topic: [notes](../syllabus/GS3/10-g3s1-development-extremism.md)
 Topic: [notes](../syllabus/GS3/13-g3s4-border-areas-organised-crime-terror.md)
 
 </details>
+
+*Topic asked 7× (2018, 2021, 2026) 🔥*
+
+<a id="q15"></a>
 
 **Q15.** Consider the following loan (in '000 Rs.) extended by various lending institutions.  
 Year | Public Sector Banks | Small Finance Corporations | Private Banks  
@@ -413,6 +471,10 @@ Topic: [notes](../syllabus/GS3/09-g3st1-statistical-analysis-graphs-diagrams.md)
 
 </details>
 
+*Topic asked 12× (2018, 2021, 2026) 🔥*
+
+<a id="q16"></a>
+
 **Q16.** Based on the given data, answer the following questions:  
  | Village X | Village Y  
 Average income (in Rs.) | 1750 | 1860  
@@ -445,6 +507,10 @@ Topic: [notes](../syllabus/GS3/09-g3st1-statistical-analysis-graphs-diagrams.md)
 
 </details>
 
+*Topic asked 12× (2018, 2021, 2026) 🔥*
+
+<a id="q17"></a>
+
 **Q17.** The following charts depict the distribution of tourists to India from various countries in year 2018 along with their age distribution. [Pie chart 'Tourists to India in 2018': USA 22%, UK 18%, China 15%, European Union 20%, Others 25%. Bar chart 'Age group of tourists' (% of tourists): below 30 – 25, 30–39 – 15, 40–49 – 15, 50–59 – 22, 60 and above – 23 (values read from the chart).]  
 (a) If per capita expenditure of tourists of USA, UK and China was Rs. 6000, Rs. 5000 and Rs. 4000 respectively and 6400000 tourists from these countries visited in 2018 then what was total spending of tourists of these countries?  
 (b) If 3200000 tourists that came to India in year 2018 were having age greater than 49 years then how many tourists came to India from different regions as shown in pie chart?  
@@ -474,3 +540,5 @@ Topic: [notes](../syllabus/GS3/09-g3st1-statistical-analysis-graphs-diagrams.md)
 Topic: [notes](../syllabus/GS3/09-g3st1-statistical-analysis-graphs-diagrams.md)
 
 </details>
+
+*Topic asked 12× (2018, 2021, 2026) 🔥*

@@ -1,6 +1,6 @@
 # Translation (10)
 
-**Paper 1 — Punjabi (Gurmukhi), 10+2 standard** › ਪੰਜਾਬੀ · Subject: Language papers (Punjabi & English) · Priority: Medium
+**Paper 1 — Punjabi (Gurmukhi), 10+2 standard** › ਪੰਜਾਬੀ · Subject: Language papers (Punjabi & English) · Priority: Medium · **Asked by PPSC: 🔁 2× (’26)**
 
 > Official syllabus line: ਅਨੁਵਾਦ.
 
@@ -111,6 +111,15 @@ A short English passage is to be rendered into Punjabi. Examiners reward correct
 - English-Punjabi dictionary (Punjabi University, Patiala)
 - Bhasha Vibhag Punjab administrative glossary
 - Punjabi and English newspapers for parallel reading
+
+## Asked in PPSC papers — 2 times (in 1 of 3 recent exams)
+
+| Paper | Years asked |
+|---|---|
+| Mains Punjabi | 2026 (×2) |
+
+- [Mains 2026 · Punjabi Q5](../../past-papers/mains_2026_PUN.md#q5) — ਪ੍ਰਸ਼ਨ 5: ਹੇਠ ਲਿਖੇ ਦਾ ਅੰਗਰੇਜ਼ੀ ਵਿੱਚ ਅਨੁਵਾਦ ਕਰੋ (3+2=5):
+- [Mains 2026 · Punjabi Q6](../../past-papers/mains_2026_PUN.md#q6) — ਪ੍ਰਸ਼ਨ 6: ਹੇਠ ਲਿਖੇ ਵਾਕਾਂ ਅਤੇ ਪੈਰ੍ਹੇ ਦਾ ਪੰਜਾਬੀ ਵਿੱਚ ਅਨੁਵਾਦ ਕਰੋ (2+3=5):
 
 ## Mains practice questions (7)
 

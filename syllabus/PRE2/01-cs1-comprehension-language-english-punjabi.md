@@ -1,6 +1,6 @@
 # Comprehension & language (English, Punjabi)
 
-**Paper II — CSAT** › Civil Services Aptitude Test · Subject: CSAT (Paper II) · Priority: High
+**Paper II — CSAT** › Civil Services Aptitude Test · Subject: CSAT (Paper II) · Priority: High · **Asked by PPSC: 🔁 15× (’21 ’25)**
 
 > Official syllabus line: Reading comprehension; Punjabi and English language comprehension, antonyms and synonyms, grammar and sentence formation.
 
@@ -123,6 +123,28 @@ Expect short English passages with inference and main-idea questions, plus direc
 - UPSC CSAT previous papers (comprehension sections), 2011 onwards
 - PPSC Prelims Paper II previous papers
 
+## Asked in PPSC papers — 15 times (in 2 of 3 recent exams)
+
+| Paper | Years asked |
+|---|---|
+| Prelims CSAT | 2021 (×7), 2025 (×8) |
+
+- [Prelims 2025 · CSAT Q69](../../past-papers/pre_2025_CSAT.md#q69) — Which of the choices is CLOSEST in meaning to the word "PREPOSTEROUS" ?
+- [Prelims 2025 · CSAT Q70](../../past-papers/pre_2025_CSAT.md#q70) — Fill in the blank with the most appropriate option :
+- [Prelims 2025 · CSAT Q71](../../past-papers/pre_2025_CSAT.md#q71) — Replace the underlined portion ('is discover') in the following sentence with the most appropriate option to make it grammatically correct. If the sentence is c
+- [Prelims 2025 · CSAT Q72](../../past-papers/pre_2025_CSAT.md#q72) — Choose the grammatically correct sentence.
+- [Prelims 2025 · CSAT Q77](../../past-papers/pre_2025_CSAT.md#q77) — ਹੇਠ ਲਿਖਿਆਂ ਵਿੱਚ ਬਹੁ-ਅਰਥਕ ਸ਼ਬਦਾਂ ਦਾ ਸਹੀ ਵਿਕਲਪ ਹੈ :
+- [Prelims 2025 · CSAT Q78](../../past-papers/pre_2025_CSAT.md#q78) — ਜਦੋਂ ਕੋਈ ਇਨਸਾਨ ਕੰਮ ਦਾ ਸਹੀ ਮੌਕਾ ਗੁਆ ਕੇ ਭਟਕਦਾ ਫਿਰੇ ਤਾਂ ਉਸ ਲਈ ਕਿਸ ਅਖਾਣ ਦੀ ਵਰਤੋਂ ਕੀਤੀ ਜਾਂਦੀ ਹੈ ?
+- [Prelims 2025 · CSAT Q79](../../past-papers/pre_2025_CSAT.md#q79) — ਨਾਟਕੀ ਵਾਰਤਾਲਾਪ ਦਾ ਸਹੀ ਵਿਕਲਪ ਚੁਣੋ :
+- [Prelims 2025 · CSAT Q80](../../past-papers/pre_2025_CSAT.md#q80) — ਹੇਠ ਲਿਖਿਆਂ ਵਿੱਚ ਸ਼ੁੱਧ ਸ਼ਬਦ-ਜੋੜਾਂ ਵਾਲਾ ਵਿਕਲਪ ਹੈ :
+- [Prelims 2021 · CSAT Q65](../../past-papers/pre_2021_CSAT.md#q65) — Which of the following sentences is correct ?
+- [Prelims 2021 · CSAT Q66](../../past-papers/pre_2021_CSAT.md#q66) — When I met her last week, she seemed to be _______ the weather.
+- [Prelims 2021 · CSAT Q67](../../past-papers/pre_2021_CSAT.md#q67) — 'ਗੋਗਲੂਆਂ ਤੋਂ ਮਿੱਟੀ ਝਾੜਨਾ' ਮੁਹਾਵਰੇ ਦੇ ਸਹੀ ਅਰਥ ਦੀ ਪਛਾਣ ਕਰੋ :
+- [Prelims 2021 · CSAT Q68](../../past-papers/pre_2021_CSAT.md#q68) — 'ਈਸਬਗੋਲ ਤੇ ਕੁਝ ਨਾ ਫੋਲ' ਅਖਾਣ ਦੀ ਵਰਤੋਂ ਕਦੋਂ ਹੁੰਦੀ ਹੈ :
+- [Prelims 2021 · CSAT Q69](../../past-papers/pre_2021_CSAT.md#q69) — "ਰੰਘਰੇਟਾ" ਸ਼ਬਦ ਲਈ ਸਹੀ ਪਛੇਤਰ ਚੁਣੋ :
+- [Prelims 2021 · CSAT Q70](../../past-papers/pre_2021_CSAT.md#q70) — ਕਿਹੜੇ ਵਾਕ ਵਿਚ ਵਿਸਮਿਕ ਚਿੰਨ੍ਹ ਦੀ ਠੀਕ ਵਰਤੋਂ ਹੋਈ ਹੈ ?
+- [Prelims 2021 · CSAT Q74](../../past-papers/pre_2021_CSAT.md#q74) — 'ਦੀਦਾ' ਸ਼ਬਦ ਦਾ ਸਮਾਨਾਰਥਕ ਸ਼ਬਦ ਹੈ ।
+
 ## Practice MCQs (20)
 
 **1.** Passage: 'In many central blocks of the state, groundwater is drawn faster than it is recharged. Electricity for tubewells is free, so pumping carries no direct cost to the farmer, and paddy, a thirsty crop, dominates the kharif season.' Which assumption is most clearly implied by the author?
@@ -150,6 +172,8 @@ Expect short English passages with inference and main-idea questions, plus direc
 **(d) Judicious** — Prudent means acting with care and good judgement, especially about the future. Judicious (showing good judgement) matches. Reckless is its opposite; generous and arrogant describe unrelated qualities.
 
 </details>
+
+*Like a real PPSC question: [Prelims 2025 · CSAT Q69](../../past-papers/pre_2025_CSAT.md#q69)*
 
 **3.** Identify the correction needed: 'Neither the Deputy Commissioner nor his assistants was present at the meeting.'
 

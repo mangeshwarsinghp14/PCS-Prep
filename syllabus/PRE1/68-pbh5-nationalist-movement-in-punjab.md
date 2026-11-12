@@ -1,6 +1,6 @@
 # Nationalist movement in Punjab
 
-**Paper I — General Studies** › Punjab · Subject: Punjab History · Priority: High
+**Paper I — General Studies** › Punjab · Subject: Punjab History · Priority: High · **Asked by PPSC: 🔁 1× (’25)**
 
 > Official syllabus line: Nationalist movement in Punjab.
 
@@ -151,6 +151,14 @@ Chronology and pairing: Ghadar leaders, Komagata Maru, Jallianwala responses, NB
 - Bipan Chandra, India's Struggle for Independence
 - Harish K. Puri, Ghadar Movement: Ideology, Organisation and Strategy
 - Spectrum, A Brief History of Modern India
+
+## Asked in PPSC papers — 1 time (in 1 of 3 recent exams)
+
+| Paper | Years asked |
+|---|---|
+| Prelims GS | 2025 |
+
+- [Prelims 2025 · GS Q96](../../past-papers/pre_2025_GS.md#q96) — Which committee was named Disorders Inquiry Committee ?
 
 ## Practice MCQs (15)
 

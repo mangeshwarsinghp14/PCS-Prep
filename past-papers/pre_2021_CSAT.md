@@ -4,6 +4,8 @@ Held 2021-02-13. Answer key: PPSC official final key. 80 questions.
 
 Sources: [1](https://theiashub.com/upsc/punjab-pcs-previous-year-question-paper/) · [2](https://drive.google.com/file/d/17wIP8qJYjVQ-uSMgyHqN29XeYOMtsrER/view) · [3](https://www.adda247.com/jobs/wp-content/uploads/sites/22/2025/11/18111138/General-Studies-Paper-2-Set-A-2021-Answer-Key.pdf) · [4](https://d2bps9p1kiy4ka.cloudfront.net/5b09189f7285894d9130ccd0/cf9f28be-c54f-4569-897b-c35f2fb9c0c2.pdf) · [5](https://www.adda247.com/exams/punjab/punjab-pcs-previous-year-question-papers/) · [6](https://www.pw.live/state-psc/exams/punjab-pcs-previous-year-question-paper)
 
+<a id="q1"></a>
+
 **Q1.** In a meeting Rajita always begins her sentences with 'I may be wrong, but…' or, 'Excuse my impertinence, but…' What style of communication is Rajita following ?
 
 (a) Assertive  
@@ -18,6 +20,9 @@ Sources: [1](https://theiashub.com/upsc/punjab-pcs-previous-year-question-paper/
 Topic: [notes](../syllabus/PRE2/02-cs2-interpersonal-communication-skills.md)
 
 </details>
+*Topic asked 3× (2021)*
+
+<a id="q2"></a>
 
 **Q2.** Before any negotiation, Ramesh first met the client informally, chatted with him and listened attentively to all his points. Only when he gathered all the relevant information, did he push for a negotiation. Ramesh was a
 
@@ -33,6 +38,9 @@ Topic: [notes](../syllabus/PRE2/02-cs2-interpersonal-communication-skills.md)
 Topic: [notes](../syllabus/PRE2/02-cs2-interpersonal-communication-skills.md)
 
 </details>
+*Topic asked 3× (2021)*
+
+<a id="q3"></a>
 
 **Q3.** Gita listened to the views of others and then analysed them according to their merit. Her listening style was
 
@@ -48,6 +56,9 @@ Topic: [notes](../syllabus/PRE2/02-cs2-interpersonal-communication-skills.md)
 Topic: [notes](../syllabus/PRE2/02-cs2-interpersonal-communication-skills.md)
 
 </details>
+*Topic asked 3× (2021)*
+
+<a id="q4"></a>
 
 **Q4.** Suppose you have a 12-hour digital clock where the number representing the hour is always the same as the number representing the minute. That is, the clock can only show times like 8:08, 9:09, 10:10, etc. What is the smallest time difference between two such times ?
 
@@ -63,6 +74,9 @@ Topic: [notes](../syllabus/PRE2/02-cs2-interpersonal-communication-skills.md)
 Topic: [notes](../syllabus/PRE2/03-cs3-logical-reasoning-mental-ability.md)
 
 </details>
+*Topic asked 47× (2021, 2025)*
+
+<a id="q5"></a>
 
 **Q5.** Read these six conditional claims :  
 1. If it's an apple, then it's a fruit.  
@@ -85,6 +99,9 @@ Out of these six conditional claims which three claims have the answer as Yes ?
 Topic: [notes](../syllabus/PRE2/03-cs3-logical-reasoning-mental-ability.md)
 
 </details>
+*Topic asked 47× (2021, 2025)*
+
+<a id="q6"></a>
 
 **Q6.** Hina Yellow, Jhanvi Red and Leena Gray each have a gray handbag, a yellow handbag and a red handbag, but none of them has a handbag colour that matches their name. They met unexpectedly one day. The lady with the red handbag commented, "How odd!" to which Leena Gray replied: "Most odd indeed!" Which option about the lady name and colour of the handbag is correct ?
 
@@ -100,6 +117,9 @@ Topic: [notes](../syllabus/PRE2/03-cs3-logical-reasoning-mental-ability.md)
 Topic: [notes](../syllabus/PRE2/03-cs3-logical-reasoning-mental-ability.md)
 
 </details>
+*Topic asked 47× (2021, 2025)*
+
+<a id="q7"></a>
 
 **Q7.** Read the following information carefully and then answer the question given below.  
 1. A∆B means A is mother of B.  
@@ -120,6 +140,9 @@ Which of the following means R is uncle of T ?
 Topic: [notes](../syllabus/PRE2/03-cs3-logical-reasoning-mental-ability.md)
 
 </details>
+*↻ **Same theme also asked:** [Prelims 2025 · CSAT Q47](pre_2025_CSAT.md#q47) · Topic asked 47× (2021, 2025)*
+
+<a id="q8"></a>
 
 **Q8.** Warangal Warriors, Thapar Thunders, Rohtak Rockers and Vellore Vikings are four Kabbadi Teams who compete against each other so that there are six matches in order to decide the champion.  
 1. "Vellore Vikings" is beaten by "Warangal Warriors".  
@@ -140,6 +163,9 @@ Who emerges as the champion ?
 Topic: [notes](../syllabus/PRE2/03-cs3-logical-reasoning-mental-ability.md)
 
 </details>
+*Topic asked 47× (2021, 2025)*
+
+<a id="q9"></a>
 
 **Q9.** The afternoon classes in a school begin at 2:00 P.M. and end at 4:52 P.M. There are four afternoon class periods with 4 minutes between periods. The number of minutes in each class period is
 
@@ -155,6 +181,9 @@ Topic: [notes](../syllabus/PRE2/03-cs3-logical-reasoning-mental-ability.md)
 Topic: [notes](../syllabus/PRE2/04-cs4-basic-numeracy.md)
 
 </details>
+*Topic asked 49× (2021, 2025)*
+
+<a id="q10"></a>
 
 **Q10.** At a party there are 3 large pizzas of equal size. Each pizza has been cut into 9 equal pieces. 8/9 of the first pizza has been eaten; 2/3 of the second pizza has been eaten; 7/9 of the third pizza has been eaten. What fraction of the 3 pizzas is left ?
 
@@ -170,6 +199,9 @@ Topic: [notes](../syllabus/PRE2/04-cs4-basic-numeracy.md)
 Topic: [notes](../syllabus/PRE2/04-cs4-basic-numeracy.md)
 
 </details>
+*Topic asked 49× (2021, 2025)*
+
+<a id="q11"></a>
 
 **Q11.** The three volumes of Encyclopedia of Animal Kingdom sit in order on a shelf with no space between the volumes, all upright, so that their spines are visible, left to right : I, II and III. Each is 30 mm thick, comprising 24 mm of total pages and 3 mm for each cover. A bookworm bores from page 1, volume I, to the last page of volume III. How far does it travel ?
 
@@ -185,6 +217,9 @@ Topic: [notes](../syllabus/PRE2/04-cs4-basic-numeracy.md)
 Topic: [notes](../syllabus/PRE2/03-cs3-logical-reasoning-mental-ability.md)
 
 </details>
+*Topic asked 47× (2021, 2025)*
+
+<a id="q12"></a>
 
 **Q12.** According to a survey at a company, 20 percent of the employees owned cell phones in 1994, and 60 percent of the employees owned cell phones in 1998. From 1994 to 1998, what was the percent increase in the fraction of employees who owned cell phones ?
 
@@ -200,6 +235,9 @@ Topic: [notes](../syllabus/PRE2/03-cs3-logical-reasoning-mental-ability.md)
 Topic: [notes](../syllabus/PRE2/04-cs4-basic-numeracy.md)
 
 </details>
+*Topic asked 49× (2021, 2025)*
+
+<a id="q13"></a>
 
 **Q13.** From 2018 to 2019, Mohan's annual salary increased by 10 percent and Arun's annual salary decreased by 5 percent. If their annual salaries were equal in 2019, then Arun's annual salary in 2018 was what percent greater than Mohan's annual salary in 2018 ?
 
@@ -215,6 +253,9 @@ Topic: [notes](../syllabus/PRE2/04-cs4-basic-numeracy.md)
 Topic: [notes](../syllabus/PRE2/04-cs4-basic-numeracy.md)
 
 </details>
+*Topic asked 49× (2021, 2025)*
+
+<a id="q14"></a>
 
 **Q14.** A candidate scores 20% and fails by 45 marks and another candidate who scores 45% marks gets 30 marks more than the minimum required to pass the examination. Find the maximum marks for the examination.
 
@@ -230,6 +271,9 @@ Topic: [notes](../syllabus/PRE2/04-cs4-basic-numeracy.md)
 Topic: [notes](../syllabus/PRE2/04-cs4-basic-numeracy.md)
 
 </details>
+*Topic asked 49× (2021, 2025)*
+
+<a id="q15"></a>
 
 **Q15.** Based on the information given below and diagram of an Airline's trips to 6 cities from New Delhi in the year 2015 :  
 [Diagram described in words — bar chart 'Distance from New Delhi by Air': Ranchi about 1,000 km, Kolkata about 1,200 km, Panaji about 1,400 km, Pune about 1,200 km, Kavaratti about 1,800 km, Munnar about 2,000 km. Line chart 'Number of plane trips from New Delhi to these cities per month': no trips in January–March, about 300 in April, about 400 in May, about 300 a month from June to September, then falling to about 100 in December.]  
@@ -254,6 +298,9 @@ How far is it from Ranchi to Munnar ?
 Topic: [notes](../syllabus/PRE2/05-cs5-data-analysis.md)
 
 </details>
+*Topic asked 25× (2021, 2025)*
+
+<a id="q16"></a>
 
 **Q16.** Based on the information given below and diagram of an Airline's trips to 6 cities from New Delhi in the year 2015 :  
 [Diagram described in words — bar chart 'Distance from New Delhi by Air': Ranchi about 1,000 km, Kolkata about 1,200 km, Panaji about 1,400 km, Pune about 1,200 km, Kavaratti about 1,800 km, Munnar about 2,000 km. Line chart 'Number of plane trips from New Delhi to these cities per month': no trips in January–March, about 300 in April, about 400 in May, about 300 a month from June to September, then falling to about 100 in December.]  
@@ -278,6 +325,9 @@ Taking account of the distances and the winds, if a plane were to fly from New D
 Topic: [notes](../syllabus/PRE2/05-cs5-data-analysis.md)
 
 </details>
+*Topic asked 25× (2021, 2025)*
+
+<a id="q17"></a>
 
 **Q17.** BMI is defined as being the mass of a person (in kg) divided by the square of the height (in metres). The data about 5 persons : A — 1.45 m, 45 kg; B — 1.50 m, 50 kg; C — 1.55 m, 55 kg; D — 1.70 m, 60 kg; E — 1.80 m, 70 kg.  
 Which of the following has the greatest BMI ?
@@ -294,6 +344,9 @@ Which of the following has the greatest BMI ?
 Topic: [notes](../syllabus/PRE2/04-cs4-basic-numeracy.md)
 
 </details>
+*Topic asked 49× (2021, 2025)*
+
+<a id="q18"></a>
 
 **Q18.** BMI is defined as being the mass of a person (in kg) divided by the square of the height (in metres). The data about 5 persons : A — 1.45 m, 45 kg; B — 1.50 m, 50 kg; C — 1.55 m, 55 kg; D — 1.70 m, 60 kg; E — 1.80 m, 70 kg.  
 If an adolescent's height increases by 10% and his mass by 10%, by how much will his BMI change ?
@@ -310,6 +363,9 @@ If an adolescent's height increases by 10% and his mass by 10%, by how much will
 Topic: [notes](../syllabus/PRE2/04-cs4-basic-numeracy.md)
 
 </details>
+*Topic asked 49× (2021, 2025)*
+
+<a id="q19"></a>
 
 **Q19.** An automobile company calls shortlisted applicants for two written tests (E1 – general scientific background; E2 – basics of the discipline) and a viva. To cut costs it now runs them in three stages: in the first stage the candidate sits either E1 or E2; if s/he passes, the second stage is the other written test or the viva; if s/he passes that, the remaining exam is taken in the third stage. A candidate must pass both tests and the viva, and is rejected on failing at any stage. Each of E1, E2 and viva costs ₹500 per candidate.  
 [Data from the diagram for 100 candidates — First stage: cleared E1 but failed E2 = 30, cleared both = 40, cleared E2 but failed E1 = 20 (10 cleared neither). Of the 70 who cleared E1, in the second stage: cleared E2 but failed viva = 10, cleared both = 30, cleared viva but failed E2 = 20. Of the 60 who cleared E2, in the second stage: cleared E1 but failed viva = 10, cleared both = 30, cleared viva but failed E1 = 15.]  
@@ -327,6 +383,9 @@ What is the ratio of the "percentage of candidates clearing E2 exam in second st
 Topic: [notes](../syllabus/PRE2/05-cs5-data-analysis.md)
 
 </details>
+*Topic asked 25× (2021, 2025)*
+
+<a id="q20"></a>
 
 **Q20.** An automobile company calls shortlisted applicants for two written tests (E1 – general scientific background; E2 – basics of the discipline) and a viva. To cut costs it now runs them in three stages: in the first stage the candidate sits either E1 or E2; if s/he passes, the second stage is the other written test or the viva; if s/he passes that, the remaining exam is taken in the third stage. A candidate must pass both tests and the viva, and is rejected on failing at any stage. Each of E1, E2 and viva costs ₹500 per candidate.  
 [Data from the diagram for 100 candidates — First stage: cleared E1 but failed E2 = 30, cleared both = 40, cleared E2 but failed E1 = 20 (10 cleared neither). Of the 70 who cleared E1, in the second stage: cleared E2 but failed viva = 10, cleared both = 30, cleared viva but failed E2 = 20. Of the 60 who cleared E2, in the second stage: cleared E1 but failed viva = 10, cleared both = 30, cleared viva but failed E1 = 15.]  
@@ -344,6 +403,9 @@ What is the percentage of candidates who are failing in second stage viva exam a
 Topic: [notes](../syllabus/PRE2/05-cs5-data-analysis.md)
 
 </details>
+*Topic asked 25× (2021, 2025)*
+
+<a id="q21"></a>
 
 **Q21.** A survey was conducted on a sample of 500 cinema artists with reference to their proficiency in the skill of acting, singing and dancing. [Venn diagram described in words — only singing 70, only acting 80, only dancing 125, singing and acting only 25, acting and dancing only 45, singing and dancing only 35, all three 75.]  
 What is the ratio of the number of cinema artists who are not proficient in any of these three skills (X0) to those who are proficient in all three (X3) ?
@@ -360,6 +422,9 @@ What is the ratio of the number of cinema artists who are not proficient in any 
 Topic: [notes](../syllabus/PRE2/05-cs5-data-analysis.md)
 
 </details>
+*Topic asked 25× (2021, 2025)*
+
+<a id="q22"></a>
 
 **Q22.** A survey was conducted on a sample of 500 cinema artists with reference to their proficiency in the skill of acting, singing and dancing. [Venn diagram described in words — only singing 70, only acting 80, only dancing 125, singing and acting only 25, acting and dancing only 45, singing and dancing only 35, all three 75.]  
 If all other data remains same, how many cinema artists who are not proficient in any of these three skills should become proficient in all three, so that the above said ratio between number of cine-artists who are not proficient in any of these three skills (X0) to those who are proficient in all three (X3) should now become X0 : X3 = 1 : 4 ?
@@ -376,6 +441,9 @@ If all other data remains same, how many cinema artists who are not proficient i
 Topic: [notes](../syllabus/PRE2/05-cs5-data-analysis.md)
 
 </details>
+*Topic asked 25× (2021, 2025)*
+
+<a id="q23"></a>
 
 **Q23.** Based on the information given below in diagram for Flight booking price scheme :  
 [Diagram described in words — Flights (fare per passenger): Destination A: 08.00 ₹22,500, 17.00 ₹7,500; B: 06.00 ₹14,200, 21.00 ₹9,800; C: 11.00 ₹6,300, 22.00 ₹7,200; D: 08.00 ₹8,000, 16.00 ₹10,400. Further options: luggage in hold – add ₹2,000 per item; travel insurance – add ₹900; environmental offset – add ₹350. These additional costs apply to each passenger per flight.]  
@@ -395,6 +463,9 @@ Key not available — PPSC dropped this question in the final key. Destination B
 Topic: [notes](../syllabus/PRE2/05-cs5-data-analysis.md)
 
 </details>
+*Topic asked 25× (2021, 2025)*
+
+<a id="q24"></a>
 
 **Q24.** Based on the information given below in diagram for Flight booking price scheme :  
 [Diagram described in words — Flights (fare per passenger): Destination A: 08.00 ₹22,500, 17.00 ₹7,500; B: 06.00 ₹14,200, 21.00 ₹9,800; C: 11.00 ₹6,300, 22.00 ₹7,200; D: 08.00 ₹8,000, 16.00 ₹10,400. Further options: luggage in hold – add ₹2,000 per item; travel insurance – add ₹900; environmental offset – add ₹350. These additional costs apply to each passenger per flight.]  
@@ -412,6 +483,9 @@ A party of three book to fly on the afternoon flight to destination C and opt fo
 Topic: [notes](../syllabus/PRE2/05-cs5-data-analysis.md)
 
 </details>
+*Topic asked 25× (2021, 2025)*
+
+<a id="q25"></a>
 
 **Q25.** Set M has 42 students and set N has 60 students. At least 12 of the students in set M are not in set N. Which of the following cannot be the possible number of students in set N that are not in set M ?
 
@@ -427,6 +501,9 @@ Topic: [notes](../syllabus/PRE2/05-cs5-data-analysis.md)
 Topic: [notes](../syllabus/PRE2/04-cs4-basic-numeracy.md)
 
 </details>
+*Topic asked 49× (2021, 2025)*
+
+<a id="q26"></a>
 
 **Q26.** 
 
@@ -437,6 +514,8 @@ Topic: [notes](../syllabus/PRE2/04-cs4-basic-numeracy.md)
 Key not available
 
 </details>
+
+<a id="q27"></a>
 
 **Q27.** A container of milk was 3/4 full. When 5 bottles of milk were taken out and 3 bottles of milk were poured into it, it was 2/3 full. How many bottles of milk can the container contain ?
 
@@ -452,6 +531,9 @@ Key not available
 Topic: [notes](../syllabus/PRE2/04-cs4-basic-numeracy.md)
 
 </details>
+*Topic asked 49× (2021, 2025)*
+
+<a id="q28"></a>
 
 **Q28.** The cost of mowing a square lawn at the rate of INR 700 per hectare is INR 4,375. The cost of putting a fence around the lawn at the rate of INR 45.45 per meter would be (in INR)
 
@@ -467,6 +549,9 @@ Topic: [notes](../syllabus/PRE2/04-cs4-basic-numeracy.md)
 Topic: [notes](../syllabus/PRE2/04-cs4-basic-numeracy.md)
 
 </details>
+*Topic asked 49× (2021, 2025)*
+
+<a id="q29"></a>
 
 **Q29.** If > = ÷, < = +, × = = and # = –, then which of the following equations is correct ?
 
@@ -482,6 +567,9 @@ Topic: [notes](../syllabus/PRE2/04-cs4-basic-numeracy.md)
 Topic: [notes](../syllabus/PRE2/03-cs3-logical-reasoning-mental-ability.md)
 
 </details>
+*Topic asked 47× (2021, 2025)*
+
+<a id="q30"></a>
 
 **Q30.** There are five boys, p, q, r, s, and t, sitting in the first line facing south. However, there are five girls, A, B, C, D, and E, sitting in a second line parallel to the first line and are facing to the north. The boys and girls are sitting in such a way that  
 • A is sitting at one end of the line.  
@@ -502,6 +590,9 @@ Which pairs are sitting opposite to each other ?
 Topic: [notes](../syllabus/PRE2/03-cs3-logical-reasoning-mental-ability.md)
 
 </details>
+*↻ **Same theme also asked:** [Prelims 2025 · CSAT Q42](pre_2025_CSAT.md#q42) · Topic asked 47× (2021, 2025)*
+
+<a id="q31"></a>
 
 **Q31.** There are five boys, p, q, r, s, and t, sitting in the first line facing south. However, there are five girls, A, B, C, D, and E, sitting in a second line parallel to the first line and are facing to the north. The boys and girls are sitting in such a way that  
 • A is sitting at one end of the line.  
@@ -522,6 +613,9 @@ Who is sitting third to the right of C ?
 Topic: [notes](../syllabus/PRE2/03-cs3-logical-reasoning-mental-ability.md)
 
 </details>
+*↻ **Same theme also asked:** [Prelims 2025 · CSAT Q42](pre_2025_CSAT.md#q42) · Topic asked 47× (2021, 2025)*
+
+<a id="q32"></a>
 
 **Q32.** There are five boys, p, q, r, s, and t, sitting in the first line facing south. However, there are five girls, A, B, C, D, and E, sitting in a second line parallel to the first line and are facing to the north. The boys and girls are sitting in such a way that  
 • A is sitting at one end of the line.  
@@ -542,6 +636,9 @@ Which of the following pairs is diagonally opposite to each other ?
 Topic: [notes](../syllabus/PRE2/03-cs3-logical-reasoning-mental-ability.md)
 
 </details>
+*↻ **Same theme also asked:** [Prelims 2025 · CSAT Q42](pre_2025_CSAT.md#q42) · Topic asked 47× (2021, 2025)*
+
+<a id="q33"></a>
 
 **Q33.** There are five boys, p, q, r, s, and t, sitting in the first line facing south. However, there are five girls, A, B, C, D, and E, sitting in a second line parallel to the first line and are facing to the north. The boys and girls are sitting in such a way that  
 • A is sitting at one end of the line.  
@@ -562,6 +659,9 @@ If C and D, p and t and q and E interchange their positions, then who will be th
 Topic: [notes](../syllabus/PRE2/03-cs3-logical-reasoning-mental-ability.md)
 
 </details>
+*↻ **Same theme also asked:** [Prelims 2025 · CSAT Q42](pre_2025_CSAT.md#q42) · Topic asked 47× (2021, 2025)*
+
+<a id="q34"></a>
 
 **Q34.** Amit, Bharat, Chandan, Dinesh, Eeshwar and Ferguson are cousins. None of them are of the same age, but all of them have birthdays on the same date. The youngest of them is 17 years old and Eeshwar, who is the eldest, is 22 years old. Ferguson is somewhere between Bharat and Dinesh in age. Amit is elder to Bharat and Chandan is older than Dinesh.  
 Which of the following is not possible ?
@@ -578,6 +678,9 @@ Which of the following is not possible ?
 Topic: [notes](../syllabus/PRE2/03-cs3-logical-reasoning-mental-ability.md)
 
 </details>
+*Topic asked 47× (2021, 2025)*
+
+<a id="q35"></a>
 
 **Q35.** Amit, Bharat, Chandan, Dinesh, Eeshwar and Ferguson are cousins. None of them are of the same age, but all of them have birthdays on the same date. The youngest of them is 17 years old and Eeshwar, who is the eldest, is 22 years old. Ferguson is somewhere between Bharat and Dinesh in age. Amit is elder to Bharat and Chandan is older than Dinesh.  
 If Bharat is 17 years old, then which of the following could be the ages of Dinesh and Chandan respectively ?
@@ -594,6 +697,9 @@ If Bharat is 17 years old, then which of the following could be the ages of Dine
 Topic: [notes](../syllabus/PRE2/03-cs3-logical-reasoning-mental-ability.md)
 
 </details>
+*Topic asked 47× (2021, 2025)*
+
+<a id="q36"></a>
 
 **Q36.** Read the following statements and solve the question based on these.  
 A. Many ones are threes.  
@@ -615,6 +721,9 @@ In the four options given below, three statements are put together in a specific
 Topic: [notes](../syllabus/PRE2/03-cs3-logical-reasoning-mental-ability.md)
 
 </details>
+*Topic asked 47× (2021, 2025)*
+
+<a id="q37"></a>
 
 **Q37.** Which of the following statements follows logically from the statement "India will talk, only if the terrorists are handed over" ?
 
@@ -630,6 +739,9 @@ Topic: [notes](../syllabus/PRE2/03-cs3-logical-reasoning-mental-ability.md)
 Topic: [notes](../syllabus/PRE2/03-cs3-logical-reasoning-mental-ability.md)
 
 </details>
+*Topic asked 47× (2021, 2025)*
+
+<a id="q38"></a>
 
 **Q38.** At a buffet, six sweets are arranged in a circular order on a table. Burfi is opposite Halwa. There is one sweet between Laddu and Jalebi. Gulab jamun is to the right of Halwa. Rasagulla is one of the sweets. Which sweet is two places away to the left of Gulab jamun ?
 
@@ -645,6 +757,9 @@ Topic: [notes](../syllabus/PRE2/03-cs3-logical-reasoning-mental-ability.md)
 Topic: [notes](../syllabus/PRE2/03-cs3-logical-reasoning-mental-ability.md)
 
 </details>
+*Topic asked 47× (2021, 2025)*
+
+<a id="q39"></a>
 
 **Q39.** A team of three is to be selected from six persons — Pavan, Sravan, Raghavan, Aman, Dhawan and Bhavan, such that if one of Pavan and Sravan is selected then the other must not be selected. If one of Raghavan and Dhawan is not selected then the other must not be selected. If Aman is not selected then who must be selected ?
 
@@ -660,6 +775,9 @@ Topic: [notes](../syllabus/PRE2/03-cs3-logical-reasoning-mental-ability.md)
 Topic: [notes](../syllabus/PRE2/03-cs3-logical-reasoning-mental-ability.md)
 
 </details>
+*Topic asked 47× (2021, 2025)*
+
+<a id="q40"></a>
 
 **Q40.** Pavan, Sravan, Charan, Tarun and Kiran are the top five rankers in a class, not necessarily in the same order. Each of these five is of a different height. The tallest person is the fourth ranker while Kiran is the second ranker. Tarun is taller than at least two persons and is the third ranker. The shortest person is the first ranker but he is not Charan. Sravan is taller than only one person and Tarun is taller than Kiran.  
 Who is the fourth ranker ?
@@ -676,6 +794,9 @@ Who is the fourth ranker ?
 Topic: [notes](../syllabus/PRE2/03-cs3-logical-reasoning-mental-ability.md)
 
 </details>
+*Topic asked 47× (2021, 2025)*
+
+<a id="q41"></a>
 
 **Q41.** Pavan, Sravan, Charan, Tarun and Kiran are the top five rankers in a class, not necessarily in the same order. Each of these five is of a different height. The tallest person is the fourth ranker while Kiran is the second ranker. Tarun is taller than at least two persons and is the third ranker. The shortest person is the first ranker but he is not Charan. Sravan is taller than only one person and Tarun is taller than Kiran.  
 How many persons are taller than Pavan ?
@@ -692,6 +813,9 @@ How many persons are taller than Pavan ?
 Topic: [notes](../syllabus/PRE2/03-cs3-logical-reasoning-mental-ability.md)
 
 </details>
+*Topic asked 47× (2021, 2025)*
+
+<a id="q42"></a>
 
 **Q42.** There are five rooms in my house — a hall, kitchen, study room, bedroom and dining room. There is one light in each room. Whenever the kitchen light is on, the study room light is off. Whenever the dining room light is on, the kitchen light is also on. Whenever the study room light is on, the hall light has to be on. How many lights, at the most, can be on simultaneously ?
 
@@ -707,6 +831,9 @@ Topic: [notes](../syllabus/PRE2/03-cs3-logical-reasoning-mental-ability.md)
 Topic: [notes](../syllabus/PRE2/03-cs3-logical-reasoning-mental-ability.md)
 
 </details>
+*Topic asked 47× (2021, 2025)*
+
+<a id="q43"></a>
 
 **Q43.** In a joint family of seven persons A, B, C, D, E, F and G, there are two married couples. G is a housewife. C is the wife of B. A is the granddaughter of G. D is the father-in-law of C and father of E. F is A's brother and B's son. How is B related to E ?
 
@@ -722,6 +849,9 @@ Topic: [notes](../syllabus/PRE2/03-cs3-logical-reasoning-mental-ability.md)
 Topic: [notes](../syllabus/PRE2/03-cs3-logical-reasoning-mental-ability.md)
 
 </details>
+*Topic asked 47× (2021, 2025)*
+
+<a id="q44"></a>
 
 **Q44.** A bartender stole vodka from bottle A that contained 50% alcohol and he replaced what he had stolen with vodka from bottle B containing 20% alcohol. He used water to replenish bottle B, which is twice as large as bottle A. After the mixing, alcohol content of bottle A reduced to 30%. What is the alcohol content of bottle B now ?
 
@@ -737,6 +867,9 @@ Topic: [notes](../syllabus/PRE2/03-cs3-logical-reasoning-mental-ability.md)
 Topic: [notes](../syllabus/PRE2/04-cs4-basic-numeracy.md)
 
 </details>
+*Topic asked 49× (2021, 2025)*
+
+<a id="q45"></a>
 
 **Q45.** Rate of consumption of coal by a locomotive varies as the square of the speed and is 1000 kg/hour when the speed is 60 km/hour. If the coal costs the railway company 15 paise/kg and if the other expenses are 12 rupees/hour, what becomes the total cost with a speed of 30 km/hour ?
 
@@ -752,6 +885,9 @@ Topic: [notes](../syllabus/PRE2/04-cs4-basic-numeracy.md)
 Topic: [notes](../syllabus/PRE2/04-cs4-basic-numeracy.md)
 
 </details>
+*↻ **Same theme also asked:** [Prelims 2025 · CSAT Q63](pre_2025_CSAT.md#q63) · Topic asked 49× (2021, 2025)*
+
+<a id="q46"></a>
 
 **Q46.** A completes 2/3 of a certain job in 6 days. B can complete 1/3 of the same job in 8 days and C can complete 3/4 of the job in 12 days. All of them work together for 4 days and then A and C quit. How long will it take for B to complete the remaining work alone ?
 
@@ -767,6 +903,9 @@ Topic: [notes](../syllabus/PRE2/04-cs4-basic-numeracy.md)
 Topic: [notes](../syllabus/PRE2/04-cs4-basic-numeracy.md)
 
 </details>
+*↻ **Same theme also asked:** [Prelims 2025 · CSAT Q41](pre_2025_CSAT.md#q41) · Topic asked 49× (2021, 2025)*
+
+<a id="q47"></a>
 
 **Q47.** A book contains 10 chapters. Each chapter has a different number of pages, ranging from 20 to 30. The first chapter starts on page 1 and each chapter starts on a new page. What is the largest possible number of chapters that can begin on odd page numbers ?
 
@@ -782,6 +921,9 @@ Topic: [notes](../syllabus/PRE2/04-cs4-basic-numeracy.md)
 Topic: [notes](../syllabus/PRE2/03-cs3-logical-reasoning-mental-ability.md)
 
 </details>
+*Topic asked 47× (2021, 2025)*
+
+<a id="q48"></a>
 
 **Q48.** A ladder reaches a window that is 8 m above the ground on one side of the street. Keeping its foot on the same point, the ladder is twined to the other side of the street to reach a window 12 m high. Find the width of the street if the ladder is 13 m.
 
@@ -797,6 +939,9 @@ Topic: [notes](../syllabus/PRE2/03-cs3-logical-reasoning-mental-ability.md)
 Topic: [notes](../syllabus/PRE2/04-cs4-basic-numeracy.md)
 
 </details>
+*Topic asked 49× (2021, 2025)*
+
+<a id="q49"></a>
 
 **Q49.** Sanjay writes a letter to his friend, Kesari. It is known that one out of 10 letters that are posted does not reach its destination. If Sanjay does not receive a reply to his letter, then what is the probability that Kesari did not receive Sanjay's letter ? It is certain that Kesari will definitely reply to Sanjay's letter if he receives it.
 
@@ -812,6 +957,9 @@ Topic: [notes](../syllabus/PRE2/04-cs4-basic-numeracy.md)
 Topic: [notes](../syllabus/PRE2/04-cs4-basic-numeracy.md)
 
 </details>
+*Topic asked 49× (2021, 2025)*
+
+<a id="q50"></a>
 
 **Q50.** In a school, a total of 180 students are enrolled in the foreign languages program. The foreign languages offered are : French, German and Chinese and the number of people studying each of these subjects are 80, 90 and 100 respectively. The number of students who study more than one of the three subjects is 50% more than the number of students who study all the three subjects. How many students study all three foreign languages ?
 
@@ -827,6 +975,9 @@ Topic: [notes](../syllabus/PRE2/04-cs4-basic-numeracy.md)
 Topic: [notes](../syllabus/PRE2/04-cs4-basic-numeracy.md)
 
 </details>
+*Topic asked 49× (2021, 2025)*
+
+<a id="q51"></a>
 
 **Q51.** Three alarm clocks ring their alarms at regular intervals of 20, 21 and T minutes respectively. If the clocks beep together at 12 noon, for which value of T would they beep together again at the earliest ?
 
@@ -842,6 +993,9 @@ Topic: [notes](../syllabus/PRE2/04-cs4-basic-numeracy.md)
 Topic: [notes](../syllabus/PRE2/04-cs4-basic-numeracy.md)
 
 </details>
+*Topic asked 49× (2021, 2025)*
+
+<a id="q52"></a>
 
 **Q52.** A person of 6 ft. height wants to pluck a fruit which is hanging at 1/4th distance from the top of a 20 ft. high tree. The person standing at a distance of 28 ft. from the tree throws a stone, which hits the top of the tree. The man moves towards the tree and throws another stone again at the same angle, this time hitting the fruit. Assuming the stones travelled in a straight line from the hand till the target, what is the current distance of the person from the tree ?
 
@@ -857,6 +1011,9 @@ Topic: [notes](../syllabus/PRE2/04-cs4-basic-numeracy.md)
 Topic: [notes](../syllabus/PRE2/04-cs4-basic-numeracy.md)
 
 </details>
+*Topic asked 49× (2021, 2025)*
+
+<a id="q53"></a>
 
 **Q53.** The cost of 10 pears, 8 guavas and 6 mangoes is ₹44. If the cost of each of the fruits, in rupees, is a natural number and cost of no two fruits is the same, find the cost of 4 mangoes and 3 guavas.
 
@@ -872,6 +1029,9 @@ Topic: [notes](../syllabus/PRE2/04-cs4-basic-numeracy.md)
 Topic: [notes](../syllabus/PRE2/04-cs4-basic-numeracy.md)
 
 </details>
+*Topic asked 49× (2021, 2025)*
+
+<a id="q54"></a>
 
 **Q54.** Shakuntala, an intelligent baby girl, plucks apples from her father's orchard on ten consecutive days. When asked by her mother as to how many apples has she plucked from the orchard daily, she gives the following sheet to her mother :  
 [Figure 1 — sum of apples for three consecutive days: days 1+2+3 = 130, 2+3+4 = 150, 3+4+5 = 165, 4+5+6 = 145, 5+6+7 = 140, 6+7+8 = 160, 7+8+9 = 175, 8+9+10 = 155. Figure 2 — sum for five consecutive days: days 1–5 = 240, 2–6 = 225, 3–7 = 265, 4–8 = 270, 5–9 = 250, 6–10 = 255.]  
@@ -889,6 +1049,9 @@ What is the number of apples plucked on day 6 ?
 Topic: [notes](../syllabus/PRE2/05-cs5-data-analysis.md)
 
 </details>
+*Topic asked 25× (2021, 2025)*
+
+<a id="q55"></a>
 
 **Q55.** Shakuntala, an intelligent baby girl, plucks apples from her father's orchard on ten consecutive days. When asked by her mother as to how many apples has she plucked from the orchard daily, she gives the following sheet to her mother :  
 [Figure 1 — sum of apples for three consecutive days: days 1+2+3 = 130, 2+3+4 = 150, 3+4+5 = 165, 4+5+6 = 145, 5+6+7 = 140, 6+7+8 = 160, 7+8+9 = 175, 8+9+10 = 155. Figure 2 — sum for five consecutive days: days 1–5 = 240, 2–6 = 225, 3–7 = 265, 4–8 = 270, 5–9 = 250, 6–10 = 255.]  
@@ -906,6 +1069,9 @@ For how many days, is it possible to determine the exact number of apples plucke
 Topic: [notes](../syllabus/PRE2/05-cs5-data-analysis.md)
 
 </details>
+*Topic asked 25× (2021, 2025)*
+
+<a id="q56"></a>
 
 **Q56.** The following table gives the career record in One-Day International Cricket of few batsmen (Matches played, Innings played, Runs scored, Average) : P1 — 50, 48, 1800, 40.0; P2 — 50, 50, 2034, 45.2; P3 — 46, 46, 1679, 36.5; P4 — 44, 44, 1539, 40.5; P5 — 40, 38, 1806, 51.6; P6 — 42, 40, 1445, 42.5. The average is calculated by dividing the total runs scored by the total number of matches in which the batsman got out.  
 Who among the following did not get out for the maximum number of times ?
@@ -922,6 +1088,9 @@ Who among the following did not get out for the maximum number of times ?
 Topic: [notes](../syllabus/PRE2/05-cs5-data-analysis.md)
 
 </details>
+*Topic asked 25× (2021, 2025)*
+
+<a id="q57"></a>
 
 **Q57.** The following table gives the career record in One-Day International Cricket of few batsmen (Matches played, Innings played, Runs scored, Average) : P1 — 50, 48, 1800, 40.0; P2 — 50, 50, 2034, 45.2; P3 — 46, 46, 1679, 36.5; P4 — 44, 44, 1539, 40.5; P5 — 40, 38, 1806, 51.6; P6 — 42, 40, 1445, 42.5. The average is calculated by dividing the total runs scored by the total number of matches in which the batsman got out.  
 If the average is calculated on the basis of the total innings played, whose average will see the minimum change ?
@@ -938,6 +1107,9 @@ If the average is calculated on the basis of the total innings played, whose ave
 Topic: [notes](../syllabus/PRE2/05-cs5-data-analysis.md)
 
 </details>
+*Topic asked 25× (2021, 2025)*
+
+<a id="q58"></a>
 
 **Q58.** The following table gives the career record in One-Day International Cricket of few batsmen (Matches played, Innings played, Runs scored, Average) : P1 — 50, 48, 1800, 40.0; P2 — 50, 50, 2034, 45.2; P3 — 46, 46, 1679, 36.5; P4 — 44, 44, 1539, 40.5; P5 — 40, 38, 1806, 51.6; P6 — 42, 40, 1445, 42.5. The average is calculated by dividing the total runs scored by the total number of matches in which the batsman got out.  
 How many of the batsmen got out in all the innings played ?
@@ -954,6 +1126,9 @@ How many of the batsmen got out in all the innings played ?
 Topic: [notes](../syllabus/PRE2/05-cs5-data-analysis.md)
 
 </details>
+*Topic asked 25× (2021, 2025)*
+
+<a id="q59"></a>
 
 **Q59.** Refer to the following line charts (values read approximately from the charts, for 17, 19, 20, 21 and 24 June) : Dollar/Rupee — 45.5, 46, 45.5, 46.2, 44.8; Pound/Dollar — 1.4, 1.55, 1.6, 1.5, 1.63; Dollar/Yen — 107.2, 106.8, 106.2, 107, 107.5.  
 If the Dollar/Yen ratio follows the same trend from 24th to 27th as from 21st to 24th, then what will be the value of $ 50 on 27th June ?
@@ -970,6 +1145,9 @@ If the Dollar/Yen ratio follows the same trend from 24th to 27th as from 21st to
 Topic: [notes](../syllabus/PRE2/05-cs5-data-analysis.md)
 
 </details>
+*Topic asked 25× (2021, 2025)*
+
+<a id="q60"></a>
 
 **Q60.** Refer to the following line charts (values read approximately from the charts, for 17, 19, 20, 21 and 24 June) : Dollar/Rupee — 45.5, 46, 45.5, 46.2, 44.8; Pound/Dollar — 1.4, 1.55, 1.6, 1.5, 1.63; Dollar/Yen — 107.2, 106.8, 106.2, 107, 107.5.  
 A jacket costs $ 400. Mohan has ₹18,200, 225 Pounds and 35,000 Yen with him. If he can use only one currency to buy the jacket, he would be able to buy the jacket on 20th June using :
@@ -986,6 +1164,9 @@ A jacket costs $ 400. Mohan has ₹18,200, 225 Pounds and 35,000 Yen with him. I
 Topic: [notes](../syllabus/PRE2/05-cs5-data-analysis.md)
 
 </details>
+*Topic asked 25× (2021, 2025)*
+
+<a id="q61"></a>
 
 **Q61.** [Pie charts described in words — Percentage-wise distribution of population of wild animals: A1 19%, A2 13%, A3 20%, A4 11%, A5 14%, A6 15%, A7 8%. Percentage-wise distribution of land under forest cover: A1 15%, A2 14%, A3 22%, A4 8%, A5 14%, A6 18%, A7 9%.]  
 Following are the geographical regions : A1 – Asia, China, India, A2 – Australia, A3 – Africa, A4 – Europe, A5 – Russia, A6 – North & South America, A7 – Antarctica.  
@@ -1004,6 +1185,9 @@ Which two regions have the combined highest population density ?
 Topic: [notes](../syllabus/PRE2/05-cs5-data-analysis.md)
 
 </details>
+*Topic asked 25× (2021, 2025)*
+
+<a id="q62"></a>
 
 **Q62.** [Pie charts described in words — Percentage-wise distribution of population of wild animals: A1 19%, A2 13%, A3 20%, A4 11%, A5 14%, A6 15%, A7 8%. Percentage-wise distribution of land under forest cover: A1 15%, A2 14%, A3 22%, A4 8%, A5 14%, A6 18%, A7 9%.]  
 Following are the geographical regions : A1 – Asia, China, India, A2 – Australia, A3 – Africa, A4 – Europe, A5 – Russia, A6 – North & South America, A7 – Antarctica.  
@@ -1022,6 +1206,9 @@ If in the next 10 years, the population of wild animals in Antarctica will incre
 Topic: [notes](../syllabus/PRE2/05-cs5-data-analysis.md)
 
 </details>
+*Topic asked 25× (2021, 2025)*
+
+<a id="q63"></a>
 
 **Q63.** Shown below is a layout of major streets in a city : [Map described in words — streets join A–B, A–C, B–C, B–D, C–D, C–E and D–E.]  
 Two days (Thursday and Friday) are left for campaigning before a major election, and the city administration has received requests from five political parties for taking out their processions along the following routes.  
@@ -1045,6 +1232,9 @@ Congress procession can be allowed
 Topic: [notes](../syllabus/PRE2/03-cs3-logical-reasoning-mental-ability.md)
 
 </details>
+*Topic asked 47× (2021, 2025)*
+
+<a id="q64"></a>
 
 **Q64.** Shown below is a layout of major streets in a city : [Map described in words — streets join A–B, A–C, B–C, B–D, C–D, C–E and D–E.]  
 Two days (Thursday and Friday) are left for campaigning before a major election, and the city administration has received requests from five political parties for taking out their processions along the following routes.  
@@ -1068,6 +1258,9 @@ Which of the following is not true ?
 Topic: [notes](../syllabus/PRE2/03-cs3-logical-reasoning-mental-ability.md)
 
 </details>
+*Topic asked 47× (2021, 2025)*
+
+<a id="q65"></a>
 
 **Q65.** Which of the following sentences is correct ?
 
@@ -1083,6 +1276,9 @@ Topic: [notes](../syllabus/PRE2/03-cs3-logical-reasoning-mental-ability.md)
 Topic: [notes](../syllabus/PRE2/01-cs1-comprehension-language-english-punjabi.md)
 
 </details>
+*Topic asked 15× (2021, 2025)*
+
+<a id="q66"></a>
 
 **Q66.** When I met her last week, she seemed to be _______ the weather.
 
@@ -1098,6 +1294,9 @@ Topic: [notes](../syllabus/PRE2/01-cs1-comprehension-language-english-punjabi.md
 Topic: [notes](../syllabus/PRE2/01-cs1-comprehension-language-english-punjabi.md)
 
 </details>
+*Topic asked 15× (2021, 2025)*
+
+<a id="q67"></a>
 
 **Q67.** 'ਗੋਗਲੂਆਂ ਤੋਂ ਮਿੱਟੀ ਝਾੜਨਾ' ਮੁਹਾਵਰੇ ਦੇ ਸਹੀ ਅਰਥ ਦੀ ਪਛਾਣ ਕਰੋ :
 
@@ -1113,6 +1312,9 @@ Topic: [notes](../syllabus/PRE2/01-cs1-comprehension-language-english-punjabi.md
 Topic: [notes](../syllabus/PRE2/01-cs1-comprehension-language-english-punjabi.md)
 
 </details>
+*Topic asked 15× (2021, 2025)*
+
+<a id="q68"></a>
 
 **Q68.** 'ਈਸਬਗੋਲ ਤੇ ਕੁਝ ਨਾ ਫੋਲ' ਅਖਾਣ ਦੀ ਵਰਤੋਂ ਕਦੋਂ ਹੁੰਦੀ ਹੈ :
 
@@ -1128,6 +1330,9 @@ Topic: [notes](../syllabus/PRE2/01-cs1-comprehension-language-english-punjabi.md
 Topic: [notes](../syllabus/PRE2/01-cs1-comprehension-language-english-punjabi.md)
 
 </details>
+*Topic asked 15× (2021, 2025)*
+
+<a id="q69"></a>
 
 **Q69.** "ਰੰਘਰੇਟਾ" ਸ਼ਬਦ ਲਈ ਸਹੀ ਪਛੇਤਰ ਚੁਣੋ :
 
@@ -1143,6 +1348,9 @@ Topic: [notes](../syllabus/PRE2/01-cs1-comprehension-language-english-punjabi.md
 Topic: [notes](../syllabus/PRE2/01-cs1-comprehension-language-english-punjabi.md)
 
 </details>
+*Topic asked 15× (2021, 2025)*
+
+<a id="q70"></a>
 
 **Q70.** ਕਿਹੜੇ ਵਾਕ ਵਿਚ ਵਿਸਮਿਕ ਚਿੰਨ੍ਹ ਦੀ ਠੀਕ ਵਰਤੋਂ ਹੋਈ ਹੈ ?
 
@@ -1158,6 +1366,9 @@ Topic: [notes](../syllabus/PRE2/01-cs1-comprehension-language-english-punjabi.md
 Topic: [notes](../syllabus/PRE2/01-cs1-comprehension-language-english-punjabi.md)
 
 </details>
+*Topic asked 15× (2021, 2025)*
+
+<a id="q71"></a>
 
 **Q71.** 
 
@@ -1169,6 +1380,8 @@ Key not available
 
 </details>
 
+<a id="q72"></a>
+
 **Q72.** 
 
 
@@ -1179,6 +1392,8 @@ Key not available
 
 </details>
 
+<a id="q73"></a>
+
 **Q73.** 
 
 
@@ -1188,6 +1403,8 @@ Key not available
 Key not available
 
 </details>
+
+<a id="q74"></a>
 
 **Q74.** 'ਦੀਦਾ' ਸ਼ਬਦ ਦਾ ਸਮਾਨਾਰਥਕ ਸ਼ਬਦ ਹੈ ।  
 1. ਨੈਣ  
@@ -1208,6 +1425,9 @@ Key not available
 Topic: [notes](../syllabus/PRE2/01-cs1-comprehension-language-english-punjabi.md)
 
 </details>
+*Topic asked 15× (2021, 2025)*
+
+<a id="q75"></a>
 
 **Q75.** 
 
@@ -1219,6 +1439,8 @@ Key not available
 
 </details>
 
+<a id="q76"></a>
+
 **Q76.** 
 
 
@@ -1228,6 +1450,8 @@ Key not available
 Key not available
 
 </details>
+
+<a id="q77"></a>
 
 **Q77.** 
 
@@ -1239,6 +1463,8 @@ Key not available
 
 </details>
 
+<a id="q78"></a>
+
 **Q78.** 
 
 
@@ -1249,6 +1475,8 @@ Key not available
 
 </details>
 
+<a id="q79"></a>
+
 **Q79.** 
 
 
@@ -1258,6 +1486,8 @@ Key not available
 Key not available
 
 </details>
+
+<a id="q80"></a>
 
 **Q80.** 
 

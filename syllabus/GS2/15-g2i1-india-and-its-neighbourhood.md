@@ -1,6 +1,6 @@
 # India and its neighbourhood
 
-**Paper 5 — GS II: Constitution, Polity, Governance, IR** › International Relations · Subject: GS II — Constitution, Polity, Governance, IR · Priority: High
+**Paper 5 — GS II: Constitution, Polity, Governance, IR** › International Relations · Subject: GS II — Constitution, Polity, Governance, IR · Priority: High · **Asked by PPSC: 🔥 5× (’18 ’21 ’26)**
 
 > Official syllabus line: India and its neighborhood – relations.
 
@@ -140,6 +140,19 @@ Examiners want country-specific analysis with recent developments (IWT abeyance,
 - Rajiv Sikri, Challenge and Strategy: Rethinking India's Foreign Policy
 - Shivshankar Menon, Choices: Inside the Making of India's Foreign Policy
 - The Hindu / Indian Express explainers on IWT abeyance and Operation Sindoor (2025)
+
+## Asked in PPSC papers — 5 times 🔥 (in every recent exam)
+
+| Paper | Years asked |
+|---|---|
+| Mains GS2 | 2021, 2026 (×2) |
+| Mains GS4 | 2018 (×2) |
+
+- [Mains 2026 · GS2 Q17](../../past-papers/mains_2026_GS2.md#q17) — India's 'neighbourhood first' policy needs a perceptible overhaul in the light of the prevailing anti-India sentiment in South Asian countries such as Nepal and
+- [Mains 2026 · GS2 Q18](../../past-papers/mains_2026_GS2.md#q18) — Project 'Mausam' is considered a unique foreign policy initiative of Indian government to improve relationship with its neighbours. Discuss its strategic dimens
+- [Mains 2021 · GS2 Q12](../../past-papers/mains_2021_GS2.md#q12) — The changing geo-economic factors in Pakistan will stabilise the South Asian Region. Critically analyse.
+- [Mains 2018 · GS4 Q14](../../past-papers/mains_2018_GS4.md#q14) — "Kartarpur Sahib Corridor initiative will reduce Indo-Pak tensions." Comment.
+- [Mains 2018 · GS4 Q15](../../past-papers/mains_2018_GS4.md#q15) — India is neither a signatory to the 195[1] United Nations Refugee Convention nor its 1967 Protocol. Evaluate India's stance on the Rohingya refugees in the coun
 
 ## Mains practice questions (3)
 

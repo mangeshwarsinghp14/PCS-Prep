@@ -1,6 +1,6 @@
 # Computers & telecommunication
 
-**Paper I — General Studies** › Everyday Science · Subject: Everyday Science · Priority: Medium
+**Paper I — General Studies** › Everyday Science · Subject: Everyday Science · Priority: Medium · **Asked by PPSC: 🔁 4× (’21 ’25)**
 
 > Official syllabus line: Computers and telecommunication – concepts and applications.
 
@@ -130,6 +130,17 @@ Questions mix basic computer terms (RAM/ROM, compiler, bits/bytes), firsts (PARA
 - PIB backgrounders on 5G launch, BharatNet, IndiaAI and National Quantum Mission
 - Spectrum/Lucent's General Science (Computer and IT section)
 
+## Asked in PPSC papers — 4 times (in 2 of 3 recent exams)
+
+| Paper | Years asked |
+|---|---|
+| Prelims GS | 2021 (×3), 2025 |
+
+- [Prelims 2025 · GS Q25](../../past-papers/pre_2025_GS.md#q25) — Consider the following statements :
+- [Prelims 2021 · GS Q16](../../past-papers/pre_2021_GS.md#q16) — The Government of India announced linking of Lakshadweep Islands with the mainland through Optical Fibre Cable link. Which of the following statements is/are tr
+- [Prelims 2021 · GS Q24](../../past-papers/pre_2021_GS.md#q24) — The International Maritime Organisation (IMO) has recently recognized Indian Regional Navigation Satellite System (IRNSS) as a part of World Wide Radio Navigati
+- [Prelims 2021 · GS Q63](../../past-papers/pre_2021_GS.md#q63) — Statements about Terrestrial laser scanning are given below :
+
 ## Practice MCQs (12)
 
 **1.** Which memory loses its contents when power is switched off?
@@ -183,6 +194,8 @@ Questions mix basic computer terms (RAM/ROM, compiler, bits/bytes), firsts (PARA
 **(c) Both 1 and 2** — IPv6 uses 128-bit addresses (IPv4 32-bit); NavIC (IRNSS) is India's regional navigation system.
 
 </details>
+
+*Like a real PPSC question: [Prelims 2021 · GS Q24](../../past-papers/pre_2021_GS.md#q24)*
 
 **5.** Which agency is India's national nodal agency for responding to cyber security incidents?
 

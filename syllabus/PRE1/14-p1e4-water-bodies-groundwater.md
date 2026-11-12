@@ -1,6 +1,6 @@
 # Water bodies & groundwater
 
-**Paper I — General Studies** › Environmental Studies · Subject: Environment · Priority: Medium
+**Paper I — General Studies** › Environmental Studies · Subject: Environment · Priority: Medium · **Asked by PPSC: 🔥 5× (’18 ’21 ’25)**
 
 > Official syllabus line: Water – oceans, rivers, glaciers, lakes, groundwater etc.
 
@@ -137,6 +137,18 @@ Expect questions on ocean currents and fishing grounds, tides, salinity, lake ty
 - NCERT Class 11 'India - Physical Environment' Ch 3 (Drainage System)
 - CGWB 'Dynamic Ground Water Resources of India' (latest annual report)
 - PSEB Class 9-10 Geography of Punjab (rivers and irrigation)
+
+## Asked in PPSC papers — 5 times 🔥 (in every recent exam)
+
+| Paper | Years asked |
+|---|---|
+| Prelims GS | 2018, 2021 (×3), 2025 |
+
+- [Prelims 2025 · GS Q65](../../past-papers/pre_2025_GS.md#q65) — Consider the following statements about ground water and identify the incorrect option :
+- [Prelims 2021 · GS Q11](../../past-papers/pre_2021_GS.md#q11) — Which of the following statements are correct regarding Virtual Water Trade (VWT) ?
+- [Prelims 2021 · GS Q84](../../past-papers/pre_2021_GS.md#q84) — Which among the following is a Glaciatic Wetland ?
+- [Prelims 2021 · GS Q90](../../past-papers/pre_2021_GS.md#q90) — Choose the incorrect statement :
+- [Prelims 2018 · GS Q6](../../past-papers/pre_2018_GS.md#q6) — Consider the following statements about an estuary :
 
 ## Practice MCQs (12)
 

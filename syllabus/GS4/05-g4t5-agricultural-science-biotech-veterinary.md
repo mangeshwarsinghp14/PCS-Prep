@@ -1,6 +1,6 @@
 # Agricultural science, biotech, veterinary
 
-**Paper 7 — GS IV: S&T, Environment, Problem Solving** › Science & Technology · Subject: GS IV — S&T, Environment, Problem solving · Priority: High
+**Paper 7 — GS IV: S&T, Environment, Problem Solving** › Science & Technology · Subject: GS IV — S&T, Environment, Problem solving · Priority: High · **Asked by PPSC: 🔥 4× (’18 ’21 ’26)**
 
 > Official syllabus line: Progress of agricultural science and its impact; biotechnology and applications; veterinary and animal sciences – latest developments.
 
@@ -127,6 +127,17 @@ PPSC links this topic to Punjab's agrarian crisis — water, residue burning, di
 - ICAR annual report; PAU Package of Practices
 - Economic Survey of India chapter on agriculture; Punjab Economic Survey 2025-26
 - Department of Animal Husbandry and Dairying annual report
+
+## Asked in PPSC papers — 4 times 🔥 (in every recent exam)
+
+| Paper | Years asked |
+|---|---|
+| Mains GS4 | 2018, 2021 (×2), 2026 |
+
+- [Mains 2026 · GS4 Q3](../../past-papers/mains_2026_GS4.md#q3) — Explain petroplants with examples. What is their role in sustainable development?
+- [Mains 2021 · GS4 Q4](../../past-papers/mains_2021_GS4.md#q4) — Discuss the benefits and challenges of Precision agriculture in sustainable farm management using ICT.
+- [Mains 2021 · GS4 Q6](../../past-papers/mains_2021_GS4.md#q6) — How technology can help farmers harvest and sell fresh fruits and vegetables? Elaborate with the help of suitable examples. Discuss the initiatives of governmen
+- [Mains 2018 · GS4 Q6(b)](../../past-papers/mains_2018_GS4.md#q6-b) — Write short note on: What are cybrids? How do they differ from hybrids?
 
 ## Mains practice questions (3)
 

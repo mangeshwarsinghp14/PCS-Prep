@@ -1,6 +1,6 @@
 # Land acquisition, projects, schemes, PPP
 
-**Paper 7 — GS IV: S&T, Environment, Problem Solving** › Situations in Civil Service — Problem Solving & Decision Making · Subject: GS IV — S&T, Environment, Problem solving · Priority: High
+**Paper 7 — GS IV: S&T, Environment, Problem Solving** › Situations in Civil Service — Problem Solving & Decision Making · Subject: GS IV — S&T, Environment, Problem solving · Priority: High · **Asked by PPSC: 🔁 3× (’21 ’26)**
 
 > Official syllabus line: Land acquisition and rehabilitation; designing projects; implementing national flagship schemes/programmes; public-private partnership in service delivery.
 
@@ -130,6 +130,16 @@ Cases test an officer's ability to reconcile development deadlines with rights o
 - Second ARC Report on 'Ethics in Governance' and NITI Aayog Aspirational Districts reports
 - Kelkar Committee Report on PPP (2015); Department of Economic Affairs PPP guidelines
 - Lexicon / G. Subba Rao case-study books for administrative cases
+
+## Asked in PPSC papers — 3 times (in 2 of 3 recent exams)
+
+| Paper | Years asked |
+|---|---|
+| Mains GS4 | 2021 (×2), 2026 |
+
+- [Mains 2026 · GS4 Q18](../../past-papers/mains_2026_GS4.md#q18) — Aligning with the Directive Principles of State Policy in the Indian Constitution, which mandate provision of adequate means of livelihood and shelter for all c
+- [Mains 2021 · GS4 Q14](../../past-papers/mains_2021_GS4.md#q14) — Critically evaluate the difficulties that come in the process of Land Acquisition. What would be your approach as a Land Acquisition Collector in Punjab to deal
+- [Mains 2021 · GS4 Q15](../../past-papers/mains_2021_GS4.md#q15) — What is eco-tourism? What would be your plan as Director Tourism to develop Punjab as eco-tourism hub?
 
 ## Mains practice questions (3)
 

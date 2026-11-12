@@ -1,6 +1,6 @@
 # Water resources & sharing of waters
 
-**Paper I — General Studies** › Punjab · Subject: Punjab Geography · Priority: High
+**Paper I — General Studies** › Punjab · Subject: Punjab Geography · Priority: High · **Asked by PPSC: 🔁 1× (’18)**
 
 > Official syllabus line: Water resources, sharing of waters.
 
@@ -128,6 +128,14 @@ Expect chronology questions (1955 → 1966 → 1976 → 1981 → 1985 → 2004 �
 - Punjab Reorganisation Act 1966 (Sections 78–80)
 - CGWB / Punjab Ground Water Resources Report 2024-25
 - Tribune and PIB coverage of the SYL and BBMB issues
+
+## Asked in PPSC papers — 1 time (in 1 of 3 recent exams)
+
+| Paper | Years asked |
+|---|---|
+| Prelims GS | 2018 |
+
+- [Prelims 2018 · GS Q10](../../past-papers/pre_2018_GS.md#q10) — Kanjli Wetland is in which district of Punjab ?
 
 ## Practice MCQs (16)
 

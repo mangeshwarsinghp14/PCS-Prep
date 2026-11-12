@@ -1,6 +1,6 @@
 # LPG reforms since 1991
 
-**Paper I — General Studies** › Indian Economy · Subject: Indian Economy · Priority: Medium
+**Paper I — General Studies** › Indian Economy · Subject: Indian Economy · Priority: Medium · **Asked by PPSC: 🔁 2× (’18)**
 
 > Official syllabus line: Liberalisation, privatisation and globalisation era since 1991 – key policies, decisions and results.
 
@@ -142,6 +142,15 @@ PPSC asks about specific reform measures with dates (FEMA 1999, current account 
 - NCERT Class 11 'Indian Economic Development' Ch 3 (Liberalisation, Privatisation and Globalisation: An Appraisal)
 - Ramesh Singh, Indian Economy - chapter on Economic Reforms
 - Economic Survey (Government of India) - relevant chapters on reforms
+
+## Asked in PPSC papers — 2 times (in 1 of 3 recent exams)
+
+| Paper | Years asked |
+|---|---|
+| Prelims GS | 2018 (×2) |
+
+- [Prelims 2018 · GS Q50](../../past-papers/pre_2018_GS.md#q50) — With reference to 'Bharat 22', which of the following statements is/are correct ?
+- [Prelims 2018 · GS Q58](../../past-papers/pre_2018_GS.md#q58) — Which of the following is not a Maha-Ratna industry ?
 
 ## Practice MCQs (12)
 

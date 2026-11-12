@@ -1,6 +1,6 @@
 # Logical reasoning & mental ability
 
-**Paper II — CSAT** › Civil Services Aptitude Test · Subject: CSAT (Paper II) · Priority: High
+**Paper II — CSAT** › Civil Services Aptitude Test · Subject: CSAT (Paper II) · Priority: High · **Asked by PPSC: 🔁 47× (’21 ’25)**
 
 > Official syllabus line: Logical reasoning, analytical and mental ability.
 
@@ -100,6 +100,67 @@ Reasoning questions are formula-driven and fast if the method is known: syllogis
 - M.K. Pandey, Analytical Reasoning
 - UPSC CSAT and PPSC Prelims Paper II previous papers
 
+## Asked in PPSC papers — 47 times (in 2 of 3 recent exams)
+
+| Paper | Years asked |
+|---|---|
+| Prelims CSAT | 2021 (×24), 2025 (×23) |
+
+- [Prelims 2025 · CSAT Q25](../../past-papers/pre_2025_CSAT.md#q25) — Consider the following figures (two 2 × 2 boxes) :
+- [Prelims 2025 · CSAT Q26](../../past-papers/pre_2025_CSAT.md#q26) — Consider the table given below in which the numbers bear certain relationship among themselves along the rows.
+- [Prelims 2025 · CSAT Q27](../../past-papers/pre_2025_CSAT.md#q27) — Consider the following matrix (two rows, six columns) :
+- [Prelims 2025 · CSAT Q28](../../past-papers/pre_2025_CSAT.md#q28) — A, B, C, D, E, F and G are members of a family consisting of 4 adults and 3 children, two of whom, F and G are girls. A and D are brothers and A is a doctor. E 
+- [Prelims 2025 · CSAT Q29](../../past-papers/pre_2025_CSAT.md#q29) — In a group of six women, there are four tennis players, four postgraduates in Sociology, one postgraduate in Commerce and three bank employees. Vimala and Kamla
+- [Prelims 2025 · CSAT Q30](../../past-papers/pre_2025_CSAT.md#q30) — Consider the following argument : "In order to be a teacher, one must graduate from college. All poets are poor. Some Mathematicians are poets. No college gradu
+- [Prelims 2025 · CSAT Q31](../../past-papers/pre_2025_CSAT.md#q31) — Examine the following relationships among members of a family of six persons A, B, C, D, E and F. I. The number of males equals that of females. II. A and E are
+- [Prelims 2025 · CSAT Q32](../../past-papers/pre_2025_CSAT.md#q32) — In a code language, 'SOLID' is, written as 'WPSLPIMFHA', what does the code 'ATEXXQIBV' refer to ?
+- [Prelims 2025 · CSAT Q34](../../past-papers/pre_2025_CSAT.md#q34) — Directions (Question No. 34 and 35) : Guest lectures on five subjects viz., Economics, History, Statistics, English and Mathematics have to be arranged in a wee
+- [Prelims 2025 · CSAT Q35](../../past-papers/pre_2025_CSAT.md#q35) — Directions (Question No. 34 and 35) : Guest lectures on five subjects viz., Economics, History, Statistics, English and Mathematics have to be arranged in a wee
+- [Prelims 2025 · CSAT Q42](../../past-papers/pre_2025_CSAT.md#q42) — Four children are sitting in a row. A is occupying the seat next to B but not next to C. If C is not sitting next to D, who is/are occupying seat/seats adjacent  
+  ↻ *Same theme also asked:* [Prelims 2021 · CSAT Q30](../../past-papers/pre_2021_CSAT.md#q30), [Prelims 2021 · CSAT Q31](../../past-papers/pre_2021_CSAT.md#q31), [Prelims 2021 · CSAT Q32](../../past-papers/pre_2021_CSAT.md#q32), [Prelims 2021 · CSAT Q33](../../past-papers/pre_2021_CSAT.md#q33)
+- [Prelims 2025 · CSAT Q44](../../past-papers/pre_2025_CSAT.md#q44) — A person stood alone in a desert on a dark night and wanted to reach his village which was situated 5 km east of the point where he was standing. He had no inst
+- [Prelims 2025 · CSAT Q45](../../past-papers/pre_2025_CSAT.md#q45) — Six boys A, B, C, D, E and F play a game of cards. Each has a pack of 10 cards. F borrows 2 cards from A and gives away 5 to C who in turn gives 3 to B while B 
+- [Prelims 2025 · CSAT Q46](../../past-papers/pre_2025_CSAT.md#q46) — If second and fourth Saturdays and all the Sundays are taken as only holidays for an office, what would be the minimum number of possible working days of any mo
+- [Prelims 2025 · CSAT Q47](../../past-papers/pre_2025_CSAT.md#q47) — In a certain code, '256' means 'red colour chalk', '589' means 'green colour flower' and '254' means 'white colour chalk'. The digit in the code that indicates   
+  ↻ *Same theme also asked:* [Prelims 2021 · CSAT Q7](../../past-papers/pre_2021_CSAT.md#q7)
+- [Prelims 2025 · CSAT Q48](../../past-papers/pre_2025_CSAT.md#q48) — Directions (Question No. 48 to 50) : A, B, C, D, E, F and G are Lecturers from different cities Hyderabad, Delhi, Shillong, Kanpur, Chennai, Mumbai and Srinagar
+- [Prelims 2025 · CSAT Q49](../../past-papers/pre_2025_CSAT.md#q49) — Directions (Question No. 48 to 50) : A, B, C, D, E, F and G are Lecturers from different cities Hyderabad, Delhi, Shillong, Kanpur, Chennai, Mumbai and Srinagar
+- [Prelims 2025 · CSAT Q50](../../past-papers/pre_2025_CSAT.md#q50) — Directions (Question No. 48 to 50) : A, B, C, D, E, F and G are Lecturers from different cities Hyderabad, Delhi, Shillong, Kanpur, Chennai, Mumbai and Srinagar
+- [Prelims 2025 · CSAT Q51](../../past-papers/pre_2025_CSAT.md#q51) — In a school, there are five teachers A, B, C, D and E, A and B teach Hindi and English. C and B English and Geography. D and A teach Mathematics and Hindi. E an
+- [Prelims 2025 · CSAT Q53](../../past-papers/pre_2025_CSAT.md#q53) — Consider the following pictures of dice (the same die shown four times; faces visible as top / left / front) :
+- [Prelims 2025 · CSAT Q55](../../past-papers/pre_2025_CSAT.md#q55) — Directions (Question No. 55 to 57) : Three out of M, B, T, W, D and H work in factory X and remaining three work in factory Y. Each of them has his own earnings
+- [Prelims 2025 · CSAT Q56](../../past-papers/pre_2025_CSAT.md#q56) — Directions (Question No. 55 to 57) : Three out of M, B, T, W, D and H work in factory X and remaining three work in factory Y. Each of them has his own earnings
+- [Prelims 2025 · CSAT Q57](../../past-papers/pre_2025_CSAT.md#q57) — Directions (Question No. 55 to 57) : Three out of M, B, T, W, D and H work in factory X and remaining three work in factory Y. Each of them has his own earnings
+- [Prelims 2021 · CSAT Q4](../../past-papers/pre_2021_CSAT.md#q4) — Suppose you have a 12-hour digital clock where the number representing the hour is always the same as the number representing the minute. That is, the clock can
+- [Prelims 2021 · CSAT Q5](../../past-papers/pre_2021_CSAT.md#q5) — Read these six conditional claims :
+- [Prelims 2021 · CSAT Q6](../../past-papers/pre_2021_CSAT.md#q6) — Hina Yellow, Jhanvi Red and Leena Gray each have a gray handbag, a yellow handbag and a red handbag, but none of them has a handbag colour that matches their na
+- [Prelims 2021 · CSAT Q7](../../past-papers/pre_2021_CSAT.md#q7) — Read the following information carefully and then answer the question given below.  
+  ↻ *Same theme also asked:* [Prelims 2025 · CSAT Q47](../../past-papers/pre_2025_CSAT.md#q47)
+- [Prelims 2021 · CSAT Q8](../../past-papers/pre_2021_CSAT.md#q8) — Warangal Warriors, Thapar Thunders, Rohtak Rockers and Vellore Vikings are four Kabbadi Teams who compete against each other so that there are six matches in or
+- [Prelims 2021 · CSAT Q11](../../past-papers/pre_2021_CSAT.md#q11) — The three volumes of Encyclopedia of Animal Kingdom sit in order on a shelf with no space between the volumes, all upright, so that their spines are visible, le
+- [Prelims 2021 · CSAT Q29](../../past-papers/pre_2021_CSAT.md#q29) — If > = ÷, < = +, × = = and # = –, then which of the following equations is correct ?
+- [Prelims 2021 · CSAT Q30](../../past-papers/pre_2021_CSAT.md#q30) — There are five boys, p, q, r, s, and t, sitting in the first line facing south. However, there are five girls, A, B, C, D, and E, sitting in a second line paral  
+  ↻ *Same theme also asked:* [Prelims 2025 · CSAT Q42](../../past-papers/pre_2025_CSAT.md#q42)
+- [Prelims 2021 · CSAT Q31](../../past-papers/pre_2021_CSAT.md#q31) — There are five boys, p, q, r, s, and t, sitting in the first line facing south. However, there are five girls, A, B, C, D, and E, sitting in a second line paral  
+  ↻ *Same theme also asked:* [Prelims 2025 · CSAT Q42](../../past-papers/pre_2025_CSAT.md#q42)
+- [Prelims 2021 · CSAT Q32](../../past-papers/pre_2021_CSAT.md#q32) — There are five boys, p, q, r, s, and t, sitting in the first line facing south. However, there are five girls, A, B, C, D, and E, sitting in a second line paral  
+  ↻ *Same theme also asked:* [Prelims 2025 · CSAT Q42](../../past-papers/pre_2025_CSAT.md#q42)
+- [Prelims 2021 · CSAT Q33](../../past-papers/pre_2021_CSAT.md#q33) — There are five boys, p, q, r, s, and t, sitting in the first line facing south. However, there are five girls, A, B, C, D, and E, sitting in a second line paral  
+  ↻ *Same theme also asked:* [Prelims 2025 · CSAT Q42](../../past-papers/pre_2025_CSAT.md#q42)
+- [Prelims 2021 · CSAT Q34](../../past-papers/pre_2021_CSAT.md#q34) — Amit, Bharat, Chandan, Dinesh, Eeshwar and Ferguson are cousins. None of them are of the same age, but all of them have birthdays on the same date. The youngest
+- [Prelims 2021 · CSAT Q35](../../past-papers/pre_2021_CSAT.md#q35) — Amit, Bharat, Chandan, Dinesh, Eeshwar and Ferguson are cousins. None of them are of the same age, but all of them have birthdays on the same date. The youngest
+- [Prelims 2021 · CSAT Q36](../../past-papers/pre_2021_CSAT.md#q36) — Read the following statements and solve the question based on these.
+- [Prelims 2021 · CSAT Q37](../../past-papers/pre_2021_CSAT.md#q37) — Which of the following statements follows logically from the statement "India will talk, only if the terrorists are handed over" ?
+- [Prelims 2021 · CSAT Q38](../../past-papers/pre_2021_CSAT.md#q38) — At a buffet, six sweets are arranged in a circular order on a table. Burfi is opposite Halwa. There is one sweet between Laddu and Jalebi. Gulab jamun is to the
+- [Prelims 2021 · CSAT Q39](../../past-papers/pre_2021_CSAT.md#q39) — A team of three is to be selected from six persons — Pavan, Sravan, Raghavan, Aman, Dhawan and Bhavan, such that if one of Pavan and Sravan is selected then the
+- [Prelims 2021 · CSAT Q40](../../past-papers/pre_2021_CSAT.md#q40) — Pavan, Sravan, Charan, Tarun and Kiran are the top five rankers in a class, not necessarily in the same order. Each of these five is of a different height. The 
+- [Prelims 2021 · CSAT Q41](../../past-papers/pre_2021_CSAT.md#q41) — Pavan, Sravan, Charan, Tarun and Kiran are the top five rankers in a class, not necessarily in the same order. Each of these five is of a different height. The 
+- [Prelims 2021 · CSAT Q42](../../past-papers/pre_2021_CSAT.md#q42) — There are five rooms in my house — a hall, kitchen, study room, bedroom and dining room. There is one light in each room. Whenever the kitchen light is on, the 
+- [Prelims 2021 · CSAT Q43](../../past-papers/pre_2021_CSAT.md#q43) — In a joint family of seven persons A, B, C, D, E, F and G, there are two married couples. G is a housewife. C is the wife of B. A is the granddaughter of G. D i
+- [Prelims 2021 · CSAT Q47](../../past-papers/pre_2021_CSAT.md#q47) — A book contains 10 chapters. Each chapter has a different number of pages, ranging from 20 to 30. The first chapter starts on page 1 and each chapter starts on 
+- [Prelims 2021 · CSAT Q63](../../past-papers/pre_2021_CSAT.md#q63) — Shown below is a layout of major streets in a city : [Map described in words — streets join A–B, A–C, B–C, B–D, C–D, C–E and D–E.]
+- [Prelims 2021 · CSAT Q64](../../past-papers/pre_2021_CSAT.md#q64) — Shown below is a layout of major streets in a city : [Map described in words — streets join A–B, A–C, B–C, B–D, C–D, C–E and D–E.]
+
 ## Practice MCQs (20)
 
 **1.** Statements: All officers are graduates. Some graduates are athletes. Conclusions: I. Some officers are athletes. II. Some athletes are graduates. Which conclusion(s) follow?
@@ -127,6 +188,8 @@ Reasoning questions are formula-driven and fast if the method is known: syllogis
 **(b) 130 degrees** — Angle = |30H - 5.5M| = |30 x 3 - 5.5 x 40| = |90 - 220| = 130 degrees. It is below 180, so it is the required angle. (Check: minute hand at 240 degrees, hour hand at 90 + 40 x 0.5 = 110 degrees; difference 130.)
 
 </details>
+
+*Like a real PPSC question: [Prelims 2021 · CSAT Q4](../../past-papers/pre_2021_CSAT.md#q4)*
 
 **3.** Amrit walks 5 km north, turns right and walks 3 km, then turns right again and walks 9 km. How far and in which direction is he from his starting point?
 
@@ -219,6 +282,8 @@ Reasoning questions are formula-driven and fast if the method is known: syllogis
 
 </details>
 
+*Like a real PPSC question: [Prelims 2025 · CSAT Q53](../../past-papers/pre_2025_CSAT.md#q53)*
+
 **10.** In a code language, each letter of a word is moved two places forward in the alphabet and the resulting word is then written in reverse. If PUNJAB is written as DCLPWR, how is MOGA written?
 
 (a) OQIC  
@@ -260,6 +325,8 @@ Which of the conclusions given above follow(s)?
 **(a) Mother** — Decode left to right: A $ B — A is the wife of B. B # C — B is the father of C. C @ D — C is the sister of D, so C and D are siblings and B is the father of D as well. A, the wife of D's father, is D's mother. Answer: Mother.
 
 </details>
+
+*Like a real PPSC question: [Prelims 2021 · CSAT Q7](../../past-papers/pre_2021_CSAT.md#q7), [Prelims 2025 · CSAT Q47](../../past-papers/pre_2025_CSAT.md#q47)*
 
 **13.** If 26 January 2027 is a Tuesday, what day of the week will 15 August 2027 be?
 
@@ -333,6 +400,8 @@ Which of the statements given above is/are correct?
 **(b) 2 only** — B–C is one couple; since A and F are grandchildren, the other couple must be D and E, so E is D's husband and B's father. A and F are both children of B and C; A is male and F is female (granddaughter), so A is F's brother — the second statement is right. E is the father of B, F's father, so he is F's paternal, not maternal, grandfather — the first is wrong. Answer: 2 only.
 
 </details>
+
+*Like a real PPSC question: [Prelims 2021 · CSAT Q43](../../past-papers/pre_2021_CSAT.md#q43)*
 
 **18.** Six officers K, L, M, N, O and P sit in a row facing north. M sits third from the left end. K sits at one of the ends. Exactly two officers sit between K and N. L sits immediately to the right of N. O does not sit next to M. Who sits at the right end?
 

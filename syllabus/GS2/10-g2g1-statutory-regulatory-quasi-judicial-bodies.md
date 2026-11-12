@@ -1,6 +1,6 @@
 # Statutory, regulatory, quasi-judicial bodies
 
-**Paper 5 — GS II: Constitution, Polity, Governance, IR** › Governance · Subject: GS II — Constitution, Polity, Governance, IR · Priority: Medium
+**Paper 5 — GS II: Constitution, Polity, Governance, IR** › Governance · Subject: GS II — Constitution, Polity, Governance, IR · Priority: Medium · **Asked by PPSC: 🔁 1× (’26)**
 
 > Official syllabus line: Statutory, regulatory and various quasi-judicial bodies.
 
@@ -128,6 +128,14 @@ Examiners ask whether regulatory/quasi-judicial bodies are 'toothless', how to s
 - 2nd ARC 13th Report 'Organisational Structure of Government of India'
 - Report of the Financial Sector Legislative Reforms Commission (2013)
 - PRS Legislative Research — Lokpal Act 2013 and RTI Amendment 2019 analyses
+
+## Asked in PPSC papers — 1 time (in 1 of 3 recent exams)
+
+| Paper | Years asked |
+|---|---|
+| Mains GS2 | 2026 |
+
+- [Mains 2026 · GS2 Q1](../../past-papers/mains_2026_GS2.md#q1) — "While statutory and regulatory authorities are justified on grounds of expertise and efficiency, they have weakened democratic accountability and transparency 
 
 ## Mains practice questions (3)
 

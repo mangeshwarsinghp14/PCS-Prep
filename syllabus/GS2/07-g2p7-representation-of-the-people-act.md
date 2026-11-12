@@ -1,6 +1,6 @@
 # Representation of the People Act
 
-**Paper 5 — GS II: Constitution, Polity, Governance, IR** › Constitution & Polity · Subject: GS II — Constitution, Polity, Governance, IR · Priority: Medium
+**Paper 5 — GS II: Constitution, Polity, Governance, IR** › Constitution & Polity · Subject: GS II — Constitution, Polity, Governance, IR · Priority: Medium · **Asked by PPSC: 🔁 2× (’18 ’21)**
 
 > Official syllabus line: Salient features of the Representation of People's Act.
 
@@ -122,6 +122,15 @@ Mains asks for 'salient features' plus critique: criminalisation, money power, d
 - M. Laxmikanth, Indian Polity (Elections, Electoral Reforms chapters)
 - ECI website — Handbook for Returning Officers; Law Commission 244th and 255th Reports
 - PRS Legislative Research — Election Laws (Amendment) Act 2021 summary
+
+## Asked in PPSC papers — 2 times (in 2 of 3 recent exams)
+
+| Paper | Years asked |
+|---|---|
+| Mains GS2 | 2018, 2021 |
+
+- [Mains 2021 · GS2 Q5](../../past-papers/mains_2021_GS2.md#q5) — "The Representation of the People Act, 1951 is not an effective preventive law against criminalization of politics and corruption in public life". Analyse.
+- [Mains 2018 · GS2 Q6](../../past-papers/mains_2018_GS2.md#q6) — Discuss the benefits and challenges to go for simultaneous elections to Lok Sabha and State Assemblies.
 
 ## Mains practice questions (3)
 

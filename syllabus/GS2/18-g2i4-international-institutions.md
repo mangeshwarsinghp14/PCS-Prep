@@ -1,6 +1,6 @@
 # International institutions
 
-**Paper 5 — GS II: Constitution, Polity, Governance, IR** › International Relations · Subject: GS II — Constitution, Polity, Governance, IR · Priority: Medium
+**Paper 5 — GS II: Constitution, Polity, Governance, IR** › International Relations · Subject: GS II — Constitution, Polity, Governance, IR · Priority: Medium · **Asked by PPSC: 🔥 3× (’18 ’21 ’26)**
 
 > Official syllabus line: Important international institutions, agencies and fora – their structure and mandate.
 
@@ -119,6 +119,19 @@ Questions test structure and mandate (UNSC, WTO, IMF, FATF, NDB) and the case fo
 - MEA Annual Report — multilateral diplomacy chapter
 - Spectrum/Vision IAS International Organisations compilation (latest edition)
 - WTO, IMF, World Bank official 'About us' pages
+
+## Asked in PPSC papers — 3 times 🔥 (in every recent exam)
+
+| Paper | Years asked |
+|---|---|
+| Mains GS2 | 2021, 2026 |
+| Mains GS4 | 2018 |
+
+- [Mains 2026 · GS2 Q10](../../past-papers/mains_2026_GS2.md#q10) — Discuss the impediments India is facing in its pursuit of a permanent seat in UN Security Council (UNSC).  
+  ↻ *Same theme also asked:* [Mains 2018 · GS4 Q12(b)](../../past-papers/mains_2018_GS4.md#q12-b)
+- [Mains 2021 · GS2 Q16](../../past-papers/mains_2021_GS2.md#q16) — What is the mandate of WHO and how binding are its decisions? Examine the role played by WHO in context of COVID-19 Pandemic.
+- [Mains 2018 · GS4 Q12(b)](../../past-papers/mains_2018_GS4.md#q12-b) — "Reorganization of Security Council of UN is the need of the hour." Give some arguments in favour of India's claim for permanent seat in this body.  
+  ↻ *Same theme also asked:* [Mains 2026 · GS2 Q10](../../past-papers/mains_2026_GS2.md#q10)
 
 ## Mains practice questions (3)
 

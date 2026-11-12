@@ -1,6 +1,6 @@
 # Minerals & energy
 
-**Paper I — General Studies** › Geography · Subject: Geography · Priority: Medium
+**Paper I — General Studies** › Geography · Subject: Geography · Priority: Medium · **Asked by PPSC: 🔥 10× (’18 ’21 ’25)**
 
 > Official syllabus line: Mineral and energy resources.
 
@@ -121,6 +121,23 @@ Expect location-based questions (mine/field to state), mineral to type matches, 
 - NCERT Class 10 'Contemporary India II' Ch 5 (Minerals and Energy Resources)
 - Ministry of Mines Annual Report and Ministry of New and Renewable Energy website
 
+## Asked in PPSC papers — 10 times 🔥 (in every recent exam)
+
+| Paper | Years asked |
+|---|---|
+| Prelims GS | 2018 (×2), 2021 (×6), 2025 (×2) |
+
+- [Prelims 2025 · GS Q59](../../past-papers/pre_2025_GS.md#q59) — Which of the following states is the leading producer of diamonds in India ?
+- [Prelims 2025 · GS Q74](../../past-papers/pre_2025_GS.md#q74) — Which of the following is/are not a type of mica ?
+- [Prelims 2021 · GS Q17](../../past-papers/pre_2021_GS.md#q17) — India's first gas exchange, the Indian Gas Exchange (IGX), was launched as a wholly owned subsidiary of Indian Energy Exchange. Which of the following statement
+- [Prelims 2021 · GS Q18](../../past-papers/pre_2021_GS.md#q18) — Consider the following statements :
+- [Prelims 2021 · GS Q19](../../past-papers/pre_2021_GS.md#q19) — Recently, Pan-India Real Time Market in electricity was launched. Which of the following statements are correct about the market ?
+- [Prelims 2021 · GS Q26](../../past-papers/pre_2021_GS.md#q26) — Winter Diesel is a specialized fuel that was introduced by Indian Oil Corporation. Choose the incorrect statement about Winter Diesel :
+- [Prelims 2021 · GS Q27](../../past-papers/pre_2021_GS.md#q27) — Hydropower sector cooperation is the flagship area of Indo-Bhutan bilateral relations. Choose the correct statement(s) among the following with regard to India'
+- [Prelims 2021 · GS Q56](../../past-papers/pre_2021_GS.md#q56) — The Mineral Laws (Amendment) Bill, 2020 has recently been passed. Consider the following regarding the same :
+- [Prelims 2018 · GS Q17](../../past-papers/pre_2018_GS.md#q17) — Which of the following is not correctly matched ?
+- [Prelims 2018 · GS Q20](../../past-papers/pre_2018_GS.md#q20) — Which of the following pairs are correct ?
+
 ## Practice MCQs (12)
 
 **1.** India's oldest oil refinery and oilfield is at:
@@ -187,6 +204,8 @@ Expect location-based questions (mine/field to state), mineral to type matches, 
 **(c) Uranium** — Jaduguda has India's first uranium mine.
 
 </details>
+
+*Like a real PPSC question: [Prelims 2018 · GS Q20](../../past-papers/pre_2018_GS.md#q20)*
 
 **6.** Under India's Panchamrit commitment, non-fossil power capacity is to reach which level by 2030?
 

@@ -1,6 +1,6 @@
 # Post-independence consolidation
 
-**Paper 4 — GS I: History, Geography, Society** › History · Subject: GS I — History, Geography, Society · Priority: Medium
+**Paper 4 — GS I: History, Geography, Society** › History · Subject: GS I — History, Geography, Society · Priority: Medium · **Asked by PPSC: 🔁 1× (’18)**
 
 > Official syllabus line: Post-independence consolidation and reorganization within the country.
 
@@ -137,6 +137,14 @@ Typical questions: integration of princely states, linguistic reorganisation (di
 - Ramachandra Guha, 'India After Gandhi'
 - NCERT Class 12 Political Science, 'Politics in India since Independence' (Ch 1 and Ch 8)
 - V.P. Menon, 'The Story of the Integration of the Indian States'
+
+## Asked in PPSC papers — 1 time (in 1 of 3 recent exams)
+
+| Paper | Years asked |
+|---|---|
+| Mains GS1 | 2018 |
+
+- [Mains 2018 · GS1 Q4](../../past-papers/mains_2018_GS1.md#q4) — "Jawahar Lal Nehru was the architect of modern India." Comment.
 
 ## Mains practice questions (3)
 

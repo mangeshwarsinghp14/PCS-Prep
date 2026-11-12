@@ -1,6 +1,6 @@
 # World Bank, IMF, WTO, EU, G20, BRICS
 
-**Paper I — General Studies** › Political Theory & International Order · Subject: Political Theory & Intl Order · Priority: Medium
+**Paper I — General Studies** › Political Theory & International Order · Subject: Political Theory & Intl Order · Priority: Medium · **Asked by PPSC: 🔥 7× (’18 ’21 ’25)**
 
 > Official syllabus line: Other international organisations like the World Bank, IMF, WTO, EU, G20, BRICS etc. and their role in world peace, trade & development.
 
@@ -134,6 +134,20 @@ Questions test founding dates and HQs, membership changes (G20 African Union, BR
 - Ramesh Singh, Indian Economy - chapters on IMF, World Bank and WTO
 - MEA and Ministry of Commerce websites (G20, BRICS, FTA pages)
 
+## Asked in PPSC papers — 7 times 🔥 (in every recent exam)
+
+| Paper | Years asked |
+|---|---|
+| Prelims GS | 2018 (×2), 2021 (×4), 2025 |
+
+- [Prelims 2025 · GS Q87](../../past-papers/pre_2025_GS.md#q87) — Consider the following statements regarding G20 :
+- [Prelims 2021 · GS Q12](../../past-papers/pre_2021_GS.md#q12) — Recently, the 15th India-European Union Summit was held through a virtual medium. Which of the following are correct about the summit ?
+- [Prelims 2021 · GS Q33](../../past-papers/pre_2021_GS.md#q33) — Consider the following statements :
+- [Prelims 2021 · GS Q51](../../past-papers/pre_2021_GS.md#q51) — India has been constantly negotiating for an expansion in the trade in services via Mode 4 as defined under the General Agreement on Trade in Services (GATS). C
+- [Prelims 2021 · GS Q59](../../past-papers/pre_2021_GS.md#q59) — According to the World Bank's classification of economies into income groups (on the basis of GNI per capita using the Atlas method exchange rates) for the 2020
+- [Prelims 2018 · GS Q37](../../past-papers/pre_2018_GS.md#q37) — Which of the following resulted from Bretton Woods Conference ?
+- [Prelims 2018 · GS Q99](../../past-papers/pre_2018_GS.md#q99) — Which of the following was the latest member of the group of advanced industrialized nations transforming G-7 to G-8 ?
+
 ## Practice MCQs (12)
 
 **1.** Which set correctly lists the currencies in the IMF's SDR basket?
@@ -162,6 +176,8 @@ Questions test founding dates and HQs, membership changes (G20 African Union, BR
 
 </details>
 
+*Like a real PPSC question: [Prelims 2021 · GS Q33](../../past-papers/pre_2021_GS.md#q33)*
+
 **3.** The African Union became a permanent member of the G20 at the summit held in:
 
 (a) New Delhi, 2023  
@@ -174,6 +190,8 @@ Questions test founding dates and HQs, membership changes (G20 African Union, BR
 **(a) New Delhi, 2023** — It was admitted during India's presidency at the New Delhi summit, September 2023.
 
 </details>
+
+*Like a real PPSC question: [Prelims 2025 · GS Q87](../../past-papers/pre_2025_GS.md#q87)*
 
 **4.** The headquarters of the BRICS New Development Bank is in:
 

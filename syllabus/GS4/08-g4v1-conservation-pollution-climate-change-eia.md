@@ -1,6 +1,6 @@
 # Conservation, pollution, climate change, EIA
 
-**Paper 7 — GS IV: S&T, Environment, Problem Solving** › Environment · Subject: GS IV — S&T, Environment, Problem solving · Priority: High
+**Paper 7 — GS IV: S&T, Environment, Problem Solving** › Environment · Subject: GS IV — S&T, Environment, Problem solving · Priority: High · **Asked by PPSC: 🔥 8× (’18 ’21 ’26)**
 
 > Official syllabus line: Conservation, environmental pollution and degradation, climate change; environmental impact assessment.
 
@@ -129,6 +129,24 @@ Expect questions on stubble burning, river pollution, climate commitments and EI
 - NCERT Class 12 Biology Ch 13–16 (old syllabus) / Class 11 Geography India: Physical Environment
 - MoEFCC annual report; India's updated NDC (2022)
 - Punjab State Action Plan on Climate Change; Punjab Pollution Control Board reports
+
+## Asked in PPSC papers — 8 times 🔥 (in every recent exam)
+
+| Paper | Years asked |
+|---|---|
+| Mains GS4 | 2018, 2021 (×4), 2026 |
+| Mains GS2 | 2018 (×2) |
+
+- [Mains 2026 · GS4 Q4](../../past-papers/mains_2026_GS4.md#q4) — What are the possible impacts of Climate Change on agriculture and water resources in the State of Punjab?  
+  ↻ *Same theme also asked:* [Mains 2021 · GS4 Q13](../../past-papers/mains_2021_GS4.md#q13)
+- [Mains 2021 · GS4 Q5](../../past-papers/mains_2021_GS4.md#q5) — What are Microplastics? Critically analyse Microplastics as an emerging contaminant in nature.
+- [Mains 2021 · GS4 Q10(c)](../../past-papers/mains_2021_GS4.md#q10-c) — Write short note on: Meta barcoding.
+- [Mains 2021 · GS4 Q11](../../past-papers/mains_2021_GS4.md#q11) — What are the major threats to global ecosystems? Explain PANORAMA. Discuss the role of IUCN in biodiversity conservation.
+- [Mains 2021 · GS4 Q13](../../past-papers/mains_2021_GS4.md#q13) — Discuss with some suitable examples, the eco-friendly measures suggested by Ministry of Environment, Forest and Climate Change (MoEFCC) to mitigate the impacts   
+  ↻ *Same theme also asked:* [Mains 2026 · GS4 Q4](../../past-papers/mains_2026_GS4.md#q4)
+- [Mains 2018 · GS4 Q1](../../past-papers/mains_2018_GS4.md#q1) — "Delhi blanketed in toxic haze has become a gas chamber." List the major causes and possible mitigation measures.
+- [Mains 2018 · GS2 Q9(a)](../../past-papers/mains_2018_GS2.md#q9-a) — Write short note on: Salient features of Madhav Gadgil Report on deteriorating ecosystem of Western Ghats.
+- [Mains 2018 · GS2 Q10](../../past-papers/mains_2018_GS2.md#q10) — Discuss the impact of industrial effluents on aquatic life with reference to the rivers of Punjab. Also suggest some valid mitigation measures.
 
 ## Mains practice questions (3)
 

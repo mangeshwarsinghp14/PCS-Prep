@@ -1,6 +1,6 @@
 # Constitution — evolution, features, basic structure
 
-**Paper 5 — GS II: Constitution, Polity, Governance, IR** › Constitution & Polity · Subject: GS II — Constitution, Polity, Governance, IR · Priority: High
+**Paper 5 — GS II: Constitution, Polity, Governance, IR** › Constitution & Polity · Subject: GS II — Constitution, Polity, Governance, IR · Priority: High · **Asked by PPSC: 🔥 4× (’18 ’21 ’26)**
 
 > Official syllabus line: Indian Constitution – historical underpinnings, evolution, features, amendments, significant provisions and basic structure.
 
@@ -139,9 +139,23 @@ Questions ask how colonial Acts shaped the Constitution, why basic structure doc
 - NCERT Class 11 Indian Constitution at Work (Ch 1, 9, 10)
 - Granville Austin, The Indian Constitution: Cornerstone of a Nation
 
+## Asked in PPSC papers — 4 times 🔥 (in every recent exam)
+
+| Paper | Years asked |
+|---|---|
+| Mains GS2 | 2018, 2021, 2026 (×2) |
+
+- [Mains 2026 · GS2 Q5](../../past-papers/mains_2026_GS2.md#q5) — Analyse whether Parliament's amending power under Article 368 brings India closer to parliamentary sovereignty rather than constitutional supremacy.
+- [Mains 2026 · GS2 Q11](../../past-papers/mains_2026_GS2.md#q11) — Evaluate the argument that the Government of India Act 1935 served as the "blueprint" of the Indian Constitution. Identify areas of continuity and change.
+- [Mains 2021 · GS2 Q1](../../past-papers/mains_2021_GS2.md#q1) — 'More number of constitutional amendments in India were carried out because of political necessity than of constitutional need'. Elucidate.
+- [Mains 2018 · GS2 Q7(b)](../../past-papers/mains_2018_GS2.md#q7-b) — What, Why and Who are "We", the first word of the Preamble of the Constitution of India?  
+  ↻ *Same theme also asked:* [Prelims 2025 · GS Q85](../../past-papers/pre_2025_GS.md#q85)
+
 ## Mains practice questions (3)
 
 **1.** "The Government of India Act, 1935 is the blueprint of the Indian Constitution." Critically examine this statement, highlighting the features in which the Constitution departed from colonial legislation. (250 words)
+
+*Like a real PPSC question: [Mains 2026 · GS2 Q11](../../past-papers/mains_2026_GS2.md#q11)*
 
 <details><summary>Answer outline</summary>
 

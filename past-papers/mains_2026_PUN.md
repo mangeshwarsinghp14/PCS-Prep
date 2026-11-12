@@ -4,6 +4,8 @@ Held 2026-04-04. 15 questions. Paper: ਪੰਜਾਬੀ – ਲਾਜ਼ਮੀ 
 
 Sources: [1](https://o2iasacademy.in/resources/punjab-pcs-previous-year-question-papers-pdfs-9506/) · [2](https://drive.google.com/file/d/1ICpNqd_3aWjTDaDZ-gmq8w7u7_fu1GWB/view) · [3](https://www.adda247.com/exams/punjab/punjab-pcs-exam-date-2025/)
 
+<a id="q1"></a>
+
 **Q1.** ਪ੍ਰਸ਼ਨ 1: ਹੇਠ ਲਿਖਿਆ ਪੈਰ੍ਹਾ ਧਿਆਨ ਨਾਲ ਪੜ੍ਹੋ ਅਤੇ ਪੁੱਛੇ ਪ੍ਰਸ਼ਨਾਂ ਦੇ ਉੱਤਰ ਦਿਓ। [Passage not reproduced — it contrasts ਯਥਾਰਥਵਾਦ (realism, a 19th-century literary movement) with ਸੰਰਚਨਾਵਾਦ (structuralism, based on Saussure).]  
 ੳ. ਯਥਾਰਥਵਾਦੀ ਚਿੰਤਨ ਦਾ ਬੁਨਿਆਦੀ ਸੂਤਰ ਸਪਸ਼ਟ ਕਰੋ।  
 ਅ. ਯਥਾਰਥਵਾਦ ਅਤੇ ਸੰਰਚਨਾਵਾਦ ਦੇ ਵਖਰੇਵੇਂ ਪਿੱਛੇ ਕੰਮ ਕਰਦੇ ਦਾਰਸ਼ਨਿਕ ਨੁਕਤੇ ਦੀ ਕੀ ਪਿੱਠਭੂਮੀ ਹੈ?  
@@ -33,6 +35,9 @@ Topic: [notes](../syllabus/MPB/01-lp1-unseen-passage-10.md)
 
 </details>
 
+
+<a id="q2"></a>
+
 **Q2.** ਪ੍ਰਸ਼ਨ 2: ਹੇਠ ਲਿਖੇ ਪੈਰ੍ਹੇ ਦੀ ਇਕ-ਤਿਹਾਈ ਸ਼ਬਦਾਂ ਵਿੱਚ ਸੰਖੇਪ ਰਚਨਾ ਕਰੋ ਅਤੇ ਪੈਰ੍ਹੇ ਦਾ ਢੁਕਵਾਂ ਸਿਰਲੇਖ ਵੀ ਦਿਓ। (8+2=10) [Passage of about 225 words, not reproduced — on the two levels of social study: describing institutions/behaviour vs. analysing the concepts behind them, e.g. caste, democracy, secularism, equality, rights.] *(10 marks, 75 words)*
 
 <details><summary>Model answer points</summary>
@@ -56,6 +61,9 @@ Topic: [notes](../syllabus/MPB/01-lp1-unseen-passage-10.md)
 Topic: [notes](../syllabus/MPB/02-lp2-precis-sankhep-rachna-10.md)
 
 </details>
+
+
+<a id="q3"></a>
 
 **Q3.** ਪ੍ਰਸ਼ਨ 3: ਹੇਠਾਂ ਦਿੱਤੀ ਇਬਾਰਤ ਵਿੱਚੋਂ ਕਿਸੇ ਇਕ ਬਾਰੇ 200 ਸ਼ਬਦਾਂ ਵਿੱਚ ਪੱਤਰ ਲਿਖੋ:  
 ੳ. ਸਰਹੱਦੀ ਜ਼ਿਲ੍ਹਿਆਂ ਨੂੰ ਦਰਪੇਸ਼ ਵਿਹਾਰਕ ਮਸਲਿਆਂ ਤੇ ਚੁਣੌਤੀਆਂ ਨੂੰ ਸੰਸਦ ਵਿੱਚ ਰੱਖਣ ਲਈ ਆਪਣੇ ਪਾਰਲੀਮਾਨੀ ਮੈਂਬਰ ਨੂੰ ਬਿਨੈ-ਪੱਤਰ ਲਿਖੋ।  
@@ -85,6 +93,10 @@ Topic: [notes](../syllabus/MPB/03-lp3-application-letter-200-words-10.md)
 
 </details>
 
+*Topic asked 2× (2021, 2026)*
+
+<a id="q4"></a>
+
 **Q4.** ਪ੍ਰਸ਼ਨ 4: ਹੇਠਾਂ ਲਿਖੇ ਵਿਸ਼ਿਆਂ ਵਿੱਚੋਂ ਕਿਸੇ ਇਕ ਬਾਰੇ 400 ਸ਼ਬਦਾਂ ਦਾ ਨਿਬੰਧ ਲਿਖੋ:  
 ੳ. ਕਾਰਪੋਰੇਟ ਪੂੰਜੀਵਾਦ ਅਤੇ ਸਮਕਾਲੀ ਸੰਸਾਰ ਦਾ ਬਦਲਦਾ ਸਰੂਪ  
 ਅ. ਪੰਜਾਬ ਦੇ ਖੇਤੀਬਾੜੀ ਸੰਕਟ ਦੌਰਾਨ ਬਦਲਵੇਂ ਖੇਤੀ ਮਾਡਲ ਦੀ ਪ੍ਰਸੰਗਕਤਾ  
@@ -112,6 +124,10 @@ Topic: [notes](../syllabus/MPB/04-lp4-essay-400-words-10.md)
 
 </details>
 
+*Topic asked 2× (2021, 2026)*
+
+<a id="q5"></a>
+
 **Q5.** ਪ੍ਰਸ਼ਨ 5: ਹੇਠ ਲਿਖੇ ਦਾ ਅੰਗਰੇਜ਼ੀ ਵਿੱਚ ਅਨੁਵਾਦ ਕਰੋ (3+2=5):  
 ੳ. ਕਿਸੇ ਵੀ ਪਰਿਵਾਰ, ਭਾਈਚਾਰੇ ਜਾਂ ਦੇਸ਼ ਦੀ ਖ਼ੁਸ਼ਹਾਲੀ ਦਾ ਅਨੁਮਾਨ ਉਸਦੀ ਪ੍ਰਤੀ ਜੀਅ ਊਰਜਾ ਦੀ ਖਪਤ ਤੋਂ ਲਾਇਆ ਜਾ ਸਕਦਾ ਹੈ। ਜੇਕਰ ਅਸੀਂ ਚਾਹੁੰਦੇ ਹਾਂ ਕਿ ਪੰਜਾਬ ਵਧੇਰੇ ਖ਼ੁਸ਼ਹਾਲ ਹੋਵੇ ਤਾਂ ਪੰਜਾਬ ਨੂੰ ਵਧੇਰੇ ਊਰਜਾ ਪੈਦਾ ਕਰਨੀ ਹੋਵੇਗੀ। ਪਰ ਪੰਜਾਬ ਨੇ ਤਾਂ ਹਰੇ ਇਨਕਲਾਬ ਦੀ ਸਫ਼ਲਤਾ ਲਈ ਵਧੇਰੇ ਊਰਜਾ ਦੀ ਖਪਤ ਰਾਹੀਂ, ਪੰਜਾਬ ਦੇ ਵਾਤਾਵਰਣ ਅਤੇ ਕੁਦਰਤੀ ਵਸੀਲਿਆਂ ਦੇ ਉਜਾੜੇ ਦਾ ਦ੍ਰਿਸ਼ ਦੇਖਿਆ ਹੋਇਆ ਹੈ। ਪਰ ਸਾਨੂੰ ਅਜਿਹੇ ਬਦਲ ਦੀ ਲੋੜ ਹੈ ਜੋ ਊਰਜਾ ਤਾਂ ਪੈਦਾ ਕਰੇ ਪਰ ਪ੍ਰਦੂਸ਼ਣ ਬਿਲਕੁਲ ਨਹੀਂ।  
 ਅ. 1. ਪੰਜਾਬ ਦੇ ਨੌਜਵਾਨ ਕਿਸੇ ਵੀ ਹੋਰ ਖੇਤਰ ਦੇ ਨੌਜਵਾਨਾਂ ਨਾਲੋਂ ਘੱਟ ਪ੍ਰਤਿਭਾਸ਼ਾਲੀ ਨਹੀਂ ਹਨ। ਅਸਲ ਵਿੱਚ, ਉਹ ਕਈ ਮਾਮਲਿਆਂ ਵਿੱਚ ਵਧੇਰੇ ਯੋਗ ਹਨ। 2. ਪੰਜਾਬ ਦੀ ਅਮੀਰ ਹਸਤਕਲਾ ਪਰੰਪਰਾ ਸਦੀਆਂ ਪੁਰਾਣੀ ਹੈ। ਪਰ ਹਸਤਕਲਾਵਾਂ ਦੀ ਸਭ ਤੋਂ ਵੱਡੀ ਸਮੱਸਿਆ ਇਹ ਹੈ ਕਿ ਇਨ੍ਹਾਂ ਵਾਸਤੇ ਕੋਈ ਸੰਗਠਿਤ ਬਜ਼ਾਰ ਨਹੀਂ ਹੈ। *(5 marks)*
@@ -135,6 +151,10 @@ Topic: [notes](../syllabus/MPB/04-lp4-essay-400-words-10.md)
 Topic: [notes](../syllabus/MPB/05-lp5-translation-10.md)
 
 </details>
+
+*Topic asked 2× (2026)*
+
+<a id="q6"></a>
 
 **Q6.** ਪ੍ਰਸ਼ਨ 6: ਹੇਠ ਲਿਖੇ ਵਾਕਾਂ ਅਤੇ ਪੈਰ੍ਹੇ ਦਾ ਪੰਜਾਬੀ ਵਿੱਚ ਅਨੁਵਾਦ ਕਰੋ (2+3=5):  
 i. a. No identity slip shall be issued to a person other than the one authorized.  
@@ -162,6 +182,10 @@ Topic: [notes](../syllabus/MPB/05-lp5-translation-10.md)
 
 </details>
 
+*Topic asked 2× (2026)*
+
+<a id="q7"></a>
+
 **Q7.** ਪ੍ਰਸ਼ਨ 7: ਹੇਠ ਲਿਖੇ ਮੁਹਾਵਰਿਆਂ ਨੂੰ ਵਾਕਾਂ ਵਿੱਚ ਵਰਤੋ:  
 ੳ. ਇੱਲ ਦਾ ਨਾਂ ਕੋਕੋ ਵੀ ਨਾ ਆਉਣਾ  ਅ. ਸੱਠੀ ਦੇ ਚੌਲ ਖੁਆਉਣੇ  ੲ. ਫ਼ਸਲੀ ਬਟੇਰਾ ਹੋਣਾ  ਸ. ਅੱਕੀਂ-ਪਲਾਹੀਂ ਹੱਥ ਮਾਰਨਾ  ਹ. ਖੁਰ ਨਿਖੁੱਟ ਜਾਣੇ *(5 marks)*
 
@@ -186,6 +210,10 @@ Topic: [notes](../syllabus/MPB/05-lp5-translation-10.md)
 Topic: [notes](../syllabus/MPB/06-lp6-grammar-vyakaran-50.md)
 
 </details>
+
+*Topic asked 18× (2021, 2026)*
+
+<a id="q8"></a>
 
 **Q8.** ਪ੍ਰਸ਼ਨ 8: ਹੇਠ ਲਿਖੇ ਬਹੁਤੇ ਸ਼ਬਦਾਂ ਦੀ ਥਾਂ ਇਕ ਸ਼ਬਦ ਲਿਖੋ:  
 ੳ. ਉਹ ਤੀਵੀਂ ਜਿਸਦਾ ਪਤੀ ਜਿਊਂਦਾ ਹੋਵੇ  ਅ. ਜਿਹੜੀ ਥਾਂ ਸਾਰੇ ਪਿੰਡ ਦੀ ਸਾਂਝੀ ਹੋਵੇ  ੲ. ਜਿਸ ਦੀ ਔਲਾਦ ਨਾ ਹੋਵੇ  ਸ. ਉਹ ਮੱਝ ਜਾਂ ਗਾਂ ਜਿਹੜੀ ਹਰ ਸਾਲ ਸੂਏ  ਹ. ਉਹ ਧਰਤੀ ਜੋ ਰੇਤਲੀ ਹੋਵੇ *(5 marks)*
@@ -212,6 +240,10 @@ Topic: [notes](../syllabus/MPB/06-lp6-grammar-vyakaran-50.md)
 
 </details>
 
+*Topic asked 18× (2021, 2026)*
+
+<a id="q9"></a>
+
 **Q9.** ਪ੍ਰਸ਼ਨ 9: ਹੇਠ ਲਿਖੇ ਸ਼ਬਦਾਂ ਦੇ ਦੋ-ਦੋ ਸਮਾਨਾਰਥਕ ਸ਼ਬਦ ਲਿਖੋ: ੳ. ਓੜਕ  ਅ. ਇਕਰਾਰ  ੲ. ਸਭਿਅਤਾ  ਸ. ਸਵਾਰਥ  ਹ. ਠਰੰਮਾ *(5 marks)*
 
 <details><summary>Model answer points</summary>
@@ -235,6 +267,10 @@ Topic: [notes](../syllabus/MPB/06-lp6-grammar-vyakaran-50.md)
 Topic: [notes](../syllabus/MPB/06-lp6-grammar-vyakaran-50.md)
 
 </details>
+
+*Topic asked 18× (2021, 2026)*
+
+<a id="q10"></a>
 
 **Q10.** ਪ੍ਰਸ਼ਨ 10: ਹੇਠ ਲਿਖੇ ਸ਼ਬਦਾਂ ਦੇ ਵਿਰੋਧੀ ਸ਼ਬਦ ਲਿਖੋ: ੳ. ਪੁੱਟਣਾ  ਅ. ਮੰਨਣਾ  ੲ. ਉੱਸਰਨਾ  ਸ. ਸਲਾਹੁਣਾ  ਹ. ਬੇਹਾ *(5 marks)*
 
@@ -260,6 +296,10 @@ Topic: [notes](../syllabus/MPB/06-lp6-grammar-vyakaran-50.md)
 
 </details>
 
+*Topic asked 18× (2021, 2026)*
+
+<a id="q11"></a>
+
 **Q11.** ਪ੍ਰਸ਼ਨ 11: ਹੇਠ ਲਿਖੇ ਸ਼ਬਦਾਂ ਦਾ ਸ਼ੁੱਧ ਰੂਪ ਲਿਖੋ: ੳ. ਸੁਖ਼ਸ਼ੀਅਤ  ਅ. ਜਹਾਜ੍ਹ  ੲ. ਫ਼ਤਹ  ਸ. ਦਪੈਹੁਰ  ਹ. ਇਜ਼ਾਜਤ *(5 marks)*
 
 <details><summary>Model answer points</summary>
@@ -283,6 +323,10 @@ Topic: [notes](../syllabus/MPB/06-lp6-grammar-vyakaran-50.md)
 Topic: [notes](../syllabus/MPB/06-lp6-grammar-vyakaran-50.md)
 
 </details>
+
+*Topic asked 18× (2021, 2026)*
+
+<a id="q12"></a>
 
 **Q12.** ਪ੍ਰਸ਼ਨ 12: ਹੇਠ ਲਿਖੇ ਅਗੇਤਰ ਲਾ ਕੇ ਸ਼ਬਦ ਬਣਾਓ: ਨਿ, ਪੜ, ਨਿਸ਼, ਦੁਰ, ਬਾ *(5 marks)*
 
@@ -308,6 +352,10 @@ Topic: [notes](../syllabus/MPB/06-lp6-grammar-vyakaran-50.md)
 
 </details>
 
+*Topic asked 18× (2021, 2026)*
+
+<a id="q13"></a>
+
 **Q13.** ਪ੍ਰਸ਼ਨ 13: ਹੇਠ ਲਿਖੇ ਕਿਰਿਆ ਸ਼ਬਦਾਂ ਤੋਂ ਭਾਵਵਾਚਕ ਨਾਂਵ ਬਣਾਓ: ੳ. ਉਜੜ  ਅ. ਵੱਢਣ  ੲ. ਗਿਣ  ਸ. ਚੜ੍ਹ  ਹ. ਜਣ *(5 marks)*
 
 <details><summary>Model answer points</summary>
@@ -331,6 +379,10 @@ Topic: [notes](../syllabus/MPB/06-lp6-grammar-vyakaran-50.md)
 Topic: [notes](../syllabus/MPB/06-lp6-grammar-vyakaran-50.md)
 
 </details>
+
+*Topic asked 18× (2021, 2026)*
+
+<a id="q14"></a>
 
 **Q14.** ਪ੍ਰਸ਼ਨ 14: ਹੇਠ ਲਿਖੇ ਵਾਕਾਂ ਨੂੰ ਸਹੀ ਵਿਸਰਾਮ ਚਿੰਨ੍ਹ ਲਾ ਕੇ ਲਿਖੋ:  
 ੳ. ਹਾਂ ਜੀ ਇਹ ਗ਼ਲਤੀ ਮੈਥੋਂ ਹੋਈ ਹੈ ਮੈਂ ਸਜ਼ਾ ਦਾ ਹੱਕਦਾਰ ਹਾਂ  
@@ -360,6 +412,10 @@ Topic: [notes](../syllabus/MPB/06-lp6-grammar-vyakaran-50.md)
 Topic: [notes](../syllabus/MPB/06-lp6-grammar-vyakaran-50.md)
 
 </details>
+
+*Topic asked 18× (2021, 2026)*
+
+<a id="q15"></a>
 
 **Q15.** ਪ੍ਰਸ਼ਨ 15: ਬ੍ਰੈਕਟ ਵਿੱਚ ਦਿੱਤੀਆਂ ਹਦਾਇਤਾਂ ਅਨੁਸਾਰ ਉੱਤਰ ਦਿਓ:  
 ੳ. ਉਨ੍ਹਾਂ ਨੇ ਇਕ ਜਥਾ ਬਣਾਇਆ ਹੈ। (ਨਾਂਵ ਸ਼ਬਦ ਤੇ ਉਸ ਦੀ ਕਿਸਮ)  
@@ -399,3 +455,5 @@ Topic: [notes](../syllabus/MPB/06-lp6-grammar-vyakaran-50.md)
 Topic: [notes](../syllabus/MPB/06-lp6-grammar-vyakaran-50.md)
 
 </details>
+
+*Topic asked 18× (2021, 2026)*

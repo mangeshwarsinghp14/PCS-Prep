@@ -1,6 +1,6 @@
 # Mughals to Aurangzeb
 
-**Paper I — General Studies** › History of India & World History · Subject: Indian History · Priority: Medium
+**Paper I — General Studies** › History of India & World History · Subject: Indian History · Priority: Medium · **Asked by PPSC: 🔥 7× (’18 ’21 ’25)**
 
 > Official syllabus line: The Mughals (political, social & cultural till Aurangzeb).
 
@@ -140,6 +140,22 @@ Questions test battles and years, Akbar's administrative and religious measures,
 - NCERT Class 12 Themes in Indian History Part II, Ch 9 (Kings and Chronicles: The Mughal Courts)
 - Satish Chandra, History of Medieval India (Mughal chapters)
 
+## Asked in PPSC papers — 7 times 🔥 (in every recent exam)
+
+| Paper | Years asked |
+|---|---|
+| Prelims GS | 2018 (×2), 2021 (×3), 2025 (×2) |
+
+- [Prelims 2025 · GS Q6](../../past-papers/pre_2025_GS.md#q6) — Which edict was issued by Akbar to assert his spiritual authority over ulemas ?  
+  ↻ *Same theme also asked:* [Prelims 2021 · GS Q68](../../past-papers/pre_2021_GS.md#q68)
+- [Prelims 2025 · GS Q7](../../past-papers/pre_2025_GS.md#q7) — Consider the following statements about Chhatrapati Shivaji Maharaj :
+- [Prelims 2021 · GS Q68](../../past-papers/pre_2021_GS.md#q68) — Which among the following statements(s) is/are true about the Mughal rule under Akbar ?  
+  ↻ *Same theme also asked:* [Prelims 2025 · GS Q6](../../past-papers/pre_2025_GS.md#q6)
+- [Prelims 2021 · GS Q70](../../past-papers/pre_2021_GS.md#q70) — Which of the following initiatives was/were taken by Sher Shah Suri to promote trade and commerce ?
+- [Prelims 2021 · GS Q73](../../past-papers/pre_2021_GS.md#q73) — With reference to the medieval history of India, the terms 'Dahsala', 'Batai' and 'Nasaq' are related to
+- [Prelims 2018 · GS Q88](../../past-papers/pre_2018_GS.md#q88) — Consider the following statements about the agrarian system under the Delhi Sultanate and Mughal empire :
+- [Prelims 2018 · GS Q89](../../past-papers/pre_2018_GS.md#q89) — Who among the following was the French explorer who visited the court of emperor Shah Jahan and left a detailed account of Takht-i-Taus (Peacock Throne) ?
+
 ## Practice MCQs (12)
 
 **1.** Akbar's coronation took place in 1556 at:
@@ -262,6 +278,8 @@ Which of the pairs given above are correctly matched?
 **(c) 1 and 3 only** — Jizya was abolished in 1564; 1582 is the year of Tauhid-i-Ilahi.
 
 </details>
+
+*Like a real PPSC question: [Prelims 2021 · GS Q68](../../past-papers/pre_2021_GS.md#q68)*
 
 **10.** The final recension of the Guru Granth Sahib was prepared by Guru Gobind Singh at:
 

@@ -1,6 +1,6 @@
 # Human capital, unemployment, skills
 
-**Paper 6 — GS III: Economy, Statistics, Security** › Indian Economy · Subject: GS III — Economy, Statistics, Security · Priority: High
+**Paper 6 — GS III: Economy, Statistics, Security** › Indian Economy · Subject: GS III — Economy, Statistics, Security · Priority: High · **Asked by PPSC: 🔥 4× (’18 ’21 ’26)**
 
 > Official syllabus line: Importance of human capital; nature, types and problems of unemployment; trends of employment; skill development and demographic dividend.
 
@@ -132,6 +132,17 @@ Questions probe nature of unemployment in India, quality of jobs, demographic di
 - Economic Survey of India - Employment and Skill Development chapter
 - NCERT Class 12 Indian Economic Development Ch 5 (Human Capital Formation) and Ch 6 (Employment)
 - Ramesh Singh, Indian Economy - Human Development and Employment chapters
+
+## Asked in PPSC papers — 4 times 🔥 (in every recent exam)
+
+| Paper | Years asked |
+|---|---|
+| Mains GS3 | 2018, 2021 (×2), 2026 |
+
+- [Mains 2026 · GS3 Q2](../../past-papers/mains_2026_GS3.md#q2) — Why did rapid economic growth not help reduce unemployment significantly in India?
+- [Mains 2021 · GS3 Q1](../../past-papers/mains_2021_GS3.md#q1) — Discuss the characteristics of the Indian labour market. What are the reforms that are needed to improve the state of employment in India and what do the four c
+- [Mains 2021 · GS3 Q8](../../past-papers/mains_2021_GS3.md#q8) — Explain that with Covid's looming impact on the economy, there is an urgent need to increase skill imparting initiatives to hold onto India's Demographic Divide
+- [Mains 2018 · GS3 Q4](../../past-papers/mains_2018_GS3.md#q4) — Discuss the role of education and health in enhancing the human capital. Explain its importance in economic development.
 
 ## Mains practice questions (3)
 

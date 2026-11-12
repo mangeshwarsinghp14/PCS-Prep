@@ -1,6 +1,6 @@
 # Cyber security & money laundering
 
-**Paper 6 — GS III: Economy, Statistics, Security** › Security · Subject: GS III — Economy, Statistics, Security · Priority: High
+**Paper 6 — GS III: Economy, Statistics, Security** › Security · Subject: GS III — Economy, Statistics, Security · Priority: High · **Asked by PPSC: 🔁 3× (’21 ’26)**
 
 > Official syllabus line: Basics of cyber security; money-laundering and its prevention.
 
@@ -131,6 +131,16 @@ Questions ask for cyber threats to critical infrastructure, institutional archit
 - PMLA 2002 (official text) and FATF Mutual Evaluation Report of India (2024)
 - National Cyber Security Policy 2013
 
+## Asked in PPSC papers — 3 times (in 2 of 3 recent exams)
+
+| Paper | Years asked |
+|---|---|
+| Mains GS3 | 2021, 2026 (×2) |
+
+- [Mains 2026 · GS3 Q7](../../past-papers/mains_2026_GS3.md#q7) — Cybercrimes pose a significant challenge to national security. What measures can a country adopt to safeguard itself against cyber threats?
+- [Mains 2026 · GS3 Q19](../../past-papers/mains_2026_GS3.md#q19) — Money laundering sustains organized crime and terrorism. Critically examine the mechanisms of money laundering and their impact on internal security.
+- [Mains 2021 · GS3 Q12](../../past-papers/mains_2021_GS3.md#q12) — Explain the 'Dark Web'. How is it posing challenge to the law enforcement agencies? What are the counter measures that India has taken in response to the cyber 
+
 ## Mains practice questions (3)
 
 **1.** Critically examine India's institutional and legal framework for cyber security. What reforms are needed? (250 words)
@@ -146,6 +156,8 @@ Questions ask for cyber threats to critical infrastructure, institutional archit
 </details>
 
 **2.** Explain the stages of money laundering and the mechanisms used in India to prevent it. (150 words)
+
+*Like a real PPSC question: [Mains 2026 · GS3 Q19](../../past-papers/mains_2026_GS3.md#q19)*
 
 <details><summary>Answer outline</summary>
 

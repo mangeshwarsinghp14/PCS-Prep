@@ -1,6 +1,6 @@
 # World history from 18th century
 
-**Paper 4 — GS I: History, Geography, Society** › History · Subject: GS I — History, Geography, Society · Priority: Medium
+**Paper 4 — GS I: History, Geography, Society** › History · Subject: GS I — History, Geography, Society · Priority: Medium · **Asked by PPSC: 🔥 3× (’18 ’21 ’26)**
 
 > Official syllabus line: Events from 18th century; industrial revolution, world wars, redrawal of national boundaries, colonization, decolonization, political philosophies like Communism, Capitalism, Socialism etc. – their forms and effect on society.
 
@@ -140,9 +140,21 @@ Questions ask for causes-consequences analysis (industrialisation, world wars, d
 - Old NCERT Arjun Dev, 'Contemporary World History' (Class 12)
 - Jain and Mathur, 'A History of the Modern World'
 
+## Asked in PPSC papers — 3 times 🔥 (in every recent exam)
+
+| Paper | Years asked |
+|---|---|
+| Mains GS1 | 2018, 2021, 2026 |
+
+- [Mains 2026 · GS1 Q12](../../past-papers/mains_2026_GS1.md#q12) — Adam Smith illustrated the market as an invisible hand which can pave the path to prosperity and well-being for all, but Marx pointed its gloomy side. Criticall
+- [Mains 2021 · GS1 Q4](../../past-papers/mains_2021_GS1.md#q4) — Describe the Scramble of Africa by European Colonial Masters. What were its consequences?
+- [Mains 2018 · GS1 Q1](../../past-papers/mains_2018_GS1.md#q1) — "The Industrial Revolution was a mixed blessing." Comment.
+
 ## Mains practice questions (3)
 
 **1.** 'The Industrial Revolution was as much a social revolution as a technological one.' Discuss with reference to its impact on European society and on colonies such as India. (250 words)
+
+*Like a real PPSC question: [Mains 2018 · GS1 Q1](../../past-papers/mains_2018_GS1.md#q1)*
 
 <details><summary>Answer outline</summary>
 

@@ -1,6 +1,6 @@
 # Socio-religious reform (Punjab focus)
 
-**Paper 4 — GS I: History, Geography, Society** › History · Subject: GS I — History, Geography, Society · Priority: High
+**Paper 4 — GS I: History, Geography, Society** › History · Subject: GS I — History, Geography, Society · Priority: High · **Asked by PPSC: 🔁 1× (’26)**
 
 > Official syllabus line: Socio-religious reform movements with special reference to Punjab.
 
@@ -129,9 +129,19 @@ PPSC repeatedly asks about Kuka, Singh Sabha, Arya Samaj and Akali movements - t
 - PSEB Class 12 'History of Punjab'
 - Rajiv Ahir, 'A Brief History of Modern India' - chapter on reform movements
 
+## Asked in PPSC papers — 1 time (in 1 of 3 recent exams)
+
+| Paper | Years asked |
+|---|---|
+| Mains GS1 | 2026 |
+
+- [Mains 2026 · GS1 Q3](../../past-papers/mains_2026_GS1.md#q3) — Examine the contribution of the Arya Samaj in the evolution of education in British India.
+
 ## Mains practice questions (3)
 
 **1.** Compare the aims and achievements of the Singh Sabha movement and the Arya Samaj in Punjab. (250 words)
+
+*Like a real PPSC question: [Mains 2026 · GS1 Q3](../../past-papers/mains_2026_GS1.md#q3)*
 
 <details><summary>Answer outline</summary>
 

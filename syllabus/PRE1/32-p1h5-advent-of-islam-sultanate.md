@@ -1,6 +1,6 @@
 # Advent of Islam & Sultanate
 
-**Paper I — General Studies** › History of India & World History · Subject: Indian History · Priority: Medium
+**Paper I — General Studies** › History of India & World History · Subject: Indian History · Priority: Medium · **Asked by PPSC: 🔥 4× (’18 ’21 ’25)**
 
 > Official syllabus line: Advent of Islam and Sultanate period (political, social & cultural).
 
@@ -140,6 +140,17 @@ Questions match Sultans with reforms (market control, token currency, iqta, theo
 - NCERT Class 7 Our Pasts II, Ch 3 (The Delhi Sultans)
 - Satish Chandra, History of Medieval India (chapters on the Delhi Sultanate)
 - NCERT Class 12 Themes in Indian History Part II, Ch 6 (Bhakti-Sufi Traditions) for Sufism
+
+## Asked in PPSC papers — 4 times 🔥 (in every recent exam)
+
+| Paper | Years asked |
+|---|---|
+| Prelims GS | 2018, 2021 (×2), 2025 |
+
+- [Prelims 2025 · GS Q5](../../past-papers/pre_2025_GS.md#q5) — Consider the following statements in the context of medieval historians :
+- [Prelims 2021 · GS Q74](../../past-papers/pre_2021_GS.md#q74) — Consider the following statements regarding the administration under Chola Empire :
+- [Prelims 2021 · GS Q75](../../past-papers/pre_2021_GS.md#q75) — Which of the following statements is/are not correct about the Vijayanagara kingdom ?
+- [Prelims 2018 · GS Q82](../../past-papers/pre_2018_GS.md#q82) — Ibn Battuta, the famous Muslim explorer who came to India during the times of Muhammad bin Tughlaq, belonged to which country ?
 
 ## Practice MCQs (12)
 

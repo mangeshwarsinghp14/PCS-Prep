@@ -1,6 +1,6 @@
 # Circulation, weather, water cycle
 
-**Paper I — General Studies** › Environmental Studies · Subject: Environment · Priority: Medium
+**Paper I — General Studies** › Environmental Studies · Subject: Environment · Priority: Medium · **Asked by PPSC: 🔁 2× (’25)**
 
 > Official syllabus line: Atmospheric circulation & weather system, water cycle.
 
@@ -130,6 +130,15 @@ Expect questions on local winds and their regions, cyclone formation conditions,
 - NCERT Class 11 'India - Physical Environment' Ch 4 (Climate) for monsoon and western disturbances
 - G.C. Leong, 'Certificate Physical and Human Geography'
 - IMD (mausam.imd.gov.in) for monsoon normal dates and cyclone naming
+
+## Asked in PPSC papers — 2 times (in 1 of 3 recent exams)
+
+| Paper | Years asked |
+|---|---|
+| Prelims GS | 2025 (×2) |
+
+- [Prelims 2025 · GS Q53](../../past-papers/pre_2025_GS.md#q53) — Which of the following chemicals is used in cloud seeding to enhance rainfall ?
+- [Prelims 2025 · GS Q63](../../past-papers/pre_2025_GS.md#q63) — Consider the following statements regarding atmospheric circulation :
 
 ## Practice MCQs (12)
 

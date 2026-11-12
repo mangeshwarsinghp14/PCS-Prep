@@ -1,6 +1,6 @@
 # Punjabi literature
 
-**Paper I — General Studies** › Punjab · Subject: Punjab Society & Culture · Priority: High
+**Paper I — General Studies** › Punjab · Subject: Punjab Society & Culture · Priority: High · **Asked by PPSC: 🔥 6× (’18 ’21 ’25)**
 
 > Official syllabus line: Punjabi literature.
 
@@ -135,6 +135,19 @@ Author–work–award matching dominates: first novel, Jnanpith winners, Sahitya
 - Sahitya Akademi and Jnanpith award lists
 - Punjabi University Patiala publications
 
+## Asked in PPSC papers — 6 times 🔥 (in every recent exam)
+
+| Paper | Years asked |
+|---|---|
+| Prelims GS | 2018, 2021, 2025 (×4) |
+
+- [Prelims 2025 · GS Q92](../../past-papers/pre_2025_GS.md#q92) — "The Naked Triangle" is an Autobiography of :
+- [Prelims 2025 · GS Q93](../../past-papers/pre_2025_GS.md#q93) — Match the following :
+- [Prelims 2025 · GS Q94](../../past-papers/pre_2025_GS.md#q94) — In which magazine did the Noble Peace Prize awardee Rabindranath Tagore write several stories and poems on the lives of Sikh Gurus ?
+- [Prelims 2025 · GS Q97](../../past-papers/pre_2025_GS.md#q97) — The Sahitya Akademi Award, 2024 in Punjabi was given to Pal Kaur for which of the following book ?
+- [Prelims 2021 · GS Q32](../../past-papers/pre_2021_GS.md#q32) — Consider the following statements :
+- [Prelims 2018 · GS Q92](../../past-papers/pre_2018_GS.md#q92) — Which of the following Punjabi writers have been awarded with the prestigious Jnanpith Award ?
+
 ## Practice MCQs (16)
 
 **1.** Sundari (1898), regarded as the first Punjabi novel, was written by:
@@ -163,6 +176,8 @@ Author–work–award matching dominates: first novel, Jnanpith winners, Sahitya
 
 </details>
 
+*Like a real PPSC question: [Prelims 2018 · GS Q92](../../past-papers/pre_2018_GS.md#q92)*
+
 **3.** The verse play Loona, which won the Sahitya Akademi Award in 1967, was written by:
 
 (a) Pash  
@@ -175,6 +190,8 @@ Author–work–award matching dominates: first novel, Jnanpith winners, Sahitya
 **(d) Shiv Kumar Batalvi** — Batalvi became the youngest recipient of the Sahitya Akademi Award for Loona.
 
 </details>
+
+*Like a real PPSC question: [Prelims 2025 · GS Q93](../../past-papers/pre_2025_GS.md#q93)*
 
 **4.** The Jangnama on the First Anglo-Sikh War was composed by:
 
@@ -218,6 +235,8 @@ Which is/are correct?
 
 </details>
 
+*Like a real PPSC question: [Prelims 2018 · GS Q92](../../past-papers/pre_2018_GS.md#q92)*
+
 **7.** The earliest known Punjabi qissa of Heer is attributed to:
 
 (a) Hashim Shah  
@@ -256,6 +275,8 @@ Which is/are correct?
 **(d) Malka Hans** — Waris Shah wrote the qissa in a mosque at Malka Hans, near Pakpattan, where it was completed in 1766. Takht Hazara is Ranjha's village in the story, and Kasur is linked with Bulleh Shah.
 
 </details>
+
+*Like a real PPSC question: [Prelims 2021 · GS Q32](../../past-papers/pre_2021_GS.md#q32)*
 
 **10.** 'Rasidi Ticket' is the autobiography of:
 

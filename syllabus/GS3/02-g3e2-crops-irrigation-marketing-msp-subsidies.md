@@ -1,6 +1,6 @@
 # Crops, irrigation, marketing, MSP, subsidies
 
-**Paper 6 — GS III: Economy, Statistics, Security** › Indian Economy · Subject: GS III — Economy, Statistics, Security · Priority: High
+**Paper 6 — GS III: Economy, Statistics, Security** › Indian Economy · Subject: GS III — Economy, Statistics, Security · Priority: High · **Asked by PPSC: 🔁 2× (’18 ’26)**
 
 > Official syllabus line: Major crops, cropping patterns, irrigation types and systems; storage, transport and marketing of agricultural produce; e-technology for farmers; direct and indirect farm subsidies and MSP; technology missions; economics of animal rearing.
 
@@ -151,6 +151,15 @@ Expect questions on MSP reform, subsidies and WTO, agri-marketing reform, water-
 - Ramesh Singh, Indian Economy - Agriculture chapters
 - Punjab Economic Survey 2025-26 - Agriculture chapter
 - CACP Price Policy reports (Kharif/Rabi)
+
+## Asked in PPSC papers — 2 times (in 2 of 3 recent exams)
+
+| Paper | Years asked |
+|---|---|
+| Mains GS3 | 2018, 2026 |
+
+- [Mains 2026 · GS3 Q11](../../past-papers/mains_2026_GS3.md#q11) — Critically examine the role of the minimum support price in improving farm income security and its distorting impacts on cropping patterns, agricultural markets
+- [Mains 2018 · GS3 Q3](../../past-papers/mains_2018_GS3.md#q3) — Despite subsidies and minimum support price, the state of farmers has not changed drastically. Discuss the reasons for the failure.
 
 ## Mains practice questions (3)
 

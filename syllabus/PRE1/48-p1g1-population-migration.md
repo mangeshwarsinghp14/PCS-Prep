@@ -1,6 +1,6 @@
 # Population & migration
 
-**Paper I — General Studies** › Geography · Subject: Geography · Priority: High
+**Paper I — General Studies** › Geography · Subject: Geography · Priority: High · **Asked by PPSC: 🔥 5× (’18 ’21 ’25)**
 
 > Official syllabus line: Population – distribution, density, growth and comparison. Migration – types, causes and consequences.
 
@@ -128,6 +128,18 @@ PPSC asks Census 2011 figures (density, sex ratio, literacy, top/bottom states),
 - NCERT Class 12 'Fundamentals of Human Geography' Ch 2 (The World Population) and Ch 3 (Population Composition)
 - Census of India 2011 Primary Census Abstract highlights (censusindia.gov.in)
 
+## Asked in PPSC papers — 5 times 🔥 (in every recent exam)
+
+| Paper | Years asked |
+|---|---|
+| Prelims GS | 2018, 2021, 2025 (×3) |
+
+- [Prelims 2025 · GS Q66](../../past-papers/pre_2025_GS.md#q66) — Consider the following statements about the sex ratio in India :
+- [Prelims 2025 · GS Q67](../../past-papers/pre_2025_GS.md#q67) — What is the correct descending order of Total Fertility Rate (TFR) of selected states of India as per National Family Health Survey-5, 2019-2021 (NFHS-5, 2019-2
+- [Prelims 2025 · GS Q68](../../past-papers/pre_2025_GS.md#q68) — For the Assertion (A) and Reason (R) given below, choose the correct alternative from the following :
+- [Prelims 2021 · GS Q94](../../past-papers/pre_2021_GS.md#q94) — Choose the incorrect statement among the following :
+- [Prelims 2018 · GS Q97](../../past-papers/pre_2018_GS.md#q97) — According to Malthus's population theory, epidemics, natural calamities and war are known as
+
 ## Practice MCQs (12)
 
 **1.** According to Census 2011, India's population density was:
@@ -185,6 +197,8 @@ Which is/are correct?
 
 </details>
 
+*Like a real PPSC question: [Prelims 2025 · GS Q68](../../past-papers/pre_2025_GS.md#q68)*
+
 **5.** Which state recorded the lowest sex ratio in Census 2011?
 
 (a) Punjab  
@@ -198,6 +212,8 @@ Which is/are correct?
 
 </details>
 
+*Like a real PPSC question: [Prelims 2025 · GS Q66](../../past-papers/pre_2025_GS.md#q66)*
+
 **6.** India's child sex ratio (0-6 years) in Census 2011 was:
 
 (a) 919  
@@ -210,6 +226,8 @@ Which is/are correct?
 **(a) 919** — It fell from 927 in 2001 to 919 in 2011; 943 is the overall sex ratio.
 
 </details>
+
+*Like a real PPSC question: [Prelims 2025 · GS Q66](../../past-papers/pre_2025_GS.md#q66)*
 
 **7.** Consider the following statements:  
 1. The first synchronous census of India was held in 1872.  

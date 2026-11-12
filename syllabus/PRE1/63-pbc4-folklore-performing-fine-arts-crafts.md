@@ -1,6 +1,6 @@
 # Folklore, performing & fine arts, crafts
 
-**Paper I — General Studies** › Punjab · Subject: Punjab Society & Culture · Priority: High
+**Paper I — General Studies** › Punjab · Subject: Punjab Society & Culture · Priority: High · **Asked by PPSC: 🔁 1× (’21)**
 
 > Official syllabus line: Folklore, performing arts, fine arts and crafts.
 
@@ -129,6 +129,14 @@ Expect matching of fairs to places, dances to region/gender, instruments to arti
 - Punjab Tourism / Department of Cultural Affairs publications
 - UNESCO ICH list (2014) and GI Registry
 - Mohinder Singh Randhawa, Punjabi Lok Geet (folk song collection)
+
+## Asked in PPSC papers — 1 time (in 1 of 3 recent exams)
+
+| Paper | Years asked |
+|---|---|
+| Prelims GS | 2021 |
+
+- [Prelims 2021 · GS Q60](../../past-papers/pre_2021_GS.md#q60) — Consider the following products :
 
 ## Practice MCQs (16)
 

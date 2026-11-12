@@ -1,6 +1,6 @@
 # Data analysis
 
-**Paper II — CSAT** › Civil Services Aptitude Test · Subject: CSAT (Paper II) · Priority: High
+**Paper II — CSAT** › Civil Services Aptitude Test · Subject: CSAT (Paper II) · Priority: High · **Asked by PPSC: 🔁 25× (’21 ’25)**
 
 > Official syllabus line: Data analysis; graphic presentations, charts, tables, spreadsheets.
 
@@ -108,6 +108,38 @@ Expect a small table, bar, line or pie chart with 2-4 questions on percentage ch
 - R.S. Aggarwal, Data Interpretation
 - Punjab Economic Survey 2025-26 (tables for practice)
 - UPSC CSAT and PPSC Prelims Paper II previous papers
+
+## Asked in PPSC papers — 25 times (in 2 of 3 recent exams)
+
+| Paper | Years asked |
+|---|---|
+| Prelims CSAT | 2021 (×17), 2025 (×8) |
+
+- [Prelims 2025 · CSAT Q2](../../past-papers/pre_2025_CSAT.md#q2) — Directions (Question No. 2-4) : Study the table carefully and answer the questions given below.
+- [Prelims 2025 · CSAT Q3](../../past-papers/pre_2025_CSAT.md#q3) — Directions (Question No. 2-4) : Study the table carefully and answer the questions given below.
+- [Prelims 2025 · CSAT Q4](../../past-papers/pre_2025_CSAT.md#q4) — Directions (Question No. 2-4) : Study the table carefully and answer the questions given below.
+- [Prelims 2025 · CSAT Q12](../../past-papers/pre_2025_CSAT.md#q12) — Directions (Question No. 12-16) : Study the following information to answer the questions given below :
+- [Prelims 2025 · CSAT Q13](../../past-papers/pre_2025_CSAT.md#q13) — Directions (Question No. 12-16) : Study the following information to answer the questions given below :
+- [Prelims 2025 · CSAT Q14](../../past-papers/pre_2025_CSAT.md#q14) — Directions (Question No. 12-16) : Study the following information to answer the questions given below :
+- [Prelims 2025 · CSAT Q15](../../past-papers/pre_2025_CSAT.md#q15) — Directions (Question No. 12-16) : Study the following information to answer the questions given below :
+- [Prelims 2025 · CSAT Q16](../../past-papers/pre_2025_CSAT.md#q16) — Directions (Question No. 12-16) : Study the following information to answer the questions given below :
+- [Prelims 2021 · CSAT Q15](../../past-papers/pre_2021_CSAT.md#q15) — Based on the information given below and diagram of an Airline's trips to 6 cities from New Delhi in the year 2015 :
+- [Prelims 2021 · CSAT Q16](../../past-papers/pre_2021_CSAT.md#q16) — Based on the information given below and diagram of an Airline's trips to 6 cities from New Delhi in the year 2015 :
+- [Prelims 2021 · CSAT Q19](../../past-papers/pre_2021_CSAT.md#q19) — An automobile company calls shortlisted applicants for two written tests (E1 – general scientific background; E2 – basics of the discipline) and a viva. To cut 
+- [Prelims 2021 · CSAT Q20](../../past-papers/pre_2021_CSAT.md#q20) — An automobile company calls shortlisted applicants for two written tests (E1 – general scientific background; E2 – basics of the discipline) and a viva. To cut 
+- [Prelims 2021 · CSAT Q21](../../past-papers/pre_2021_CSAT.md#q21) — A survey was conducted on a sample of 500 cinema artists with reference to their proficiency in the skill of acting, singing and dancing. [Venn diagram describe
+- [Prelims 2021 · CSAT Q22](../../past-papers/pre_2021_CSAT.md#q22) — A survey was conducted on a sample of 500 cinema artists with reference to their proficiency in the skill of acting, singing and dancing. [Venn diagram describe
+- [Prelims 2021 · CSAT Q23](../../past-papers/pre_2021_CSAT.md#q23) — Based on the information given below in diagram for Flight booking price scheme :
+- [Prelims 2021 · CSAT Q24](../../past-papers/pre_2021_CSAT.md#q24) — Based on the information given below in diagram for Flight booking price scheme :
+- [Prelims 2021 · CSAT Q54](../../past-papers/pre_2021_CSAT.md#q54) — Shakuntala, an intelligent baby girl, plucks apples from her father's orchard on ten consecutive days. When asked by her mother as to how many apples has she pl
+- [Prelims 2021 · CSAT Q55](../../past-papers/pre_2021_CSAT.md#q55) — Shakuntala, an intelligent baby girl, plucks apples from her father's orchard on ten consecutive days. When asked by her mother as to how many apples has she pl
+- [Prelims 2021 · CSAT Q56](../../past-papers/pre_2021_CSAT.md#q56) — The following table gives the career record in One-Day International Cricket of few batsmen (Matches played, Innings played, Runs scored, Average) : P1 — 50, 48
+- [Prelims 2021 · CSAT Q57](../../past-papers/pre_2021_CSAT.md#q57) — The following table gives the career record in One-Day International Cricket of few batsmen (Matches played, Innings played, Runs scored, Average) : P1 — 50, 48
+- [Prelims 2021 · CSAT Q58](../../past-papers/pre_2021_CSAT.md#q58) — The following table gives the career record in One-Day International Cricket of few batsmen (Matches played, Innings played, Runs scored, Average) : P1 — 50, 48
+- [Prelims 2021 · CSAT Q59](../../past-papers/pre_2021_CSAT.md#q59) — Refer to the following line charts (values read approximately from the charts, for 17, 19, 20, 21 and 24 June) : Dollar/Rupee — 45.5, 46, 45.5, 46.2, 44.8; Poun
+- [Prelims 2021 · CSAT Q60](../../past-papers/pre_2021_CSAT.md#q60) — Refer to the following line charts (values read approximately from the charts, for 17, 19, 20, 21 and 24 June) : Dollar/Rupee — 45.5, 46, 45.5, 46.2, 44.8; Poun
+- [Prelims 2021 · CSAT Q61](../../past-papers/pre_2021_CSAT.md#q61) — [Pie charts described in words — Percentage-wise distribution of population of wild animals: A1 19%, A2 13%, A3 20%, A4 11%, A5 14%, A6 15%, A7 8%. Percentage-w
+- [Prelims 2021 · CSAT Q62](../../past-papers/pre_2021_CSAT.md#q62) — [Pie charts described in words — Percentage-wise distribution of population of wild animals: A1 19%, A2 13%, A3 20%, A4 11%, A5 14%, A6 15%, A7 8%. Percentage-w
 
 ## Practice MCQs (20)
 

@@ -1,6 +1,6 @@
 # Land reforms, liberalisation, industrial policy
 
-**Paper 6 — GS III: Economy, Statistics, Security** › Indian Economy · Subject: GS III — Economy, Statistics, Security · Priority: Medium
+**Paper 6 — GS III: Economy, Statistics, Security** › Indian Economy · Subject: GS III — Economy, Statistics, Security · Priority: Medium · **Asked by PPSC: 🔥 4× (’18 ’21 ’26)**
 
 > Official syllabus line: Land reforms in India; effects of liberalization on the economy; changes in industrial policy and their effects on industrial growth.
 
@@ -144,6 +144,17 @@ Common frames: why land reforms succeeded only partly, effects of 1991 reforms o
 - Ramesh Singh, Indian Economy - Land Reforms, Industrial Policy, Economic Reforms
 - NCERT Class 12 Indian Economic Development Ch 3 (Liberalisation, Privatisation and Globalisation)
 - Uma Kapila, Indian Economy Since Independence
+
+## Asked in PPSC papers — 4 times 🔥 (in every recent exam)
+
+| Paper | Years asked |
+|---|---|
+| Mains GS3 | 2018, 2021 (×2), 2026 |
+
+- [Mains 2026 · GS3 Q15](../../past-papers/mains_2026_GS3.md#q15) — How did land reforms attempt to address social and economic equity in rural India?
+- [Mains 2021 · GS3 Q4](../../past-papers/mains_2021_GS3.md#q4) — Discuss the concepts of network trade and network products. Critically analyse India's performance in the manufacture and trade of network products. Do you thin
+- [Mains 2021 · GS3 Q9](../../past-papers/mains_2021_GS3.md#q9) — Discuss the main aspects of the Atmanirbhar Bharat Abhiyan. What are the enabling policy reforms and institutions that are needed to make this program a success
+- [Mains 2018 · GS3 Q7(a)](../../past-papers/mains_2018_GS3.md#q7-a) — Do you think economic inequality is one of the undesirable outcomes of the liberalization in the Indian economy? Elucidate.
 
 ## Mains practice questions (3)
 

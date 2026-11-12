@@ -1,6 +1,6 @@
 # Major personalities of Punjab
 
-**Paper I — General Studies** › Punjab · Subject: Punjab Society & Culture · Priority: High
+**Paper I — General Studies** › Punjab · Subject: Punjab Society & Culture · Priority: High · **Asked by PPSC: 🔁 1× (’25)**
 
 > Official syllabus line: People, Society and Culture: major personalities in history of Punjab.
 
@@ -139,6 +139,14 @@ Matching questions — personality to title, birthplace, event or institution. M
 - J.S. Grewal, The Sikhs of the Punjab (New Cambridge History of India)
 - Punjab GK compendium (e.g., Arihant/Unique Punjab General Knowledge)
 
+## Asked in PPSC papers — 1 time (in 1 of 3 recent exams)
+
+| Paper | Years asked |
+|---|---|
+| Prelims GS | 2025 |
+
+- [Prelims 2025 · GS Q98](../../past-papers/pre_2025_GS.md#q98) — Who was the first President of All India Trade Union Congress ?
+
 ## Practice MCQs (16)
 
 **1.** Who founded the newspaper The Tribune at Lahore in 1881?
@@ -192,6 +200,8 @@ Matching questions — personality to title, birthplace, event or institution. M
 **(c) Sardar Ajit Singh** — Both were deported over the 1907 agitation against the Colonisation Bill.
 
 </details>
+
+*Like a real PPSC question: [Prelims 2025 · GS Q98](../../past-papers/pre_2025_GS.md#q98)*
 
 **5.** Pingalwara at Amritsar was founded by:
 
@@ -345,6 +355,8 @@ Which of the statements given above is/are correct?
 **(a) 1 and 2 only** — Lajpat Rai was associated with the founding of PNB at Lahore (1894–95) and wrote 'Unhappy India' (1928) in reply to Katherine Mayo, so statements 1 and 2 are correct. He died in November 1928; the 1929 Lahore session was presided over by Jawaharlal Nehru.
 
 </details>
+
+*Like a real PPSC question: [Prelims 2025 · GS Q98](../../past-papers/pre_2025_GS.md#q98)*
 
 **16.** Consider the following statements:  
 1. Bhagat Singh, Rajguru and Sukhdev were hanged at Lahore in 1929.  

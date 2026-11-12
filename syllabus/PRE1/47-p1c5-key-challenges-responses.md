@@ -1,6 +1,6 @@
 # Key challenges & responses
 
-**Paper I — General Studies** › Indian Economy · Subject: Indian Economy · Priority: High
+**Paper I — General Studies** › Indian Economy · Subject: Indian Economy · Priority: High · **Asked by PPSC: 🔥 13× (’18 ’21 ’25)**
 
 > Official syllabus line: Key challenges and responses – agriculture and food security, industrialisation, poverty alleviation & employment, rural & urban infrastructure, social sector – health, education etc.
 
@@ -137,6 +137,26 @@ Questions are scheme-heavy: launch years, coverage and benefits (NFSA, PM-KISAN,
 - Ramesh Singh, Indian Economy - chapters on Agriculture, Poverty and Social Sector
 - PIB scheme factsheets and Ministry websites for scheme features
 
+## Asked in PPSC papers — 13 times 🔥 (in every recent exam)
+
+| Paper | Years asked |
+|---|---|
+| Prelims GS | 2018 (×2), 2021 (×3), 2025 (×8) |
+
+- [Prelims 2025 · GS Q41](../../past-papers/pre_2025_GS.md#q41) — With reference to the concept of microfinance in India, consider the following statements :
+- [Prelims 2025 · GS Q43](../../past-papers/pre_2025_GS.md#q43) — Several Finance Commissions have recommended the establishment of an independent Fiscal Council in India. In this context, which of the following are the potent
+- [Prelims 2025 · GS Q44](../../past-papers/pre_2025_GS.md#q44) — With reference to the Goods and Services Tax (GST) Council, consider the following statements :
+- [Prelims 2025 · GS Q46](../../past-papers/pre_2025_GS.md#q46) — With reference to the National Food Security Act, 2013, which of the following statements is/are correct ?
+- [Prelims 2025 · GS Q47](../../past-papers/pre_2025_GS.md#q47) — Consider the following statements regarding the eligibility criteria for recognition as a startup under the Startup India Initiative :
+- [Prelims 2025 · GS Q48](../../past-papers/pre_2025_GS.md#q48) — What is the primary objective of the Employment Linked Incentive (ELI) Scheme, introduced in the Union Budget 2024-25 ?
+- [Prelims 2025 · GS Q49](../../past-papers/pre_2025_GS.md#q49) — How many of the following measures are likely to lead to an increase in the money supply in India ?
+- [Prelims 2025 · GS Q50](../../past-papers/pre_2025_GS.md#q50) — Which of the following best defines the concept of "Challenger Banks" ?
+- [Prelims 2021 · GS Q28](../../past-papers/pre_2021_GS.md#q28) — Consider the following statements regarding 'One Nation, One Ration Card' scheme.
+- [Prelims 2021 · GS Q40](../../past-papers/pre_2021_GS.md#q40) — Which of the following categories of borrowers are eligible for taking the benefit of Priority Sector Lending under the Weaker Sections Category ?
+- [Prelims 2021 · GS Q50](../../past-papers/pre_2021_GS.md#q50) — 'Usual Principal Status', 'Usual Subsidiary Status' and 'Usual Principal and Subsidiary Status' approaches are used in the measurement of
+- [Prelims 2018 · GS Q42](../../past-papers/pre_2018_GS.md#q42) — The government has powers under the Essential Commodities Act, 1955 (EC Act) to declare a commodity as an essential commodity to ensure its availability to peop
+- [Prelims 2018 · GS Q43](../../past-papers/pre_2018_GS.md#q43) — With reference to "Stand-up India Scheme", which of the following statements is/are correct ?
+
 ## Practice MCQs (12)
 
 **1.** The National Food Security Act 2013 covers up to:
@@ -248,6 +268,8 @@ Which of the statements given above is/are correct?
 **(d) Neither 1 nor 2** — Statement 1 is wrong: the all-India unemployment rate for 2025 was 3.1%; 4.8% was the urban rate. Statement 2 is wrong: urban unemployment (4.8%) was double the rural rate (2.4%).
 
 </details>
+
+*Like a real PPSC question: [Prelims 2021 · GS Q50](../../past-papers/pre_2021_GS.md#q50)*
 
 **9.** The Pradhan Mantri Viksit Bharat Rozgar Yojana (2025) mainly provides:
 

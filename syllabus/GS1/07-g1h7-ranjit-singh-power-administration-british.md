@@ -1,6 +1,6 @@
 # Ranjit Singh — power, administration, British
 
-**Paper 4 — GS I: History, Geography, Society** › History · Subject: GS I — History, Geography, Society · Priority: High
+**Paper 4 — GS I: History, Geography, Society** › History · Subject: GS I — History, Geography, Society · Priority: High · **Asked by PPSC: 🔁 2× (’21 ’26)**
 
 > Official syllabus line: Ranjit Singh's rise to power, civil and military administration and relations with the British.
 
@@ -162,6 +162,15 @@ A PPSC favourite: rise to power, civil and military administration, and Anglo-Si
 - Khushwant Singh, 'Ranjit Singh: Maharaja of the Punjab'
 - Fauja Singh (ed.), 'Maharaja Ranjit Singh: Politics, Society and Economy'
 
+## Asked in PPSC papers — 2 times (in 2 of 3 recent exams)
+
+| Paper | Years asked |
+|---|---|
+| Mains GS1 | 2021, 2026 |
+
+- [Mains 2026 · GS1 Q13](../../past-papers/mains_2026_GS1.md#q13) — Maharaja Ranjit Singh was the most accomplished ruler of the first half of the nineteenth century India. Do you think that he could have done more to save Punja
+- [Mains 2021 · GS1 Q5](../../past-papers/mains_2021_GS1.md#q5) — Discuss Maharaja Ranjit Singh's role in consolidation of smaller territories (misls) into a powerful state of Punjab. What sort of reforms did he introduce in t
+
 ## Mains practice questions (3)
 
 **1.** Analyse the factors responsible for the rise of Maharaja Ranjit Singh to power. (150 words)
@@ -178,6 +187,8 @@ A PPSC favourite: rise to power, civil and military administration, and Anglo-Si
 </details>
 
 **2.** Discuss the main features of the civil and military administration of Maharaja Ranjit Singh. (250 words)
+
+*Like a real PPSC question: [Mains 2021 · GS1 Q5](../../past-papers/mains_2021_GS1.md#q5)*
 
 <details><summary>Answer outline</summary>
 

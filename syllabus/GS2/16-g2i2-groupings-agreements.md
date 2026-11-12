@@ -1,6 +1,6 @@
 # Groupings & agreements
 
-**Paper 5 — GS II: Constitution, Polity, Governance, IR** › International Relations · Subject: GS II — Constitution, Polity, Governance, IR · Priority: Medium
+**Paper 5 — GS II: Constitution, Polity, Governance, IR** › International Relations · Subject: GS II — Constitution, Polity, Governance, IR · Priority: Medium · **Asked by PPSC: 🔥 3× (’18 ’21 ’26)**
 
 > Official syllabus line: Bilateral, regional and global groupings and agreements involving India and/or affecting India's interests.
 
@@ -126,6 +126,17 @@ Asked as relevance of a grouping (Quad, SCO, BRICS, BIMSTEC) or impact of an agr
 - G20 New Delhi Leaders' Declaration (2023) summary — PIB
 - Harsh V. Pant (ed.), Indian Foreign Policy: An Overview
 - Rajya Sabha TV/Sansad TV 'Perspective' episodes and IDSA issue briefs
+
+## Asked in PPSC papers — 3 times 🔥 (in every recent exam)
+
+| Paper | Years asked |
+|---|---|
+| Mains GS2 | 2021, 2026 |
+| Mains GS4 | 2018 |
+
+- [Mains 2026 · GS2 Q19](../../past-papers/mains_2026_GS2.md#q19) — 'With COP31 scheduled in Türkiye and COP32 in Ethiopia, the climate process is entering a phase in which agenda-setting power is gradually shifting away from th
+- [Mains 2021 · GS2 Q11(a)](../../past-papers/mains_2021_GS2.md#q11-a) — The Quadrilateral Security Dialogue may not be a reliable long-term counter to China because it shall always remain dependent on the policy preferences of a US 
+- [Mains 2018 · GS4 Q11](../../past-papers/mains_2018_GS4.md#q11) — The proposed India-Japan Asia-Africa Growth Corridor (AAGC) is being seen as a potential alternative to the One-Belt-One-Road (OBOR) initiative of China. How is
 
 ## Mains practice questions (3)
 

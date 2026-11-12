@@ -4,6 +4,8 @@ Held 2021-04-01. 14 questions. Paper header reads 'PSCSCC Main Examination, 2020
 
 Sources: [1](https://www.adda247.com/exams/punjab/punjab-pcs-previous-year-question-papers/) · [2](https://www.adda247.com/jobs/wp-content/uploads/sites/22/2025/11/18111222/PCS-Mains-Exam-gurumukhi-script.pdf) · [3](https://www.freejobalert.com/punjab-civil-services-2020/852429/)
 
+<a id="q1"></a>
+
 **Q1.**  *(10 marks)*
 
 <details><summary>Model answer points</summary>
@@ -12,6 +14,9 @@ Topic: [notes](../syllabus/MPB/01-lp1-unseen-passage-10.md)
 
 </details>
 
+
+<a id="q2"></a>
+
 **Q2.**  *(10 marks)*
 
 <details><summary>Model answer points</summary>
@@ -19,6 +24,9 @@ Topic: [notes](../syllabus/MPB/01-lp1-unseen-passage-10.md)
 Topic: [notes](../syllabus/MPB/02-lp2-precis-sankhep-rachna-10.md)
 
 </details>
+
+
+<a id="q3"></a>
 
 **Q3.** ਹੇਠ ਲਿਖਿਆਂ ਵਿਚੋਂ ਦੋ ਸੌ ਸ਼ਬਦਾਂ ਦਾ ਕੋਈ ਇੱਕ ਪੱਤਰ ਲਿਖੋ: 1) ਹੜ੍ਹਾਂ ਦੌਰਾਨ ਆਪਣੇ ਇਲਾਕੇ ਵਿਚ ਸਰਕਾਰ ਵਲੋਂ ਭੇਜੀ ਰਾਹਤ ਸਮੱਗਰੀ ਦੀ ਅਨੁਚਿਤ ਵੰਡ ਬਾਰੇ ਮੁੱਖ ਮੰਤਰੀ ਨੂੰ ਪੱਤਰ ਲਿਖੋ। 2) ਅਵਾਰਾ ਪਸ਼ੂਆਂ ਦੁਆਰਾ ਉਤਪੰਨ ਸੰਕਟ ਨੂੰ ਨਜਿੱਠਣ ਲਈ ਆਪਣੇ ਸੁਝਾਅ ਦਿੰਦੇ ਹੋਏ ਪਸ਼ੂ ਪਾਲਣ ਮੰਤਰੀ ਨੂੰ ਪੱਤਰ ਲਿਖੋ। *(10 marks)*
 
@@ -44,6 +52,10 @@ Topic: [notes](../syllabus/MPB/03-lp3-application-letter-200-words-10.md)
 
 </details>
 
+*Topic asked 2× (2021, 2026)*
+
+<a id="q4"></a>
+
 **Q4.** ਹੇਠਾਂ ਲਿਖੇ ਵਿਸ਼ਿਆਂ ਵਿਚੋਂ ਕਿਸੇ ਇੱਕ ਉਤੇ 400 ਸ਼ਬਦਾਂ ਦਾ ਨਿਬੰਧ ਲਿਖੋ: 1) ਸਮਕਾਲੀ ਪੰਜਾਬੀ ਗਾਇਕੀ : ਦਸ਼ਾ ਤੇ ਦਿਸ਼ਾ 2) ਡਿਜੀਟਲ ਇੰਡੀਆ ਅਤੇ ਆਮ ਆਦਮੀ 3) ਲੰਗਰ : ਕਲਿਆਣਕਾਰੀ ਪ੍ਰਥਾ *(10 marks)*
 
 <details><summary>Model answer points</summary>
@@ -66,6 +78,10 @@ Topic: [notes](../syllabus/MPB/04-lp4-essay-400-words-10.md)
 
 </details>
 
+*Topic asked 2× (2021, 2026)*
+
+<a id="q5"></a>
+
 **Q5.**  *(10 marks)*
 
 <details><summary>Model answer points</summary>
@@ -73,6 +89,10 @@ Topic: [notes](../syllabus/MPB/04-lp4-essay-400-words-10.md)
 Topic: [notes](../syllabus/MPB/05-lp5-translation-10.md)
 
 </details>
+
+*Topic asked 2× (2026)*
+
+<a id="q6"></a>
 
 **Q6.** ਹੇਠ ਲਿਖੇ ਸ਼ਬਦਾਂ ਨੂੰ ਵਾਕਾਂ ਵਿਚ ਇਸ ਤਰ੍ਹਾਂ ਵਰਤੋ ਕਿ ਅਰਥ ਸਪਸ਼ਟ ਹੋ ਜਾਣ: 1) ਪਿੜ 2) ਮਾਲ੍ਹ 3) ਕੁੱਪ 4) ਤੱਕਲਾ 5) ਗੁਹਾਰਾ *(5 marks)*
 
@@ -97,6 +117,10 @@ Topic: [notes](../syllabus/MPB/05-lp5-translation-10.md)
 Topic: [notes](../syllabus/MPB/06-lp6-grammar-vyakaran-50.md)
 
 </details>
+
+*Topic asked 18× (2021, 2026)*
+
+<a id="q7"></a>
 
 **Q7.** ਹੇਠ ਲਿਖੇ ਅਖਾਣਾਂ, ਮੁਹਾਵਰਿਆਂ ਨੂੰ ਵਾਕ ਵਿਚ ਇਸ ਤਰ੍ਹਾਂ ਵਰਤੋ ਕਿ ਅਰਥ ਸਪਸ਼ਟ ਹੋ ਜਾਣ: 1) ਟਿੰਡ 'ਚ ਕਾਨਾ 2) ਨਗਾਰਖਾਨੇ 'ਚ ਤੂਤੀ 3) ਖੂਹ ਦੀ ਮਿੱਟੀ ਖੂਹ ਨੂੰ ਲੱਗਣੀ 4) ਬਿੱਲੀ ਦੇ ਗਲ ਟੱਲੀ ਬੰਨ੍ਹਣੀ 5) ਪੁੱਟਿਆ ਪਹਾੜ ਨਿਕਲਿਆ ਚੂਹਾ 6) ਦਾਈਏ ਬੰਨ੍ਹਣਾ 7) ਇਕ ਕਰੇਲਾ ਦੂਜਾ ਨਿੰਮ ਚੜ੍ਹਿਆ 8) ਹਰਨ ਹੋ ਜਾਣਾ 9) ਡੰਗ ਟਪਾਉਣਾ 10) ਭੱਠਾ ਬੈਠਣਾ *(10 marks)*
 
@@ -127,6 +151,10 @@ Topic: [notes](../syllabus/MPB/06-lp6-grammar-vyakaran-50.md)
 
 </details>
 
+*Topic asked 18× (2021, 2026)*
+
+<a id="q8"></a>
+
 **Q8.** ਹੇਠ ਲਿਖੇ ਅਗੇਤਰ ਲਗਾ ਕੇ ਦੋ-ਦੋ ਸ਼ਬਦ ਬਣਾਓ: 1) ਮਨ 2) ਉਪ 3) ਨਿਰ 4) ਅ 5) ਖ਼ੁਸ਼ *(5 marks)*
 
 <details><summary>Model answer points</summary>
@@ -150,6 +178,10 @@ Topic: [notes](../syllabus/MPB/06-lp6-grammar-vyakaran-50.md)
 Topic: [notes](../syllabus/MPB/06-lp6-grammar-vyakaran-50.md)
 
 </details>
+
+*Topic asked 18× (2021, 2026)*
+
+<a id="q9"></a>
 
 **Q9.** ਹੇਠ ਲਿਖੇ ਪਿਛੇਤਰ ਲਗਾ ਕੇ ਦੋ-ਦੋ ਸ਼ਬਦ ਬਣਾਓ: 1) ਕਾਰ 2) ਦਾਰ 3) ਨਾਕ 4) ਹੀਣ 5) ਸਾਰ *(5 marks)*
 
@@ -175,6 +207,10 @@ Topic: [notes](../syllabus/MPB/06-lp6-grammar-vyakaran-50.md)
 
 </details>
 
+*Topic asked 18× (2021, 2026)*
+
+<a id="q10"></a>
+
 **Q10.** ਹੇਠ ਲਿਖੇ ਬਹੁਤੇ ਸ਼ਬਦਾਂ ਦੀ ਥਾਂ ਇਕ ਸ਼ਬਦ ਲਿਖੋ: 1) ਜ਼ਖ਼ਮ, ਜੋ ਕੱਚਾ ਹੋਵੇ 2) ਕਾਵਿ, ਜਿਸ ਵਿੱਚ ਯੁੱਧ ਦੀ ਮਹਿਮਾ ਹੋਵੇ 3) ਦੁੱਧ ਦੇਣ ਵਾਲੀ ਮੱਝ ਜਾਂ ਗਾਂ 4) ਚਾਰ ਪੈਰਾਂ ਵਾਲਾ ਜਾਨਵਰ 5) ਦੂਜੇ ਵਲੋਂ ਆਪਣੇ ਉਪਰ ਕੀਤਾ ਅਹਿਸਾਨ ਨਾ ਜਾਣੇ *(5 marks)*
 
 <details><summary>Model answer points</summary>
@@ -198,6 +234,10 @@ Topic: [notes](../syllabus/MPB/06-lp6-grammar-vyakaran-50.md)
 Topic: [notes](../syllabus/MPB/06-lp6-grammar-vyakaran-50.md)
 
 </details>
+
+*Topic asked 18× (2021, 2026)*
+
+<a id="q11"></a>
 
 **Q11.** ਹੇਠ ਲਿਖੇ ਸ਼ਬਦ-ਜੋੜ ਠੀਕ ਕਰਕੇ ਲਿਖੋ: 1) ਸਿਰਾਣਾ 2) ਪੰਚੈਤੀ 3) ਦੁਪੈਹਰ 4) ਸੌਹਰਾ 5) ਮਹਿਨਤ *(5 marks)*
 
@@ -223,6 +263,10 @@ Topic: [notes](../syllabus/MPB/06-lp6-grammar-vyakaran-50.md)
 
 </details>
 
+*Topic asked 18× (2021, 2026)*
+
+<a id="q12"></a>
+
 **Q12.** ਹੇਠ ਲਿਖੇ ਸ਼ਬਦਾਂ ਨੂੰ ਦੋ-ਦੋ ਵਾਕਾਂ ਵਿੱਚ ਇਸ ਤਰ੍ਹਾਂ ਵਰਤੋ ਕਿ ਬਹੁ-ਅਰਥਕ ਸ਼ਬਦਾਂ ਦੇ ਅਰਥ ਸਪਸ਼ਟ ਹੋ ਜਾਣ: 1) ਵਾਰ 2) ਸੁਹਾਗਾ 3) ਸਰ 4) ਸਾਰ 5) ਆਰ *(5 marks)*
 
 <details><summary>Model answer points</summary>
@@ -246,6 +290,10 @@ Topic: [notes](../syllabus/MPB/06-lp6-grammar-vyakaran-50.md)
 Topic: [notes](../syllabus/MPB/06-lp6-grammar-vyakaran-50.md)
 
 </details>
+
+*Topic asked 18× (2021, 2026)*
+
+<a id="q13"></a>
 
 **Q13.** ਹੇਠ ਲਿਖੇ ਵਾਕਾਂ ਨੂੰ ਨਾਲ ਦਿੱਤੀਆਂ ਹਦਾਇਤਾਂ ਅਨੁਸਾਰ ਹੱਲ ਕਰੋ: 1) ਤੁਸੀਂ ਕਿੱਥੇ ਹੋ? (ਵਾਕ ਕਿਸ ਕਾਲ ਦਾ ਸੂਚਕ ਹੈ?) 2) ਮੁੰਡੇ ਨੇ ਰੋਟੀ ਖਾਧੀ। (ਕਰਤਾ ਸ਼ਬਦ ਦੱਸੋ) 3) ਦਾਨੀ ਹੀ ਪੁੰਨ ਖੱਟਦੇ ਹਨ। (ਕਿਰਿਆ ਸ਼ਬਦ ਪਛਾਣੋ) 4) ਪੰਜਾਬੀ ਵਿਚ ਕਿੰਨੇ ਦੀਰਘ ਸਵਰ ਹਨ? 5) ਸਿਪਾਹੀ ਨੇ ਚੋਰ ਦੇ ਸੋਟੀ ਮਾਰੀ। (ਵਾਕ ਵਿਚ ਕਿੰਨੇ ਨਾਂਵ ਆਏ ਹਨ?) *(5 marks)*
 
@@ -271,6 +319,10 @@ Topic: [notes](../syllabus/MPB/06-lp6-grammar-vyakaran-50.md)
 
 </details>
 
+*Topic asked 18× (2021, 2026)*
+
+<a id="q14"></a>
+
 **Q14.** ਹੇਠ ਲਿਖੇ ਵਾਕਾਂ ਨੂੰ ਨਾਲ ਦਿੱਤੀਆਂ ਹਦਾਇਤਾਂ ਅਨੁਸਾਰ ਹੱਲ ਕਰੋ: 1) 'ਸੋਨਾ' ਸ਼ਬਦ ਦਾ ਵਿਸ਼ੇਸ਼ਣ ਸ਼ਬਦ ਕੀ ਹੈ? 2) ਚਿੜੀ ਅਤੇ ਕਾਂ ਨੇ ਖਿਚੜੀ ਬਣਾਈ। (ਯੋਜਕ ਸ਼ਬਦ ਦੀ ਪਛਾਣ ਕਰੋ) 3) ਉਸ ਨੇ ਜੂਆ ਖੇਡਿਆ ਅਤੇ ਕੰਗਾਲ ਹੋ ਗਿਆ। (ਵਾਕ ਦੀ ਸ਼੍ਰੇਣੀ ਦੱਸੋ) 4) ਕੁੜੀਆਂ ਪਾਣੀ ਭਰਦੀਆਂ ਹਨ। (ਭਵਿੱਖਤ ਕਾਲ ਵਾਕ ਬਣਾਓ) 5) ਬਿਮਲਾ ਰੋਟੀ ਪਕਾਉਂਦੀ ਹੈ। (ਵਾਕ ਦੀ ਸ਼੍ਰੇਣੀ ਦੱਸੋ) *(5 marks)*
 
 <details><summary>Model answer points</summary>
@@ -294,3 +346,5 @@ Topic: [notes](../syllabus/MPB/06-lp6-grammar-vyakaran-50.md)
 Topic: [notes](../syllabus/MPB/06-lp6-grammar-vyakaran-50.md)
 
 </details>
+
+*Topic asked 18× (2021, 2026)*

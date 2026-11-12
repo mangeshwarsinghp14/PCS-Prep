@@ -4,6 +4,8 @@ Held 2018. 6 questions.
 
 Sources: [1](https://theiashub.com/upsc/punjab-pcs-previous-year-question-paper/) · [2](https://earnmoneyjobs.com/punjab-civil-service-exam-dates-2018-announced-ppsc-exam-dates/) · [3](https://www.scribd.com/document/405157714/Result-PPSC-Combined-Civil-Services-Main-Exam) · [4](https://abhipedia.abhimanu.com/Free/554/1036/PCS-2018-Result-dec-14-6-2019-) · [5](https://drive.google.com/file/d/1yrWKrbP3igMLeyq2jvEEe8y5pjFGtuOl/view)
 
+<a id="q1"></a>
+
 **Q1.** Standard of Dissent in Indian Electioneering: How Low is too Low? *(50 marks, 800 words)*
 
 <details><summary>Model answer points</summary>
@@ -30,6 +32,10 @@ Topic: [notes](../syllabus/MES/01-es1-three-short-essays.md)
 
 </details>
 
+*Topic asked 24× (2018, 2021, 2026) 🔥*
+
+<a id="q2"></a>
+
 **Q2.** Mass Media versus Social Media: A Prognosis. *(50 marks, 800 words)*
 
 <details><summary>Model answer points</summary>
@@ -54,6 +60,10 @@ Topic: [notes](../syllabus/MES/01-es1-three-short-essays.md)
 Topic: [notes](../syllabus/MES/01-es1-three-short-essays.md)
 
 </details>
+
+*↻ **Same theme also asked:** [Mains 2026 · Essay QA1](mains_2026_ESSAY.md#qa1) · Topic asked 24× (2018, 2021, 2026) 🔥*
+
+<a id="q3"></a>
 
 **Q3.** Global Currency Wars and their implications for India. *(50 marks, 800 words)*
 
@@ -81,6 +91,10 @@ Topic: [notes](../syllabus/MES/01-es1-three-short-essays.md)
 
 </details>
 
+*Topic asked 24× (2018, 2021, 2026) 🔥*
+
+<a id="q4"></a>
+
 **Q4.** Artificial Intelligence and Its Impact on our World. *(50 marks, 800 words)*
 
 <details><summary>Model answer points</summary>
@@ -107,6 +121,10 @@ Topic: [notes](../syllabus/MES/01-es1-three-short-essays.md)
 
 </details>
 
+*↻ **Same theme also asked:** [Mains 2026 · Essay QA2](mains_2026_ESSAY.md#qa2) · Topic asked 24× (2018, 2021, 2026) 🔥*
+
+<a id="q5"></a>
+
 **Q5.** Implications of Rising Consumerism in the Indian Middle class. *(50 marks, 800 words)*
 
 <details><summary>Model answer points</summary>
@@ -132,6 +150,10 @@ Topic: [notes](../syllabus/MES/01-es1-three-short-essays.md)
 
 </details>
 
+*Topic asked 24× (2018, 2021, 2026) 🔥*
+
+<a id="q6"></a>
+
 **Q6.** Water Crisis and Riparian Laws. *(50 marks, 800 words)*
 
 <details><summary>Model answer points</summary>
@@ -156,3 +178,5 @@ Topic: [notes](../syllabus/MES/01-es1-three-short-essays.md)
 Topic: [notes](../syllabus/MES/01-es1-three-short-essays.md)
 
 </details>
+
+*Topic asked 24× (2018, 2021, 2026) 🔥*

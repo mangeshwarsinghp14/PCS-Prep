@@ -1,6 +1,6 @@
 # District administration, PRIs, ULBs
 
-**Paper 5 — GS II: Constitution, Polity, Governance, IR** › Constitution & Polity · Subject: GS II — Constitution, Polity, Governance, IR · Priority: High
+**Paper 5 — GS II: Constitution, Polity, Governance, IR** › Constitution & Polity · Subject: GS II — Constitution, Polity, Governance, IR · Priority: High · **Asked by PPSC: 🔁 1× (’18)**
 
 > Official syllabus line: District administration – evolution; Panchayati Raj institutions and Urban Local Bodies.
 
@@ -131,6 +131,14 @@ High-priority for an SDM aspirant: role of DC/SDM in changing times, PRIs' effec
 - M. Laxmikanth, Indian Polity (Panchayati Raj, Municipalities chapters)
 - S.R. Maheshwari, Indian Administration (District Administration chapter)
 - Punjab Panchayati Raj Act 1994; Department of Rural Development and Panchayats, Punjab website
+
+## Asked in PPSC papers — 1 time (in 1 of 3 recent exams)
+
+| Paper | Years asked |
+|---|---|
+| Mains GS4 | 2018 |
+
+- [Mains 2018 · GS4 Q9](../../past-papers/mains_2018_GS4.md#q9) — "District administration in India has lost its credibility, trust and importance in the modern times and it requires massive structural reforms and alternative 
 
 ## Mains practice questions (3)
 

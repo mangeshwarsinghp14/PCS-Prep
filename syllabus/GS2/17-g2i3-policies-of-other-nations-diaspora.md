@@ -1,6 +1,6 @@
 # Policies of other nations, diaspora
 
-**Paper 5 — GS II: Constitution, Polity, Governance, IR** › International Relations · Subject: GS II — Constitution, Polity, Governance, IR · Priority: Medium
+**Paper 5 — GS II: Constitution, Polity, Governance, IR** › International Relations · Subject: GS II — Constitution, Polity, Governance, IR · Priority: Medium · **Asked by PPSC: 🔥 8× (’18 ’21 ’26)**
 
 > Official syllabus line: Effect of policies and politics of developed and developing countries on India's interests; Indian diaspora.
 
@@ -126,6 +126,22 @@ Usually framed as impact of a specific country's policy (US tariffs/visas, EU CB
 - World Bank Migration and Development Briefs
 - Report of the High Level Committee on the Indian Diaspora (L.M. Singhvi, 2002)
 - Ministry of Commerce notes on CBAM and US tariff measures (2025)
+
+## Asked in PPSC papers — 8 times 🔥 (in every recent exam)
+
+| Paper | Years asked |
+|---|---|
+| Mains GS2 | 2021 (×3), 2026 (×2) |
+| Mains GS4 | 2018 (×3) |
+
+- [Mains 2026 · GS2 Q9](../../past-papers/mains_2026_GS2.md#q9) — "With the reversal of globalization, the new world order is converting the globe into a site of sovereign nationalism." Elucidate.
+- [Mains 2026 · GS2 Q20](../../past-papers/mains_2026_GS2.md#q20) — 'Indian diaspora today constitutes the largest migrant population in the world with its economic ties to the homeland remaining unsurpassed in terms of remittan
+- [Mains 2021 · GS2 Q13](../../past-papers/mains_2021_GS2.md#q13) — With China inheriting the Soviet Union's ability to directly rival the US and empower its opponents, is the world witnessing a revival of the Cold War?
+- [Mains 2021 · GS2 Q14](../../past-papers/mains_2021_GS2.md#q14) — What has been Canada's response to India's proposed Farm laws? How will it impact India-Canada's bilateral relationship? Critically Analyse.
+- [Mains 2021 · GS2 Q15](../../past-papers/mains_2021_GS2.md#q15) — Despite the aim for an Atmanirbhar Bharat India shall find it difficult to detach itself from China's supply chain at least in the short run. Comment.
+- [Mains 2018 · GS4 Q12(a)](../../past-papers/mains_2018_GS4.md#q12-a) — What could be the ramifications of the failure of Iran Nuclear deal on India's interest? Analyse.
+- [Mains 2018 · GS4 Q13(a)](../../past-papers/mains_2018_GS4.md#q13-a) — "US is a developing country too, won't give subsidies to India and China": Donald Trump. Evaluate this statement given by the U[S] President. Discuss the implic
+- [Mains 2018 · GS4 Q13(b)](../../past-papers/mains_2018_GS4.md#q13-b) — Write about the conundrum of H-1B Visa. Discuss the implications of newly introduced changes in its policies on Indian Diaspora in the US.
 
 ## Mains practice questions (3)
 

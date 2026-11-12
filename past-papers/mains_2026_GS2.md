@@ -4,6 +4,8 @@ Held 2026-04-07. 20 questions. Question paper no. 52986 (PSCSCC Mains Examinatio
 
 Sources: [1](https://o2iasacademy.in/resources/punjab-pcs-previous-year-question-papers-pdfs-9506/) · [2](https://drive.google.com/file/d/1DvhCnH90kDPymCIVL7RzRD09idxG5X4a/view) · [3](https://www.adda247.com/exams/punjab/punjab-pcs-exam-date-2025/)
 
+<a id="q1"></a>
+
 **Q1.** "While statutory and regulatory authorities are justified on grounds of expertise and efficiency, they have weakened democratic accountability and transparency in governance." Discuss. *(10 marks, 100 words)*
 
 <details><summary>Model answer points</summary>
@@ -29,6 +31,9 @@ Sources: [1](https://o2iasacademy.in/resources/punjab-pcs-previous-year-question
 Topic: [notes](../syllabus/GS2/10-g2g1-statutory-regulatory-quasi-judicial-bodies.md)
 
 </details>
+
+
+<a id="q2"></a>
 
 **Q2.** Critically examine the limitations of SHGs as instruments of development. Do they reinforce existing social hierarchies? Explain in the context of SHGs in Punjab. *(10 marks, 100 words)*
 
@@ -56,6 +61,10 @@ Topic: [notes](../syllabus/GS2/11-g2g2-policies-ngos-shgs-development-actors.md)
 
 </details>
 
+*Topic asked 6× (2018, 2021, 2026) 🔥*
+
+<a id="q3"></a>
+
 **Q3.** "Parliamentary neutrality rests on the impartial functioning of the Speaker of the Lok Sabha." Discuss. *(10 marks, 100 words)*
 
 <details><summary>Model answer points</summary>
@@ -79,6 +88,10 @@ Topic: [notes](../syllabus/GS2/11-g2g2-policies-ngos-shgs-development-actors.md)
 Topic: [notes](../syllabus/GS2/05-g2p5-parliament-state-legislatures.md)
 
 </details>
+
+*↻ **Same theme also asked:** [Mains 2018 · GS2 Q3(a)](mains_2018_GS2.md#q3-a) · Topic asked 4× (2018, 2021, 2026) 🔥*
+
+<a id="q4"></a>
 
 **Q4.** Analyse the role of private institutions in implementing Punjab government schemes through the Public-Private Partnership (PPP) model. Discuss their contributions and challenges in service delivery. *(10 marks, 100 words)*
 
@@ -106,6 +119,10 @@ Topic: [notes](../syllabus/GS2/11-g2g2-policies-ngos-shgs-development-actors.md)
 
 </details>
 
+*Topic asked 6× (2018, 2021, 2026) 🔥*
+
+<a id="q5"></a>
+
 **Q5.** Analyse whether Parliament's amending power under Article 368 brings India closer to parliamentary sovereignty rather than constitutional supremacy. *(10 marks, 100 words)*
 
 <details><summary>Model answer points</summary>
@@ -131,6 +148,10 @@ Topic: [notes](../syllabus/GS2/11-g2g2-policies-ngos-shgs-development-actors.md)
 Topic: [notes](../syllabus/GS2/01-g2p1-constitution-evolution-features-basic-structure.md)
 
 </details>
+
+*Topic asked 4× (2018, 2021, 2026) 🔥*
+
+<a id="q6"></a>
 
 **Q6.** Discuss the "Accommodative Spirit of Federalism" inherent in the 101st Constitutional Amendment Act. *(10 marks, 100 words)*
 
@@ -158,6 +179,10 @@ Topic: [notes](../syllabus/GS2/02-g2p2-federalism-devolution.md)
 
 </details>
 
+*Topic asked 5× (2018, 2021, 2026) 🔥*
+
+<a id="q7"></a>
+
 **Q7.** Explain how the recent RTI amendments might compromise the Information Commission's "Check-and-Balance" function. *(10 marks, 100 words)*
 
 <details><summary>Model answer points</summary>
@@ -184,6 +209,10 @@ Topic: [notes](../syllabus/GS2/14-g2g5-probity-rti-codes-corruption.md)
 
 </details>
 
+*Topic asked 4× (2018, 2021, 2026) 🔥*
+
+<a id="q8"></a>
+
 **Q8.** Justify the filing of large numbers of Public Interest Litigations (PILs) in the context of Separation of Powers. *(10 marks, 100 words)*
 
 <details><summary>Model answer points</summary>
@@ -208,6 +237,10 @@ Topic: [notes](../syllabus/GS2/14-g2g5-probity-rti-codes-corruption.md)
 Topic: [notes](../syllabus/GS2/03-g2p3-separation-of-powers-dispute-redressal.md)
 
 </details>
+
+*Topic asked 2× (2018, 2026)*
+
+<a id="q9"></a>
 
 **Q9.** "With the reversal of globalization, the new world order is converting the globe into a site of sovereign nationalism." Elucidate. *(10 marks, 100 words)*
 
@@ -235,6 +268,10 @@ Topic: [notes](../syllabus/GS2/17-g2i3-policies-of-other-nations-diaspora.md)
 
 </details>
 
+*Topic asked 8× (2018, 2021, 2026) 🔥*
+
+<a id="q10"></a>
+
 **Q10.** Discuss the impediments India is facing in its pursuit of a permanent seat in UN Security Council (UNSC). *(10 marks, 100 words)*
 
 <details><summary>Model answer points</summary>
@@ -260,6 +297,10 @@ Topic: [notes](../syllabus/GS2/17-g2i3-policies-of-other-nations-diaspora.md)
 Topic: [notes](../syllabus/GS2/18-g2i4-international-institutions.md)
 
 </details>
+
+*↻ **Same theme also asked:** [Mains 2018 · GS4 Q12(b)](mains_2018_GS4.md#q12-b) · Topic asked 3× (2018, 2021, 2026) 🔥*
+
+<a id="q11"></a>
 
 **Q11.** Evaluate the argument that the Government of India Act 1935 served as the "blueprint" of the Indian Constitution. Identify areas of continuity and change. *(15 marks, 200 words)*
 
@@ -291,6 +332,10 @@ Topic: [notes](../syllabus/GS2/01-g2p1-constitution-evolution-features-basic-str
 
 </details>
 
+*Topic asked 4× (2018, 2021, 2026) 🔥*
+
+<a id="q12"></a>
+
 **Q12.** The Indian Constitution envisages an independent state legislature but political centralization often curtails it. Critically examine how political dynamics and coalition politics influence legislative autonomy in states. *(15 marks, 200 words)*
 
 <details><summary>Model answer points</summary>
@@ -317,6 +362,10 @@ Topic: [notes](../syllabus/GS2/01-g2p1-constitution-evolution-features-basic-str
 Topic: [notes](../syllabus/GS2/02-g2p2-federalism-devolution.md)
 
 </details>
+
+*Topic asked 5× (2018, 2021, 2026) 🔥*
+
+<a id="q13"></a>
 
 **Q13.** Explain the key components of the Sevottam Model and discuss how it improves efficiency, accountability, and citizen satisfaction in government services. *(15 marks, 200 words)*
 
@@ -347,6 +396,10 @@ Topic: [notes](../syllabus/GS2/12-g2g3-transparency-e-governance-civil-services.
 
 </details>
 
+*Topic asked 5× (2018, 2021, 2026) 🔥*
+
+<a id="q14"></a>
+
 **Q14.** Discuss the significance of pressure groups in shaping public policy and public opinion in India. Examine how digital platforms and social media have enhanced or challenged their effectiveness. *(15 marks, 200 words)*
 
 <details><summary>Model answer points</summary>
@@ -372,6 +425,9 @@ Topic: [notes](../syllabus/GS2/12-g2g3-transparency-e-governance-civil-services.
 Topic: [notes](../syllabus/GS2/06-g2p6-executive-judiciary-pressure-groups.md)
 
 </details>
+
+
+<a id="q15"></a>
 
 **Q15.** Examine the role of corporate social responsibility (CSR) in the state of Punjab. Discuss its focus areas, impact on social development, and challenges in effective implementation. *(15 marks, 200 words)*
 
@@ -399,6 +455,10 @@ Topic: [notes](../syllabus/GS2/11-g2g2-policies-ngos-shgs-development-actors.md)
 
 </details>
 
+*↻ **Same theme also asked:** [Mains 2021 · GS2 Q8](mains_2021_GS2.md#q8) · Topic asked 6× (2018, 2021, 2026) 🔥*
+
+<a id="q16"></a>
+
 **Q16.** Analyse the impact of the Right to Privacy judgment (Puttaswamy) on the State's e-governance architecture. *(15 marks, 200 words)*
 
 <details><summary>Model answer points</summary>
@@ -424,6 +484,10 @@ Topic: [notes](../syllabus/GS2/11-g2g2-policies-ngos-shgs-development-actors.md)
 Topic: [notes](../syllabus/GS2/12-g2g3-transparency-e-governance-civil-services.md)
 
 </details>
+
+*Topic asked 5× (2018, 2021, 2026) 🔥*
+
+<a id="q17"></a>
 
 **Q17.** India's 'neighbourhood first' policy needs a perceptible overhaul in the light of the prevailing anti-India sentiment in South Asian countries such as Nepal and Bangladesh. Comment. *(15 marks, 200 words)*
 
@@ -453,6 +517,10 @@ Topic: [notes](../syllabus/GS2/15-g2i1-india-and-its-neighbourhood.md)
 
 </details>
 
+*Topic asked 5× (2018, 2021, 2026) 🔥*
+
+<a id="q18"></a>
+
 **Q18.** Project 'Mausam' is considered a unique foreign policy initiative of Indian government to improve relationship with its neighbours. Discuss its strategic dimension. *(15 marks, 200 words)*
 
 <details><summary>Model answer points</summary>
@@ -478,6 +546,10 @@ Topic: [notes](../syllabus/GS2/15-g2i1-india-and-its-neighbourhood.md)
 Topic: [notes](../syllabus/GS2/15-g2i1-india-and-its-neighbourhood.md)
 
 </details>
+
+*Topic asked 5× (2018, 2021, 2026) 🔥*
+
+<a id="q19"></a>
 
 **Q19.** 'With COP31 scheduled in Türkiye and COP32 in Ethiopia, the climate process is entering a phase in which agenda-setting power is gradually shifting away from the Global North. In this context, India's bid to host COP33 acquires strategic significance.' What are the opportunities and challenges this transition presents for global climate diplomacy? *(15 marks, 200 words)*
 
@@ -506,6 +578,10 @@ Topic: [notes](../syllabus/GS2/16-g2i2-groupings-agreements.md)
 
 </details>
 
+*Topic asked 3× (2018, 2021, 2026) 🔥*
+
+<a id="q20"></a>
+
 **Q20.** 'Indian diaspora today constitutes the largest migrant population in the world with its economic ties to the homeland remaining unsurpassed in terms of remittances. However, its role in the shaping of Indian foreign policy is limited at best.' Do you agree with this statement? Give reasons for your answer. *(15 marks, 200 words)*
 
 <details><summary>Model answer points</summary>
@@ -533,3 +609,5 @@ Topic: [notes](../syllabus/GS2/16-g2i2-groupings-agreements.md)
 Topic: [notes](../syllabus/GS2/17-g2i3-policies-of-other-nations-diaspora.md)
 
 </details>
+
+*Topic asked 8× (2018, 2021, 2026) 🔥*

@@ -1,6 +1,6 @@
 # Sikh rulers
 
-**Paper I — General Studies** › Punjab · Subject: Punjab History · Priority: High
+**Paper I — General Studies** › Punjab · Subject: Punjab History · Priority: High · **Asked by PPSC: 🔁 2× (’21)**
 
 > Official syllabus line: Sikh rulers.
 
@@ -154,6 +154,15 @@ Dates and sequence are key: 1799, 1801, 1809, the conquest years, the battle ord
 - Khushwant Singh, Ranjit Singh: Maharaja of the Punjab
 - J.S. Grewal, The Sikhs of the Punjab
 - Spectrum/Bipan Chandra chapters on the annexation of Punjab
+
+## Asked in PPSC papers — 2 times (in 1 of 3 recent exams)
+
+| Paper | Years asked |
+|---|---|
+| Prelims GS | 2021 (×2) |
+
+- [Prelims 2021 · GS Q79](../../past-papers/pre_2021_GS.md#q79) — Match the following :
+- [Prelims 2021 · GS Q80](../../past-papers/pre_2021_GS.md#q80) — Maharaja Ranjit Singh gave grants to the following religious places :
 
 ## Practice MCQs (16)
 

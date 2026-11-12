@@ -4,6 +4,8 @@ Held 2021-04-01. 23 questions.
 
 Sources: [1](https://theiashub.com/upsc/punjab-pcs-previous-year-question-paper/) · [2](https://www.freejobalert.com/punjab-civil-services-2020/852429/) · [3](https://drive.google.com/file/d/1GKCFL9BxK5Qi7kKK_3VtF8Z76gTYuTqr/view) · [4](https://www.adda247.com/jobs/wp-content/uploads/sites/22/2025/11/18111205/PCS-Mains-Exam-General-Paper-I.pdf)
 
+<a id="q1-a"></a>
+
 **Q1(a).** "Gupta sculpture is the logical outcome of the early classical sculpture of Amravati and Mathura." Discuss with examples. *(10 marks, 100 words)*
 
 <details><summary>Model answer points</summary>
@@ -34,6 +36,10 @@ Topic: [notes](../syllabus/GS1/02-g1h2-indian-culture-art-literature-architectur
 
 </details>
 
+*Topic asked 5× (2018, 2021, 2026) 🔥*
+
+<a id="q1-b"></a>
+
 **Q1(b).** Critically examine the cultural contribution of Pallavas. *(10 marks, 100 words)*
 
 <details><summary>Model answer points</summary>
@@ -60,6 +66,10 @@ Topic: [notes](../syllabus/GS1/02-g1h2-indian-culture-art-literature-architectur
 Topic: [notes](../syllabus/GS1/02-g1h2-indian-culture-art-literature-architecture.md)
 
 </details>
+
+*Topic asked 5× (2018, 2021, 2026) 🔥*
+
+<a id="q2-a"></a>
 
 **Q2(a).** Analyse the role of Pre-Congress Political Associations in rise of political consciousness in India. *(10 marks, 100 words)*
 
@@ -90,6 +100,9 @@ Topic: [notes](../syllabus/GS1/03-g1h3-modern-india-from-mid-18th-century.md)
 
 </details>
 
+
+<a id="q2-b"></a>
+
 **Q2(b).** The Gurudwara Reform Movement of Punjab made an important contribution towards India's freedom struggle. Discuss. *(10 marks, 100 words)*
 
 <details><summary>Model answer points</summary>
@@ -118,6 +131,10 @@ Topic: [notes](../syllabus/GS1/03-g1h3-modern-india-from-mid-18th-century.md)
 Topic: [notes](../syllabus/GS1/05-g1h5-freedom-struggle-punjab-focus.md)
 
 </details>
+
+*Topic asked 6× (2018, 2021, 2026) 🔥*
+
+<a id="q3"></a>
 
 **Q3.** What were the circumstances that led Mahatma Gandhi to start the Non-cooperation Movement? Examine its contribution to India's struggle for freedom. *(15 marks, 200 words)*
 
@@ -150,6 +167,10 @@ Topic: [notes](../syllabus/GS1/05-g1h5-freedom-struggle-punjab-focus.md)
 
 </details>
 
+*Topic asked 6× (2018, 2021, 2026) 🔥*
+
+<a id="q4"></a>
+
 **Q4.** Describe the Scramble of Africa by European Colonial Masters. What were its consequences? *(15 marks, 200 words)*
 
 <details><summary>Model answer points</summary>
@@ -180,6 +201,10 @@ Topic: [notes](../syllabus/GS1/01-g1h1-world-history-from-18th-century.md)
 
 </details>
 
+*Topic asked 3× (2018, 2021, 2026) 🔥*
+
+<a id="q5"></a>
+
 **Q5.** Discuss Maharaja Ranjit Singh's role in consolidation of smaller territories (misls) into a powerful state of Punjab. What sort of reforms did he introduce in the field of civil and military administration? *(15 marks, 200 words)*
 
 <details><summary>Model answer points</summary>
@@ -209,6 +234,10 @@ Topic: [notes](../syllabus/GS1/01-g1h1-world-history-from-18th-century.md)
 Topic: [notes](../syllabus/GS1/07-g1h7-ranjit-singh-power-administration-british.md)
 
 </details>
+
+*Topic asked 2× (2021, 2026)*
+
+<a id="q6"></a>
 
 **Q6.** "High mountain areas are prone to land slides." Suggest a suitable strategy to mitigate such natural disaster phenomenon. *(15 marks, 200 words)*
 
@@ -241,6 +270,10 @@ Topic: [notes](../syllabus/GS1/10-g1g2-geophysical-phenomena-changes.md)
 
 </details>
 
+*Topic asked 8× (2018, 2021, 2026) 🔥*
+
+<a id="q7"></a>
+
 **Q7.** Present a comparative account of Temperate & Tropical Cyclones on global scale. *(10 marks, 100 words)*
 
 <details><summary>Model answer points</summary>
@@ -268,6 +301,10 @@ Topic: [notes](../syllabus/GS1/10-g1g2-geophysical-phenomena-changes.md)
 Topic: [notes](../syllabus/GS1/10-g1g2-geophysical-phenomena-changes.md)
 
 </details>
+
+*↻ **Same theme also asked:** [Mains 2018 · GS1 Q10(b)](mains_2018_GS1.md#q10-b) · Topic asked 8× (2018, 2021, 2026) 🔥*
+
+<a id="q8"></a>
 
 **Q8.** Covid-19 pandemic has led to a shift in the recent trends of international migration. Analyse. *(15 marks, 200 words)*
 
@@ -299,6 +336,10 @@ Topic: [notes](../syllabus/GS1/15-g1s3-globalisation-indian-society.md)
 
 </details>
 
+*Topic asked 3× (2018, 2021, 2026) 🔥*
+
+<a id="q9-a"></a>
+
 **Q9(a).** Define the term 'Chos'. Discuss their associated problems with special reference to Punjab. *(10 marks, 100 words)*
 
 <details><summary>Model answer points</summary>
@@ -326,6 +367,10 @@ Topic: [notes](../syllabus/GS1/15-g1s3-globalisation-indian-society.md)
 Topic: [notes](../syllabus/GS1/11-g1g3-punjab-physiography-strategic-location.md)
 
 </details>
+
+*Topic asked 3× (2021, 2026)*
+
+<a id="q9-b"></a>
 
 **Q9(b).** Explain the salient features of physiography of Upper Bari Doab region. *(10 marks, 100 words)*
 
@@ -355,6 +400,10 @@ Topic: [notes](../syllabus/GS1/11-g1g3-punjab-physiography-strategic-location.md
 
 </details>
 
+*Topic asked 3× (2021, 2026)*
+
+<a id="q10-a"></a>
+
 **Q10(a).** Write brief note on: Folding & Faulting. *(5 marks, 50 words)*
 
 <details><summary>Model answer points</summary>
@@ -378,6 +427,10 @@ Topic: [notes](../syllabus/GS1/09-g1g1-world-physical-geography-resources-indust
 
 </details>
 
+*Topic asked 7× (2018, 2021, 2026) 🔥*
+
+<a id="q10-b"></a>
+
 **Q10(b).** Write brief note on: Coral bleaching. *(5 marks, 50 words)*
 
 <details><summary>Model answer points</summary>
@@ -398,6 +451,10 @@ Topic: [notes](../syllabus/GS1/09-g1g1-world-physical-geography-resources-indust
 Topic: [notes](../syllabus/GS1/10-g1g2-geophysical-phenomena-changes.md)
 
 </details>
+
+*Topic asked 8× (2018, 2021, 2026) 🔥*
+
+<a id="q10-c"></a>
 
 **Q10(c).** Write brief note on: Resource: A cultural concept. *(5 marks, 50 words)*
 
@@ -420,6 +477,10 @@ Topic: [notes](../syllabus/GS1/09-g1g1-world-physical-geography-resources-indust
 
 </details>
 
+*Topic asked 7× (2018, 2021, 2026) 🔥*
+
+<a id="q10-d"></a>
+
 **Q10(d).** Write brief note on: Corporate Farming. *(5 marks, 50 words)*
 
 <details><summary>Model answer points</summary>
@@ -440,6 +501,10 @@ Topic: [notes](../syllabus/GS1/09-g1g1-world-physical-geography-resources-indust
 Topic: [notes](../syllabus/GS1/12-g1g4-punjab-crops-farming-agri-issues.md)
 
 </details>
+
+*Topic asked 4× (2018, 2021, 2026) 🔥*
+
+<a id="q11"></a>
 
 **Q11.** Analyse the changing trends of Caste System prevalent in Indian Society. *(15 marks, 200 words)*
 
@@ -471,6 +536,10 @@ Topic: [notes](../syllabus/GS1/13-g1s1-indian-society-diversity.md)
 
 </details>
 
+*Topic asked 3× (2018, 2021, 2026) 🔥*
+
+<a id="q12-a"></a>
+
 **Q12(a).** Critically examine the process of urbanisation in Punjab. *(10 marks, 100 words)*
 
 <details><summary>Model answer points</summary>
@@ -496,6 +565,10 @@ Topic: [notes](../syllabus/GS1/14-g1s2-women-population-poverty-urbanisation.md)
 
 </details>
 
+*Topic asked 6× (2018, 2021, 2026) 🔥*
+
+<a id="q12-b"></a>
+
 **Q12(b).** Discuss the role of women in the ongoing agrarian upsurge. *(10 marks, 100 words)*
 
 <details><summary>Model answer points</summary>
@@ -520,6 +593,10 @@ Topic: [notes](../syllabus/GS1/14-g1s2-women-population-poverty-urbanisation.md)
 Topic: [notes](../syllabus/GS1/14-g1s2-women-population-poverty-urbanisation.md)
 
 </details>
+
+*Topic asked 6× (2018, 2021, 2026) 🔥*
+
+<a id="q13"></a>
 
 **Q13.** Critically evaluate the impact of policy interventions for women and child health in context of recent findings of National Family Health Survey 2019-20. *(15 marks, 200 words)*
 
@@ -550,6 +627,10 @@ Topic: [notes](../syllabus/GS1/20-g1s8-health-education-poverty-malnutrition.md)
 
 </details>
 
+*Topic asked 4× (2018, 2021)*
+
+<a id="q14-a"></a>
+
 **Q14(a).** Highlight the contributions of Bhagat Kabir to the critique of social evils in the Indian society. *(10 marks, 100 words)*
 
 <details><summary>Model answer points</summary>
@@ -575,6 +656,10 @@ Topic: [notes](../syllabus/GS1/18-g1s6-human-values-great-reformers.md)
 
 </details>
 
+*Topic asked 4× (2018, 2021, 2026) 🔥*
+
+<a id="q14-b"></a>
+
 **Q14(b).** Examine the relevance of the Gandhian model of social development and transformation in the present context. *(10 marks, 100 words)*
 
 <details><summary>Model answer points</summary>
@@ -599,6 +684,10 @@ Topic: [notes](../syllabus/GS1/18-g1s6-human-values-great-reformers.md)
 Topic: [notes](../syllabus/GS1/18-g1s6-human-values-great-reformers.md)
 
 </details>
+
+*Topic asked 4× (2018, 2021, 2026) 🔥*
+
+<a id="q15"></a>
 
 **Q15.** Critically evaluate the role of New Education Policy 2020 in context of inclusive education. *(15 marks, 200 words)*
 
@@ -628,3 +717,5 @@ Topic: [notes](../syllabus/GS1/18-g1s6-human-values-great-reformers.md)
 Topic: [notes](../syllabus/GS1/20-g1s8-health-education-poverty-malnutrition.md)
 
 </details>
+
+*↻ **Same theme also asked:** [Mains 2018 · GS2 Q14(b)](mains_2018_GS2.md#q14-b) · Topic asked 4× (2018, 2021)*

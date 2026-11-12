@@ -4,6 +4,8 @@ Held 2025-12-07. Answer key: PPSC provisional key. 100 questions.
 
 Sources: [1](https://www.adda247.com/jobs/wp-content/uploads/sites/22/2025/12/08162047/GS-Paper-1-Set-A.pdf) · [2](https://www.adda247.com/exams/punjab/punjab-pcs-question-paper-2025/) · [3](https://static.pw.live/5eb393ee95fab7468a79d189/83decc62-c189-49cd-bbdc-48e2e3d742a0.pdf) · [4](https://www.pw.live/news/punjab-pcs-answer-key-2025-out) · [5](https://cdn.testbook.com/1765103799869-Punjab%20PCS%20Preliminary%20Exam%20Official%20Paper%20%28Held%20On%2007%20Dec%2C%202025%29.pdf/1765103801.pdf) · [6](https://www.studyiq.com/articles/punjab-pcs-answer-key-2025/)
 
+<a id="q1"></a>
+
 **Q1.** Consider the following statements on ancient history based on archaeological and literary sources :  
 1. It is quite likely that the Indus Valley people recognized the importance of cow for its milk/dairy products and horse for its agility in warfare.  
 2. The Vajapeya sacrifice was performed by the kings in the later Vedic period to bestow divinity on the king.  
@@ -21,6 +23,9 @@ Which of the above statements is/are correct ?
 Topic: [notes](../syllabus/PRE1/28-p1h1-indus-valley-civilisation.md)
 
 </details>
+*Topic asked 3× (2018, 2021, 2025) 🔥*
+
+<a id="q2"></a>
 
 **Q2.** Match the following texts with their authors :  
 Text - A. Buddhacharita, B. Sutralankara, C. Milinda Panho, D. Madhyamika Karika  
@@ -39,6 +44,9 @@ Choose the correct code (A B C D) :
 Topic: [notes](../syllabus/PRE1/30-p1h3-jainism-buddhism.md)
 
 </details>
+*Topic asked 4× (2018, 2021, 2025) 🔥*
+
+<a id="q3"></a>
 
 **Q3.** The decline of the Nanda dynasty at the hands of Chandragupta Maurya and Kautilya has been vividly portrayed in which of the following Sanskrit plays ?
 
@@ -54,6 +62,9 @@ Topic: [notes](../syllabus/PRE1/30-p1h3-jainism-buddhism.md)
 Topic: [notes](../syllabus/PRE1/31-p1h4-mauryas-guptas.md)
 
 </details>
+*Topic asked 4× (2018, 2021, 2025) 🔥*
+
+<a id="q4"></a>
 
 **Q4.** Which foreign traveller stated that — Harshavardhana could not subdue Badami Chalukya's Pulakeshin II ?
 
@@ -69,6 +80,9 @@ Topic: [notes](../syllabus/PRE1/31-p1h4-mauryas-guptas.md)
 Topic: [notes](../syllabus/PRE1/31-p1h4-mauryas-guptas.md)
 
 </details>
+*Topic asked 4× (2018, 2021, 2025) 🔥*
+
+<a id="q5"></a>
 
 **Q5.** Consider the following statements in the context of medieval historians :  
 1. 'Raziya was endowed with all qualities befitting a king, but she was not born of the right sex…' was written by Ziauddin Barani.  
@@ -87,6 +101,9 @@ Which of the above statements is/are correct ?
 Topic: [notes](../syllabus/PRE1/32-p1h5-advent-of-islam-sultanate.md)
 
 </details>
+*Topic asked 4× (2018, 2021, 2025) 🔥*
+
+<a id="q6"></a>
 
 **Q6.** Which edict was issued by Akbar to assert his spiritual authority over ulemas ?
 
@@ -102,6 +119,9 @@ Topic: [notes](../syllabus/PRE1/32-p1h5-advent-of-islam-sultanate.md)
 Topic: [notes](../syllabus/PRE1/34-p1h7-mughals-to-aurangzeb.md)
 
 </details>
+*↻ **Same theme also asked:** [Prelims 2021 · GS Q68](pre_2021_GS.md#q68) · Topic asked 7× (2018, 2021, 2025) 🔥*
+
+<a id="q7"></a>
 
 **Q7.** Consider the following statements about Chhatrapati Shivaji Maharaj :  
 1. He was coronated at Purandar Fort.  
@@ -121,6 +141,9 @@ Which of the above statements is/are correct ?
 Topic: [notes](../syllabus/PRE1/34-p1h7-mughals-to-aurangzeb.md)
 
 </details>
+*Topic asked 7× (2018, 2021, 2025) 🔥*
+
+<a id="q8"></a>
 
 **Q8.** Which of the following statements is true regarding the appointment of Indians to public offices under the British rule ?
 
@@ -136,6 +159,9 @@ Topic: [notes](../syllabus/PRE1/34-p1h7-mughals-to-aurangzeb.md)
 Topic: [notes](../syllabus/PRE1/35-p1h8-europeans-british-rule.md)
 
 </details>
+*Topic asked 5× (2018, 2025)*
+
+<a id="q9"></a>
 
 **Q9.** Indigo cultivation in India declined by the beginning of the 20th century because of :
 
@@ -151,6 +177,9 @@ Topic: [notes](../syllabus/PRE1/35-p1h8-europeans-british-rule.md)
 Topic: [notes](../syllabus/PRE1/35-p1h8-europeans-british-rule.md)
 
 </details>
+*Topic asked 5× (2018, 2025)*
+
+<a id="q10"></a>
 
 **Q10.** What was the significant political move made by Wavell on the instructions by Churchill in June 1945 in anticipation of the British elections ?
 
@@ -166,6 +195,9 @@ Topic: [notes](../syllabus/PRE1/35-p1h8-europeans-british-rule.md)
 Topic: [notes](../syllabus/PRE1/37-p1h10-national-movement-1857-1947.md)
 
 </details>
+*Topic asked 7× (2018, 2021, 2025) 🔥*
+
+<a id="q11"></a>
 
 **Q11.** What was the primary purpose of the Babington-Smith Committee, appointed in 1919 ?
 
@@ -181,6 +213,9 @@ Topic: [notes](../syllabus/PRE1/37-p1h10-national-movement-1857-1947.md)
 Topic: [notes](../syllabus/PRE1/37-p1h10-national-movement-1857-1947.md)
 
 </details>
+*Topic asked 7× (2018, 2021, 2025) 🔥*
+
+<a id="q12"></a>
 
 **Q12.** For the Assertion (A) and Reason (R) given below, choose the correct alternative from the following :  
 Assertion (A) : The Quit India Movement of 1942 was the final call for independence by the Indian National Congress during the British rule.  
@@ -198,6 +233,9 @@ Reason (R) : The movement failed to gain support from the masses, and the Britis
 Topic: [notes](../syllabus/PRE1/37-p1h10-national-movement-1857-1947.md)
 
 </details>
+*Topic asked 7× (2018, 2021, 2025) 🔥*
+
+<a id="q13"></a>
 
 **Q13.** Match the following leaders with their journals :  
 Leaders - A. Bipin Chandra Pal, B. Aurobindo Ghosh, C. Satish Chandra Mukherjee, D. Sasipada Banerji  
@@ -216,6 +254,9 @@ Choose the correct code from the following (A B C D) :
 Topic: [notes](../syllabus/PRE1/37-p1h10-national-movement-1857-1947.md)
 
 </details>
+*Topic asked 7× (2018, 2021, 2025) 🔥*
+
+<a id="q14"></a>
 
 **Q14.** Consider the following pairs (Disease - Causative agent) :  
 1. Diphtheria - Bacteria  
@@ -236,6 +277,9 @@ Which of the above pairs are correctly matched ?
 Topic: [notes](../syllabus/PRE1/05-p1s5-diseases-causes-prevention.md)
 
 </details>
+*Topic asked 2× (2021, 2025)*
+
+<a id="q15"></a>
 
 **Q15.** Consider the following statements regarding soaps :  
 1. A soap molecule has a hydrophobic head and a hydrophilic tail.  
@@ -254,6 +298,9 @@ Which of the above statements is/are correct ?
 Topic: [notes](../syllabus/PRE1/02-p1s2-acids-bases-salts-corrosion-soaps.md)
 
 </details>
+*Topic asked 5× (2018, 2025)*
+
+<a id="q16"></a>
 
 **Q16.** For the Assertion (A) and Reason (R) given below, choose the correct alternative from the following :  
 Assertion (A) : Stainless steel is considered a highly corrosion-resistant material.  
@@ -271,6 +318,9 @@ Reason (R) : It contains chromium, which reacts with oxygen in the air to form a
 Topic: [notes](../syllabus/PRE1/02-p1s2-acids-bases-salts-corrosion-soaps.md)
 
 </details>
+*Topic asked 5× (2018, 2025)*
+
+<a id="q17"></a>
 
 **Q17.** Consider the following statements about enzymes :  
 1. Enzymes increase the activation energy of a reaction.  
@@ -291,6 +341,9 @@ How many of the above statements is/are correct ?
 Topic: [notes](../syllabus/PRE1/04-p1s4-human-body-life-processes-nutrition.md)
 
 </details>
+*Topic asked 4× (2018, 2021, 2025) 🔥*
+
+<a id="q18"></a>
 
 **Q18.** Consider the following statements :  
 Statement I : Cooking food takes more time in Shimla as compared to Delhi.  
@@ -309,6 +362,9 @@ Which one of the following is correct in respect of the above statements ?
 Topic: [notes](../syllabus/PRE1/07-p1s7-force-motion-gravitation-energy.md)
 
 </details>
+*Topic asked 4× (2018, 2025)*
+
+<a id="q19"></a>
 
 **Q19.** Two types of measuring devices — the beam balance and the spring balance — are commonly used in shops. If we take them to the Moon, which of the following will give the same reading for a given object as it does on the Earth ?
 
@@ -324,6 +380,9 @@ Topic: [notes](../syllabus/PRE1/07-p1s7-force-motion-gravitation-energy.md)
 Topic: [notes](../syllabus/PRE1/07-p1s7-force-motion-gravitation-energy.md)
 
 </details>
+*Topic asked 4× (2018, 2025)*
+
+<a id="q20"></a>
 
 **Q20.** Consider the following :  
 1. Torches  
@@ -344,6 +403,9 @@ In which of the above are concave mirrors used ?
 Topic: [notes](../syllabus/PRE1/08-p1s8-light-and-sound.md)
 
 </details>
+*Topic asked 6× (2018, 2025)*
+
+<a id="q21"></a>
 
 **Q21.** Which of the following products are obtained by anaerobic respiration in plants ?  
 1. Lactic acid  
@@ -364,6 +426,9 @@ Choose the correct option :
 Topic: [notes](../syllabus/PRE1/04-p1s4-human-body-life-processes-nutrition.md)
 
 </details>
+*Topic asked 4× (2018, 2021, 2025) 🔥*
+
+<a id="q22"></a>
 
 **Q22.** All the following vaccines are examples of attenuated or inactivated whole pathogen vaccines, except :
 
@@ -379,6 +444,9 @@ Topic: [notes](../syllabus/PRE1/04-p1s4-human-body-life-processes-nutrition.md)
 Topic: [notes](../syllabus/PRE1/06-p1s6-public-health-programmes.md)
 
 </details>
+*Topic asked 4× (2021, 2025)*
+
+<a id="q23"></a>
 
 **Q23.** When a wave passes from one medium to another, which of the following change ?  
 1. Velocity  
@@ -399,6 +467,9 @@ Choose the correct option :
 Topic: [notes](../syllabus/PRE1/08-p1s8-light-and-sound.md)
 
 </details>
+*Topic asked 6× (2018, 2025)*
+
+<a id="q24"></a>
 
 **Q24.** Consider the following types of solids :  
 1. Molecular solids  
@@ -419,6 +490,9 @@ How many of the above types of solids exhibit electrical conductivity, malleabil
 Topic: [notes](../syllabus/PRE1/01-p1s1-matter-atom-carbon.md)
 
 </details>
+*Topic asked 3× (2018, 2025)*
+
+<a id="q25"></a>
 
 **Q25.** Consider the following statements :  
 1. A URL is a web address and its full form is Universal Resource Locator.  
@@ -437,6 +511,9 @@ Which of the statements given above is/are correct ?
 Topic: [notes](../syllabus/PRE1/10-p1s10-computers-telecommunication.md)
 
 </details>
+*Topic asked 4× (2021, 2025)*
+
+<a id="q26"></a>
 
 **Q26.** Which one of the following statements is correct regarding lithium and alkaline batteries ?
 
@@ -452,6 +529,9 @@ Topic: [notes](../syllabus/PRE1/10-p1s10-computers-telecommunication.md)
 Topic: [notes](../syllabus/PRE1/09-p1s9-electric-current.md)
 
 </details>
+*Topic asked 2× (2018, 2025)*
+
+<a id="q27"></a>
 
 **Q27.** In the Indian context, consider the following statements regarding marriage :  
 1. Under the Uniform Civil Code implemented in Uttarakhand, the minimum age of marriage for girls has been raised from 18 to 21 years.  
@@ -470,6 +550,9 @@ Which of the statements given above is/are correct ?
 Topic: [notes](../syllabus/PRE1/56-p1ca-current-events-national-international.md)
 
 </details>
+*Topic asked 28× (2018, 2021, 2025) 🔥*
+
+<a id="q28"></a>
 
 **Q28.** Consider the following statements regarding the Chandrayaan-4 Mission :  
 1. The mission aims to demonstrate major technologies required not only for docking, undocking, and landing on the Moon, but also for safely returning to Earth and for collecting and analysing lunar samples.  
@@ -489,6 +572,9 @@ How many of the statements given above is/are correct ?
 Topic: [notes](../syllabus/PRE1/56-p1ca-current-events-national-international.md)
 
 </details>
+*Topic asked 28× (2018, 2021, 2025) 🔥*
+
+<a id="q29"></a>
 
 **Q29.** Which of the following statements best describes the 'Dragon Drones' recently seen in news ?
 
@@ -504,6 +590,9 @@ Topic: [notes](../syllabus/PRE1/56-p1ca-current-events-national-international.md
 Topic: [notes](../syllabus/PRE1/56-p1ca-current-events-national-international.md)
 
 </details>
+*Topic asked 28× (2018, 2021, 2025) 🔥*
+
+<a id="q30"></a>
 
 **Q30.** Consider the following statements :  
 1. Kozhikode is the first city in India to be designated a 'City of Literature' by UNESCO under its Creative Cities Network.  
@@ -522,6 +611,9 @@ Which of the above statements is/are incorrect ?
 Topic: [notes](../syllabus/PRE1/56-p1ca-current-events-national-international.md)
 
 </details>
+*Topic asked 28× (2018, 2021, 2025) 🔥*
+
+<a id="q31"></a>
 
 **Q31.** Consider the following statements :  
 1. Nafithromycin is India's first indigenously developed antibiotic aimed at tackling Antimicrobial Resistance (AMR).  
@@ -541,6 +633,9 @@ How many of the statements given above is/are correct ?
 Topic: [notes](../syllabus/PRE1/56-p1ca-current-events-national-international.md)
 
 </details>
+*Topic asked 28× (2018, 2021, 2025) 🔥*
+
+<a id="q32"></a>
 
 **Q32.** Consider the following languages :  
 1. Assamese  
@@ -562,6 +657,9 @@ How many of the above languages have been declared as 'Classical Languages' by t
 Topic: [notes](../syllabus/PRE1/56-p1ca-current-events-national-international.md)
 
 </details>
+*Topic asked 28× (2018, 2021, 2025) 🔥*
+
+<a id="q33"></a>
 
 **Q33.** Consider the following statements regarding the Union Budget Estimates for 2025-26 :  
 1. The fiscal deficit is estimated to be 4.9% of the GDP.  
@@ -581,6 +679,9 @@ Which of the statements given above are correct ?
 Topic: [notes](../syllabus/PRE1/56-p1ca-current-events-national-international.md)
 
 </details>
+*Topic asked 28× (2018, 2021, 2025) 🔥*
+
+<a id="q34"></a>
 
 **Q34.** Which of the following apps has been launched by the Reserve Bank of India (RBI) to enable retail investors to directly participate in the Government Securities (G-Sec) market ?
 
@@ -596,6 +697,9 @@ Topic: [notes](../syllabus/PRE1/56-p1ca-current-events-national-international.md
 Topic: [notes](../syllabus/PRE1/56-p1ca-current-events-national-international.md)
 
 </details>
+*Topic asked 28× (2018, 2021, 2025) 🔥*
+
+<a id="q35"></a>
 
 **Q35.** Consider the following statements regarding the Hurun Global Unicorn Index, 2024 :  
 1. India ranked third in the global unicorn count.  
@@ -615,6 +719,9 @@ Which of the statements given above are correct ?
 Topic: [notes](../syllabus/PRE1/56-p1ca-current-events-national-international.md)
 
 </details>
+*Topic asked 28× (2018, 2021, 2025) 🔥*
+
+<a id="q36"></a>
 
 **Q36.** For the Assertion (A) and Reason (R) given below, choose the correct alternative from the following :  
 Assertion (A) : The Ministry of Electronics and Information Technology recently launched BharatGen as a pioneering initiative in generative Artificial Intelligence (AI).  
@@ -632,6 +739,9 @@ Reason (R) : By developing AI technologies within India, BharatGen aims not only
 Topic: [notes](../syllabus/PRE1/56-p1ca-current-events-national-international.md)
 
 </details>
+*Topic asked 28× (2018, 2021, 2025) 🔥*
+
+<a id="q37"></a>
 
 **Q37.** Consider the following statements about 'Zorawar' :  
 1. It is an advanced 25-tonne light tank.  
@@ -652,6 +762,9 @@ Which of the statements given above are correct ?
 Topic: [notes](../syllabus/PRE1/56-p1ca-current-events-national-international.md)
 
 </details>
+*Topic asked 28× (2018, 2021, 2025) 🔥*
+
+<a id="q38"></a>
 
 **Q38.** Gambusia Affinis and Poecilia Reticulata, recently seen in the news, are species of which of the following ?
 
@@ -667,6 +780,9 @@ Topic: [notes](../syllabus/PRE1/56-p1ca-current-events-national-international.md
 Topic: [notes](../syllabus/PRE1/15-p1e5-biodiversity-conservation.md)
 
 </details>
+*Topic asked 17× (2018, 2021, 2025) 🔥*
+
+<a id="q39"></a>
 
 **Q39.** Consider the following statements regarding the Similipal Tiger Reserve :  
 1. It was recently notified as Odisha's third national park, after Bhitarkanika and Satkosia.  
@@ -687,6 +803,9 @@ Which of the statements given above are correct ?
 Topic: [notes](../syllabus/PRE1/15-p1e5-biodiversity-conservation.md)
 
 </details>
+*Topic asked 17× (2018, 2021, 2025) 🔥*
+
+<a id="q40"></a>
 
 **Q40.** Consider the following statements regarding chess titles and recent developments :  
 1. The winner of the World Chess Championship is accorded the title of Grandmaster.  
@@ -706,6 +825,9 @@ How many of the statements given above is/are correct ?
 Topic: [notes](../syllabus/PRE1/56-p1ca-current-events-national-international.md)
 
 </details>
+*Topic asked 28× (2018, 2021, 2025) 🔥*
+
+<a id="q41"></a>
 
 **Q41.** With reference to the concept of microfinance in India, consider the following statements :  
 1. Microfinance focuses exclusively on the provision of microcredit facilities to low-income groups, and excludes insurance and savings.  
@@ -726,6 +848,9 @@ How many of the statements given above is/are correct ?
 Topic: [notes](../syllabus/PRE1/47-p1c5-key-challenges-responses.md)
 
 </details>
+*Topic asked 13× (2018, 2021, 2025) 🔥*
+
+<a id="q42"></a>
 
 **Q42.** With reference to the India's Five-Year Plans, how many of the following statements given below are correct ?  
 1. The Second Five-Year Plan focused on rapid industrialization through heavy and basic industries.  
@@ -748,6 +873,8 @@ Topic: [notes](../syllabus/PRE1/44-p1c2-five-year-plans.md)
 
 </details>
 
+<a id="q43"></a>
+
 **Q43.** Several Finance Commissions have recommended the establishment of an independent Fiscal Council in India. In this context, which of the following are the potential benefits of setting up such a council ?  
 1. Assessing and monitoring fiscal policy  
 2. Effective implementation of fiscal rules and strengthening of fiscal performance  
@@ -767,6 +894,9 @@ Select the correct answer using the options given below :
 Topic: [notes](../syllabus/PRE1/47-p1c5-key-challenges-responses.md)
 
 </details>
+*Topic asked 13× (2018, 2021, 2025) 🔥*
+
+<a id="q44"></a>
 
 **Q44.** With reference to the Goods and Services Tax (GST) Council, consider the following statements :  
 1. The GST Council is a constitutional body constituted under Article 279A of the Indian Constitution.  
@@ -787,6 +917,9 @@ Which of the statements given above are correct ?
 Topic: [notes](../syllabus/PRE1/47-p1c5-key-challenges-responses.md)
 
 </details>
+*Topic asked 13× (2018, 2021, 2025) 🔥*
+
+<a id="q45"></a>
 
 **Q45.** Consider the following statements as per NITI Aayog's 'Multidimensional Poverty in India since 2005-06' report :  
 1. Multidimensional poverty in India declined significantly between 2013-14 and 2022-23, with more than 24 crore people escaping poverty during this period.  
@@ -806,6 +939,9 @@ Which of the statements given above are correct ?
 Topic: [notes](../syllabus/PRE1/46-p1c4-performance-since-1991.md)
 
 </details>
+*Topic asked 19× (2018, 2021, 2025) 🔥*
+
+<a id="q46"></a>
 
 **Q46.** With reference to the National Food Security Act, 2013, which of the following statements is/are correct ?  
 1. The Central Government is responsible for the procurement of food grains, identification of beneficiaries and issuance of ration cards.  
@@ -825,6 +961,9 @@ Select the correct answer using the codes given below :
 Topic: [notes](../syllabus/PRE1/47-p1c5-key-challenges-responses.md)
 
 </details>
+*Topic asked 13× (2018, 2021, 2025) 🔥*
+
+<a id="q47"></a>
 
 **Q47.** Consider the following statements regarding the eligibility criteria for recognition as a startup under the Startup India Initiative :  
 1. An entity shall be considered as a startup up to a period of 10 years from the date of its incorporation.  
@@ -844,6 +983,9 @@ Which of the statements given above is/are correct ?
 Topic: [notes](../syllabus/PRE1/47-p1c5-key-challenges-responses.md)
 
 </details>
+*Topic asked 13× (2018, 2021, 2025) 🔥*
+
+<a id="q48"></a>
 
 **Q48.** What is the primary objective of the Employment Linked Incentive (ELI) Scheme, introduced in the Union Budget 2024-25 ?
 
@@ -859,6 +1001,9 @@ Topic: [notes](../syllabus/PRE1/47-p1c5-key-challenges-responses.md)
 Topic: [notes](../syllabus/PRE1/47-p1c5-key-challenges-responses.md)
 
 </details>
+*Topic asked 13× (2018, 2021, 2025) 🔥*
+
+<a id="q49"></a>
 
 **Q49.** How many of the following measures are likely to lead to an increase in the money supply in India ?  
 1. Expansion of credit operations by commercial banks  
@@ -880,6 +1025,9 @@ Select the correct answer from the options given below :
 Topic: [notes](../syllabus/PRE1/47-p1c5-key-challenges-responses.md)
 
 </details>
+*Topic asked 13× (2018, 2021, 2025) 🔥*
+
+<a id="q50"></a>
 
 **Q50.** Which of the following best defines the concept of "Challenger Banks" ?
 
@@ -895,6 +1043,9 @@ Topic: [notes](../syllabus/PRE1/47-p1c5-key-challenges-responses.md)
 Topic: [notes](../syllabus/PRE1/47-p1c5-key-challenges-responses.md)
 
 </details>
+*Topic asked 13× (2018, 2021, 2025) 🔥*
+
+<a id="q51"></a>
 
 **Q51.** Which of the following is not a government initiative related to school education ?
 
@@ -910,6 +1061,9 @@ Topic: [notes](../syllabus/PRE1/47-p1c5-key-challenges-responses.md)
 Topic: [notes](../syllabus/PRE1/56-p1ca-current-events-national-international.md)
 
 </details>
+*Topic asked 28× (2018, 2021, 2025) 🔥*
+
+<a id="q52"></a>
 
 **Q52.** Consider the following statements :  
 Statement I : According to Bergmann's Rule, birds and mammals in colder regions tend to be significantly larger in body size than their conspecifics inhabiting warmer regions.  
@@ -928,6 +1082,9 @@ Which one of the following is correct in respect of the above statements ?
 Topic: [notes](../syllabus/PRE1/15-p1e5-biodiversity-conservation.md)
 
 </details>
+*Topic asked 17× (2018, 2021, 2025) 🔥*
+
+<a id="q53"></a>
 
 **Q53.** Which of the following chemicals is used in cloud seeding to enhance rainfall ?
 
@@ -943,6 +1100,9 @@ Topic: [notes](../syllabus/PRE1/15-p1e5-biodiversity-conservation.md)
 Topic: [notes](../syllabus/PRE1/12-p1e2-circulation-weather-water-cycle.md)
 
 </details>
+*Topic asked 2× (2025)*
+
+<a id="q54"></a>
 
 **Q54.** Consider the following statements :  
 1. The Nagoya Protocol was adopted in 2010 with the objective of ensuring access to genetic resources and the fair and equitable sharing of benefits arising from their use.  
@@ -961,6 +1121,9 @@ Which of the statements given above is/are correct ?
 Topic: [notes](../syllabus/PRE1/15-p1e5-biodiversity-conservation.md)
 
 </details>
+*Topic asked 17× (2018, 2021, 2025) 🔥*
+
+<a id="q55"></a>
 
 **Q55.** Consider the following pairs of tiger reserves and the states where they are located :  
 1. Satpura Tiger Reserve - Maharashtra  
@@ -981,6 +1144,9 @@ How many of the above pairs is/are correctly matched ?
 Topic: [notes](../syllabus/PRE1/15-p1e5-biodiversity-conservation.md)
 
 </details>
+*Topic asked 17× (2018, 2021, 2025) 🔥*
+
+<a id="q56"></a>
 
 **Q56.** Match the following layers of the atmosphere with their characteristics :  
 Layers - A. Stratosphere, B. Mesosphere, C. Thermosphere, D. Ionosphere  
@@ -1004,6 +1170,8 @@ Topic: [notes](../syllabus/PRE1/11-p1e1-atmosphere-solar-system.md)
 
 </details>
 
+<a id="q57"></a>
+
 **Q57.** Consider the following greenhouses gases :  
 1. Methane (CH4)  
 2. Carbon dioxide (CO2)  
@@ -1025,6 +1193,9 @@ Which of these are covered under the Kyoto Protocol ?
 Topic: [notes](../syllabus/PRE1/13-p1e3-climate-change-energy.md)
 
 </details>
+*Topic asked 9× (2018, 2021, 2025) 🔥*
+
+<a id="q58"></a>
 
 **Q58.** Match the following biosphere reserves with the key fauna found there :  
 Biosphere Reserve - A. Nilgiris, B. Nanda Devi, C. Manas, D. Seshachalam Hills  
@@ -1043,6 +1214,9 @@ Choose the correct code (A B C D) :
 Topic: [notes](../syllabus/PRE1/15-p1e5-biodiversity-conservation.md)
 
 </details>
+*Topic asked 17× (2018, 2021, 2025) 🔥*
+
+<a id="q59"></a>
 
 **Q59.** Which of the following states is the leading producer of diamonds in India ?
 
@@ -1058,6 +1232,9 @@ Topic: [notes](../syllabus/PRE1/15-p1e5-biodiversity-conservation.md)
 Topic: [notes](../syllabus/PRE1/52-p1g5-minerals-energy.md)
 
 </details>
+*Topic asked 10× (2018, 2021, 2025) 🔥*
+
+<a id="q60"></a>
 
 **Q60.** Consider the following statements about microplastics :  
 1. They are small pieces of plastic less than 5 mm in length.  
@@ -1078,6 +1255,9 @@ How many of the above statements is/are correct ?
 Topic: [notes](../syllabus/PRE1/17-p1e7-pollution-toxicity.md)
 
 </details>
+*Topic asked 9× (2018, 2021, 2025) 🔥*
+
+<a id="q61"></a>
 
 **Q61.** Consider the following statements about carbon credits :  
 1. It is a generic term used for any tradable certificate or permit representing the right to emit a certain amount of carbon dioxide or other greenhouse gases.  
@@ -1098,6 +1278,9 @@ Which of the above statements are correct ?
 Topic: [notes](../syllabus/PRE1/13-p1e3-climate-change-energy.md)
 
 </details>
+*Topic asked 9× (2018, 2021, 2025) 🔥*
+
+<a id="q62"></a>
 
 **Q62.** Given below are two statements :  
 Statement I : Biological communities increase in diversity as they proceed through seral stages to a climax.  
@@ -1116,6 +1299,9 @@ In the light of the above statements, choose the most appropriate answer from th
 Topic: [notes](../syllabus/PRE1/15-p1e5-biodiversity-conservation.md)
 
 </details>
+*Topic asked 17× (2018, 2021, 2025) 🔥*
+
+<a id="q63"></a>
 
 **Q63.** Consider the following statements regarding atmospheric circulation :  
 1. In the Ferrel cell, surface winds move poleward and are deflected westward due to the Coriolis force, forming the prevailing westerlies in the mid-latitudes.  
@@ -1134,6 +1320,9 @@ Which of the statements given above is/are correct ?
 Topic: [notes](../syllabus/PRE1/12-p1e2-circulation-weather-water-cycle.md)
 
 </details>
+*Topic asked 2× (2025)*
+
+<a id="q64"></a>
 
 **Q64.** Which of the following statements is incorrect ?
 
@@ -1149,6 +1338,9 @@ Topic: [notes](../syllabus/PRE1/12-p1e2-circulation-weather-water-cycle.md)
 Topic: [notes](../syllabus/PRE1/13-p1e3-climate-change-energy.md)
 
 </details>
+*Topic asked 9× (2018, 2021, 2025) 🔥*
+
+<a id="q65"></a>
 
 **Q65.** Consider the following statements about ground water and identify the incorrect option :
 
@@ -1164,6 +1356,9 @@ Topic: [notes](../syllabus/PRE1/13-p1e3-climate-change-energy.md)
 Topic: [notes](../syllabus/PRE1/14-p1e4-water-bodies-groundwater.md)
 
 </details>
+*Topic asked 5× (2018, 2021, 2025) 🔥*
+
+<a id="q66"></a>
 
 **Q66.** Consider the following statements about the sex ratio in India :  
 1. Sex ratio in India is calculated as the number of females per thousand males.  
@@ -1184,6 +1379,9 @@ Which of the above statements are correct ?
 Topic: [notes](../syllabus/PRE1/48-p1g1-population-migration.md)
 
 </details>
+*Topic asked 5× (2018, 2021, 2025) 🔥*
+
+<a id="q67"></a>
 
 **Q67.** What is the correct descending order of Total Fertility Rate (TFR) of selected states of India as per National Family Health Survey-5, 2019-2021 (NFHS-5, 2019-2021) ?
 
@@ -1199,6 +1397,9 @@ Topic: [notes](../syllabus/PRE1/48-p1g1-population-migration.md)
 Topic: [notes](../syllabus/PRE1/48-p1g1-population-migration.md)
 
 </details>
+*Topic asked 5× (2018, 2021, 2025) 🔥*
+
+<a id="q68"></a>
 
 **Q68.** For the Assertion (A) and Reason (R) given below, choose the correct alternative from the following :  
 Assertion (A) : The rural-to-rural migration stream has a low volume in India.  
@@ -1216,6 +1417,9 @@ Reason (R) : Large number of people from rural India migrate to foreign countrie
 Topic: [notes](../syllabus/PRE1/48-p1g1-population-migration.md)
 
 </details>
+*Topic asked 5× (2018, 2021, 2025) 🔥*
+
+<a id="q69"></a>
 
 **Q69.** Consider the following statements about rice cultivation in India :  
 1. Cultivation of rice generally requires high temperatures above 25°C and annual rainfall above 100 cm.  
@@ -1235,6 +1439,9 @@ Which of the above statement are correct ?
 Topic: [notes](../syllabus/PRE1/50-p1g3-land-resources-agriculture.md)
 
 </details>
+*Topic asked 10× (2018, 2021, 2025) 🔥*
+
+<a id="q70"></a>
 
 **Q70.** Consider the following statements about census town :  
 1. It should have a minimum population of 5000 persons.  
@@ -1254,6 +1461,8 @@ How many of the above statements hold/holds true as per the Census of India defi
 Topic: [notes](../syllabus/PRE1/49-p1g2-human-development-settlements.md)
 
 </details>
+
+<a id="q71"></a>
 
 **Q71.** Which of the following countries/regions practise Mediterranean type of agriculture ?  
 1. Turkey  
@@ -1275,6 +1484,9 @@ Select the correct answer from the options given below :
 Topic: [notes](../syllabus/PRE1/50-p1g3-land-resources-agriculture.md)
 
 </details>
+*Topic asked 10× (2018, 2021, 2025) 🔥*
+
+<a id="q72"></a>
 
 **Q72.** Which of the following is not a breed of cow ?
 
@@ -1290,6 +1502,9 @@ Topic: [notes](../syllabus/PRE1/50-p1g3-land-resources-agriculture.md)
 Topic: [notes](../syllabus/PRE1/50-p1g3-land-resources-agriculture.md)
 
 </details>
+*Topic asked 10× (2018, 2021, 2025) 🔥*
+
+<a id="q73"></a>
 
 **Q73.** What is the correct East-to-West order of the following rivers of India ?
 
@@ -1305,6 +1520,9 @@ Topic: [notes](../syllabus/PRE1/50-p1g3-land-resources-agriculture.md)
 Topic: [notes](../syllabus/PRE1/51-p1g4-water-resources.md)
 
 </details>
+*Topic asked 6× (2018, 2021, 2025) 🔥*
+
+<a id="q74"></a>
 
 **Q74.** Which of the following is/are not a type of mica ?  
 1. Argentine  
@@ -1325,6 +1543,9 @@ Choose the correct option :
 Topic: [notes](../syllabus/PRE1/52-p1g5-minerals-energy.md)
 
 </details>
+*Topic asked 10× (2018, 2021, 2025) 🔥*
+
+<a id="q75"></a>
 
 **Q75.** Consider the following statements about the Indian Railways :  
 1. Kavach is an Automatic Train Protection (ATP) system introduced by the Indian Railways to avoid accidents.  
@@ -1345,6 +1566,9 @@ How many of the above statements is/are true ?
 Topic: [notes](../syllabus/PRE1/54-p1g7-planning-transport-trade.md)
 
 </details>
+*Topic asked 5× (2018, 2021, 2025) 🔥*
+
+<a id="q76"></a>
 
 **Q76.** Match the following volcanoes with the places where they are located :  
 Name of Volcano - A. Mount Merapi, B. Taal, C. Kilauea, D. Mount Erebus  
@@ -1363,6 +1587,9 @@ Choose the correct code (A B C D) :
 Topic: [notes](../syllabus/PRE1/55-p1g8-geographical-issues-problems.md)
 
 </details>
+*Topic asked 3× (2021, 2025)*
+
+<a id="q77"></a>
 
 **Q77.** Match the following terms related to mountain formation with their examples :  
 Process of formation of mountain - A. Collision of two continental plates, B. Convergence of oceanic and continental plate, C. Upward or downward movement of blocks, D. Residual mountain  
@@ -1381,6 +1608,9 @@ Choose the correct code (A B C D) :
 Topic: [notes](../syllabus/PRE1/55-p1g8-geographical-issues-problems.md)
 
 </details>
+*Topic asked 3× (2021, 2025)*
+
+<a id="q78"></a>
 
 **Q78.** In context of elections, consider the following statements regarding VVPAT :  
 1. It stands for Visible Voting Paper for Adding Transparency.  
@@ -1400,6 +1630,9 @@ Which of the above statements is/are correct ?
 Topic: [notes](../syllabus/PRE1/25-p1p4-elections-rpa-electoral-reforms.md)
 
 </details>
+*Topic asked 3× (2018, 2021, 2025) 🔥*
+
+<a id="q79"></a>
 
 **Q79.** Consider the following Constitutional Provisions :  
 1. No demand for a grant shall be made except on the recommendation of the President.  
@@ -1419,6 +1652,9 @@ How many of the above statements is/are correct ?
 Topic: [notes](../syllabus/PRE1/22-p1p1-features-provisions-schedules.md)
 
 </details>
+*Topic asked 18× (2018, 2021, 2025) 🔥*
+
+<a id="q80"></a>
 
 **Q80.** In reference to Money Bill, consider the following statements :  
 1. The Constitution defines the money bill.  
@@ -1440,6 +1676,9 @@ Which of the above statements is/are correct ?
 Topic: [notes](../syllabus/PRE1/22-p1p1-features-provisions-schedules.md)
 
 </details>
+*Topic asked 18× (2018, 2021, 2025) 🔥*
+
+<a id="q81"></a>
 
 **Q81.** In connection with the procedure for amendment to the Constitution, consider the following statements :  
 1. An amendment to the Constitution can be initiated only by the introduction of a bill for the purpose in either House of Parliament but not in the state legislatures.  
@@ -1459,6 +1698,9 @@ How many of the above statements is/are correct ?
 Topic: [notes](../syllabus/PRE1/23-p1p2-key-amendments.md)
 
 </details>
+*Topic asked 3× (2018, 2025)*
+
+<a id="q82"></a>
 
 **Q82.** Match List-I (Acts) with List-II (Provisions) and select the correct answer from the codes given below :  
 A. Government of India Act, 1858  
@@ -1483,6 +1725,9 @@ Choose the correct option (A B C D) :
 Topic: [notes](../syllabus/PRE1/35-p1h8-europeans-british-rule.md)
 
 </details>
+*Topic asked 5× (2018, 2025)*
+
+<a id="q83"></a>
 
 **Q83.** Consider the following statements in connection with the Vice-President of India :  
 1. The electoral college of the Vice-President consists of both elected and nominated members of the Parliament, but not of the state legislative assemblies.  
@@ -1504,6 +1749,9 @@ Which of the above statements are correct ?
 Topic: [notes](../syllabus/PRE1/22-p1p1-features-provisions-schedules.md)
 
 </details>
+*Topic asked 18× (2018, 2021, 2025) 🔥*
+
+<a id="q84"></a>
 
 **Q84.** In reference to Fundamental Right under Article 20, consider the following statements :  
 1. Protection under this right is available only to the citizens of India.  
@@ -1523,6 +1771,9 @@ How many of the above statements is/are incorrect ?
 Topic: [notes](../syllabus/PRE1/22-p1p1-features-provisions-schedules.md)
 
 </details>
+*Topic asked 18× (2018, 2021, 2025) 🔥*
+
+<a id="q85"></a>
 
 **Q85.** In connection with the Preamble to the Indian Constitution, which of the following statements is correct ?
 
@@ -1538,6 +1789,9 @@ Topic: [notes](../syllabus/PRE1/22-p1p1-features-provisions-schedules.md)
 Topic: [notes](../syllabus/PRE1/22-p1p1-features-provisions-schedules.md)
 
 </details>
+*↻ **Same theme also asked:** [Mains 2018 · GS2 Q7(b)](mains_2018_GS2.md#q7-b) · Topic asked 18× (2018, 2021, 2025) 🔥*
+
+<a id="q86"></a>
 
 **Q86.** In connection with the 73rd Amendment Act of 1992, consider the following statements :  
 1. The act provides for a three-tier system of Panchayati raj, however, a state having a population not exceeding 20 lakhs may not constitute panchayats at the intermediate level.  
@@ -1557,6 +1811,9 @@ Which of the statement/statements given above is/are correct ?
 Topic: [notes](../syllabus/PRE1/24-p1p3-panchayati-raj.md)
 
 </details>
+*Topic asked 3× (2018, 2021, 2025) 🔥*
+
+<a id="q87"></a>
 
 **Q87.** Consider the following statements regarding G20 :  
 1. The G20 was founded in 2008 after the global economic and financial crisis of 2007.  
@@ -1576,6 +1833,9 @@ Which of the above statements is/are correct ?
 Topic: [notes](../syllabus/PRE1/21-p1t4-world-bank-imf-wto-eu-g20-brics.md)
 
 </details>
+*Topic asked 7× (2018, 2021, 2025) 🔥*
+
+<a id="q88"></a>
 
 **Q88.** Match List-I with List-II and select the correct answer from the codes given below :  
 A. 102nd Amendment Act, 2019  
@@ -1600,6 +1860,9 @@ Choose the correct code (A B C D) :
 Topic: [notes](../syllabus/PRE1/23-p1p2-key-amendments.md)
 
 </details>
+*Topic asked 3× (2018, 2025)*
+
+<a id="q89"></a>
 
 **Q89.** Consider the following statements regarding the writ jurisdiction of the Courts :  
 Statement I : The writ jurisdiction of the Supreme Court is narrower than that of the High Court.  
@@ -1618,6 +1881,9 @@ Which one of the following is correct in respect of the above statements ?
 Topic: [notes](../syllabus/PRE1/22-p1p1-features-provisions-schedules.md)
 
 </details>
+*Topic asked 18× (2018, 2021, 2025) 🔥*
+
+<a id="q90"></a>
 
 **Q90.** Consider the following statements with reference to the constitutional/statutory provisions on the citizenship of India :  
 1. Part II of the Indian Constitution deals with citizenship.  
@@ -1637,6 +1903,9 @@ Which of the above statements is/are correct ?
 Topic: [notes](../syllabus/PRE1/19-p1t2-citizenship-nationalism-secularism.md)
 
 </details>
+*Topic asked 2× (2018, 2025)*
+
+<a id="q91"></a>
 
 **Q91.** Consider the following statements :  
 1. The constitution does not specify the strength of a High Court.  
@@ -1656,6 +1925,9 @@ Which of the statements given above is/are incorrect ?
 Topic: [notes](../syllabus/PRE1/22-p1p1-features-provisions-schedules.md)
 
 </details>
+*Topic asked 18× (2018, 2021, 2025) 🔥*
+
+<a id="q92"></a>
 
 **Q92.** "The Naked Triangle" is an Autobiography of :
 
@@ -1671,6 +1943,9 @@ Topic: [notes](../syllabus/PRE1/22-p1p1-features-provisions-schedules.md)
 Topic: [notes](../syllabus/PRE1/62-pbc3-punjabi-literature.md)
 
 </details>
+*Topic asked 6× (2018, 2021, 2025) 🔥*
+
+<a id="q93"></a>
 
 **Q93.** Match the following :  
 List-I - A. Sunehade, B. Dil Tarang, C. Loona, D. Kafian  
@@ -1689,6 +1964,9 @@ Choose the correct code (A B C D) :
 Topic: [notes](../syllabus/PRE1/62-pbc3-punjabi-literature.md)
 
 </details>
+*Topic asked 6× (2018, 2021, 2025) 🔥*
+
+<a id="q94"></a>
 
 **Q94.** In which magazine did the Noble Peace Prize awardee Rabindranath Tagore write several stories and poems on the lives of Sikh Gurus ?
 
@@ -1704,6 +1982,9 @@ Topic: [notes](../syllabus/PRE1/62-pbc3-punjabi-literature.md)
 Topic: [notes](../syllabus/PRE1/62-pbc3-punjabi-literature.md)
 
 </details>
+*Topic asked 6× (2018, 2021, 2025) 🔥*
+
+<a id="q95"></a>
 
 **Q95.** Consider the following statements :  
 1. U.N. Mukherji and Lal Chand founded Punjab Hindu Sabha in 1909.  
@@ -1724,6 +2005,8 @@ Topic: [notes](../syllabus/PRE1/61-pbc2-religious-movements-spiritual-figures.md
 
 </details>
 
+<a id="q96"></a>
+
 **Q96.** Which committee was named Disorders Inquiry Committee ?
 
 (a) Moti Lal Nehru Committee  
@@ -1739,6 +2022,8 @@ Topic: [notes](../syllabus/PRE1/68-pbh5-nationalist-movement-in-punjab.md)
 
 </details>
 
+<a id="q97"></a>
+
 **Q97.** The Sahitya Akademi Award, 2024 in Punjabi was given to Pal Kaur for which of the following book ?
 
 (a) Mann Di Chip  
@@ -1753,6 +2038,9 @@ Topic: [notes](../syllabus/PRE1/68-pbh5-nationalist-movement-in-punjab.md)
 Topic: [notes](../syllabus/PRE1/62-pbc3-punjabi-literature.md)
 
 </details>
+*Topic asked 6× (2018, 2021, 2025) 🔥*
+
+<a id="q98"></a>
 
 **Q98.** Who was the first President of All India Trade Union Congress ?
 
@@ -1768,6 +2056,8 @@ Topic: [notes](../syllabus/PRE1/62-pbc3-punjabi-literature.md)
 Topic: [notes](../syllabus/PRE1/60-pbc1-major-personalities-of-punjab.md)
 
 </details>
+
+<a id="q99"></a>
 
 **Q99.** Which of the following Sultanate/Mughal rulers were the contemporaries of Guru Nanak Dev ji ?  
 1. Ala-ud-Din Alam Shah  
@@ -1791,6 +2081,9 @@ Choose the correct option :
 Topic: [notes](../syllabus/PRE1/64-pbh1-sufis-saints-and-gurus.md)
 
 </details>
+*Topic asked 3× (2018, 2025)*
+
+<a id="q100"></a>
 
 **Q100.** Match List-I with List-II and choose the answer from the codes given below :  
 A. Sir Henry Lawrence  

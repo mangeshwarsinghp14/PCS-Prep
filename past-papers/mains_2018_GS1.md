@@ -4,6 +4,8 @@ Held 2018. 20 questions.
 
 Sources: [1](https://theiashub.com/upsc/punjab-pcs-previous-year-question-paper/) · [2](https://earnmoneyjobs.com/punjab-civil-service-exam-dates-2018-announced-ppsc-exam-dates/) · [3](https://www.scribd.com/document/405157714/Result-PPSC-Combined-Civil-Services-Main-Exam) · [4](https://abhipedia.abhimanu.com/Free/554/1036/PCS-2018-Result-dec-14-6-2019-) · [5](https://drive.google.com/file/d/1U7dgGS-jt4cXYXT6Qa4utgYjJZxHOxzS/view)
 
+<a id="q1"></a>
+
 **Q1.** "The Industrial Revolution was a mixed blessing." Comment. *(15 marks, 200 words)*
 
 <details><summary>Model answer points</summary>
@@ -30,6 +32,10 @@ Topic: [notes](../syllabus/GS1/01-g1h1-world-history-from-18th-century.md)
 
 </details>
 
+*Topic asked 3× (2018, 2021, 2026) 🔥*
+
+<a id="q2-a"></a>
+
 **Q2(a).** Write short note on: Sangam age was the Golden age in the history of Tamil Nadu. *(10 marks, 100 words)*
 
 <details><summary>Model answer points</summary>
@@ -53,6 +59,10 @@ Topic: [notes](../syllabus/GS1/01-g1h1-world-history-from-18th-century.md)
 Topic: [notes](../syllabus/GS1/02-g1h2-indian-culture-art-literature-architecture.md)
 
 </details>
+
+*Topic asked 5× (2018, 2021, 2026) 🔥*
+
+<a id="q2-b"></a>
 
 **Q2(b).** Write short note on: Zenith of Mughal painting under Jahangir. *(10 marks, 100 words)*
 
@@ -78,6 +88,10 @@ Topic: [notes](../syllabus/GS1/02-g1h2-indian-culture-art-literature-architectur
 Topic: [notes](../syllabus/GS1/02-g1h2-indian-culture-art-literature-architecture.md)
 
 </details>
+
+*Topic asked 5× (2018, 2021, 2026) 🔥*
+
+<a id="q3"></a>
 
 **Q3.** Describe the contribution of revolutionary activities outside India with special reference to Ghadar Party and Udham Singh. *(15 marks, 200 words)*
 
@@ -106,6 +120,10 @@ Topic: [notes](../syllabus/GS1/05-g1h5-freedom-struggle-punjab-focus.md)
 
 </details>
 
+*Topic asked 6× (2018, 2021, 2026) 🔥*
+
+<a id="q4"></a>
+
 **Q4.** "Jawahar Lal Nehru was the architect of modern India." Comment. *(15 marks, 200 words)*
 
 <details><summary>Model answer points</summary>
@@ -131,6 +149,9 @@ Topic: [notes](../syllabus/GS1/05-g1h5-freedom-struggle-punjab-focus.md)
 Topic: [notes](../syllabus/GS1/06-g1h6-post-independence-consolidation.md)
 
 </details>
+
+
+<a id="q5"></a>
 
 **Q5.** Explain the rise and fall of Ranjit Singh's Empire. *(15 marks, 200 words)*
 
@@ -160,6 +181,9 @@ Topic: [notes](../syllabus/GS1/08-g1h8-anglo-sikh-wars-annexation.md)
 
 </details>
 
+
+<a id="q6"></a>
+
 **Q6.** What is groundwater crisis in Punjab? How its depletion creates water crisis in Punjab; relate with the cropping pattern. *(15 marks, 200 words)*
 
 <details><summary>Model answer points</summary>
@@ -187,6 +211,10 @@ Topic: [notes](../syllabus/GS1/08-g1h8-anglo-sikh-wars-annexation.md)
 Topic: [notes](../syllabus/GS1/12-g1g4-punjab-crops-farming-agri-issues.md)
 
 </details>
+
+*Topic asked 4× (2018, 2021, 2026) 🔥*
+
+<a id="q7"></a>
 
 **Q7.** Drainage pattern in Peninsular India is a result of its geological structure and topography. Elaborate. *(15 marks, 200 words)*
 
@@ -216,6 +244,10 @@ Topic: [notes](../syllabus/GS1/09-g1g1-world-physical-geography-resources-indust
 
 </details>
 
+*Topic asked 7× (2018, 2021, 2026) 🔥*
+
+<a id="q8"></a>
+
 **Q8.** How can the western triangle comprising of Ruhr and Flanders be comparable to Chotanagpur industrial belt in India? Bring out the salient features. *(15 marks, 200 words)*
 
 <details><summary>Model answer points</summary>
@@ -242,6 +274,10 @@ Topic: [notes](../syllabus/GS1/09-g1g1-world-physical-geography-resources-indust
 
 </details>
 
+*Topic asked 7× (2018, 2021, 2026) 🔥*
+
+<a id="q9-a"></a>
+
 **Q9(a).** Explain briefly: Soils and Vegetation are true index of climate. *(10 marks, 100 words)*
 
 <details><summary>Model answer points</summary>
@@ -264,6 +300,10 @@ Topic: [notes](../syllabus/GS1/09-g1g1-world-physical-geography-resources-indust
 Topic: [notes](../syllabus/GS1/09-g1g1-world-physical-geography-resources-industry-locati.md)
 
 </details>
+
+*Topic asked 7× (2018, 2021, 2026) 🔥*
+
+<a id="q9-b"></a>
 
 **Q9(b).** Explain briefly: Mechanism of plate tectonic. *(10 marks, 100 words)*
 
@@ -291,6 +331,10 @@ Topic: [notes](../syllabus/GS1/09-g1g1-world-physical-geography-resources-indust
 
 </details>
 
+*Topic asked 7× (2018, 2021, 2026) 🔥*
+
+<a id="q10-a"></a>
+
 **Q10(a).** Write brief notes on: Fohn, Depression, Tsunami, Richter Scale. *(10 marks, 100 words)*
 
 <details><summary>Model answer points</summary>
@@ -313,6 +357,10 @@ Topic: [notes](../syllabus/GS1/09-g1g1-world-physical-geography-resources-indust
 Topic: [notes](../syllabus/GS1/10-g1g2-geophysical-phenomena-changes.md)
 
 </details>
+
+*Topic asked 8× (2018, 2021, 2026) 🔥*
+
+<a id="q10-b"></a>
 
 **Q10(b).** Write brief notes on: Spatial distribution of tropical cyclones. *(10 marks, 100 words)*
 
@@ -340,6 +388,10 @@ Topic: [notes](../syllabus/GS1/10-g1g2-geophysical-phenomena-changes.md)
 
 </details>
 
+*↻ **Same theme also asked:** [Mains 2021 · GS1 Q7](mains_2021_GS1.md#q7) · Topic asked 8× (2018, 2021, 2026) 🔥*
+
+<a id="q11"></a>
+
 **Q11.** Describe the changing patterns of rural-urban demography in India. *(15 marks, 200 words)*
 
 <details><summary>Model answer points</summary>
@@ -366,6 +418,10 @@ Topic: [notes](../syllabus/GS1/14-g1s2-women-population-poverty-urbanisation.md)
 
 </details>
 
+*Topic asked 6× (2018, 2021, 2026) 🔥*
+
+<a id="q12-a"></a>
+
 **Q12(a).** Write short note on: Globalization versus Regionalism. *(10 marks, 100 words)*
 
 <details><summary>Model answer points</summary>
@@ -389,6 +445,10 @@ Topic: [notes](../syllabus/GS1/15-g1s3-globalisation-indian-society.md)
 
 </details>
 
+*Topic asked 3× (2018, 2021, 2026) 🔥*
+
+<a id="q12-b"></a>
+
 **Q12(b).** Write short note on: Is diversity under threat in India? *(10 marks, 100 words)*
 
 <details><summary>Model answer points</summary>
@@ -411,6 +471,10 @@ Topic: [notes](../syllabus/GS1/15-g1s3-globalisation-indian-society.md)
 Topic: [notes](../syllabus/GS1/13-g1s1-indian-society-diversity.md)
 
 </details>
+
+*Topic asked 3× (2018, 2021, 2026) 🔥*
+
+<a id="q13"></a>
 
 **Q13.** Define ethical dilemma. Discuss some common ethical dilemmas that arise for those holding public offices. *(15 marks, 200 words)*
 
@@ -438,6 +502,10 @@ Topic: [notes](../syllabus/GS1/17-g1s5-ethics-and-society.md)
 
 </details>
 
+*Topic asked 2× (2018, 2026)*
+
+<a id="q14-a"></a>
+
 **Q14(a).** Write short note on: Are educational institutions failing in inculcating human values among the present generation? *(10 marks, 100 words)*
 
 <details><summary>Model answer points</summary>
@@ -461,6 +529,10 @@ Topic: [notes](../syllabus/GS1/18-g1s6-human-values-great-reformers.md)
 
 </details>
 
+*Topic asked 4× (2018, 2021, 2026) 🔥*
+
+<a id="q14-b"></a>
+
 **Q14(b).** Write short note on: Poverty breeds poverty. *(10 marks, 100 words)*
 
 <details><summary>Model answer points</summary>
@@ -483,6 +555,10 @@ Topic: [notes](../syllabus/GS1/18-g1s6-human-values-great-reformers.md)
 Topic: [notes](../syllabus/GS1/20-g1s8-health-education-poverty-malnutrition.md)
 
 </details>
+
+*Topic asked 4× (2018, 2021)*
+
+<a id="q15"></a>
 
 **Q15.** Critically examine the causes and consequences of increasing atrocities against women despite the existence of stringent laws. *(15 marks, 200 words)*
 
@@ -508,3 +584,5 @@ Topic: [notes](../syllabus/GS1/20-g1s8-health-education-poverty-malnutrition.md)
 Topic: [notes](../syllabus/GS1/14-g1s2-women-population-poverty-urbanisation.md)
 
 </details>
+
+*Topic asked 6× (2018, 2021, 2026) 🔥*

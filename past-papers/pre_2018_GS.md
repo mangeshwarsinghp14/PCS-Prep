@@ -4,6 +4,8 @@ Held 2018-07-22. Answer key: PPSC official final key. 100 questions.
 
 Sources: [1](https://theiashub.com/upsc/punjab-pcs-previous-year-question-paper/) · [2](https://drive.google.com/file/d/1bazJp-TGLploV65SI6MPRJM3T4aLb3IU/view) · [3](https://blogmedia.testbook.com/blog/wp-content/uploads/2020/07/ppsc_answekey_gs_2018_25-5c6969e1.pdf) · [4](https://blogmedia.testbook.com/blog/wp-content/uploads/2020/07/ppsc_gs_paper_1_2018_36-3d3a31cf.pdf) · [5](https://iasexamportal.com/ppsc/combined-competitive-exam-notification-2018)
 
+<a id="q1"></a>
+
 **Q1.** The element which is generally absorbed by plants along with Zn and causes "Ouch Ouch" disease in human beings is
 
 (a) Tin (Sn)  
@@ -18,6 +20,9 @@ Sources: [1](https://theiashub.com/upsc/punjab-pcs-previous-year-question-paper/
 Topic: [notes](../syllabus/PRE1/17-p1e7-pollution-toxicity.md)
 
 </details>
+*Topic asked 9× (2018, 2021, 2025) 🔥*
+
+<a id="q2"></a>
 
 **Q2.** The recent Supreme Court ruling about the limitations of the powers of Lt. Governor of Delhi vis-à-vis the Chief Minister of Delhi has been making news. In this case, who out of the following was one of the defence counsels for Aam Aadmi Party ?
 
@@ -33,6 +38,9 @@ Topic: [notes](../syllabus/PRE1/17-p1e7-pollution-toxicity.md)
 Topic: [notes](../syllabus/PRE1/56-p1ca-current-events-national-international.md)
 
 </details>
+*Topic asked 28× (2018, 2021, 2025) 🔥*
+
+<a id="q3"></a>
 
 **Q3.** What is meant by the term "Oilzapper" that we frequently hear in the news ?
 
@@ -48,6 +56,9 @@ Topic: [notes](../syllabus/PRE1/56-p1ca-current-events-national-international.md
 Topic: [notes](../syllabus/PRE1/17-p1e7-pollution-toxicity.md)
 
 </details>
+*Topic asked 9× (2018, 2021, 2025) 🔥*
+
+<a id="q4"></a>
 
 **Q4.** What is the difference between a CFL and an LED lamp ?  
 1. To produce light, a CFL uses mercury vapour and phosphor while an LED lamp uses semiconductor material.  
@@ -67,6 +78,9 @@ Which of the statements given above is/are correct ?
 Topic: [notes](../syllabus/PRE1/09-p1s9-electric-current.md)
 
 </details>
+*Topic asked 2× (2018, 2025)*
+
+<a id="q5"></a>
 
 **Q5.** International Union for Conservation of Nature (IUCN) considers a species to be 'critically endangered' if the spatial measure (extent of occurrence) is estimated to be less than _________ km2.
 
@@ -82,6 +96,9 @@ Topic: [notes](../syllabus/PRE1/09-p1s9-electric-current.md)
 Topic: [notes](../syllabus/PRE1/15-p1e5-biodiversity-conservation.md)
 
 </details>
+*Topic asked 17× (2018, 2021, 2025) 🔥*
+
+<a id="q6"></a>
 
 **Q6.** Consider the following statements about an estuary :  
 1. An estuary is the place where the river fresh water meets with ocean water.  
@@ -101,6 +118,9 @@ Which of the above statements is/are true ?
 Topic: [notes](../syllabus/PRE1/14-p1e4-water-bodies-groundwater.md)
 
 </details>
+*Topic asked 5× (2018, 2021, 2025) 🔥*
+
+<a id="q7"></a>
 
 **Q7.** Compounds of ______ cause Minamata disease.
 
@@ -116,6 +136,9 @@ Topic: [notes](../syllabus/PRE1/14-p1e4-water-bodies-groundwater.md)
 Topic: [notes](../syllabus/PRE1/17-p1e7-pollution-toxicity.md)
 
 </details>
+*Topic asked 9× (2018, 2021, 2025) 🔥*
+
+<a id="q8"></a>
 
 **Q8.** Consider the following statements in the context of the Clean Energy Ministerial (CEM) :  
 1. It is a global forum to promote policies and programmes that advance clean energy technology and to encourage the transition to a global clean energy economy.  
@@ -135,6 +158,9 @@ Which of the above statements are correct ?
 Topic: [notes](../syllabus/PRE1/13-p1e3-climate-change-energy.md)
 
 </details>
+*Topic asked 9× (2018, 2021, 2025) 🔥*
+
+<a id="q9"></a>
 
 **Q9.** With reference to the Wildlife (Protection) Act 1972, consider the following statements :  
 1. It was formed in order to fulfil India's international obligation under the Convention on Biological Diversity.  
@@ -153,6 +179,9 @@ Which of the statements given above is/are correct ?
 Topic: [notes](../syllabus/PRE1/15-p1e5-biodiversity-conservation.md)
 
 </details>
+*Topic asked 17× (2018, 2021, 2025) 🔥*
+
+<a id="q10"></a>
 
 **Q10.** Kanjli Wetland is in which district of Punjab ?
 
@@ -168,6 +197,8 @@ Topic: [notes](../syllabus/PRE1/15-p1e5-biodiversity-conservation.md)
 Topic: [notes](../syllabus/PRE1/58-pbg2-water-resources-sharing-of-waters.md)
 
 </details>
+
+<a id="q11"></a>
 
 **Q11.** Regarding the new MSP of Paddy declared by the Government in July 2018, which of the following statements are correct ?  
 1. MSP of Paddy (Common Grade) has been increased by ₹200/- per quintal and of Grade A variety by ₹160/- per quintal.  
@@ -189,6 +220,9 @@ Key not available — PPSC dropped this question in the final key.
 Topic: [notes](../syllabus/PRE1/70-pbe1-agriculture-animal-husbandry.md)
 
 </details>
+*Topic asked 4× (2018, 2021)*
+
+<a id="q12"></a>
 
 **Q12.** What is the zoological name of the State bird of Punjab ?
 
@@ -204,6 +238,9 @@ Topic: [notes](../syllabus/PRE1/70-pbe1-agriculture-animal-husbandry.md)
 Topic: [notes](../syllabus/PRE1/57-pbg1-regions-agro-climatic-zones-rivers.md)
 
 </details>
+*Topic asked 3× (2018, 2021)*
+
+<a id="q13"></a>
 
 **Q13.** India has given its approval to the Raptor MoU. Which of the following statements is/are true regarding Raptor MoU ?  
 1. It falls under UN Convention of Conservation of Migratory Species of Wild Animals.  
@@ -223,6 +260,9 @@ Topic: [notes](../syllabus/PRE1/57-pbg1-regions-agro-climatic-zones-rivers.md)
 Topic: [notes](../syllabus/PRE1/15-p1e5-biodiversity-conservation.md)
 
 </details>
+*Topic asked 17× (2018, 2021, 2025) 🔥*
+
+<a id="q14"></a>
 
 **Q14.** Which of the following is true about Indian Vulture ?  
 1. It is called Gyps Indicus as per binomial nomenclature.  
@@ -242,6 +282,9 @@ Topic: [notes](../syllabus/PRE1/15-p1e5-biodiversity-conservation.md)
 Topic: [notes](../syllabus/PRE1/15-p1e5-biodiversity-conservation.md)
 
 </details>
+*Topic asked 17× (2018, 2021, 2025) 🔥*
+
+<a id="q15"></a>
 
 **Q15.** Match the agro-climatic zone given in column 'A' with its area given in column 'B' :  
 'A' — 'B'  
@@ -263,6 +306,9 @@ Codes : A B C D
 Topic: [notes](../syllabus/PRE1/57-pbg1-regions-agro-climatic-zones-rivers.md)
 
 </details>
+*Topic asked 3× (2018, 2021)*
+
+<a id="q16"></a>
 
 **Q16.** Read the following statements :  
 1. Baglihar Hydropower Project has been developed on river Chenab.  
@@ -282,6 +328,9 @@ Which of the statements given above is/are correct ?
 Topic: [notes](../syllabus/PRE1/51-p1g4-water-resources.md)
 
 </details>
+*Topic asked 6× (2018, 2021, 2025) 🔥*
+
+<a id="q17"></a>
 
 **Q17.** Which of the following is not correctly matched ?
 
@@ -297,6 +346,9 @@ Topic: [notes](../syllabus/PRE1/51-p1g4-water-resources.md)
 Topic: [notes](../syllabus/PRE1/52-p1g5-minerals-energy.md)
 
 </details>
+*Topic asked 10× (2018, 2021, 2025) 🔥*
+
+<a id="q18"></a>
 
 **Q18.** Which among the following city is called "Zero Mile Centre" because of its location on India's Geographic centre ?
 
@@ -312,6 +364,9 @@ Topic: [notes](../syllabus/PRE1/52-p1g5-minerals-energy.md)
 Topic: [notes](../syllabus/PRE1/54-p1g7-planning-transport-trade.md)
 
 </details>
+*Topic asked 5× (2018, 2021, 2025) 🔥*
+
+<a id="q19"></a>
 
 **Q19.** What are the benefits of implementing the "Integrated Watershed Development Programme" ?  
 1. Prevention of soil runoff  
@@ -332,6 +387,9 @@ Which of the statements given above are correct ?
 Topic: [notes](../syllabus/PRE1/51-p1g4-water-resources.md)
 
 </details>
+*Topic asked 6× (2018, 2021, 2025) 🔥*
+
+<a id="q20"></a>
 
 **Q20.** Which of the following pairs are correct ?  
 1. Zawar – Uranium  
@@ -352,6 +410,9 @@ Select the correct answer using the code given below :
 Topic: [notes](../syllabus/PRE1/52-p1g5-minerals-energy.md)
 
 </details>
+*Topic asked 10× (2018, 2021, 2025) 🔥*
+
+<a id="q21"></a>
 
 **Q21.** "Setu Bharatam" project is connected with which of the following transport sectors ?
 
@@ -367,6 +428,9 @@ Topic: [notes](../syllabus/PRE1/52-p1g5-minerals-energy.md)
 Topic: [notes](../syllabus/PRE1/54-p1g7-planning-transport-trade.md)
 
 </details>
+*Topic asked 5× (2018, 2021, 2025) 🔥*
+
+<a id="q22"></a>
 
 **Q22.** Which of the following crops are cultivated in the equatorial regions ?  
 1. Rubber  
@@ -387,6 +451,9 @@ Select the correct answer using the code given below :
 Topic: [notes](../syllabus/PRE1/50-p1g3-land-resources-agriculture.md)
 
 </details>
+*Topic asked 10× (2018, 2021, 2025) 🔥*
+
+<a id="q23"></a>
 
 **Q23.** Who said, "Injustice anywhere is a threat to justice everywhere" ?
 
@@ -402,6 +469,9 @@ Topic: [notes](../syllabus/PRE1/50-p1g3-land-resources-agriculture.md)
 Topic: [notes](../syllabus/PRE1/18-p1t1-freedom-equality-justice-rights.md)
 
 </details>
+*Topic asked 4× (2018, 2021)*
+
+<a id="q24"></a>
 
 **Q24.** Who coined the phrase, 'banal nationalism' ?
 
@@ -417,6 +487,9 @@ Topic: [notes](../syllabus/PRE1/18-p1t1-freedom-equality-justice-rights.md)
 Topic: [notes](../syllabus/PRE1/19-p1t2-citizenship-nationalism-secularism.md)
 
 </details>
+*Topic asked 2× (2018, 2025)*
+
+<a id="q25"></a>
 
 **Q25.** Who coined the name, 'United Nations' ?
 
@@ -432,6 +505,9 @@ Topic: [notes](../syllabus/PRE1/19-p1t2-citizenship-nationalism-secularism.md)
 Topic: [notes](../syllabus/PRE1/20-p1t3-united-nations.md)
 
 </details>
+*Topic asked 6× (2018, 2021)*
+
+<a id="q26"></a>
 
 **Q26.** Which one of the following is the latest member (193rd) of the United Nations ?
 
@@ -447,6 +523,9 @@ Topic: [notes](../syllabus/PRE1/20-p1t3-united-nations.md)
 Topic: [notes](../syllabus/PRE1/20-p1t3-united-nations.md)
 
 </details>
+*Topic asked 6× (2018, 2021)*
+
+<a id="q27"></a>
 
 **Q27.** Which one of the following is the incorrect match between the UN agency and its Headquarter ?
 
@@ -462,6 +541,9 @@ Topic: [notes](../syllabus/PRE1/20-p1t3-united-nations.md)
 Topic: [notes](../syllabus/PRE1/20-p1t3-united-nations.md)
 
 </details>
+*Topic asked 6× (2018, 2021)*
+
+<a id="q28"></a>
 
 **Q28.** Match the following features of the Indian Constitution from their adoptions :  
 Features — Adoptions  
@@ -483,6 +565,9 @@ Choose the correct answer : A B C D
 Topic: [notes](../syllabus/PRE1/22-p1p1-features-provisions-schedules.md)
 
 </details>
+*Topic asked 18× (2018, 2021, 2025) 🔥*
+
+<a id="q29"></a>
 
 **Q29.** Which two committees of the Parliament are described as 'twin sister' committees ?
 
@@ -498,6 +583,9 @@ Topic: [notes](../syllabus/PRE1/22-p1p1-features-provisions-schedules.md)
 Topic: [notes](../syllabus/PRE1/22-p1p1-features-provisions-schedules.md)
 
 </details>
+*Topic asked 18× (2018, 2021, 2025) 🔥*
+
+<a id="q30"></a>
 
 **Q30.** The Rohingya crisis has been making news lately. Consider the following statements about the Rohingyas :  
 1. They are an ethnic group largely comprising Muslims who predominantly live in western Myanmar province of Rakhine.  
@@ -517,6 +605,9 @@ Which of the above statements are correct ?
 Topic: [notes](../syllabus/PRE1/56-p1ca-current-events-national-international.md)
 
 </details>
+*Topic asked 28× (2018, 2021, 2025) 🔥*
+
+<a id="q31"></a>
 
 **Q31.** Which of the following amendment/s in the Indian Constitution was/were equated with 'Mini Constitution' ?
 
@@ -532,6 +623,9 @@ Topic: [notes](../syllabus/PRE1/56-p1ca-current-events-national-international.md
 Topic: [notes](../syllabus/PRE1/23-p1p2-key-amendments.md)
 
 </details>
+*Topic asked 3× (2018, 2025)*
+
+<a id="q32"></a>
 
 **Q32.** Which of the following is incorrect with regard to the Schedules listed in the Constitution of India ?
 
@@ -547,6 +641,9 @@ Topic: [notes](../syllabus/PRE1/23-p1p2-key-amendments.md)
 Topic: [notes](../syllabus/PRE1/22-p1p1-features-provisions-schedules.md)
 
 </details>
+*Topic asked 18× (2018, 2021, 2025) 🔥*
+
+<a id="q33"></a>
 
 **Q33.** Which of the following is not the essential condition for a political party to be recognized as a national party ?
 
@@ -562,6 +659,9 @@ Topic: [notes](../syllabus/PRE1/22-p1p1-features-provisions-schedules.md)
 Topic: [notes](../syllabus/PRE1/25-p1p4-elections-rpa-electoral-reforms.md)
 
 </details>
+*Topic asked 3× (2018, 2021, 2025) 🔥*
+
+<a id="q34"></a>
 
 **Q34.** The Panchayati elections are scheduled in the month of September 2018 in Punjab. Consider the following statements about the Panchayati Raj Institutions. Which of them is incorrect ?
 
@@ -577,6 +677,9 @@ Topic: [notes](../syllabus/PRE1/25-p1p4-elections-rpa-electoral-reforms.md)
 Topic: [notes](../syllabus/PRE1/24-p1p3-panchayati-raj.md)
 
 </details>
+*Topic asked 3× (2018, 2021, 2025) 🔥*
+
+<a id="q35"></a>
 
 **Q35.** Who is the Chairman of the Inter-State Council ?
 
@@ -592,6 +695,9 @@ Topic: [notes](../syllabus/PRE1/24-p1p3-panchayati-raj.md)
 Topic: [notes](../syllabus/PRE1/22-p1p1-features-provisions-schedules.md)
 
 </details>
+*Topic asked 18× (2018, 2021, 2025) 🔥*
+
+<a id="q36"></a>
 
 **Q36.** The word 'Bureaucracy' was first coined by
 
@@ -607,6 +713,9 @@ Topic: [notes](../syllabus/PRE1/22-p1p1-features-provisions-schedules.md)
 Topic: [notes](../syllabus/PRE1/18-p1t1-freedom-equality-justice-rights.md)
 
 </details>
+*Topic asked 4× (2018, 2021)*
+
+<a id="q37"></a>
 
 **Q37.** Which of the following resulted from Bretton Woods Conference ?
 
@@ -622,6 +731,9 @@ Topic: [notes](../syllabus/PRE1/18-p1t1-freedom-equality-justice-rights.md)
 Topic: [notes](../syllabus/PRE1/21-p1t4-world-bank-imf-wto-eu-g20-brics.md)
 
 </details>
+*Topic asked 7× (2018, 2021, 2025) 🔥*
+
+<a id="q38"></a>
 
 **Q38.** Which one of the following is not a sufficient ground for convening a joint sitting of both the Houses of Parliament ?
 
@@ -637,6 +749,9 @@ Topic: [notes](../syllabus/PRE1/21-p1t4-world-bank-imf-wto-eu-g20-brics.md)
 Topic: [notes](../syllabus/PRE1/22-p1p1-features-provisions-schedules.md)
 
 </details>
+*Topic asked 18× (2018, 2021, 2025) 🔥*
+
+<a id="q39"></a>
 
 **Q39.** Celebrating its 50 years, Booker Prize declared its "Best of Man Booker Prize" on 7th of July 2018. Which book won this prize ?
 
@@ -652,6 +767,9 @@ Topic: [notes](../syllabus/PRE1/22-p1p1-features-provisions-schedules.md)
 Topic: [notes](../syllabus/PRE1/56-p1ca-current-events-national-international.md)
 
 </details>
+*Topic asked 28× (2018, 2021, 2025) 🔥*
+
+<a id="q40"></a>
 
 **Q40.** Which of the following statements is/are not correct ?  
 1. As per the provisions of the Constitution, the Council of Ministers is both collectively and individually responsible to the Lok Sabha.  
@@ -672,6 +790,9 @@ Select the correct answer using the code given below :
 Topic: [notes](../syllabus/PRE1/22-p1p1-features-provisions-schedules.md)
 
 </details>
+*Topic asked 18× (2018, 2021, 2025) 🔥*
+
+<a id="q41"></a>
 
 **Q41.** In the first financial year of GST regime in the country concluded recently, list the following states in the descending order of Per Capita Revenue starting with highest to the lowest :
 
@@ -687,6 +808,9 @@ Topic: [notes](../syllabus/PRE1/22-p1p1-features-provisions-schedules.md)
 Topic: [notes](../syllabus/PRE1/72-pbe3-growth-public-finance.md)
 
 </details>
+*Topic asked 3× (2018)*
+
+<a id="q42"></a>
 
 **Q42.** The government has powers under the Essential Commodities Act, 1955 (EC Act) to declare a commodity as an essential commodity to ensure its availability to people at fair price. The commodities covered under the Act include :  
 1. Paper  
@@ -708,6 +832,9 @@ Select the correct answer using the code given below :
 Topic: [notes](../syllabus/PRE1/47-p1c5-key-challenges-responses.md)
 
 </details>
+*Topic asked 13× (2018, 2021, 2025) 🔥*
+
+<a id="q43"></a>
 
 **Q43.** With reference to "Stand-up India Scheme", which of the following statements is/are correct ?  
 1. Its purpose is to promote entrepreneurship among SC/ST and women entrepreneurs.  
@@ -726,6 +853,9 @@ Select the correct answer using the code given below :
 Topic: [notes](../syllabus/PRE1/47-p1c5-key-challenges-responses.md)
 
 </details>
+*Topic asked 13× (2018, 2021, 2025) 🔥*
+
+<a id="q44"></a>
 
 **Q44.** Which of the following statements is/are correct regarding Economic and Statistical Organization of Punjab (ESO) ?  
 1. It provides advisory services to the State Government on economic matters to form policies.  
@@ -744,6 +874,9 @@ Select the correct answer using the code given below :
 Topic: [notes](../syllabus/PRE1/72-pbe3-growth-public-finance.md)
 
 </details>
+*Topic asked 3× (2018)*
+
+<a id="q45"></a>
 
 **Q45.** The International Movement "Me Too", started against sexual harassment, that was popularized by Alyssa Milano in 2017 was originally started around 2006 by
 
@@ -759,6 +892,9 @@ Topic: [notes](../syllabus/PRE1/72-pbe3-growth-public-finance.md)
 Topic: [notes](../syllabus/PRE1/56-p1ca-current-events-national-international.md)
 
 </details>
+*Topic asked 28× (2018, 2021, 2025) 🔥*
+
+<a id="q46"></a>
 
 **Q46.** Deficit financing means that the government borrows money from the
 
@@ -774,6 +910,9 @@ Topic: [notes](../syllabus/PRE1/56-p1ca-current-events-national-international.md
 Topic: [notes](../syllabus/PRE1/46-p1c4-performance-since-1991.md)
 
 </details>
+*Topic asked 19× (2018, 2021, 2025) 🔥*
+
+<a id="q47"></a>
 
 **Q47.** Which of the following statements are true about Agni-5 Missile that was successfully test fired from Wheeler Island on June 3, 2018 ?  
 1. It is nuclear capable intercontinental ballistic missile (ICBM).  
@@ -793,6 +932,9 @@ Select the correct answer using the code given below :
 Topic: [notes](../syllabus/PRE1/56-p1ca-current-events-national-international.md)
 
 </details>
+*Topic asked 28× (2018, 2021, 2025) 🔥*
+
+<a id="q48"></a>
 
 **Q48.** Who recommends the Minimum Support Price (MSP) and Issue Price ?
 
@@ -808,6 +950,9 @@ Topic: [notes](../syllabus/PRE1/56-p1ca-current-events-national-international.md
 Topic: [notes](../syllabus/PRE1/50-p1g3-land-resources-agriculture.md)
 
 </details>
+*↻ **Same theme also asked:** [Prelims 2021 · GS Q54](pre_2021_GS.md#q54) · Topic asked 10× (2018, 2021, 2025) 🔥*
+
+<a id="q49"></a>
 
 **Q49.** India has been re-elected to the UN Economic and Social Council (ECOSOC) recently. Consider the following statements in this regard :  
 1. India will hold a 5-year term beginning from January 1, 2018.  
@@ -826,6 +971,9 @@ Which of the statements given above is/are correct ?
 Topic: [notes](../syllabus/PRE1/20-p1t3-united-nations.md)
 
 </details>
+*Topic asked 6× (2018, 2021)*
+
+<a id="q50"></a>
 
 **Q50.** With reference to 'Bharat 22', which of the following statements is/are correct ?  
 1. It is the Exchange Traded Fund (ETF).  
@@ -845,6 +993,9 @@ Select the correct answer using the code given below :
 Topic: [notes](../syllabus/PRE1/45-p1c3-lpg-reforms-since-1991.md)
 
 </details>
+*Topic asked 2× (2018)*
+
+<a id="q51"></a>
 
 **Q51.** Which of the following is related to the recently launched 'Innovate in India (i3)' programme ?
 
@@ -860,6 +1011,9 @@ Topic: [notes](../syllabus/PRE1/45-p1c3-lpg-reforms-since-1991.md)
 Topic: [notes](../syllabus/PRE1/56-p1ca-current-events-national-international.md)
 
 </details>
+*Topic asked 28× (2018, 2021, 2025) 🔥*
+
+<a id="q52"></a>
 
 **Q52.** Consider the following statements regarding Prime Minister's Economic Advisory Council (PMEAC) :  
 1. It is a statutory and permanent body.  
@@ -879,6 +1033,9 @@ Which of the statements given above is/are correct ?
 Topic: [notes](../syllabus/PRE1/46-p1c4-performance-since-1991.md)
 
 </details>
+*Topic asked 19× (2018, 2021, 2025) 🔥*
+
+<a id="q53"></a>
 
 **Q53.** Which of the following is incorrect about the RBI Governor ?
 
@@ -894,6 +1051,9 @@ Topic: [notes](../syllabus/PRE1/46-p1c4-performance-since-1991.md)
 Topic: [notes](../syllabus/PRE1/46-p1c4-performance-since-1991.md)
 
 </details>
+*Topic asked 19× (2018, 2021, 2025) 🔥*
+
+<a id="q54"></a>
 
 **Q54.** In the context of 'Solar Briefcase', consider the following statements :  
 1. It was launched by the Uttarakhand Government and a charitable funding agency, Swan Cultural Center and Foundation.  
@@ -912,6 +1072,9 @@ Which of the statements given above is/are correct ?
 Topic: [notes](../syllabus/PRE1/13-p1e3-climate-change-energy.md)
 
 </details>
+*Topic asked 9× (2018, 2021, 2025) 🔥*
+
+<a id="q55"></a>
 
 **Q55.** Stagflation is a situation of
 
@@ -927,6 +1090,9 @@ Topic: [notes](../syllabus/PRE1/13-p1e3-climate-change-energy.md)
 Topic: [notes](../syllabus/PRE1/46-p1c4-performance-since-1991.md)
 
 </details>
+*Topic asked 19× (2018, 2021, 2025) 🔥*
+
+<a id="q56"></a>
 
 **Q56.** With reference to the Zero Hunger Programme, consider the following statements :  
 1. India's ambitious Zero Hunger Programme through interventions in farm sector was launched with a focus on agriculture, nutrition and health.  
@@ -946,6 +1112,9 @@ Which of the above statements is/are correct ?
 Topic: [notes](../syllabus/PRE1/50-p1g3-land-resources-agriculture.md)
 
 </details>
+*Topic asked 10× (2018, 2021, 2025) 🔥*
+
+<a id="q57"></a>
 
 **Q57.** The seasonally adjusted Nikkei India Services Business Activity Index has shown robust growth in service sector in India. The index in May 2018 has risen to 52.6 registering the fastest growth since
 
@@ -961,6 +1130,9 @@ Topic: [notes](../syllabus/PRE1/50-p1g3-land-resources-agriculture.md)
 Topic: [notes](../syllabus/PRE1/46-p1c4-performance-since-1991.md)
 
 </details>
+*Topic asked 19× (2018, 2021, 2025) 🔥*
+
+<a id="q58"></a>
 
 **Q58.** Which of the following is not a Maha-Ratna industry ?
 
@@ -976,6 +1148,9 @@ Topic: [notes](../syllabus/PRE1/46-p1c4-performance-since-1991.md)
 Topic: [notes](../syllabus/PRE1/45-p1c3-lpg-reforms-since-1991.md)
 
 </details>
+*Topic asked 2× (2018)*
+
+<a id="q59"></a>
 
 **Q59.** Which insecticide is banned by the Punjab government for use in agriculture ?
 
@@ -991,6 +1166,9 @@ Topic: [notes](../syllabus/PRE1/45-p1c3-lpg-reforms-since-1991.md)
 Topic: [notes](../syllabus/PRE1/70-pbe1-agriculture-animal-husbandry.md)
 
 </details>
+*Topic asked 4× (2018, 2021)*
+
+<a id="q60"></a>
 
 **Q60.** Punjab government has brought in a new tax for income tax payees engaged in professions, trades, callings and employments in the current year budget (2018 – 19). This tax is
 
@@ -1006,6 +1184,9 @@ Topic: [notes](../syllabus/PRE1/70-pbe1-agriculture-animal-husbandry.md)
 Topic: [notes](../syllabus/PRE1/72-pbe3-growth-public-finance.md)
 
 </details>
+*Topic asked 3× (2018)*
+
+<a id="q61"></a>
 
 **Q61.** When a ball drops on the floor it bounces. This is according to
 
@@ -1023,6 +1204,9 @@ Key not available — PPSC dropped this question in the final key.
 Topic: [notes](../syllabus/PRE1/07-p1s7-force-motion-gravitation-energy.md)
 
 </details>
+*Topic asked 4× (2018, 2025)*
+
+<a id="q62"></a>
 
 **Q62.** The hydraulic brake used in automobiles is a direct application of
 
@@ -1038,6 +1222,9 @@ Topic: [notes](../syllabus/PRE1/07-p1s7-force-motion-gravitation-energy.md)
 Topic: [notes](../syllabus/PRE1/07-p1s7-force-motion-gravitation-energy.md)
 
 </details>
+*Topic asked 4× (2018, 2025)*
+
+<a id="q63"></a>
 
 **Q63.** Velocity of sound in air does not depend on
 
@@ -1053,6 +1240,9 @@ Topic: [notes](../syllabus/PRE1/07-p1s7-force-motion-gravitation-energy.md)
 Topic: [notes](../syllabus/PRE1/08-p1s8-light-and-sound.md)
 
 </details>
+*Topic asked 6× (2018, 2025)*
+
+<a id="q64"></a>
 
 **Q64.** What happens when light travels from air to glass ?
 
@@ -1068,6 +1258,9 @@ Topic: [notes](../syllabus/PRE1/08-p1s8-light-and-sound.md)
 Topic: [notes](../syllabus/PRE1/08-p1s8-light-and-sound.md)
 
 </details>
+*Topic asked 6× (2018, 2025)*
+
+<a id="q65"></a>
 
 **Q65.** Which of the following medical procedure uses the principle of total internal reflection ?
 
@@ -1083,6 +1276,9 @@ Topic: [notes](../syllabus/PRE1/08-p1s8-light-and-sound.md)
 Topic: [notes](../syllabus/PRE1/08-p1s8-light-and-sound.md)
 
 </details>
+*Topic asked 6× (2018, 2025)*
+
+<a id="q66"></a>
 
 **Q66.** The half-life period of a radioactive substance is 70 days. One gram of the same substance will become 0.25 gm after
 
@@ -1098,6 +1294,9 @@ Topic: [notes](../syllabus/PRE1/08-p1s8-light-and-sound.md)
 Topic: [notes](../syllabus/PRE1/01-p1s1-matter-atom-carbon.md)
 
 </details>
+*Topic asked 3× (2018, 2025)*
+
+<a id="q67"></a>
 
 **Q67.** Iodised salt is a
 
@@ -1113,6 +1312,9 @@ Topic: [notes](../syllabus/PRE1/01-p1s1-matter-atom-carbon.md)
 Topic: [notes](../syllabus/PRE1/02-p1s2-acids-bases-salts-corrosion-soaps.md)
 
 </details>
+*Topic asked 5× (2018, 2025)*
+
+<a id="q68"></a>
 
 **Q68.** Vinegar is a solution of
 
@@ -1128,6 +1330,9 @@ Topic: [notes](../syllabus/PRE1/02-p1s2-acids-bases-salts-corrosion-soaps.md)
 Topic: [notes](../syllabus/PRE1/02-p1s2-acids-bases-salts-corrosion-soaps.md)
 
 </details>
+*Topic asked 5× (2018, 2025)*
+
+<a id="q69"></a>
 
 **Q69.** Litmus is obtained from
 
@@ -1143,6 +1348,9 @@ Topic: [notes](../syllabus/PRE1/02-p1s2-acids-bases-salts-corrosion-soaps.md)
 Topic: [notes](../syllabus/PRE1/02-p1s2-acids-bases-salts-corrosion-soaps.md)
 
 </details>
+*Topic asked 5× (2018, 2025)*
+
+<a id="q70"></a>
 
 **Q70.** In an undamaged blood vessel, conversion of Prothrombin to Thrombin is prevented by
 
@@ -1158,6 +1366,9 @@ Topic: [notes](../syllabus/PRE1/02-p1s2-acids-bases-salts-corrosion-soaps.md)
 Topic: [notes](../syllabus/PRE1/04-p1s4-human-body-life-processes-nutrition.md)
 
 </details>
+*Topic asked 4× (2018, 2021, 2025) 🔥*
+
+<a id="q71"></a>
 
 **Q71.** "The Virgin of the Rocks" is the masterpiece of which painter ?
 
@@ -1173,6 +1384,9 @@ Topic: [notes](../syllabus/PRE1/04-p1s4-human-body-life-processes-nutrition.md)
 Topic: [notes](../syllabus/PRE1/38-p1w1-renaissance-industrial-revolution.md)
 
 </details>
+*Topic asked 2× (2018)*
+
+<a id="q72"></a>
 
 **Q72.** Who gave the idea of the "Penny Post" – fast and cheap communication ?
 
@@ -1188,6 +1402,9 @@ Topic: [notes](../syllabus/PRE1/38-p1w1-renaissance-industrial-revolution.md)
 Topic: [notes](../syllabus/PRE1/38-p1w1-renaissance-industrial-revolution.md)
 
 </details>
+*Topic asked 2× (2018)*
+
+<a id="q73"></a>
 
 **Q73.** In 1775, where was the first battle of the American Revolution fought, when a thousand British soldiers met the Colonial Militia ?
 
@@ -1203,6 +1420,9 @@ Topic: [notes](../syllabus/PRE1/38-p1w1-renaissance-industrial-revolution.md)
 Topic: [notes](../syllabus/PRE1/39-p1w2-american-revolution-1776.md)
 
 </details>
+*Topic asked 2× (2018, 2021)*
+
+<a id="q74"></a>
 
 **Q74.** Who wrote the "Discourse on the Origin of Inequality" ?
 
@@ -1219,6 +1439,8 @@ Topic: [notes](../syllabus/PRE1/40-p1w3-french-revolution-1789.md)
 
 </details>
 
+<a id="q75"></a>
+
 **Q75.** Pakistan Tehreek-e-Insaf is one of the prominent political parties in Pakistan. Which of the following belongs to the above political party ?
 
 (a) Imran Khan  
@@ -1233,6 +1455,9 @@ Topic: [notes](../syllabus/PRE1/40-p1w3-french-revolution-1789.md)
 Topic: [notes](../syllabus/PRE1/56-p1ca-current-events-national-international.md)
 
 </details>
+*Topic asked 28× (2018, 2021, 2025) 🔥*
+
+<a id="q76"></a>
 
 **Q76.** Vladimir Ilyich Ulyanov was popularly known as
 
@@ -1248,6 +1473,9 @@ Topic: [notes](../syllabus/PRE1/56-p1ca-current-events-national-international.md
 Topic: [notes](../syllabus/PRE1/41-p1w4-russian-revolution-1917.md)
 
 </details>
+*Topic asked 2× (2018)*
+
+<a id="q77"></a>
 
 **Q77.** The Treaty of Brest-Litovsk was a peace treaty signed between which counties ?
 
@@ -1263,6 +1491,9 @@ Topic: [notes](../syllabus/PRE1/41-p1w4-russian-revolution-1917.md)
 Topic: [notes](../syllabus/PRE1/41-p1w4-russian-revolution-1917.md)
 
 </details>
+*Topic asked 2× (2018)*
+
+<a id="q78"></a>
 
 **Q78.** Name the two German representatives who were forced to append their signatures on the Treaty of Versailles in 1919 ?
 
@@ -1278,6 +1509,9 @@ Topic: [notes](../syllabus/PRE1/41-p1w4-russian-revolution-1917.md)
 Topic: [notes](../syllabus/PRE1/42-p1w5-world-wars-i-ii.md)
 
 </details>
+*Topic asked 3× (2018, 2021)*
+
+<a id="q79"></a>
 
 **Q79.** Operation Barbarossa was the code name for the invasion on which country ?
 
@@ -1293,6 +1527,9 @@ Topic: [notes](../syllabus/PRE1/42-p1w5-world-wars-i-ii.md)
 Topic: [notes](../syllabus/PRE1/42-p1w5-world-wars-i-ii.md)
 
 </details>
+*Topic asked 3× (2018, 2021)*
+
+<a id="q80"></a>
 
 **Q80.** Harappan seals were made mostly of
 
@@ -1308,6 +1545,9 @@ Topic: [notes](../syllabus/PRE1/42-p1w5-world-wars-i-ii.md)
 Topic: [notes](../syllabus/PRE1/28-p1h1-indus-valley-civilisation.md)
 
 </details>
+*Topic asked 3× (2018, 2021, 2025) 🔥*
+
+<a id="q81"></a>
 
 **Q81.** The leader of a Jain gana was known as
 
@@ -1323,6 +1563,9 @@ Topic: [notes](../syllabus/PRE1/28-p1h1-indus-valley-civilisation.md)
 Topic: [notes](../syllabus/PRE1/30-p1h3-jainism-buddhism.md)
 
 </details>
+*Topic asked 4× (2018, 2021, 2025) 🔥*
+
+<a id="q82"></a>
 
 **Q82.** Ibn Battuta, the famous Muslim explorer who came to India during the times of Muhammad bin Tughlaq, belonged to which country ?
 
@@ -1338,6 +1581,9 @@ Topic: [notes](../syllabus/PRE1/30-p1h3-jainism-buddhism.md)
 Topic: [notes](../syllabus/PRE1/32-p1h5-advent-of-islam-sultanate.md)
 
 </details>
+*Topic asked 4× (2018, 2021, 2025) 🔥*
+
+<a id="q83"></a>
 
 **Q83.** Who was the Persian appointed by Ashoka to administer the Western province ?
 
@@ -1353,6 +1599,9 @@ Topic: [notes](../syllabus/PRE1/32-p1h5-advent-of-islam-sultanate.md)
 Topic: [notes](../syllabus/PRE1/31-p1h4-mauryas-guptas.md)
 
 </details>
+*Topic asked 4× (2018, 2021, 2025) 🔥*
+
+<a id="q84"></a>
 
 **Q84.** Kunwar Singh was a leader of the Revolt of 1857 in which of the following States ?
 
@@ -1369,6 +1618,8 @@ Topic: [notes](../syllabus/PRE1/36-p1h9-revolt-of-1857.md)
 
 </details>
 
+<a id="q85"></a>
+
 **Q85.** The Dastak system which was adopted by the British in the initial stages of their expansion was related to the
 
 (a) Military power  
@@ -1383,6 +1634,9 @@ Topic: [notes](../syllabus/PRE1/36-p1h9-revolt-of-1857.md)
 Topic: [notes](../syllabus/PRE1/35-p1h8-europeans-british-rule.md)
 
 </details>
+*Topic asked 5× (2018, 2025)*
+
+<a id="q86"></a>
 
 **Q86.** Who among the following was the reformer and philosopher from Ramanandi Sampradaya in the lineage of Jagadguru Ramanandacharya ?
 
@@ -1399,6 +1653,8 @@ Topic: [notes](../syllabus/PRE1/33-p1h6-bhakti-movement.md)
 
 </details>
 
+<a id="q87"></a>
+
 **Q87.** The story of Videh Madhav is narrated in
 
 (a) Atharvaveda  
@@ -1413,6 +1669,8 @@ Topic: [notes](../syllabus/PRE1/33-p1h6-bhakti-movement.md)
 Topic: [notes](../syllabus/PRE1/29-p1h2-aryans-vedic-age.md)
 
 </details>
+
+<a id="q88"></a>
 
 **Q88.** Consider the following statements about the agrarian system under the Delhi Sultanate and Mughal empire :  
 1. Alauddin Khilji imposed taxes called charai and ghari.  
@@ -1433,6 +1691,9 @@ Which of the above statements are correct ?
 Topic: [notes](../syllabus/PRE1/34-p1h7-mughals-to-aurangzeb.md)
 
 </details>
+*Topic asked 7× (2018, 2021, 2025) 🔥*
+
+<a id="q89"></a>
 
 **Q89.** Who among the following was the French explorer who visited the court of emperor Shah Jahan and left a detailed account of Takht-i-Taus (Peacock Throne) ?
 
@@ -1448,6 +1709,9 @@ Topic: [notes](../syllabus/PRE1/34-p1h7-mughals-to-aurangzeb.md)
 Topic: [notes](../syllabus/PRE1/34-p1h7-mughals-to-aurangzeb.md)
 
 </details>
+*Topic asked 7× (2018, 2021, 2025) 🔥*
+
+<a id="q90"></a>
 
 **Q90.** Which of the following was popularly known as the "Firebrand of South India" ?
 
@@ -1463,6 +1727,9 @@ Topic: [notes](../syllabus/PRE1/34-p1h7-mughals-to-aurangzeb.md)
 Topic: [notes](../syllabus/PRE1/37-p1h10-national-movement-1857-1947.md)
 
 </details>
+*Topic asked 7× (2018, 2021, 2025) 🔥*
+
+<a id="q91"></a>
 
 **Q91.** Who is the current President of FIFA (The Federation Internationale de Football Association) ?
 
@@ -1478,6 +1745,9 @@ Topic: [notes](../syllabus/PRE1/37-p1h10-national-movement-1857-1947.md)
 Topic: [notes](../syllabus/PRE1/56-p1ca-current-events-national-international.md)
 
 </details>
+*Topic asked 28× (2018, 2021, 2025) 🔥*
+
+<a id="q92"></a>
 
 **Q92.** Which of the following Punjabi writers have been awarded with the prestigious Jnanpith Award ?  
 1. Gurdial Singh  
@@ -1498,6 +1768,9 @@ Select the correct answer using the code given below :
 Topic: [notes](../syllabus/PRE1/62-pbc3-punjabi-literature.md)
 
 </details>
+*Topic asked 6× (2018, 2021, 2025) 🔥*
+
+<a id="q93"></a>
 
 **Q93.** "Chun kar az hameh heelate dar guzasht, Halal ast burden bi-shamsher dast". This verse is a part of which work by Guru Gobind Singh ji ?
 
@@ -1513,6 +1786,9 @@ Topic: [notes](../syllabus/PRE1/62-pbc3-punjabi-literature.md)
 Topic: [notes](../syllabus/PRE1/64-pbh1-sufis-saints-and-gurus.md)
 
 </details>
+*Topic asked 3× (2018, 2025)*
+
+<a id="q94"></a>
 
 **Q94.** Consider the following statements :  
 1. By Pitt's India Act, the members of the Governor General's Council were reduced to three.  
@@ -1532,6 +1808,9 @@ Which of the above statements is correct ?
 Topic: [notes](../syllabus/PRE1/35-p1h8-europeans-british-rule.md)
 
 </details>
+*Topic asked 5× (2018, 2025)*
+
+<a id="q95"></a>
 
 **Q95.** While watching three-dimensional pictures we need to wear
 
@@ -1547,6 +1826,9 @@ Topic: [notes](../syllabus/PRE1/35-p1h8-europeans-british-rule.md)
 Topic: [notes](../syllabus/PRE1/08-p1s8-light-and-sound.md)
 
 </details>
+*Topic asked 6× (2018, 2025)*
+
+<a id="q96"></a>
 
 **Q96.** When water is heated from 0 degree celsius to 10 degrees celsius, how does its volume change ?
 
@@ -1562,6 +1844,9 @@ Topic: [notes](../syllabus/PRE1/08-p1s8-light-and-sound.md)
 Topic: [notes](../syllabus/PRE1/01-p1s1-matter-atom-carbon.md)
 
 </details>
+*Topic asked 3× (2018, 2025)*
+
+<a id="q97"></a>
 
 **Q97.** According to Malthus's population theory, epidemics, natural calamities and war are known as
 
@@ -1577,6 +1862,9 @@ Topic: [notes](../syllabus/PRE1/01-p1s1-matter-atom-carbon.md)
 Topic: [notes](../syllabus/PRE1/48-p1g1-population-migration.md)
 
 </details>
+*Topic asked 5× (2018, 2021, 2025) 🔥*
+
+<a id="q98"></a>
 
 **Q98.** With reference to the Memorandum of Understanding signed by Punjab government with the Indian Oil Corporation in January 2018, consider the following statements :  
 1. It aims to find sustainable solutions to paddy straw burning.  
@@ -1599,6 +1887,9 @@ Key not available — PPSC dropped this question in the final key.
 Topic: [notes](../syllabus/PRE1/70-pbe1-agriculture-animal-husbandry.md)
 
 </details>
+*Topic asked 4× (2018, 2021)*
+
+<a id="q99"></a>
 
 **Q99.** Which of the following was the latest member of the group of advanced industrialized nations transforming G-7 to G-8 ?
 
@@ -1614,6 +1905,9 @@ Topic: [notes](../syllabus/PRE1/70-pbe1-agriculture-animal-husbandry.md)
 Topic: [notes](../syllabus/PRE1/21-p1t4-world-bank-imf-wto-eu-g20-brics.md)
 
 </details>
+*Topic asked 7× (2018, 2021, 2025) 🔥*
+
+<a id="q100"></a>
 
 **Q100.** "Aiti maar payi kurlane tain ki dard na aaya" was written by Guru Nanak Dev ji after the invasion by
 
@@ -1629,3 +1923,4 @@ Topic: [notes](../syllabus/PRE1/21-p1t4-world-bank-imf-wto-eu-g20-brics.md)
 Topic: [notes](../syllabus/PRE1/64-pbh1-sufis-saints-and-gurus.md)
 
 </details>
+*Topic asked 3× (2018, 2025)*

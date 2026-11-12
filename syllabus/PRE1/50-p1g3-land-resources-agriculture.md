@@ -1,6 +1,6 @@
 # Land resources & agriculture
 
-**Paper I — General Studies** › Geography · Subject: Geography · Priority: High
+**Paper I — General Studies** › Geography · Subject: Geography · Priority: High · **Asked by PPSC: 🔥 10× (’18 ’21 ’25)**
 
 > Official syllabus line: Land resources and agriculture.
 
@@ -118,6 +118,25 @@ Expect questions on land-use categories (definitions of fallow and culturable wa
 - NCERT Class 10 'Contemporary India II' Ch 4 (Agriculture)
 - Ministry of Agriculture - Agricultural Statistics at a Glance
 
+## Asked in PPSC papers — 10 times 🔥 (in every recent exam)
+
+| Paper | Years asked |
+|---|---|
+| Prelims GS | 2018 (×3), 2021 (×4), 2025 (×3) |
+
+- [Prelims 2025 · GS Q69](../../past-papers/pre_2025_GS.md#q69) — Consider the following statements about rice cultivation in India :
+- [Prelims 2025 · GS Q71](../../past-papers/pre_2025_GS.md#q71) — Which of the following countries/regions practise Mediterranean type of agriculture ?
+- [Prelims 2025 · GS Q72](../../past-papers/pre_2025_GS.md#q72) — Which of the following is not a breed of cow ?
+- [Prelims 2021 · GS Q22](../../past-papers/pre_2021_GS.md#q22) — India recently announced a second phase of Cotton Technical Assistance Programme for African countries. Choose the correct statements among the following :
+- [Prelims 2021 · GS Q54](../../past-papers/pre_2021_GS.md#q54) — Commission for Agriculture Costs and Prices (CACP) submits its recommendation for MSPs of agricultural commodities in form of Price Policy Reports. Consider the  
+  ↻ *Same theme also asked:* [Prelims 2018 · GS Q48](../../past-papers/pre_2018_GS.md#q48)
+- [Prelims 2021 · GS Q88](../../past-papers/pre_2021_GS.md#q88) — Choose the incorrect statements :
+- [Prelims 2021 · GS Q89](../../past-papers/pre_2021_GS.md#q89) — Choose the correct statements :
+- [Prelims 2018 · GS Q22](../../past-papers/pre_2018_GS.md#q22) — Which of the following crops are cultivated in the equatorial regions ?
+- [Prelims 2018 · GS Q48](../../past-papers/pre_2018_GS.md#q48) — Who recommends the Minimum Support Price (MSP) and Issue Price ?  
+  ↻ *Same theme also asked:* [Prelims 2021 · GS Q54](../../past-papers/pre_2021_GS.md#q54)
+- [Prelims 2018 · GS Q56](../../past-papers/pre_2018_GS.md#q56) — With reference to the Zero Hunger Programme, consider the following statements :
+
 ## Practice MCQs (12)
 
 **1.** In land-use classification, 'fallow land other than current fallow' has been left uncultivated for:
@@ -145,6 +164,8 @@ Expect questions on land-use categories (definitions of fallow and culturable wa
 **(d) Cotton** — Cotton is a kharif crop (sown June-July, harvested Oct-Dec). Wheat, mustard and gram are rabi crops sown in Oct-Nov, which is why they are the wrong options.
 
 </details>
+
+*Like a real PPSC question: [Prelims 2021 · GS Q22](../../past-papers/pre_2021_GS.md#q22)*
 
 **3.** Consider the statements:  
 1. Zaid crops are grown during the winter season.  

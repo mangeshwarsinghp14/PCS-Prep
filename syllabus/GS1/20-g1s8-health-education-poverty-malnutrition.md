@@ -1,6 +1,6 @@
 # Health, education, poverty, malnutrition
 
-**Paper 4 — GS I: History, Geography, Society** › Society · Subject: GS I — History, Geography, Society · Priority: High
+**Paper 4 — GS I: History, Geography, Society** › Society · Subject: GS I — History, Geography, Society · Priority: High · **Asked by PPSC: 🔁 4× (’18 ’21)**
 
 > Official syllabus line: Issues relating to development and management of social sector – health, education, human resources; issues relating to poverty and malnutrition.
 
@@ -125,6 +125,20 @@ Questions pair a social-sector issue (malnutrition, learning outcomes, health fi
 - Economic Survey of India (social infrastructure and employment chapters)
 - National Education Policy 2020 document
 - Punjab Economic Survey 2025-26 (health and education chapters)
+
+## Asked in PPSC papers — 4 times (in 2 of 3 recent exams)
+
+| Paper | Years asked |
+|---|---|
+| Mains GS1 | 2018, 2021 (×2) |
+| Mains GS2 | 2018 |
+
+- [Mains 2021 · GS1 Q13](../../past-papers/mains_2021_GS1.md#q13) — Critically evaluate the impact of policy interventions for women and child health in context of recent findings of National Family Health Survey 2019-20.
+- [Mains 2021 · GS1 Q15](../../past-papers/mains_2021_GS1.md#q15) — Critically evaluate the role of New Education Policy 2020 in context of inclusive education.  
+  ↻ *Same theme also asked:* [Mains 2018 · GS2 Q14(b)](../../past-papers/mains_2018_GS2.md#q14-b)
+- [Mains 2018 · GS2 Q14(b)](../../past-papers/mains_2018_GS2.md#q14-b) — Suggest steps to make education more inclusive for the deprived stratum of the society.  
+  ↻ *Same theme also asked:* [Mains 2021 · GS1 Q15](../../past-papers/mains_2021_GS1.md#q15)
+- [Mains 2018 · GS1 Q14(b)](../../past-papers/mains_2018_GS1.md#q14-b) — Write short note on: Poverty breeds poverty.
 
 ## Mains practice questions (3)
 

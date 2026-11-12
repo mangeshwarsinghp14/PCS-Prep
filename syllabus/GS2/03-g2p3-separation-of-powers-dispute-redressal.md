@@ -1,6 +1,6 @@
 # Separation of powers, dispute redressal
 
-**Paper 5 — GS II: Constitution, Polity, Governance, IR** › Constitution & Polity · Subject: GS II — Constitution, Polity, Governance, IR · Priority: Medium
+**Paper 5 — GS II: Constitution, Polity, Governance, IR** › Constitution & Polity · Subject: GS II — Constitution, Polity, Governance, IR · Priority: Medium · **Asked by PPSC: 🔁 2× (’18 ’26)**
 
 > Official syllabus line: Separation of powers between various organs; dispute redressal mechanisms and institutions.
 
@@ -124,6 +124,15 @@ Questions test whether India follows 'functional' rather than rigid separation, 
 - 2nd ARC 4th Report 'Ethics in Governance' and Law Commission reports on tribunals and ADR
 - PRS Legislative Research — Tribunals Reforms Act 2021 and Mediation Act 2023 summaries
 - NCERT Class 11 Indian Constitution at Work Ch 6 (Judiciary)
+
+## Asked in PPSC papers — 2 times (in 2 of 3 recent exams)
+
+| Paper | Years asked |
+|---|---|
+| Mains GS2 | 2018, 2026 |
+
+- [Mains 2026 · GS2 Q8](../../past-papers/mains_2026_GS2.md#q8) — Justify the filing of large numbers of Public Interest Litigations (PILs) in the context of Separation of Powers.
+- [Mains 2018 · GS2 Q5](../../past-papers/mains_2018_GS2.md#q5) — Explain the meaning of judicial activism. Discuss the need of judicial activism in restructuring the administrative requirement in India.
 
 ## Mains practice questions (3)
 

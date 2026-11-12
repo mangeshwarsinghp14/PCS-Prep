@@ -1,6 +1,6 @@
 # Federalism & devolution
 
-**Paper 5 — GS II: Constitution, Polity, Governance, IR** › Constitution & Polity · Subject: GS II — Constitution, Polity, Governance, IR · Priority: High
+**Paper 5 — GS II: Constitution, Polity, Governance, IR** › Constitution & Polity · Subject: GS II — Constitution, Polity, Governance, IR · Priority: High · **Asked by PPSC: 🔥 5× (’18 ’21 ’26)**
 
 > Official syllabus line: Functions and responsibilities of Union and States, issues and challenges of federal structure, devolution of powers and finances up to local levels and challenges therein.
 
@@ -130,6 +130,19 @@ Expect 'cooperative vs confrontational federalism', Governor's role, fiscal fede
 - Report of the 16th Finance Commission (2026–31) summary, PIB / Ministry of Finance
 - Punchhi Commission Report Vol. 1–2 (2010)
 - PRS Legislative Research — State Finances reports
+
+## Asked in PPSC papers — 5 times 🔥 (in every recent exam)
+
+| Paper | Years asked |
+|---|---|
+| Mains GS2 | 2018, 2021, 2026 (×2) |
+| Mains GS3 | 2018 |
+
+- [Mains 2026 · GS2 Q6](../../past-papers/mains_2026_GS2.md#q6) — Discuss the "Accommodative Spirit of Federalism" inherent in the 101st Constitutional Amendment Act.
+- [Mains 2026 · GS2 Q12](../../past-papers/mains_2026_GS2.md#q12) — The Indian Constitution envisages an independent state legislature but political centralization often curtails it. Critically examine how political dynamics and
+- [Mains 2021 · GS2 Q3](../../past-papers/mains_2021_GS2.md#q3) — Analyse the major issues creating tension in relationship between the Centre and the States with reference to recent controversies.
+- [Mains 2018 · GS3 Q1](../../past-papers/mains_2018_GS3.md#q1) — Critically explain the financial relationship between the Centre and the States against the backdrop of the recommendations of 14th Finance Commission.
+- [Mains 2018 · GS2 Q4](../../past-papers/mains_2018_GS2.md#q4) — "Federal principle is one of the basic features of Indian Constitution but it is equally true that federalism under the Indian Constitution leans in favour of a
 
 ## Mains practice questions (3)
 

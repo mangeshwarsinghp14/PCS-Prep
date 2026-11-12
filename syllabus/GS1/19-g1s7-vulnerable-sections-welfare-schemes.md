@@ -1,6 +1,6 @@
 # Vulnerable sections & welfare schemes
 
-**Paper 4 — GS I: History, Geography, Society** › Society · Subject: GS I — History, Geography, Society · Priority: High
+**Paper 4 — GS I: History, Geography, Society** › Society · Subject: GS I — History, Geography, Society · Priority: High · **Asked by PPSC: 🔁 1× (’18)**
 
 > Official syllabus line: Vulnerable sections of the population – welfare schemes by the Centre and State of Punjab and their performance; mechanisms, laws, institutions and bodies for their protection and betterment.
 
@@ -120,6 +120,14 @@ Questions ask to evaluate schemes or protective mechanisms for a named vulnerabl
 - Punjab Economic Survey 2025-26 (social sector chapter) and Punjab Budget 2026-27 documents
 - M. Laxmikanth, 'Indian Polity' (chapters on NCSC, NCST, NCBC)
 - PRS Legislative Research scheme and bill analyses
+
+## Asked in PPSC papers — 1 time (in 1 of 3 recent exams)
+
+| Paper | Years asked |
+|---|---|
+| Mains GS2 | 2018 |
+
+- [Mains 2018 · GS2 Q15(b)](../../past-papers/mains_2018_GS2.md#q15-b) — Explain the three major legislative measures for the women empowerment in India.
 
 ## Mains practice questions (3)
 

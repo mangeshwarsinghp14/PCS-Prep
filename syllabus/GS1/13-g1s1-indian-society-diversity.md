@@ -1,6 +1,6 @@
 # Indian society & diversity
 
-**Paper 4 — GS I: History, Geography, Society** › Society · Subject: GS I — History, Geography, Society · Priority: Medium
+**Paper 4 — GS I: History, Geography, Society** › Society · Subject: GS I — History, Geography, Society · Priority: Medium · **Asked by PPSC: 🔥 3× (’18 ’21 ’26)**
 
 > Official syllabus line: Salient features of Indian society, diversity of India.
 
@@ -128,9 +128,21 @@ Questions test the 'unity in diversity' theme, persistence and change of caste a
 - M.N. Srinivas, 'Social Change in Modern India'
 - Census of India 2011 - Primary Census Abstract and C-16 language tables
 
+## Asked in PPSC papers — 3 times 🔥 (in every recent exam)
+
+| Paper | Years asked |
+|---|---|
+| Mains GS1 | 2018, 2021, 2026 |
+
+- [Mains 2026 · GS1 Q20](../../past-papers/mains_2026_GS1.md#q20) — Caste in India functions as a system of hierarchy and exploitation rather than merely a form of social stratification. Critically analyse.
+- [Mains 2021 · GS1 Q11](../../past-papers/mains_2021_GS1.md#q11) — Analyse the changing trends of Caste System prevalent in Indian Society.
+- [Mains 2018 · GS1 Q12(b)](../../past-papers/mains_2018_GS1.md#q12-b) — Write short note on: Is diversity under threat in India?
+
 ## Mains practice questions (3)
 
 **1.** 'Unity in diversity is the essence of Indian society.' Examine the factors that sustain unity amidst India's diversity. (250 words)
+
+*Like a real PPSC question: [Mains 2018 · GS1 Q12(b)](../../past-papers/mains_2018_GS1.md#q12-b)*
 
 <details><summary>Answer outline</summary>
 
@@ -158,6 +170,8 @@ Questions test the 'unity in diversity' theme, persistence and change of caste a
 </details>
 
 **3.** India's linguistic diversity is both an asset and a challenge. Discuss. (150 words)
+
+*Like a real PPSC question: [Mains 2018 · GS1 Q12(b)](../../past-papers/mains_2018_GS1.md#q12-b)*
 
 <details><summary>Answer outline</summary>
 

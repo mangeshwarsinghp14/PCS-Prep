@@ -1,6 +1,6 @@
 # World physical geography, resources, industry location
 
-**Paper 4 — GS I: History, Geography, Society** › Geography · Subject: GS I — History, Geography, Society · Priority: Medium
+**Paper 4 — GS I: History, Geography, Society** › Geography · Subject: GS I — History, Geography, Society · Priority: Medium · **Asked by PPSC: 🔥 7× (’18 ’21 ’26)**
 
 > Official syllabus line: Salient features of world's physical geography. Distribution of key natural resources across the world (including South Asia and the Indian subcontinent); factors responsible for the location of primary, secondary, and tertiary sector industries.
 
@@ -129,6 +129,20 @@ Questions ask for location factors of specific industries, distribution of resou
 - NCERT Class 12 'Fundamentals of Human Geography' (Ch on primary, secondary and tertiary activities)
 - G.C. Leong, 'Certificate Physical and Human Geography'
 - NCERT Class 12 'India: People and Economy' (minerals and manufacturing)
+
+## Asked in PPSC papers — 7 times 🔥 (in every recent exam)
+
+| Paper | Years asked |
+|---|---|
+| Mains GS1 | 2018 (×4), 2021 (×2), 2026 |
+
+- [Mains 2026 · GS1 Q6](../../past-papers/mains_2026_GS1.md#q6) — "The pharmaceutical industry in India has emerged as a global leader in generic medicines, with distinct regional clusters driving its growth." Explain and disc
+- [Mains 2021 · GS1 Q10(a)](../../past-papers/mains_2021_GS1.md#q10-a) — Write brief note on: Folding & Faulting.
+- [Mains 2021 · GS1 Q10(c)](../../past-papers/mains_2021_GS1.md#q10-c) — Write brief note on: Resource: A cultural concept.
+- [Mains 2018 · GS1 Q7](../../past-papers/mains_2018_GS1.md#q7) — Drainage pattern in Peninsular India is a result of its geological structure and topography. Elaborate.
+- [Mains 2018 · GS1 Q8](../../past-papers/mains_2018_GS1.md#q8) — How can the western triangle comprising of Ruhr and Flanders be comparable to Chotanagpur industrial belt in India? Bring out the salient features.
+- [Mains 2018 · GS1 Q9(a)](../../past-papers/mains_2018_GS1.md#q9-a) — Explain briefly: Soils and Vegetation are true index of climate.
+- [Mains 2018 · GS1 Q9(b)](../../past-papers/mains_2018_GS1.md#q9-b) — Explain briefly: Mechanism of plate tectonic.
 
 ## Mains practice questions (3)
 

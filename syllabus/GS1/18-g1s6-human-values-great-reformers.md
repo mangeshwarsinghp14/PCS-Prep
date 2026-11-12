@@ -1,6 +1,6 @@
 # Human values & great reformers
 
-**Paper 4 — GS I: History, Geography, Society** › Society · Subject: GS I — History, Geography, Society · Priority: High
+**Paper 4 — GS I: History, Geography, Society** › Society · Subject: GS I — History, Geography, Society · Priority: High · **Asked by PPSC: 🔥 4× (’18 ’21 ’26)**
 
 > Official syllabus line: Role of family, society and educational institutions in inculcating values; lessons from the lives and teachings of Gautam Buddha, Mahavira, Kabir, Guru Nanak, Swami Vivekananda, Jyotiba Phule, Ishwar Chandra Vidyasagar and Mahatma Gandhi.
 
@@ -128,9 +128,22 @@ PPSC asks the role of family/society/education in inculcating values and lessons
 - M.K. Gandhi, 'Hind Swaraj' and 'An Autobiography'
 - PSEB Class 11-12 'History of Punjab' (life and teachings of Guru Nanak)
 
+## Asked in PPSC papers — 4 times 🔥 (in every recent exam)
+
+| Paper | Years asked |
+|---|---|
+| Mains GS1 | 2018, 2021 (×2), 2026 |
+
+- [Mains 2026 · GS1 Q10](../../past-papers/mains_2026_GS1.md#q10) — Highlight the contributions of Shri Guru Nanak Dev Ji's philosophy in inculcating the values of an egalitarian and a just society.
+- [Mains 2021 · GS1 Q14(a)](../../past-papers/mains_2021_GS1.md#q14-a) — Highlight the contributions of Bhagat Kabir to the critique of social evils in the Indian society.
+- [Mains 2021 · GS1 Q14(b)](../../past-papers/mains_2021_GS1.md#q14-b) — Examine the relevance of the Gandhian model of social development and transformation in the present context.
+- [Mains 2018 · GS1 Q14(a)](../../past-papers/mains_2018_GS1.md#q14-a) — Write short note on: Are educational institutions failing in inculcating human values among the present generation?
+
 ## Mains practice questions (3)
 
 **1.** Discuss the role of family, society and educational institutions in inculcating values. Why do these institutions often fail? (250 words)
+
+*Like a real PPSC question: [Mains 2018 · GS1 Q14(a)](../../past-papers/mains_2018_GS1.md#q14-a)*
 
 <details><summary>Answer outline</summary>
 

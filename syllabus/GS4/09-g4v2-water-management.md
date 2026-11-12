@@ -1,6 +1,6 @@
 # Water management
 
-**Paper 7 — GS IV: S&T, Environment, Problem Solving** › Environment · Subject: GS IV — S&T, Environment, Problem solving · Priority: High
+**Paper 7 — GS IV: S&T, Environment, Problem Solving** › Environment · Subject: GS IV — S&T, Environment, Problem solving · Priority: High · **Asked by PPSC: 🔁 3× (’26)**
 
 > Official syllabus line: Water management – issues in India; present scenario; methods and importance of water conservation.
 
@@ -114,6 +114,16 @@ Punjab's groundwater crisis is a favourite PPSC theme; questions ask causes, con
 - Ministry of Jal Shakti annual report; Mihir Shah Committee report (2016)
 - Punjab Water Regulation and Development Authority website
 
+## Asked in PPSC papers — 3 times (in 1 of 3 recent exams)
+
+| Paper | Years asked |
+|---|---|
+| Mains GS4 | 2026 (×3) |
+
+- [Mains 2026 · GS4 Q1](../../past-papers/mains_2026_GS4.md#q1) — Mention two traditional water conservation methods practised in Punjab.
+- [Mains 2026 · GS4 Q12](../../past-papers/mains_2026_GS4.md#q12) — What are the causes of depletion of ground water in Punjab? Suggest the mitigation strategy to overcome it.
+- [Mains 2026 · GS4 Q13](../../past-papers/mains_2026_GS4.md#q13) — What is the Seechewal Model which transformed a sewage-filled drain back into a rejuvenated flowing river?
+
 ## Mains practice questions (3)
 
 **1.** Punjab is heading towards desertification due to groundwater over-exploitation. Analyse the causes and suggest a roadmap for sustainable water management. (250 words)
@@ -142,6 +152,8 @@ Punjab's groundwater crisis is a favourite PPSC theme; questions ask causes, con
 </details>
 
 **3.** Discuss traditional and modern methods of water conservation in India with examples. (150 words)
+
+*Like a real PPSC question: [Mains 2026 · GS4 Q1](../../past-papers/mains_2026_GS4.md#q1)*
 
 <details><summary>Answer outline</summary>
 

@@ -1,6 +1,6 @@
 # Agriculture & animal husbandry
 
-**Paper I — General Studies** › Punjab · Subject: Punjab Economy · Priority: High
+**Paper I — General Studies** › Punjab · Subject: Punjab Economy · Priority: High · **Asked by PPSC: 🔁 4× (’18 ’21)**
 
 > Official syllabus line: Economy: agriculture, animal husbandry.
 
@@ -124,6 +124,17 @@ PPSC asks GSVA share, Green Revolution firsts, PAU/GADVASU, crop–district belt
 - PAU Package of Practices for Kharif and Rabi Crops
 - NDDB/DAHD Basic Animal Husbandry Statistics
 - Johl Committee report (2002) summaries
+
+## Asked in PPSC papers — 4 times (in 2 of 3 recent exams)
+
+| Paper | Years asked |
+|---|---|
+| Prelims GS | 2018 (×3), 2021 |
+
+- [Prelims 2021 · GS Q81](../../past-papers/pre_2021_GS.md#q81) — Consider the following statements and choose the correct one(s).
+- [Prelims 2018 · GS Q11](../../past-papers/pre_2018_GS.md#q11) — Regarding the new MSP of Paddy declared by the Government in July 2018, which of the following statements are correct ?
+- [Prelims 2018 · GS Q59](../../past-papers/pre_2018_GS.md#q59) — Which insecticide is banned by the Punjab government for use in agriculture ?
+- [Prelims 2018 · GS Q98](../../past-papers/pre_2018_GS.md#q98) — With reference to the Memorandum of Understanding signed by Punjab government with the Indian Oil Corporation in January 2018, consider the following statements
 
 ## Practice MCQs (16)
 

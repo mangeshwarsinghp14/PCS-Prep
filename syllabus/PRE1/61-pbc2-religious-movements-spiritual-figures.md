@@ -1,6 +1,6 @@
 # Religious movements & spiritual figures
 
-**Paper I — General Studies** › Punjab · Subject: Punjab Society & Culture · Priority: High
+**Paper I — General Studies** › Punjab · Subject: Punjab Society & Culture · Priority: High · **Asked by PPSC: 🔁 1× (’25)**
 
 > Official syllabus line: Religious movements, major religions & spiritual personalities.
 
@@ -121,6 +121,14 @@ Founder–place–year matching (Namdhari 1857 Bhaini Sahib, Singh Sabha 1873, A
 - Kenneth W. Jones, Socio-Religious Reform Movements in British India
 - SGPC publications on the Gurdwara Reform movement
 - Census 2011 religion tables
+
+## Asked in PPSC papers — 1 time (in 1 of 3 recent exams)
+
+| Paper | Years asked |
+|---|---|
+| Prelims GS | 2025 |
+
+- [Prelims 2025 · GS Q95](../../past-papers/pre_2025_GS.md#q95) — Consider the following statements :
 
 ## Practice MCQs (16)
 

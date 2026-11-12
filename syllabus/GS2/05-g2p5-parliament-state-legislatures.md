@@ -1,6 +1,6 @@
 # Parliament & State Legislatures
 
-**Paper 5 — GS II: Constitution, Polity, Governance, IR** › Constitution & Polity · Subject: GS II — Constitution, Polity, Governance, IR · Priority: Medium
+**Paper 5 — GS II: Constitution, Polity, Governance, IR** › Constitution & Polity · Subject: GS II — Constitution, Polity, Governance, IR · Priority: Medium · **Asked by PPSC: 🔥 4× (’18 ’21 ’26)**
 
 > Official syllabus line: Parliament and State Legislatures – structure, functioning, conduct of business, powers & privileges and issues arising out of these.
 
@@ -121,6 +121,19 @@ Common angles: declining deliberation, misuse of Money Bill/ordinances, anti-def
 - PRS Legislative Research — Vital Stats on Parliament sessions
 - Subhash C. Kashyap, Our Parliament
 - NCERT Class 11 Indian Constitution at Work Ch 5 (Legislature)
+
+## Asked in PPSC papers — 4 times 🔥 (in every recent exam)
+
+| Paper | Years asked |
+|---|---|
+| Mains GS2 | 2018, 2021 (×2), 2026 |
+
+- [Mains 2026 · GS2 Q3](../../past-papers/mains_2026_GS2.md#q3) — "Parliamentary neutrality rests on the impartial functioning of the Speaker of the Lok Sabha." Discuss.  
+  ↻ *Same theme also asked:* [Mains 2018 · GS2 Q3(a)](../../past-papers/mains_2018_GS2.md#q3-a)
+- [Mains 2021 · GS2 Q4](../../past-papers/mains_2021_GS2.md#q4) — The phenomenon of political defections in India has assumed large proportions in recent years. Bring out the factors responsible for this. Is it right to say th
+- [Mains 2021 · GS2 Q6](../../past-papers/mains_2021_GS2.md#q6) — The strength of any modern democracy is based on the deliberative functions of the Parliament. How do you evaluate the role of Indian Parliament as a deliberati
+- [Mains 2018 · GS2 Q3(a)](../../past-papers/mains_2018_GS2.md#q3-a) — Identify the major hindrances in the functioning of parliamentary democracy in India.  
+  ↻ *Same theme also asked:* [Mains 2026 · GS2 Q3](../../past-papers/mains_2026_GS2.md#q3)
 
 ## Mains practice questions (3)
 

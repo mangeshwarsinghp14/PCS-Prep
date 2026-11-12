@@ -1,6 +1,6 @@
 # Elections, RPA, electoral reforms
 
-**Paper I — General Studies** › Indian Polity · Subject: Indian Polity · Priority: Medium
+**Paper I — General Studies** › Indian Polity · Subject: Indian Polity · Priority: Medium · **Asked by PPSC: 🔥 3× (’18 ’21 ’25)**
 
 > Official syllabus line: Elections – People's Representation Act, electoral reforms.
 
@@ -135,6 +135,16 @@ PPSC/UPSC test articles of Part XV, which Act (1950 vs 1951) covers what, landma
 - NCERT Class 11 'Indian Constitution at Work' Ch 3 (Election and Representation)
 - ECI website (eci.gov.in) and PRS Legislative Research summaries of election law amendments
 
+## Asked in PPSC papers — 3 times 🔥 (in every recent exam)
+
+| Paper | Years asked |
+|---|---|
+| Prelims GS | 2018, 2021, 2025 |
+
+- [Prelims 2025 · GS Q78](../../past-papers/pre_2025_GS.md#q78) — In context of elections, consider the following statements regarding VVPAT :
+- [Prelims 2021 · GS Q39](../../past-papers/pre_2021_GS.md#q39) — Which of the following is not a provision of the Representation of the People Act, 1950 ?
+- [Prelims 2018 · GS Q33](../../past-papers/pre_2018_GS.md#q33) — Which of the following is not the essential condition for a political party to be recognized as a national party ?
+
 ## Practice MCQs (12)
 
 **1.** NOTA was introduced in Indian elections following the judgment in:
@@ -256,6 +266,8 @@ Which of the statements given above is/are correct?
 **(d) 1, 2 and 3** — Any one of the three conditions is enough.
 
 </details>
+
+*Like a real PPSC question: [Prelims 2018 · GS Q33](../../past-papers/pre_2018_GS.md#q33)*
 
 **10.** The Law Commission report that recommended disqualification of candidates on framing of charges for serious offences, with safeguards, is the:
 

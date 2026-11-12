@@ -1,6 +1,6 @@
 # IT, space, robotics, nanotech
 
-**Paper 7 — GS IV: S&T, Environment, Problem Solving** › Science & Technology · Subject: GS IV — S&T, Environment, Problem solving · Priority: High
+**Paper 7 — GS IV: S&T, Environment, Problem Solving** › Science & Technology · Subject: GS IV — S&T, Environment, Problem solving · Priority: High · **Asked by PPSC: 🔥 10× (’18 ’21 ’26)**
 
 > Official syllabus line: Recent developments in IT, space, computers, robotics, nano-technology etc.
 
@@ -130,6 +130,23 @@ Questions combine 'recent developments' with 'applications and concerns'; marks 
 - DST Nano Mission webpage; Spectrum/Agrahari S&T book
 - The Hindu / Indian Express explainers on AI regulation
 
+## Asked in PPSC papers — 10 times 🔥 (in every recent exam)
+
+| Paper | Years asked |
+|---|---|
+| Mains GS4 | 2018 (×4), 2021 (×4), 2026 (×2) |
+
+- [Mains 2026 · GS4 Q5](../../past-papers/mains_2026_GS4.md#q5) — What is the objective of National Quantum Mission? Mention two practical uses of quantum technology for India.
+- [Mains 2026 · GS4 Q8](../../past-papers/mains_2026_GS4.md#q8) — Discuss India's recent advancements in supercomputing and Artificial Intelligence. How can these technologies support disaster prediction and early warning syst
+- [Mains 2021 · GS4 Q1](../../past-papers/mains_2021_GS4.md#q1) — Analyse the role of the private sector in proposed Draft Spacecom Policy 2020 for reforming the Indian space sector.
+- [Mains 2021 · GS4 Q7](../../past-papers/mains_2021_GS4.md#q7) — "Data is the fuel to keep moving the industry 4.0"- elaborate. What is big data and discuss the technological components associated with it. Critically analyse 
+- [Mains 2021 · GS4 Q10(d)](../../past-papers/mains_2021_GS4.md#q10-d) — Write short note on: Antiviral nano-coatings on anti-Covid-19 face masks.
+- [Mains 2021 · GS4 Q10(e)](../../past-papers/mains_2021_GS4.md#q10-e) — Write short note on: HL-2M Tokamak reactor.
+- [Mains 2018 · GS4 Q5(a)](../../past-papers/mains_2018_GS4.md#q5-a) — Write a note on Li-Fi and differentiate between Li-Fi and Wi-Fi.
+- [Mains 2018 · GS4 Q5(b)](../../past-papers/mains_2018_GS4.md#q5-b) — The discovery of graphene, a form of carbon, is thought to be a wonder material, which will change the world in many ways. Write a short note on 'Graphene' and 
+- [Mains 2018 · GS4 Q6(a)](../../past-papers/mains_2018_GS4.md#q6-a) — Write short note on: Role of robotics in medical science.
+- [Mains 2018 · GS4 Q7](../../past-papers/mains_2018_GS4.md#q7) — What is IRS (Indian Remote Sensing) satellite system and what role can it play in conservation of biodiversity and in drought monitoring and assessment. How far
+
 ## Mains practice questions (3)
 
 **1.** Discuss the opportunities and risks of artificial intelligence for governance in India. What regulatory approach would you recommend? (250 words)
@@ -147,6 +164,8 @@ Questions combine 'recent developments' with 'applications and concerns'; marks 
 </details>
 
 **2.** Explain how the opening of the space sector to private players has changed India's space ecosystem. (150 words)
+
+*Like a real PPSC question: [Mains 2021 · GS4 Q1](../../past-papers/mains_2021_GS4.md#q1)*
 
 <details><summary>Answer outline</summary>
 

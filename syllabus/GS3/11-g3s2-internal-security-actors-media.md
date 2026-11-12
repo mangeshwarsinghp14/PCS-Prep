@@ -1,6 +1,6 @@
 # Internal security actors & media
 
-**Paper 6 — GS III: Economy, Statistics, Security** › Security · Subject: GS III — Economy, Statistics, Security · Priority: High
+**Paper 6 — GS III: Economy, Statistics, Security** › Security · Subject: GS III — Economy, Statistics, Security · Priority: High · **Asked by PPSC: 🔁 3× (’18 ’26)**
 
 > Official syllabus line: Role of external, state and non-state actors in internal security challenges; challenges through communication networks; role of media and social networking sites.
 
@@ -126,6 +126,16 @@ Expect questions on state vs non-state actors, social media and radicalisation, 
 - Ministry of Home Affairs Annual Report
 - 2nd ARC 8th Report 'Combating Terrorism'
 - IT Act 2000 and IT (Intermediary Guidelines and Digital Media Ethics Code) Rules 2021 (official texts)
+
+## Asked in PPSC papers — 3 times (in 2 of 3 recent exams)
+
+| Paper | Years asked |
+|---|---|
+| Mains GS3 | 2018 (×2), 2026 |
+
+- [Mains 2026 · GS3 Q18](../../past-papers/mains_2026_GS3.md#q18) — Digital radicalization has transformed the nature of extremism in India. Elaborate how online extremism and digital propaganda affect India's national security.
+- [Mains 2018 · GS3 Q11(b)](../../past-papers/mains_2018_GS3.md#q11-b) — What is Hologrammatic Terrorism? Explain the challenges of asymmetric war against India.
+- [Mains 2018 · GS3 Q12(a)](../../past-papers/mains_2018_GS3.md#q12-a) — Elaborate the relationship between Media (both print & electronic) and National Security.
 
 ## Mains practice questions (3)
 

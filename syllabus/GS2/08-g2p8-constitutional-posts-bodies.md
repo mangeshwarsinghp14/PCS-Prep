@@ -1,6 +1,6 @@
 # Constitutional posts & bodies
 
-**Paper 5 — GS II: Constitution, Polity, Governance, IR** › Constitution & Polity · Subject: GS II — Constitution, Polity, Governance, IR · Priority: Medium
+**Paper 5 — GS II: Constitution, Polity, Governance, IR** › Constitution & Polity · Subject: GS II — Constitution, Polity, Governance, IR · Priority: Medium · **Asked by PPSC: 🔁 2× (’18 ’21)**
 
 > Official syllabus line: Appointment to various constitutional posts; powers, functions and responsibilities of constitutional bodies.
 
@@ -114,9 +114,20 @@ Asked as 'independence of constitutional bodies' (ECI, CAG, UPSC), appointment c
 - CAG of India website — State Finances Audit Reports (Punjab)
 - 2nd ARC 4th Report 'Ethics in Governance'
 
+## Asked in PPSC papers — 2 times (in 2 of 3 recent exams)
+
+| Paper | Years asked |
+|---|---|
+| Mains GS2 | 2018, 2021 |
+
+- [Mains 2021 · GS2 Q7](../../past-papers/mains_2021_GS2.md#q7) — Independence of the Election Commission is a pre-condition for holding free and fair elections. Critically analyse the constitutional safeguards for the imparti
+- [Mains 2018 · GS2 Q8(a)](../../past-papers/mains_2018_GS2.md#q8-a) — Discuss the recent challenges before the Election Commission of India with special reference to the ongoing controversy related to the Electronic Voting Machine
+
 ## Mains practice questions (3)
 
 **1.** "The independence of constitutional bodies is the safeguard of constitutional democracy." Discuss with reference to the Election Commission and the CAG. (250 words)
+
+*Like a real PPSC question: [Mains 2021 · GS2 Q7](../../past-papers/mains_2021_GS2.md#q7)*
 
 <details><summary>Answer outline</summary>
 

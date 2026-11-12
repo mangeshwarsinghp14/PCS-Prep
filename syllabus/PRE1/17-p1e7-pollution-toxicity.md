@@ -1,6 +1,6 @@
 # Pollution & toxicity
 
-**Paper I — General Studies** › Environmental Studies · Subject: Environment · Priority: High
+**Paper I — General Studies** › Environmental Studies · Subject: Environment · Priority: High · **Asked by PPSC: 🔥 9× (’18 ’21 ’25)**
 
 > Official syllabus line: Pollution and toxicity etc.
 
@@ -137,6 +137,22 @@ Expect questions matching pollutants to diseases or sources, smog types, convent
 - CPCB website (NAAQS, AQI, NCAP)
 - Punjab Pollution Control Board annual reports
 
+## Asked in PPSC papers — 9 times 🔥 (in every recent exam)
+
+| Paper | Years asked |
+|---|---|
+| Prelims GS | 2018 (×3), 2021 (×5), 2025 |
+
+- [Prelims 2025 · GS Q60](../../past-papers/pre_2025_GS.md#q60) — Consider the following statements about microplastics :
+- [Prelims 2021 · GS Q8](../../past-papers/pre_2021_GS.md#q8) — The Ministry of Environment, Forest and Climate Change recently published the draft Environment Impact Assessment (EIA) Notification, 2020. Which of the followi
+- [Prelims 2021 · GS Q30](../../past-papers/pre_2021_GS.md#q30) — Consider the following statements regarding Styrene gas leakage from LG Polymers Plant in Vishakhapatnam, Andhra Pradesh :
+- [Prelims 2021 · GS Q61](../../past-papers/pre_2021_GS.md#q61) — Mesothelioma is a malignant tumour that is caused by
+- [Prelims 2021 · GS Q62](../../past-papers/pre_2021_GS.md#q62) — Three-way catalytic converter is used in vehicles to reduce
+- [Prelims 2021 · GS Q66](../../past-papers/pre_2021_GS.md#q66) — The symbol of Indian ecomark is
+- [Prelims 2018 · GS Q1](../../past-papers/pre_2018_GS.md#q1) — The element which is generally absorbed by plants along with Zn and causes "Ouch Ouch" disease in human beings is
+- [Prelims 2018 · GS Q3](../../past-papers/pre_2018_GS.md#q3) — What is meant by the term "Oilzapper" that we frequently hear in the news ?
+- [Prelims 2018 · GS Q7](../../past-papers/pre_2018_GS.md#q7) — Compounds of ______ cause Minamata disease.
+
 ## Practice MCQs (12)
 
 **1.** Minamata disease is caused by poisoning from:
@@ -151,6 +167,8 @@ Expect questions matching pollutants to diseases or sources, smog types, convent
 **(b) Mercury** — Methylmercury discharged into Minamata Bay (Japan) contaminated fish eaten by people.
 
 </details>
+
+*Like a real PPSC question: [Prelims 2018 · GS Q7](../../past-papers/pre_2018_GS.md#q7)*
 
 **2.** Which gas leaked in the Bhopal gas tragedy of 1984?
 
@@ -275,6 +293,8 @@ Which of the statements given above are correct?
 **(c) 2018** — The convention was adopted in 2013, entered into force in 2017 and India ratified in 2018.
 
 </details>
+
+*Like a real PPSC question: [Prelims 2018 · GS Q7](../../past-papers/pre_2018_GS.md#q7)*
 
 **11.** Under CPCB's primary criteria for outdoor bathing water, dissolved oxygen should be at least:
 

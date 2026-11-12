@@ -4,6 +4,8 @@ Held 2021-04-01. 6 questions.
 
 Sources: [1](https://theiashub.com/upsc/punjab-pcs-previous-year-question-paper/) · [2](https://www.freejobalert.com/punjab-civil-services-2020/852429/) · [3](https://drive.google.com/file/d/1p1emWNs8Pd8aYTda5o4zuUXjBhInOsHT/view)
 
+<a id="q1"></a>
+
 **Q1.** Economics is too Important to be left to the Economists. *(50 marks, 800 words)*
 
 <details><summary>Model answer points</summary>
@@ -30,6 +32,10 @@ Sources: [1](https://theiashub.com/upsc/punjab-pcs-previous-year-question-paper/
 Topic: [notes](../syllabus/MES/01-es1-three-short-essays.md)
 
 </details>
+
+*Topic asked 24× (2018, 2021, 2026) 🔥*
+
+<a id="q2"></a>
 
 **Q2.** Indian Democracy is Increasingly becoming Hostage to Party Politics. *(50 marks, 800 words)*
 
@@ -58,6 +64,10 @@ Topic: [notes](../syllabus/MES/01-es1-three-short-essays.md)
 
 </details>
 
+*Topic asked 24× (2018, 2021, 2026) 🔥*
+
+<a id="q3"></a>
+
 **Q3.** Pandemic Times: Experiments with Different Models of Technology and Sociality. *(50 marks, 800 words)*
 
 <details><summary>Model answer points</summary>
@@ -83,6 +93,10 @@ Topic: [notes](../syllabus/MES/01-es1-three-short-essays.md)
 Topic: [notes](../syllabus/MES/01-es1-three-short-essays.md)
 
 </details>
+
+*Topic asked 24× (2018, 2021, 2026) 🔥*
+
+<a id="q4"></a>
 
 **Q4.** Agrarian Crisis in Punjab: Need for Sagacious Agro-Economic Policies. *(50 marks, 800 words)*
 
@@ -111,6 +125,10 @@ Topic: [notes](../syllabus/MES/01-es1-three-short-essays.md)
 
 </details>
 
+*Topic asked 24× (2018, 2021, 2026) 🔥*
+
+<a id="q5"></a>
+
 **Q5.** Ethics and Politics of Environment. *(50 marks, 800 words)*
 
 <details><summary>Model answer points</summary>
@@ -137,6 +155,10 @@ Topic: [notes](../syllabus/MES/01-es1-three-short-essays.md)
 
 </details>
 
+*Topic asked 24× (2018, 2021, 2026) 🔥*
+
+<a id="q6"></a>
+
 **Q6.** Indian Diaspora's Nativist Glance and Contribution. *(50 marks, 800 words)*
 
 <details><summary>Model answer points</summary>
@@ -162,3 +184,5 @@ Topic: [notes](../syllabus/MES/01-es1-three-short-essays.md)
 Topic: [notes](../syllabus/MES/01-es1-three-short-essays.md)
 
 </details>
+
+*Topic asked 24× (2018, 2021, 2026) 🔥*

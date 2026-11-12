@@ -1,6 +1,6 @@
 # French Revolution 1789
 
-**Paper I — General Studies** › History of India & World History · Subject: World History · Priority: Low
+**Paper I — General Studies** › History of India & World History · Subject: World History · Priority: Low · **Asked by PPSC: 🔁 1× (’18)**
 
 > Official syllabus line: The French Revolution 1789.
 
@@ -141,6 +141,14 @@ Questions focus on dates of key events (Bastille, Tennis Court Oath, Declaration
 - Arjun Dev, History of the World (old NCERT)
 - Jain and Mathur, World History (1500–1950)
 
+## Asked in PPSC papers — 1 time (in 1 of 3 recent exams)
+
+| Paper | Years asked |
+|---|---|
+| Prelims GS | 2018 |
+
+- [Prelims 2018 · GS Q74](../../past-papers/pre_2018_GS.md#q74) — Who wrote the "Discourse on the Origin of Inequality" ?
+
 ## Practice MCQs (12)
 
 **1.** The storming of the Bastille took place on:
@@ -168,6 +176,8 @@ Questions focus on dates of key events (Bastille, Tennis Court Oath, Declaration
 **(a) Jean-Jacques Rousseau** — Rousseau's Social Contract (1762) developed the idea of the general will.
 
 </details>
+
+*Like a real PPSC question: [Prelims 2018 · GS Q74](../../past-papers/pre_2018_GS.md#q74)*
 
 **3.** The Reign of Terror (1793–94) is associated with:
 

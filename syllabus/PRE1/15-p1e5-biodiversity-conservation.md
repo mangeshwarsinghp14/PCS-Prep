@@ -1,6 +1,6 @@
 # Biodiversity & conservation
 
-**Paper I — General Studies** › Environmental Studies · Subject: Environment · Priority: High
+**Paper I — General Studies** › Environmental Studies · Subject: Environment · Priority: High · **Asked by PPSC: 🔥 17× (’18 ’21 ’25)**
 
 > Official syllabus line: Biodiversity & conservation.
 
@@ -138,6 +138,30 @@ UPSC/PPSC frequently test in-situ vs ex-situ examples, convention-subject matchi
 - MoEFCC Annual Report and 'Status of Tigers' 2022 summary
 - Punjab Forest and Wildlife Preservation Department website
 
+## Asked in PPSC papers — 17 times 🔥 (in every recent exam)
+
+| Paper | Years asked |
+|---|---|
+| Prelims GS | 2018 (×4), 2021 (×6), 2025 (×7) |
+
+- [Prelims 2025 · GS Q38](../../past-papers/pre_2025_GS.md#q38) — Gambusia Affinis and Poecilia Reticulata, recently seen in the news, are species of which of the following ?
+- [Prelims 2025 · GS Q39](../../past-papers/pre_2025_GS.md#q39) — Consider the following statements regarding the Similipal Tiger Reserve :
+- [Prelims 2025 · GS Q52](../../past-papers/pre_2025_GS.md#q52) — Consider the following statements :
+- [Prelims 2025 · GS Q54](../../past-papers/pre_2025_GS.md#q54) — Consider the following statements :
+- [Prelims 2025 · GS Q55](../../past-papers/pre_2025_GS.md#q55) — Consider the following pairs of tiger reserves and the states where they are located :
+- [Prelims 2025 · GS Q58](../../past-papers/pre_2025_GS.md#q58) — Match the following biosphere reserves with the key fauna found there :
+- [Prelims 2025 · GS Q62](../../past-papers/pre_2025_GS.md#q62) — Given below are two statements :
+- [Prelims 2021 · GS Q4](../../past-papers/pre_2021_GS.md#q4) — Consider the following statements :
+- [Prelims 2021 · GS Q64](../../past-papers/pre_2021_GS.md#q64) — Read the following and choose the correct statement(s) :
+- [Prelims 2021 · GS Q65](../../past-papers/pre_2021_GS.md#q65) — Read the following and choose the correct statement(s) :
+- [Prelims 2021 · GS Q85](../../past-papers/pre_2021_GS.md#q85) — Choose the correct statement(s) :
+- [Prelims 2021 · GS Q86](../../past-papers/pre_2021_GS.md#q86) — Choose the correct statement(s) :
+- [Prelims 2021 · GS Q100](../../past-papers/pre_2021_GS.md#q100) — Which of the following organisms is/are considered as "Benthos" biotic community ?
+- [Prelims 2018 · GS Q5](../../past-papers/pre_2018_GS.md#q5) — International Union for Conservation of Nature (IUCN) considers a species to be 'critically endangered' if the spatial measure (extent of occurrence) is estimat
+- [Prelims 2018 · GS Q9](../../past-papers/pre_2018_GS.md#q9) — With reference to the Wildlife (Protection) Act 1972, consider the following statements :
+- [Prelims 2018 · GS Q13](../../past-papers/pre_2018_GS.md#q13) — India has given its approval to the Raptor MoU. Which of the following statements is/are true regarding Raptor MoU ?
+- [Prelims 2018 · GS Q14](../../past-papers/pre_2018_GS.md#q14) — Which of the following is true about Indian Vulture ?
+
 ## Practice MCQs (12)
 
 **1.** Which of the following is an example of ex-situ conservation?
@@ -165,6 +189,8 @@ UPSC/PPSC frequently test in-situ vs ex-situ examples, convention-subject matchi
 **(c) Access to genetic resources, benefit sharing** — Nagoya (2010) is on access and benefit sharing; Cartagena is on biosafety.
 
 </details>
+
+*Like a real PPSC question: [Prelims 2025 · GS Q54](../../past-papers/pre_2025_GS.md#q54)*
 
 **3.** Consider: 1. The '30x30' target is part of the Kunming-Montreal Global Biodiversity Framework. 2. The National Biodiversity Authority is located in Chennai. Which is/are correct?
 
@@ -231,6 +257,8 @@ UPSC/PPSC frequently test in-situ vs ex-situ examples, convention-subject matchi
 
 </details>
 
+*Like a real PPSC question: [Prelims 2025 · GS Q39](../../past-papers/pre_2025_GS.md#q39)*
+
 **8.** Consider the following statements: 1. Harike wetland lies at the confluence of the Ravi and Beas. 2. The Beas Conservation Reserve holds India's only known population of the Indus river dolphin. 3. Punjab has six Ramsar sites. Which of the statements given above are correct?
 
 (a) 1 and 2 only  
@@ -256,6 +284,8 @@ UPSC/PPSC frequently test in-situ vs ex-situ examples, convention-subject matchi
 **(d) Madhav (Madhya Pradesh)** — Ratapani and Guru Ghasidas–Tamor Pingla were notified in 2024.
 
 </details>
+
+*Like a real PPSC question: [Prelims 2025 · GS Q55](../../past-papers/pre_2025_GS.md#q55)*
 
 **10.** India's first nationwide river dolphin estimate (2025) recorded how many Indus river dolphins in Punjab?
 

@@ -1,6 +1,6 @@
 # American Revolution 1776
 
-**Paper I — General Studies** › History of India & World History · Subject: World History · Priority: Low
+**Paper I — General Studies** › History of India & World History · Subject: World History · Priority: Low · **Asked by PPSC: 🔁 2× (’18 ’21)**
 
 > Official syllabus line: The American Revolution 1776.
 
@@ -138,6 +138,15 @@ Expect sequence of acts and events, the author of the Declaration or Common Sens
 - Arjun Dev, History of the World (old NCERT)
 - Jain and Mathur, World History (1500–1950)
 - M. Laxmikanth, Indian Polity (sources of the Indian Constitution, for US borrowings)
+
+## Asked in PPSC papers — 2 times (in 2 of 3 recent exams)
+
+| Paper | Years asked |
+|---|---|
+| Prelims GS | 2018, 2021 |
+
+- [Prelims 2021 · GS Q77](../../past-papers/pre_2021_GS.md#q77) — What important influence did John Locke, Baron de Montesquieu, Jean-Jacques Rousseau and Voltaire have on the United States ?
+- [Prelims 2018 · GS Q73](../../past-papers/pre_2018_GS.md#q73) — In 1775, where was the first battle of the American Revolution fought, when a thousand British soldiers met the Colonial Militia ?
 
 ## Practice MCQs (12)
 

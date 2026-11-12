@@ -1,6 +1,6 @@
 # Application / letter, 200 words (10)
 
-**Paper 1 — Punjabi (Gurmukhi), 10+2 standard** › ਪੰਜਾਬੀ · Subject: Language papers (Punjabi & English) · Priority: Medium
+**Paper 1 — Punjabi (Gurmukhi), 10+2 standard** › ਪੰਜਾਬੀ · Subject: Language papers (Punjabi & English) · Priority: Medium · **Asked by PPSC: 🔁 2× (’21 ’26)**
 
 > Official syllabus line: ਅਰਜ਼ੀ ਜਾਂ ਪੱਤਰ (200 ਸ਼ਬਦ).
 
@@ -131,6 +131,15 @@ One formal application or letter (sometimes with a personal-letter option) of ab
 - PSEB Punjabi Vyakaran ate Lekh Rachna (ਪੱਤਰ ਅਤੇ ਅਰਜ਼ੀਆਂ chapter)
 - PSEB Class 11-12 Punjabi (Compulsory) grammar and composition book
 - PPSC Mains Punjabi previous papers
+
+## Asked in PPSC papers — 2 times (in 2 of 3 recent exams)
+
+| Paper | Years asked |
+|---|---|
+| Mains Punjabi | 2021, 2026 |
+
+- [Mains 2026 · Punjabi Q3](../../past-papers/mains_2026_PUN.md#q3) — ਪ੍ਰਸ਼ਨ 3: ਹੇਠਾਂ ਦਿੱਤੀ ਇਬਾਰਤ ਵਿੱਚੋਂ ਕਿਸੇ ਇਕ ਬਾਰੇ 200 ਸ਼ਬਦਾਂ ਵਿੱਚ ਪੱਤਰ ਲਿਖੋ:
+- [Mains 2021 · Punjabi Q3](../../past-papers/mains_2021_PUN.md#q3) — ਹੇਠ ਲਿਖਿਆਂ ਵਿਚੋਂ ਦੋ ਸੌ ਸ਼ਬਦਾਂ ਦਾ ਕੋਈ ਇੱਕ ਪੱਤਰ ਲਿਖੋ: 1) ਹੜ੍ਹਾਂ ਦੌਰਾਨ ਆਪਣੇ ਇਲਾਕੇ ਵਿਚ ਸਰਕਾਰ ਵਲੋਂ ਭੇਜੀ ਰਾਹਤ ਸਮੱਗਰੀ ਦੀ ਅਨੁਚਿਤ ਵੰਡ ਬਾਰੇ ਮੁੱਖ ਮੰਤਰੀ ਨੂੰ ਪੱਤਰ ਲਿਖੋ। 2) ਅ
 
 ## Mains practice questions (7)
 

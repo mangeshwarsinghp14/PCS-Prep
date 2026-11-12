@@ -1,6 +1,6 @@
 # Performance since 1991
 
-**Paper I — General Studies** › Indian Economy · Subject: Indian Economy · Priority: High
+**Paper I — General Studies** › Indian Economy · Subject: Indian Economy · Priority: High · **Asked by PPSC: 🔥 19× (’18 ’21 ’25)**
 
 > Official syllabus line: Performance of Indian economy since 1991 – growth, fiscal & revenue deficits, trade, commerce & balance of payments, inflation, growth of service sector.
 
@@ -148,6 +148,32 @@ Questions test definitions of deficits, components of BoP, inflation-targeting f
 - Economic Survey 2025-26 (Government of India) - statistical appendix and macro chapters
 - Ramesh Singh, Indian Economy - chapters on Public Finance, External Sector and Inflation
 - RBI Annual Report and Monetary Policy Report
+
+## Asked in PPSC papers — 19 times 🔥 (in every recent exam)
+
+| Paper | Years asked |
+|---|---|
+| Prelims GS | 2018 (×5), 2021 (×13), 2025 |
+
+- [Prelims 2025 · GS Q45](../../past-papers/pre_2025_GS.md#q45) — Consider the following statements as per NITI Aayog's 'Multidimensional Poverty in India since 2005-06' report :
+- [Prelims 2021 · GS Q41](../../past-papers/pre_2021_GS.md#q41) — Which out of the following sets of industries is not a part of the eight core industries in India ?
+- [Prelims 2021 · GS Q42](../../past-papers/pre_2021_GS.md#q42) — Which out of the following has been categorised as a Domestic Systematically Important Bank (D-SIB) as per the recent report the RBI ?
+- [Prelims 2021 · GS Q43](../../past-papers/pre_2021_GS.md#q43) — Which among the following is incorrect with respect to Payment Banks and Small Finance Banks in India ?
+- [Prelims 2021 · GS Q44](../../past-papers/pre_2021_GS.md#q44) — Consider the following pairings of Non-Performing Assets (NPA) classification in India with their descriptions :
+- [Prelims 2021 · GS Q45](../../past-papers/pre_2021_GS.md#q45) — Which among the following is the objective of the Cheque Truncation System (CTS) introduced by the RBI ?
+- [Prelims 2021 · GS Q46](../../past-papers/pre_2021_GS.md#q46) — Which out of the following is the largest network of shared ATMs in India, run by the National Payments Corporation of India ?
+- [Prelims 2021 · GS Q47](../../past-papers/pre_2021_GS.md#q47) — Credit Rating Agencies in India are regulated by which of the following entities ?
+- [Prelims 2021 · GS Q48](../../past-papers/pre_2021_GS.md#q48) — Which of the following statements is incorrect with respect to TReDS ?
+- [Prelims 2021 · GS Q49](../../past-papers/pre_2021_GS.md#q49) — Start-ups registered with the Department of Industrial Policy and Promotion of the Government of India are exempted from the payment of the "Angel Tax" with con
+- [Prelims 2021 · GS Q52](../../past-papers/pre_2021_GS.md#q52) — Which among the following are sources of non-tax revenue receipts for the Union Government ?
+- [Prelims 2021 · GS Q53](../../past-papers/pre_2021_GS.md#q53) — Consider the following statements with respect to Consumer Price Index and Wholesale Price Index in India :
+- [Prelims 2021 · GS Q55](../../past-papers/pre_2021_GS.md#q55) — Some suggest that India needs to move to an escrow-based payment mechanism to ensure a fearless business environment in the country. Which of the following corr
+- [Prelims 2021 · GS Q98](../../past-papers/pre_2021_GS.md#q98) — Which of the following is not a foreign bank in India ?
+- [Prelims 2018 · GS Q46](../../past-papers/pre_2018_GS.md#q46) — Deficit financing means that the government borrows money from the
+- [Prelims 2018 · GS Q52](../../past-papers/pre_2018_GS.md#q52) — Consider the following statements regarding Prime Minister's Economic Advisory Council (PMEAC) :
+- [Prelims 2018 · GS Q53](../../past-papers/pre_2018_GS.md#q53) — Which of the following is incorrect about the RBI Governor ?
+- [Prelims 2018 · GS Q55](../../past-papers/pre_2018_GS.md#q55) — Stagflation is a situation of
+- [Prelims 2018 · GS Q57](../../past-papers/pre_2018_GS.md#q57) — The seasonally adjusted Nikkei India Services Business Activity Index has shown robust growth in service sector in India. The index in May 2018 has risen to 52.
 
 ## Practice MCQs (12)
 

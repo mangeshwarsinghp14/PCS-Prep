@@ -1,6 +1,6 @@
 # Punjab economy — planning, industry, infrastructure
 
-**Paper 6 — GS III: Economy, Statistics, Security** › Indian Economy · Subject: GS III — Economy, Statistics, Security · Priority: High
+**Paper 6 — GS III: Economy, Statistics, Security** › Indian Economy · Subject: GS III — Economy, Statistics, Security · Priority: High · **Asked by PPSC: 🔥 4× (’18 ’21 ’26)**
 
 > Official syllabus line: Punjab Economy: planning – aspects of developmental planning; industry; infrastructure.
 
@@ -127,6 +127,17 @@ PPSC asks directly about Punjab's development model, industrial stagnation, fisc
 - Punjab Budget 2026-27 speech
 - Lakhwinder Singh and Sukhpal Singh (eds), Economic Transformation of a Developing Economy: The Experience of Punjab
 - Punjab Industrial and Business Development Policy 2022 document
+
+## Asked in PPSC papers — 4 times 🔥 (in every recent exam)
+
+| Paper | Years asked |
+|---|---|
+| Mains GS3 | 2018, 2021, 2026 (×2) |
+
+- [Mains 2026 · GS3 Q3](../../past-papers/mains_2026_GS3.md#q3) — Despite high literacy and educational attainments, the Female Workforce Participation Rate of Punjab remains unsatisfactory. Evaluate the statement critically.
+- [Mains 2026 · GS3 Q14](../../past-papers/mains_2026_GS3.md#q14) — Punjab's Manufacturing Sector is driven by Agro-Based and Textile Industries. Do you agree with this statement? Support your argument.
+- [Mains 2021 · GS3 Q7](../../past-papers/mains_2021_GS3.md#q7) — In the post economic reforms period, the slowdown of agriculture sector of Punjab has impacted and restricted the growth of other sectors of the economy which r
+- [Mains 2018 · GS3 Q5](../../past-papers/mains_2018_GS3.md#q5) — The Punjab economy has failed to remain competitive with many other developed states. Do you agree? Justify.
 
 ## Mains practice questions (3)
 

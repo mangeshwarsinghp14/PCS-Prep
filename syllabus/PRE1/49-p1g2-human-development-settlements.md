@@ -1,6 +1,6 @@
 # Human development & settlements
 
-**Paper I — General Studies** › Geography · Subject: Geography · Priority: Medium
+**Paper I — General Studies** › Geography · Subject: Geography · Priority: Medium · **Asked by PPSC: 🔁 1× (’25)**
 
 > Official syllabus line: Human development. Human settlements.
 
@@ -115,6 +115,14 @@ Expect conceptual questions on HDI components and pillars, census-town criteria,
 - NCERT Class 12 'Fundamentals of Human Geography' Ch 4 (Human Development)
 - UNDP Human Development Report 2025 (hdr.undp.org)
 
+## Asked in PPSC papers — 1 time (in 1 of 3 recent exams)
+
+| Paper | Years asked |
+|---|---|
+| Prelims GS | 2025 |
+
+- [Prelims 2025 · GS Q70](../../past-papers/pre_2025_GS.md#q70) — Consider the following statements about census town :
+
 ## Practice MCQs (12)
 
 **1.** The Human Development Index was first presented in the UNDP report of 1990 under the leadership of:
@@ -142,6 +150,8 @@ Expect conceptual questions on HDI components and pillars, census-town criteria,
 **(c) Population 5,000+, density 400+/sq km, 75%+ male main workers in non-farm work** — All three census-town conditions must be met.
 
 </details>
+
+*Like a real PPSC question: [Prelims 2025 · GS Q70](../../past-papers/pre_2025_GS.md#q70)*
 
 **3.** Local names like panna, para, palli, nagla and dhani refer to which type of rural settlement?
 

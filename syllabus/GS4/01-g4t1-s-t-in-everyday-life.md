@@ -1,6 +1,6 @@
 # S&T in everyday life
 
-**Paper 7 — GS IV: S&T, Environment, Problem Solving** › Science & Technology · Subject: GS IV — S&T, Environment, Problem solving · Priority: Medium
+**Paper 7 — GS IV: S&T, Environment, Problem Solving** › Science & Technology · Subject: GS IV — S&T, Environment, Problem solving · Priority: Medium · **Asked by PPSC: 🔁 2× (’21 ’26)**
 
 > Official syllabus line: Developments and applications of science and technology and their effects in everyday life.
 
@@ -123,6 +123,15 @@ Questions ask how a technology changes daily life or governance and its downside
 - PIB releases and India Year Book chapter on Science & Technology
 - Science Reporter (CSIR-NIScPR) monthly and The Hindu Science page
 - Digital Personal Data Protection Act 2023 (PRS Legislative Research summary)
+
+## Asked in PPSC papers — 2 times (in 2 of 3 recent exams)
+
+| Paper | Years asked |
+|---|---|
+| Mains GS4 | 2021, 2026 |
+
+- [Mains 2026 · GS4 Q6](../../past-papers/mains_2026_GS4.md#q6) — UPI is seen as India's IT achievement that affects daily life. Explain what UPI is and write two benefits and one major cyber risk.
+- [Mains 2021 · GS4 Q8](../../past-papers/mains_2021_GS4.md#q8) — Explain the underlying technology used in Driverless Cars and discuss the latest breakthroughs. Will electric vehicles succeed in India? Justify your answer.
 
 ## Mains practice questions (3)
 

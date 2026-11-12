@@ -1,6 +1,6 @@
 # Executive, judiciary, pressure groups
 
-**Paper 5 — GS II: Constitution, Polity, Governance, IR** › Constitution & Polity · Subject: GS II — Constitution, Polity, Governance, IR · Priority: Medium
+**Paper 5 — GS II: Constitution, Polity, Governance, IR** › Constitution & Polity · Subject: GS II — Constitution, Polity, Governance, IR · Priority: Medium · **Asked by PPSC: 🔁 1× (’26)**
 
 > Official syllabus line: Structure, organization and functioning of the Executive and the Judiciary; ministries and departments; pressure groups and formal/informal associations and their role in the polity.
 
@@ -125,6 +125,14 @@ Questions often ask about collegium vs NJAC, Governor/President discretion, role
 - NCERT Class 11 Indian Constitution at Work Ch 4 (Executive), Ch 6 (Judiciary); Class 12 Politics in India Since Independence Ch 7
 - 2nd ARC 13th Report 'Organisational Structure of Government of India'
 - Rudolph & Rudolph, In Pursuit of Lakshmi (for interest groups)
+
+## Asked in PPSC papers — 1 time (in 1 of 3 recent exams)
+
+| Paper | Years asked |
+|---|---|
+| Mains GS2 | 2026 |
+
+- [Mains 2026 · GS2 Q14](../../past-papers/mains_2026_GS2.md#q14) — Discuss the significance of pressure groups in shaping public policy and public opinion in India. Examine how digital platforms and social media have enhanced o
 
 ## Mains practice questions (3)
 

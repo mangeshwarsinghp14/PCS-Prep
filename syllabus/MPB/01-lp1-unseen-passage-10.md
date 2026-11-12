@@ -1,6 +1,6 @@
 # Unseen passage (10)
 
-**Paper 1 — Punjabi (Gurmukhi), 10+2 standard** › ਪੰਜਾਬੀ · Subject: Language papers (Punjabi & English) · Priority: Medium
+**Paper 1 — Punjabi (Gurmukhi), 10+2 standard** › ਪੰਜਾਬੀ · Subject: Language papers (Punjabi & English) · Priority: Medium · **Asked by PPSC: 🔁 1× (’26)**
 
 > Official syllabus line: ਅਣਡਿੱਠਾ ਪੈਰ੍ਹਾ — read the passage and answer questions.
 
@@ -114,6 +114,14 @@ A Punjabi passage of moderate length is followed by 4-5 short questions and ofte
 - PSEB Punjabi Vyakaran ate Lekh Rachna (Class 9-10)
 - Punjabi newspapers' editorial pages for daily practice
 - PPSC Mains Punjabi previous papers
+
+## Asked in PPSC papers — 1 time (in 1 of 3 recent exams)
+
+| Paper | Years asked |
+|---|---|
+| Mains Punjabi | 2026 |
+
+- [Mains 2026 · Punjabi Q1](../../past-papers/mains_2026_PUN.md#q1) — ਪ੍ਰਸ਼ਨ 1: ਹੇਠ ਲਿਖਿਆ ਪੈਰ੍ਹਾ ਧਿਆਨ ਨਾਲ ਪੜ੍ਹੋ ਅਤੇ ਪੁੱਛੇ ਪ੍ਰਸ਼ਨਾਂ ਦੇ ਉੱਤਰ ਦਿਓ। [Passage not reproduced — it contrasts ਯਥਾਰਥਵਾਦ (realism, a 19th-century literary move
 
 ## Mains practice questions (7)
 

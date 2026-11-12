@@ -1,6 +1,6 @@
 # Indian achievements & indigenisation
 
-**Paper 7 — GS IV: S&T, Environment, Problem Solving** › Science & Technology · Subject: GS IV — S&T, Environment, Problem solving · Priority: High
+**Paper 7 — GS IV: S&T, Environment, Problem Solving** › Science & Technology · Subject: GS IV — S&T, Environment, Problem solving · Priority: High · **Asked by PPSC: 🔁 2× (’21 ’26)**
 
 > Official syllabus line: Achievements of Indians in science & technology; indigenization of technology and developing new technology.
 
@@ -131,6 +131,15 @@ Expect questions on why India lags in R&D despite achievements and how to achiev
 - ISRO and DRDO websites (mission pages)
 - PIB releases on India Semiconductor Mission, National Quantum Mission, ANRF
 - Economic Survey chapter on R&D and innovation
+
+## Asked in PPSC papers — 2 times (in 2 of 3 recent exams)
+
+| Paper | Years asked |
+|---|---|
+| Mains GS4 | 2021, 2026 |
+
+- [Mains 2026 · GS4 Q7](../../past-papers/mains_2026_GS4.md#q7) — What is Anusandhan National Research Foundation (ANRF)? What is its role in promoting research and its linkage with industry?
+- [Mains 2021 · GS4 Q2](../../past-papers/mains_2021_GS4.md#q2) — Discuss the features and significance of the Hypersonic Technology Demonstration Vehicle (HSTDV).
 
 ## Mains practice questions (3)
 

@@ -1,6 +1,6 @@
 # Food processing
 
-**Paper 6 — GS III: Economy, Statistics, Security** › Indian Economy · Subject: GS III — Economy, Statistics, Security · Priority: Medium
+**Paper 6 — GS III: Economy, Statistics, Security** › Indian Economy · Subject: GS III — Economy, Statistics, Security · Priority: Medium · **Asked by PPSC: 🔁 2× (’18 ’26)**
 
 > Official syllabus line: Food processing and related industries – scope, significance, location, upstream and downstream requirements, supply chain management.
 
@@ -126,9 +126,20 @@ Questions test the syllabus keywords directly: scope, significance, location, up
 - Ramesh Singh, Indian Economy - Food Processing chapter
 - Punjab Economic Survey 2025-26 - Industry chapter
 
+## Asked in PPSC papers — 2 times (in 2 of 3 recent exams)
+
+| Paper | Years asked |
+|---|---|
+| Mains GS3 | 2018, 2026 |
+
+- [Mains 2026 · GS3 Q13](../../past-papers/mains_2026_GS3.md#q13) — Trace the scope for the food processing industry in India. In what way does it help the farmers to augment their income? What are the steps taken by the governm
+- [Mains 2018 · GS3 Q7(b)](../../past-papers/mains_2018_GS3.md#q7-b) — How can a primary producer gain while participating in the food processing industry?
+
 ## Mains practice questions (3)
 
 **1.** Food processing industry can be the bridge between agriculture and industry. Discuss its scope and significance in India, and identify the upstream and downstream requirements for its growth. (250 words)
+
+*Like a real PPSC question: [Mains 2026 · GS3 Q13](../../past-papers/mains_2026_GS3.md#q13), [Mains 2018 · GS3 Q7(b)](../../past-papers/mains_2018_GS3.md#q7-b)*
 
 <details><summary>Answer outline</summary>
 

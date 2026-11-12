@@ -1,6 +1,6 @@
 # Essay, 300 words (10)
 
-**Paper 2 — English, 10+2 standard** › English · Subject: Language papers (Punjabi & English) · Priority: Medium
+**Paper 2 — English, 10+2 standard** › English · Subject: Language papers (Punjabi & English) · Priority: Medium · **Asked by PPSC: 🔁 1× (’21)**
 
 > Official syllabus line: Essay writing (any general topic, 300 words).
 
@@ -113,6 +113,14 @@ A 10-mark, 300-word general essay rewards structure, relevance and clean languag
 - Wren & Martin, High School English Grammar and Composition (Essay-writing)
 - PSEB Class 12 English (General) workbook
 - Editorials in national English newspapers for arguments and vocabulary
+
+## Asked in PPSC papers — 1 time (in 1 of 3 recent exams)
+
+| Paper | Years asked |
+|---|---|
+| Mains English | 2021 |
+
+- [Mains 2021 · English Q4](../../past-papers/mains_2021_ENG.md#q4) — Write an essay on any one of the following in about 300 words: (a) Work from home during Pandemic: pros & cons (b) Unity is strength but uniformity could be dis
 
 ## Mains practice questions (7)
 

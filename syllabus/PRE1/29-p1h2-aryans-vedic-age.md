@@ -1,6 +1,6 @@
 # Aryans & Vedic age
 
-**Paper I — General Studies** › History of India & World History · Subject: Indian History · Priority: Medium
+**Paper I — General Studies** › History of India & World History · Subject: Indian History · Priority: Medium · **Asked by PPSC: 🔁 1× (’18)**
 
 > Official syllabus line: The Aryan and the Vedic age.
 
@@ -133,6 +133,14 @@ Typical questions: Vedic names of rivers, which Veda or mandala contains what, U
 - NCERT Class 6 Our Pasts I (chapter What Books and Burials Tell Us)
 - R.S. Sharma, India's Ancient Past (chapters on Rig Vedic and Later Vedic phases)
 - Upinder Singh, A History of Ancient and Early Medieval India
+
+## Asked in PPSC papers — 1 time (in 1 of 3 recent exams)
+
+| Paper | Years asked |
+|---|---|
+| Prelims GS | 2018 |
+
+- [Prelims 2018 · GS Q87](../../past-papers/pre_2018_GS.md#q87) — The story of Videh Madhav is narrated in
 
 ## Practice MCQs (12)
 

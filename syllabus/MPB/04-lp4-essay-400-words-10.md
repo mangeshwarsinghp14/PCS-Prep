@@ -1,6 +1,6 @@
 # Essay, 400 words (10)
 
-**Paper 1 — Punjabi (Gurmukhi), 10+2 standard** › ਪੰਜਾਬੀ · Subject: Language papers (Punjabi & English) · Priority: Medium
+**Paper 1 — Punjabi (Gurmukhi), 10+2 standard** › ਪੰਜਾਬੀ · Subject: Language papers (Punjabi & English) · Priority: Medium · **Asked by PPSC: 🔁 2× (’21 ’26)**
 
 > Official syllabus line: ਲੇਖ ਰਚਨਾ (400 ਸ਼ਬਦ).
 
@@ -114,6 +114,15 @@ One essay of about 400 words from a choice of general and Punjab-related topics.
 - PSEB Class 11-12 Punjabi (Compulsory) composition book
 - Punjabi newspaper editorials for arguments and vocabulary
 - Punjab Economic Survey 2025-26 for verified data
+
+## Asked in PPSC papers — 2 times (in 2 of 3 recent exams)
+
+| Paper | Years asked |
+|---|---|
+| Mains Punjabi | 2021, 2026 |
+
+- [Mains 2026 · Punjabi Q4](../../past-papers/mains_2026_PUN.md#q4) — ਪ੍ਰਸ਼ਨ 4: ਹੇਠਾਂ ਲਿਖੇ ਵਿਸ਼ਿਆਂ ਵਿੱਚੋਂ ਕਿਸੇ ਇਕ ਬਾਰੇ 400 ਸ਼ਬਦਾਂ ਦਾ ਨਿਬੰਧ ਲਿਖੋ:
+- [Mains 2021 · Punjabi Q4](../../past-papers/mains_2021_PUN.md#q4) — ਹੇਠਾਂ ਲਿਖੇ ਵਿਸ਼ਿਆਂ ਵਿਚੋਂ ਕਿਸੇ ਇੱਕ ਉਤੇ 400 ਸ਼ਬਦਾਂ ਦਾ ਨਿਬੰਧ ਲਿਖੋ: 1) ਸਮਕਾਲੀ ਪੰਜਾਬੀ ਗਾਇਕੀ : ਦਸ਼ਾ ਤੇ ਦਿਸ਼ਾ 2) ਡਿਜੀਟਲ ਇੰਡੀਆ ਅਤੇ ਆਮ ਆਦਮੀ 3) ਲੰਗਰ : ਕਲਿਆਣਕਾਰੀ ਪ੍ਰਥਾ
 
 ## Mains practice questions (7)
 

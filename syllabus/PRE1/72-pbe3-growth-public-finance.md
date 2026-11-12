@@ -1,6 +1,6 @@
 # Growth & public finance
 
-**Paper I — General Studies** › Punjab · Subject: Punjab Economy · Priority: High
+**Paper I — General Studies** › Punjab · Subject: Punjab Economy · Priority: High · **Asked by PPSC: 🔁 3× (’18)**
 
 > Official syllabus line: Development & economic growth, public finance (including central-state fiscal issues).
 
@@ -129,6 +129,16 @@ Recent-number questions: budget size, deficits, debt ratio, committed expenditur
 - Punjab Economic Survey 2025-26 (ESO Punjab)
 - NITI Aayog, Fiscal Health Index 2025 and Macro and Fiscal Landscape of Punjab (2025)
 - Report of the 16th Finance Commission (2026–31), PRS summary
+
+## Asked in PPSC papers — 3 times (in 1 of 3 recent exams)
+
+| Paper | Years asked |
+|---|---|
+| Prelims GS | 2018 (×3) |
+
+- [Prelims 2018 · GS Q41](../../past-papers/pre_2018_GS.md#q41) — In the first financial year of GST regime in the country concluded recently, list the following states in the descending order of Per Capita Revenue starting wi
+- [Prelims 2018 · GS Q44](../../past-papers/pre_2018_GS.md#q44) — Which of the following statements is/are correct regarding Economic and Statistical Organization of Punjab (ESO) ?
+- [Prelims 2018 · GS Q60](../../past-papers/pre_2018_GS.md#q60) — Punjab government has brought in a new tax for income tax payees engaged in professions, trades, callings and employments in the current year budget (2018 – 19)
 
 ## Practice MCQs (16)
 
@@ -278,6 +288,8 @@ Which of the statements given above are correct?
 **(c) 1 and 3 only** — SGST (₹32,000 crore) is about 45% of own tax revenue, and own revenue (₹86,537 crore) is about 69% of revenue receipts of ₹1,26,190 crore. Tax devolution from the Centre is only ₹30,464 crore, far below own tax revenue of ₹70,851 crore. (PRS, Punjab Budget Analysis 2026-27)
 
 </details>
+
+*Like a real PPSC question: [Prelims 2018 · GS Q60](../../past-papers/pre_2018_GS.md#q60)*
 
 **12.** Consider the following statements about the 16th Finance Commission's formula for sharing central taxes among states:  
 1. 'Contribution to GDP' is a new criterion with a 10% weight.  

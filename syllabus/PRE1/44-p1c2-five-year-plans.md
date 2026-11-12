@@ -1,6 +1,6 @@
 # Five-Year Plans
 
-**Paper I — General Studies** › Indian Economy · Subject: Indian Economy · Priority: Medium
+**Paper I — General Studies** › Indian Economy · Subject: Indian Economy · Priority: Medium · **Asked by PPSC: 🔁 1× (’25)**
 
 > Official syllabus line: Five year plans – key goals and main achievements.
 
@@ -145,6 +145,14 @@ Expect matching of plan number with its slogan, model or flagship event, plus th
 - Ramesh Singh, Indian Economy - chapter on Planning in India
 - NITI Aayog website (niti.gov.in) - About NITI and Plan documents archive
 
+## Asked in PPSC papers — 1 time (in 1 of 3 recent exams)
+
+| Paper | Years asked |
+|---|---|
+| Prelims GS | 2025 |
+
+- [Prelims 2025 · GS Q42](../../past-papers/pre_2025_GS.md#q42) — With reference to the India's Five-Year Plans, how many of the following statements given below are correct ?
+
 ## Practice MCQs (12)
 
 **1.** Which Five-Year Plan was based on the Harrod-Domar model?
@@ -159,6 +167,8 @@ Expect matching of plan number with its slogan, model or flagship event, plus th
 **(b) First Plan** — The First Plan used the Harrod-Domar growth model.
 
 </details>
+
+*Like a real PPSC question: [Prelims 2025 · GS Q42](../../past-papers/pre_2025_GS.md#q42)*
 
 **2.** The period of 'plan holiday' in India was:
 
@@ -225,6 +235,8 @@ Expect matching of plan number with its slogan, model or flagship event, plus th
 
 </details>
 
+*Like a real PPSC question: [Prelims 2025 · GS Q42](../../past-papers/pre_2025_GS.md#q42)*
+
 **7.** Consider the following statements: 1. The Gadgil formula for distributing central plan assistance was first adopted for the Fourth Plan. 2. The Gadgil–Mukherjee formula of 1991 gave 60% weight to population. Which of the statements given above is/are correct?
 
 (a) 1 only  
@@ -263,6 +275,8 @@ Expect matching of plan number with its slogan, model or flagship event, plus th
 **(b) Eighth Plan** — The post-1991 Eighth Plan described itself as indicative.
 
 </details>
+
+*Like a real PPSC question: [Prelims 2025 · GS Q42](../../past-papers/pre_2025_GS.md#q42)*
 
 **10.** The Community Development Programme was launched on 2 October 1952 during the:
 

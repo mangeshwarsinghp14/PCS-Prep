@@ -1,6 +1,6 @@
 # Border areas & organised crime–terror
 
-**Paper 6 — GS III: Economy, Statistics, Security** › Security · Subject: GS III — Economy, Statistics, Security · Priority: High
+**Paper 6 — GS III: Economy, Statistics, Security** › Security · Subject: GS III — Economy, Statistics, Security · Priority: High · **Asked by PPSC: 🔥 7× (’18 ’21 ’26)**
 
 > Official syllabus line: Security challenges and their management in border areas; linkages of organized crime with terrorism.
 
@@ -124,6 +124,24 @@ Questions ask about border-specific challenges, smart fencing and Vibrant Villag
 - MHA Annual Report - Department of Border Management
 - Kargil Review Committee Report (1999) summary
 - 2nd ARC 8th Report 'Combating Terrorism'
+
+## Asked in PPSC papers — 7 times 🔥 (in every recent exam)
+
+| Paper | Years asked |
+|---|---|
+| Mains GS3 | 2018 (×3), 2021, 2026 (×3) |
+
+- [Mains 2026 · GS3 Q9](../../past-papers/mains_2026_GS3.md#q9) — How does Operation Sindoor represent a watershed moment in India's national security doctrine?
+- [Mains 2026 · GS3 Q10](../../past-papers/mains_2026_GS3.md#q10) — Explain narco-trafficking as a growing internal security challenge with special reference to Punjab.  
+  ↻ *Same theme also asked:* [Mains 2018 · GS3 Q11(a)](../../past-papers/mains_2018_GS3.md#q11-a)
+- [Mains 2026 · GS3 Q20](../../past-papers/mains_2026_GS3.md#q20) — Analyse the major security challenges faced by India in its border areas and the strategies adopted for their management. Substantiate with examples from Punjab  
+  ↻ *Same theme also asked:* [Mains 2018 · GS3 Q10](../../past-papers/mains_2018_GS3.md#q10)
+- [Mains 2021 · GS3 Q14](../../past-papers/mains_2021_GS3.md#q14) — India has been strongly criticising state sponsored cross-border terrorism. With what approaches India has been countering this type of terrorism. Give your opi
+- [Mains 2018 · GS3 Q9](../../past-papers/mains_2018_GS3.md#q9) — What is China Pakistan Economic Corridor (CPEC)? What are its implications on security of India?
+- [Mains 2018 · GS3 Q10](../../past-papers/mains_2018_GS3.md#q10) — Write a short note on recent initiatives of Comprehensive Integrated Border Management System. Also mention the challenges linked with border management for Ind  
+  ↻ *Same theme also asked:* [Mains 2026 · GS3 Q20](../../past-papers/mains_2026_GS3.md#q20)
+- [Mains 2018 · GS3 Q11(a)](../../past-papers/mains_2018_GS3.md#q11-a) — Narco-Drug trafficking has gained serious proportions. Explain how it is a threat to internal security of India with special reference to Punjab.  
+  ↻ *Same theme also asked:* [Mains 2026 · GS3 Q10](../../past-papers/mains_2026_GS3.md#q10)
 
 ## Mains practice questions (3)
 

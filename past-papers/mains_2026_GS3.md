@@ -4,6 +4,8 @@ Held 2026-04-09. 21 questions. Bilingual paper (English/Punjabi); English versio
 
 Sources: [1](https://o2iasacademy.in/resources/punjab-pcs-previous-year-question-papers-pdfs-9506/) · [2](https://drive.google.com/file/d/1DvhCnH90kDPymCIVL7RzRD09idxG5X4a/view) · [3](https://www.adda247.com/exams/punjab/punjab-pcs-exam-date-2025/) · [4](https://prsindia.org/budgets/states/punjab-budget-analysis-2026-27) · [5](https://scroll.in/latest/1090412/scroll_in)
 
+<a id="q1"></a>
+
 **Q1.** Has the implementation of the FRBM Act constrained the role of fiscal policy in the growth and development of India? Discuss. *(10 marks, 100 words)*
 
 <details><summary>Model answer points</summary>
@@ -28,6 +30,10 @@ Sources: [1](https://o2iasacademy.in/resources/punjab-pcs-previous-year-question
 Topic: [notes](../syllabus/GS3/01-g3e1-planning-growth-employment-budgeting.md)
 
 </details>
+
+*Topic asked 7× (2018, 2021, 2026) 🔥*
+
+<a id="q2"></a>
 
 **Q2.** Why did rapid economic growth not help reduce unemployment significantly in India? *(10 marks, 100 words)*
 
@@ -56,6 +62,10 @@ Topic: [notes](../syllabus/GS3/07-g3e7-human-capital-unemployment-skills.md)
 
 </details>
 
+*Topic asked 4× (2018, 2021, 2026) 🔥*
+
+<a id="q3"></a>
+
 **Q3.** Despite high literacy and educational attainments, the Female Workforce Participation Rate of Punjab remains unsatisfactory. Evaluate the statement critically. *(10 marks, 100 words)*
 
 <details><summary>Model answer points</summary>
@@ -81,6 +91,10 @@ Topic: [notes](../syllabus/GS3/07-g3e7-human-capital-unemployment-skills.md)
 Topic: [notes](../syllabus/GS3/08-g3e8-punjab-economy-planning-industry-infrastructure.md)
 
 </details>
+
+*Topic asked 4× (2018, 2021, 2026) 🔥*
+
+<a id="q4"></a>
 
 **Q4.** Critically evaluate the performance and challenges of Public Distribution System (PDS) in ensuring food and nutrition security in India. *(10 marks, 100 words)*
 
@@ -109,6 +123,10 @@ Topic: [notes](../syllabus/GS3/03-g3e3-pds-buffer-stocks-food-security.md)
 
 </details>
 
+*↻ **Same theme also asked:** [Mains 2018 · GS3 Q6(a)](mains_2018_GS3.md#q6-a) · Topic asked 3× (2018, 2026)*
+
+<a id="q5"></a>
+
 **Q5.** An analysis of monthly wages paid to the workers of two firms A and B belonging to the same industry gives the following results: Firm A — No. of workers 500, Average daily wage Rs 186.00, Variance of distribution of wages 81; Firm B — No. of workers 600, Average daily wage Rs 175.00, Variance of distribution of wages 100. (a) Which firm A or B has a larger wage bill? (b) In which firm A or B, is there greater variability in individual wages? *(10 marks, 100 words)*
 
 <details><summary>Model answer points</summary>
@@ -134,6 +152,10 @@ Topic: [notes](../syllabus/GS3/09-g3st1-statistical-analysis-graphs-diagrams.md)
 
 </details>
 
+*Topic asked 12× (2018, 2021, 2026) 🔥*
+
+<a id="q6-a"></a>
+
 **Q6(a).** Two welfare schemes show the following distribution of welfare benefits: Scheme A — Mean Rs 10,000, SD Rs 2,000; Scheme B — Mean Rs 25,000, SD Rs 4,000. Using the coefficient of variation, analyse which scheme demonstrates greater relative dispersion. *(5 marks, 50 words)*
 
 <details><summary>Model answer points</summary>
@@ -156,6 +178,10 @@ Topic: [notes](../syllabus/GS3/09-g3st1-statistical-analysis-graphs-diagrams.md)
 Topic: [notes](../syllabus/GS3/09-g3st1-statistical-analysis-graphs-diagrams.md)
 
 </details>
+
+*Topic asked 12× (2018, 2021, 2026) 🔥*
+
+<a id="q6-b"></a>
 
 **Q6(b).** Correlation coefficients among three variables are given below: Motivation–Attendance 0.62; Motivation–Achievement 0.58; Attendance–Achievement 0.71 (each variable with itself = 1.00). Interpret the relationships among the variables and identify the strongest predictor of achievement. *(5 marks, 50 words)*
 
@@ -181,6 +207,10 @@ Topic: [notes](../syllabus/GS3/09-g3st1-statistical-analysis-graphs-diagrams.md)
 Topic: [notes](../syllabus/GS3/09-g3st1-statistical-analysis-graphs-diagrams.md)
 
 </details>
+
+*Topic asked 12× (2018, 2021, 2026) 🔥*
+
+<a id="q7"></a>
 
 **Q7.** Cybercrimes pose a significant challenge to national security. What measures can a country adopt to safeguard itself against cyber threats? *(10 marks, 100 words)*
 
@@ -208,6 +238,10 @@ Topic: [notes](../syllabus/GS3/12-g3s3-cyber-security-money-laundering.md)
 
 </details>
 
+*Topic asked 3× (2021, 2026)*
+
+<a id="q8"></a>
+
 **Q8.** Examine the operational and strategic role of Central Armed Police Forces (CAPFs) in addressing India's internal security challenges in the contemporary security environment. *(10 marks, 100 words)*
 
 <details><summary>Model answer points</summary>
@@ -233,6 +267,10 @@ Topic: [notes](../syllabus/GS3/12-g3s3-cyber-security-money-laundering.md)
 Topic: [notes](../syllabus/GS3/14-g3s5-security-forces-agencies.md)
 
 </details>
+
+*Topic asked 4× (2018, 2021, 2026) 🔥*
+
+<a id="q9"></a>
 
 **Q9.** How does Operation Sindoor represent a watershed moment in India's national security doctrine? *(10 marks, 100 words)*
 
@@ -260,6 +298,10 @@ Topic: [notes](../syllabus/GS3/14-g3s5-security-forces-agencies.md)
 Topic: [notes](../syllabus/GS3/13-g3s4-border-areas-organised-crime-terror.md)
 
 </details>
+
+*Topic asked 7× (2018, 2021, 2026) 🔥*
+
+<a id="q10"></a>
 
 **Q10.** Explain narco-trafficking as a growing internal security challenge with special reference to Punjab. *(10 marks, 100 words)*
 
@@ -289,6 +331,10 @@ Topic: [notes](../syllabus/GS3/13-g3s4-border-areas-organised-crime-terror.md)
 
 </details>
 
+*↻ **Same theme also asked:** [Mains 2018 · GS3 Q11(a)](mains_2018_GS3.md#q11-a) · Topic asked 7× (2018, 2021, 2026) 🔥*
+
+<a id="q11"></a>
+
 **Q11.** Critically examine the role of the minimum support price in improving farm income security and its distorting impacts on cropping patterns, agricultural markets, and fiscal sustainability. *(15 marks, 200 words)*
 
 <details><summary>Model answer points</summary>
@@ -317,6 +363,10 @@ Topic: [notes](../syllabus/GS3/13-g3s4-border-areas-organised-crime-terror.md)
 Topic: [notes](../syllabus/GS3/02-g3e2-crops-irrigation-marketing-msp-subsidies.md)
 
 </details>
+
+*Topic asked 2× (2018, 2026)*
+
+<a id="q12"></a>
 
 **Q12.** Discuss the difficulties Public-Private Partnership (PPP) models have so far faced in infrastructure development in India. What are the important lessons for the future? *(15 marks, 200 words)*
 
@@ -348,6 +398,10 @@ Topic: [notes](../syllabus/GS3/06-g3e6-infrastructure-investment-models.md)
 
 </details>
 
+*Topic asked 3× (2021, 2026)*
+
+<a id="q13"></a>
+
 **Q13.** Trace the scope for the food processing industry in India. In what way does it help the farmers to augment their income? What are the steps taken by the government in the recent past regarding the same? *(15 marks, 200 words)*
 
 <details><summary>Model answer points</summary>
@@ -375,6 +429,10 @@ Topic: [notes](../syllabus/GS3/04-g3e4-food-processing.md)
 
 </details>
 
+*Topic asked 2× (2018, 2026)*
+
+<a id="q14"></a>
+
 **Q14.** Punjab's Manufacturing Sector is driven by Agro-Based and Textile Industries. Do you agree with this statement? Support your argument. *(15 marks, 200 words)*
 
 <details><summary>Model answer points</summary>
@@ -399,6 +457,10 @@ Topic: [notes](../syllabus/GS3/04-g3e4-food-processing.md)
 Topic: [notes](../syllabus/GS3/08-g3e8-punjab-economy-planning-industry-infrastructure.md)
 
 </details>
+
+*Topic asked 4× (2018, 2021, 2026) 🔥*
+
+<a id="q15"></a>
 
 **Q15.** How did land reforms attempt to address social and economic equity in rural India? *(15 marks, 200 words)*
 
@@ -427,6 +489,10 @@ Topic: [notes](../syllabus/GS3/05-g3e5-land-reforms-liberalisation-industrial-po
 
 </details>
 
+*Topic asked 4× (2018, 2021, 2026) 🔥*
+
+<a id="q16"></a>
+
 **Q16.** The bar graph shows the income and expenditure (in million INR) of five companies in the year 2001. Expenditure / Income: M 45 / 35; N 40 / 50; P 45 / 40; Q 30 / 40; R 45 / 50 (values read from the graph). (a) Which company earned the maximum percentage profit in the year 2001? (b) In 2001 what was the approximate percentage of profit/loss of all the five companies taken together? (c) For company R, if the expenditure had increased by 20% in year 2001 from year 2000 and the company had earned a profit of 10% in 2000, what was the company's income in 2000 (in INR million)? *(15 marks, 200 words)*
 
 <details><summary>Model answer points</summary>
@@ -454,6 +520,10 @@ Topic: [notes](../syllabus/GS3/09-g3st1-statistical-analysis-graphs-diagrams.md)
 
 </details>
 
+*Topic asked 12× (2018, 2021, 2026) 🔥*
+
+<a id="q17"></a>
+
 **Q17.** Two bar graphs show (i) the amount invested by a company in raw materials and (ii) the value of sales of finished goods (Rs in lakh) for 1995–2000. Raw materials: 1995 120, 1996 225, 1997 375, 1998 330, 1999 525, 2000 420. Sales: 1995 200, 1996 300, 1997 500, 1998 400, 1999 600, 2000 460. (a) In which year has there been a maximum percentage increase in the amount invested in raw materials as compared to the previous year? (b) In which year is the percentage change in the investment on raw materials the same as that in the value of sales of finished goods? (c) What was the difference between the average amount invested in raw materials during the given period and the average value of sales of finished goods during this period? *(15 marks, 200 words)*
 
 <details><summary>Model answer points</summary>
@@ -479,6 +549,10 @@ Topic: [notes](../syllabus/GS3/09-g3st1-statistical-analysis-graphs-diagrams.md)
 Topic: [notes](../syllabus/GS3/09-g3st1-statistical-analysis-graphs-diagrams.md)
 
 </details>
+
+*Topic asked 12× (2018, 2021, 2026) 🔥*
+
+<a id="q18"></a>
 
 **Q18.** Digital radicalization has transformed the nature of extremism in India. Elaborate how online extremism and digital propaganda affect India's national security. *(15 marks, 200 words)*
 
@@ -507,6 +581,10 @@ Topic: [notes](../syllabus/GS3/11-g3s2-internal-security-actors-media.md)
 
 </details>
 
+*Topic asked 3× (2018, 2026)*
+
+<a id="q19"></a>
+
 **Q19.** Money laundering sustains organized crime and terrorism. Critically examine the mechanisms of money laundering and their impact on internal security. *(15 marks, 200 words)*
 
 <details><summary>Model answer points</summary>
@@ -533,6 +611,10 @@ Topic: [notes](../syllabus/GS3/11-g3s2-internal-security-actors-media.md)
 Topic: [notes](../syllabus/GS3/12-g3s3-cyber-security-money-laundering.md)
 
 </details>
+
+*Topic asked 3× (2021, 2026)*
+
+<a id="q20"></a>
 
 **Q20.** Analyse the major security challenges faced by India in its border areas and the strategies adopted for their management. Substantiate with examples from Punjab. *(15 marks, 200 words)*
 
@@ -563,3 +645,5 @@ Topic: [notes](../syllabus/GS3/12-g3s3-cyber-security-money-laundering.md)
 Topic: [notes](../syllabus/GS3/13-g3s4-border-areas-organised-crime-terror.md)
 
 </details>
+
+*↻ **Same theme also asked:** [Mains 2018 · GS3 Q10](mains_2018_GS3.md#q10) · Topic asked 7× (2018, 2021, 2026) 🔥*

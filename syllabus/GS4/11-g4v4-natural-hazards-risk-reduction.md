@@ -1,6 +1,6 @@
 # Natural hazards & risk reduction
 
-**Paper 7 — GS IV: S&T, Environment, Problem Solving** › Environment · Subject: GS IV — S&T, Environment, Problem solving · Priority: High
+**Paper 7 — GS IV: S&T, Environment, Problem Solving** › Environment · Subject: GS IV — S&T, Environment, Problem solving · Priority: High · **Asked by PPSC: 🔁 3× (’18 ’26)**
 
 > Official syllabus line: Natural hazards: floods, earthquakes, tsunamis, landslides etc.; risk reduction and mitigation measures.
 
@@ -125,9 +125,21 @@ Questions ask hazard-specific mitigation (structural vs non-structural) and inst
 - 15th Finance Commission report chapter on disaster risk management
 - Punjab State Disaster Management Plan and flood memorandum reports
 
+## Asked in PPSC papers — 3 times (in 2 of 3 recent exams)
+
+| Paper | Years asked |
+|---|---|
+| Mains GS4 | 2018, 2026 (×2) |
+
+- [Mains 2026 · GS4 Q2](../../past-papers/mains_2026_GS4.md#q2) — What measures can be taken in terms of sustainable development to reduce vulnerability to natural hazards?
+- [Mains 2026 · GS4 Q11](../../past-papers/mains_2026_GS4.md#q11) — Discuss the causes and impact of floods in districts situated along the Sutlej and Beas rivers. What structural and non-structural measures can be adopted to mi
+- [Mains 2018 · GS4 Q3](../../past-papers/mains_2018_GS4.md#q3) — What were the major causes of Kerala floods and what could be the possible mitigation measures?
+
 ## Mains practice questions (3)
 
 **1.** Recurring floods in Punjab expose gaps in both structural and non-structural measures. Suggest a comprehensive flood risk reduction strategy for the state. (250 words)
+
+*Like a real PPSC question: [Mains 2026 · GS4 Q11](../../past-papers/mains_2026_GS4.md#q11)*
 
 <details><summary>Answer outline</summary>
 

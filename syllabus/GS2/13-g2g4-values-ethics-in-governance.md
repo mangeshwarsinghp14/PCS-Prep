@@ -1,6 +1,6 @@
 # Values & ethics in governance
 
-**Paper 5 — GS II: Constitution, Polity, Governance, IR** › Governance · Subject: GS II — Constitution, Polity, Governance, IR · Priority: High
+**Paper 5 — GS II: Constitution, Polity, Governance, IR** › Governance · Subject: GS II — Constitution, Polity, Governance, IR · Priority: High · **Asked by PPSC: 🔁 1× (’21)**
 
 > Official syllabus line: Ethical concerns and dilemmas in government and private institutions; laws, rules, regulations and conscience as sources of ethical guidance; accountability and ethical governance; ethical issues in international relations and funding.
 
@@ -132,6 +132,14 @@ PPSC frames these as conceptual questions (laws vs conscience, ethical dilemmas)
 - Lexicon for Ethics, Integrity and Aptitude (Chronicle) — chapters on ethics in public administration
 - UK Committee on Standards in Public Life — 'Seven Principles of Public Life'
 - MEA Annual Report (for humanitarian/foreign aid examples)
+
+## Asked in PPSC papers — 1 time (in 1 of 3 recent exams)
+
+| Paper | Years asked |
+|---|---|
+| Mains GS2 | 2021 |
+
+- [Mains 2021 · GS2 Q9](../../past-papers/mains_2021_GS2.md#q9) — India's democratic governance confronts the challenge of manipulation by private interests. Critically Analyse.
 
 ## Mains practice questions (3)
 

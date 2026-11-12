@@ -1,6 +1,6 @@
 # Public health programmes
 
-**Paper I — General Studies** › Everyday Science · Subject: Everyday Science · Priority: High
+**Paper I — General Studies** › Everyday Science · Subject: Everyday Science · Priority: High · **Asked by PPSC: 🔁 4× (’21 ’25)**
 
 > Official syllabus line: Public health initiatives, mother and child health, immunisation & vaccination, HIV-AIDS, TB, polio etc.
 
@@ -130,6 +130,17 @@ PPSC/UPSC test scheme-feature matching (JSY vs JSSK vs PMMVY), launch years, UIP
 - SRS Statistical Report 2021 (Registrar General of India)
 - PIB backgrounders on Mission Indradhanush, NTEP and PM-JAY
 
+## Asked in PPSC papers — 4 times (in 2 of 3 recent exams)
+
+| Paper | Years asked |
+|---|---|
+| Prelims GS | 2021 (×3), 2025 |
+
+- [Prelims 2025 · GS Q22](../../past-papers/pre_2025_GS.md#q22) — All the following vaccines are examples of attenuated or inactivated whole pathogen vaccines, except :
+- [Prelims 2021 · GS Q1](../../past-papers/pre_2021_GS.md#q1) — The World Health Organization has declared Africa wild polio-free. The disease is now found only in which of the following countries :
+- [Prelims 2021 · GS Q15](../../past-papers/pre_2021_GS.md#q15) — The Accredited Social Health Activists (ASHAs), a community-based functionary under National Rural Health Mission (NRHM), have been supporting delivery of healt
+- [Prelims 2021 · GS Q91](../../past-papers/pre_2021_GS.md#q91) — Consider the following statements :
+
 ## Practice MCQs (12)
 
 **1.** India was certified polio-free by WHO in:
@@ -144,6 +155,8 @@ PPSC/UPSC test scheme-feature matching (JSY vs JSSK vs PMMVY), launch years, UIP
 **(d) 2014** — The last wild case was in January 2011; certification for the South-East Asia region came on 27 March 2014.
 
 </details>
+
+*Like a real PPSC question: [Prelims 2021 · GS Q1](../../past-papers/pre_2021_GS.md#q1)*
 
 **2.** Free antenatal check-ups on the 9th of every month are provided under:
 

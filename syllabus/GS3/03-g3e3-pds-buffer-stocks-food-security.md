@@ -1,6 +1,6 @@
 # PDS, buffer stocks, food security
 
-**Paper 6 — GS III: Economy, Statistics, Security** › Indian Economy · Subject: GS III — Economy, Statistics, Security · Priority: High
+**Paper 6 — GS III: Economy, Statistics, Security** › Indian Economy · Subject: GS III — Economy, Statistics, Security · Priority: High · **Asked by PPSC: 🔁 3× (’18 ’26)**
 
 > Official syllabus line: Public Distribution System – objectives, functioning, limitations, revamping; buffer stocks and food security.
 
@@ -147,9 +147,23 @@ Questions ask for evaluation of PDS/NFSA, leakages, ONORC and buffer stock manag
 - Report of the High Level Committee on Restructuring FCI (Shanta Kumar, 2015)
 - Ramesh Singh, Indian Economy - Food Security chapter
 
+## Asked in PPSC papers — 3 times (in 2 of 3 recent exams)
+
+| Paper | Years asked |
+|---|---|
+| Mains GS3 | 2018 (×2), 2026 |
+
+- [Mains 2026 · GS3 Q4](../../past-papers/mains_2026_GS3.md#q4) — Critically evaluate the performance and challenges of Public Distribution System (PDS) in ensuring food and nutrition security in India.  
+  ↻ *Same theme also asked:* [Mains 2018 · GS3 Q6(a)](../../past-papers/mains_2018_GS3.md#q6-a)
+- [Mains 2018 · GS3 Q6(a)](../../past-papers/mains_2018_GS3.md#q6-a) — How does public distribution system work?  
+  ↻ *Same theme also asked:* [Mains 2026 · GS3 Q4](../../past-papers/mains_2026_GS3.md#q4)
+- [Mains 2018 · GS3 Q6(b)](../../past-papers/mains_2018_GS3.md#q6-b) — What are buffer norms? What are its objectives? Is any change in buffer norms in pipeline?
+
 ## Mains practice questions (3)
 
 **1.** Critically evaluate the functioning of the Targeted Public Distribution System in India after the National Food Security Act, 2013. What further reforms are needed? (250 words)
+
+*Like a real PPSC question: [Mains 2018 · GS3 Q6(a)](../../past-papers/mains_2018_GS3.md#q6-a), [Mains 2026 · GS3 Q4](../../past-papers/mains_2026_GS3.md#q4)*
 
 <details><summary>Answer outline</summary>
 
@@ -163,6 +177,8 @@ Questions ask for evaluation of PDS/NFSA, leakages, ONORC and buffer stock manag
 </details>
 
 **2.** What are buffer stocks? Discuss the problems of excessive buffer stocks in India and suggest a rational stock policy. (150 words)
+
+*Like a real PPSC question: [Mains 2018 · GS3 Q6(b)](../../past-papers/mains_2018_GS3.md#q6-b)*
 
 <details><summary>Answer outline</summary>
 

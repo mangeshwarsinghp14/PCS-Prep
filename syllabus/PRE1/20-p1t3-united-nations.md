@@ -1,6 +1,6 @@
 # United Nations
 
-**Paper I — General Studies** › Political Theory & International Order · Subject: Political Theory & Intl Order · Priority: Medium
+**Paper I — General Studies** › Political Theory & International Order · Subject: Political Theory & Intl Order · Priority: Medium · **Asked by PPSC: 🔁 6× (’18 ’21)**
 
 > Official syllabus line: United Nations and its organs/agencies.
 
@@ -124,6 +124,19 @@ UPSC/PPSC test HQ locations, membership numbers, terms of office, which bodies a
 - NCERT Class 12 'Contemporary World Politics' Ch on International Organisations
 - un.org - Main Bodies and UN System chart
 - MEA India - India and the United Nations page
+
+## Asked in PPSC papers — 6 times (in 2 of 3 recent exams)
+
+| Paper | Years asked |
+|---|---|
+| Prelims GS | 2018 (×4), 2021 (×2) |
+
+- [Prelims 2021 · GS Q21](../../past-papers/pre_2021_GS.md#q21) — Consider the following statements :
+- [Prelims 2021 · GS Q97](../../past-papers/pre_2021_GS.md#q97) — Which among the following nations, owing to its steady economic growth, has recently graduated from the UN's official list of Least Developed Countries (LDCs) ?
+- [Prelims 2018 · GS Q25](../../past-papers/pre_2018_GS.md#q25) — Who coined the name, 'United Nations' ?
+- [Prelims 2018 · GS Q26](../../past-papers/pre_2018_GS.md#q26) — Which one of the following is the latest member (193rd) of the United Nations ?
+- [Prelims 2018 · GS Q27](../../past-papers/pre_2018_GS.md#q27) — Which one of the following is the incorrect match between the UN agency and its Headquarter ?
+- [Prelims 2018 · GS Q49](../../past-papers/pre_2018_GS.md#q49) — India has been re-elected to the UN Economic and Social Council (ECOSOC) recently. Consider the following statements in this regard :
 
 ## Practice MCQs (12)
 

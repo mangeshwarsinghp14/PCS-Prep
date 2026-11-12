@@ -4,6 +4,8 @@ Held 2018. 19 questions.
 
 Sources: [1](https://theiashub.com/upsc/punjab-pcs-previous-year-question-paper/) · [2](https://earnmoneyjobs.com/punjab-civil-service-exam-dates-2018-announced-ppsc-exam-dates/) · [3](https://www.scribd.com/document/405157714/Result-PPSC-Combined-Civil-Services-Main-Exam) · [4](https://abhipedia.abhimanu.com/Free/554/1036/PCS-2018-Result-dec-14-6-2019-) · [5](https://drive.google.com/file/d/1pm5FD6z_HyZzKT_c-QTFoE_m9ry1uYuW/view)
 
+<a id="q1"></a>
+
 **Q1.** "Delhi blanketed in toxic haze has become a gas chamber." List the major causes and possible mitigation measures. *(15 marks, 200 words)*
 
 <details><summary>Model answer points</summary>
@@ -32,6 +34,10 @@ Topic: [notes](../syllabus/GS4/08-g4v1-conservation-pollution-climate-change-eia
 
 </details>
 
+*Topic asked 8× (2018, 2021, 2026) 🔥*
+
+<a id="q2"></a>
+
 **Q2.** What is active and passive immunization and also discuss the role of second and third generation vaccines in controlling hepatitis? *(15 marks, 200 words)*
 
 <details><summary>Model answer points</summary>
@@ -57,6 +63,10 @@ Topic: [notes](../syllabus/GS4/08-g4v1-conservation-pollution-climate-change-eia
 Topic: [notes](../syllabus/GS4/07-g4t7-diseases-infections-immunity-vaccines.md)
 
 </details>
+
+*Topic asked 5× (2018, 2021, 2026) 🔥*
+
+<a id="q3"></a>
 
 **Q3.** What were the major causes of Kerala floods and what could be the possible mitigation measures? *(15 marks, 200 words)*
 
@@ -87,6 +97,10 @@ Topic: [notes](../syllabus/GS4/11-g4v4-natural-hazards-risk-reduction.md)
 
 </details>
 
+*Topic asked 3× (2018, 2026)*
+
+<a id="q4"></a>
+
 **Q4.** What are monoclonal antibodies and what role they can play in diagnosis and therapy of various diseases? *(15 marks, 200 words)*
 
 <details><summary>Model answer points</summary>
@@ -113,6 +127,10 @@ Topic: [notes](../syllabus/GS4/06-g4t6-genetic-engineering-stem-cells.md)
 
 </details>
 
+*Topic asked 6× (2018, 2021, 2026) 🔥*
+
+<a id="q5-a"></a>
+
 **Q5(a).** Write a note on Li-Fi and differentiate between Li-Fi and Wi-Fi. *(10 marks, 100 words)*
 
 <details><summary>Model answer points</summary>
@@ -136,6 +154,10 @@ Topic: [notes](../syllabus/GS4/03-g4t3-it-space-robotics-nanotech.md)
 
 </details>
 
+*Topic asked 10× (2018, 2021, 2026) 🔥*
+
+<a id="q5-b"></a>
+
 **Q5(b).** The discovery of graphene, a form of carbon, is thought to be a wonder material, which will change the world in many ways. Write a short note on 'Graphene' and its possible impact on industry. *(10 marks, 100 words)*
 
 <details><summary>Model answer points</summary>
@@ -157,6 +179,10 @@ Topic: [notes](../syllabus/GS4/03-g4t3-it-space-robotics-nanotech.md)
 Topic: [notes](../syllabus/GS4/03-g4t3-it-space-robotics-nanotech.md)
 
 </details>
+
+*Topic asked 10× (2018, 2021, 2026) 🔥*
+
+<a id="q6-a"></a>
 
 **Q6(a).** Write short note on: Role of robotics in medical science. *(10 marks, 100 words)*
 
@@ -181,6 +207,10 @@ Topic: [notes](../syllabus/GS4/03-g4t3-it-space-robotics-nanotech.md)
 
 </details>
 
+*Topic asked 10× (2018, 2021, 2026) 🔥*
+
+<a id="q6-b"></a>
+
 **Q6(b).** Write short note on: What are cybrids? How do they differ from hybrids? *(10 marks, 100 words)*
 
 <details><summary>Model answer points</summary>
@@ -203,6 +233,10 @@ Topic: [notes](../syllabus/GS4/03-g4t3-it-space-robotics-nanotech.md)
 Topic: [notes](../syllabus/GS4/05-g4t5-agricultural-science-biotech-veterinary.md)
 
 </details>
+
+*Topic asked 4× (2018, 2021, 2026) 🔥*
+
+<a id="q7"></a>
 
 **Q7.** What is IRS (Indian Remote Sensing) satellite system and what role can it play in conservation of biodiversity and in drought monitoring and assessment. How far remote sensing has been successful in doing so? *(15 marks, 200 words)*
 
@@ -228,6 +262,10 @@ Topic: [notes](../syllabus/GS4/05-g4t5-agricultural-science-biotech-veterinary.m
 Topic: [notes](../syllabus/GS4/03-g4t3-it-space-robotics-nanotech.md)
 
 </details>
+
+*Topic asked 10× (2018, 2021, 2026) 🔥*
+
+<a id="q8"></a>
 
 **Q8.** What is the current status of tuberculosis in India? How drug resistance against this disease is impacting its control measures? *(15 marks, 200 words)*
 
@@ -255,6 +293,10 @@ Topic: [notes](../syllabus/GS4/07-g4t7-diseases-infections-immunity-vaccines.md)
 
 </details>
 
+*Topic asked 5× (2018, 2021, 2026) 🔥*
+
+<a id="q9"></a>
+
 **Q9.** "District administration in India has lost its credibility, trust and importance in the modern times and it requires massive structural reforms and alternative arrangements." Comment. *(15 marks, 200 words)*
 
 <details><summary>Model answer points</summary>
@@ -280,6 +322,9 @@ Topic: [notes](../syllabus/GS4/07-g4t7-diseases-infections-immunity-vaccines.md)
 Topic: [notes](../syllabus/GS2/09-g2p9-district-administration-pris-ulbs.md)
 
 </details>
+
+
+<a id="q10"></a>
 
 **Q10.** Indicate the challenges of the economic policy of India after 2014 and the initiatives taken by the Government. *(15 marks, 200 words)*
 
@@ -307,6 +352,10 @@ Topic: [notes](../syllabus/GS3/01-g3e1-planning-growth-employment-budgeting.md)
 
 </details>
 
+*Topic asked 7× (2018, 2021, 2026) 🔥*
+
+<a id="q11"></a>
+
 **Q11.** The proposed India-Japan Asia-Africa Growth Corridor (AAGC) is being seen as a potential alternative to the One-Belt-One-Road (OBOR) initiative of China. How is the former different from the later? What will be the practical difficulties to be faced by AAGC? *(15 marks, 200 words)*
 
 <details><summary>Model answer points</summary>
@@ -331,6 +380,10 @@ Topic: [notes](../syllabus/GS2/16-g2i2-groupings-agreements.md)
 
 </details>
 
+*Topic asked 3× (2018, 2021, 2026) 🔥*
+
+<a id="q12-a"></a>
+
 **Q12(a).** What could be the ramifications of the failure of Iran Nuclear deal on India's interest? Analyse. *(10 marks, 100 words)*
 
 <details><summary>Model answer points</summary>
@@ -353,6 +406,10 @@ Topic: [notes](../syllabus/GS2/16-g2i2-groupings-agreements.md)
 Topic: [notes](../syllabus/GS2/17-g2i3-policies-of-other-nations-diaspora.md)
 
 </details>
+
+*Topic asked 8× (2018, 2021, 2026) 🔥*
+
+<a id="q12-b"></a>
 
 **Q12(b).** "Reorganization of Security Council of UN is the need of the hour." Give some arguments in favour of India's claim for permanent seat in this body. *(10 marks, 100 words)*
 
@@ -377,6 +434,10 @@ Topic: [notes](../syllabus/GS2/18-g2i4-international-institutions.md)
 
 </details>
 
+*↻ **Same theme also asked:** [Mains 2026 · GS2 Q10](mains_2026_GS2.md#q10) · Topic asked 3× (2018, 2021, 2026) 🔥*
+
+<a id="q13-a"></a>
+
 **Q13(a).** "US is a developing country too, won't give subsidies to India and China": Donald Trump. Evaluate this statement given by the U[S] President. Discuss the implications of the ongoing trade war propelled by the US against China and India. *(10 marks, 100 words)*
 
 <details><summary>Model answer points</summary>
@@ -400,6 +461,10 @@ Topic: [notes](../syllabus/GS2/17-g2i3-policies-of-other-nations-diaspora.md)
 
 </details>
 
+*Topic asked 8× (2018, 2021, 2026) 🔥*
+
+<a id="q13-b"></a>
+
 **Q13(b).** Write about the conundrum of H-1B Visa. Discuss the implications of newly introduced changes in its policies on Indian Diaspora in the US. *(10 marks, 100 words)*
 
 <details><summary>Model answer points</summary>
@@ -422,6 +487,10 @@ Topic: [notes](../syllabus/GS2/17-g2i3-policies-of-other-nations-diaspora.md)
 Topic: [notes](../syllabus/GS2/17-g2i3-policies-of-other-nations-diaspora.md)
 
 </details>
+
+*Topic asked 8× (2018, 2021, 2026) 🔥*
+
+<a id="q14"></a>
 
 **Q14.** "Kartarpur Sahib Corridor initiative will reduce Indo-Pak tensions." Comment. *(15 marks, 200 words)*
 
@@ -449,6 +518,10 @@ Topic: [notes](../syllabus/GS2/15-g2i1-india-and-its-neighbourhood.md)
 
 </details>
 
+*Topic asked 5× (2018, 2021, 2026) 🔥*
+
+<a id="q15"></a>
+
 **Q15.** India is neither a signatory to the 195[1] United Nations Refugee Convention nor its 1967 Protocol. Evaluate India's stance on the Rohingya refugees in the country. *(15 marks, 200 words)*
 
 <details><summary>Model answer points</summary>
@@ -474,3 +547,5 @@ Topic: [notes](../syllabus/GS2/15-g2i1-india-and-its-neighbourhood.md)
 Topic: [notes](../syllabus/GS2/15-g2i1-india-and-its-neighbourhood.md)
 
 </details>
+
+*Topic asked 5× (2018, 2021, 2026) 🔥*

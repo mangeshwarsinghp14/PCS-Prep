@@ -1,6 +1,6 @@
 # Security forces & agencies
 
-**Paper 6 — GS III: Economy, Statistics, Security** › Security · Subject: GS III — Economy, Statistics, Security · Priority: Medium
+**Paper 6 — GS III: Economy, Statistics, Security** › Security · Subject: GS III — Economy, Statistics, Security · Priority: Medium · **Asked by PPSC: 🔥 4× (’18 ’21 ’26)**
 
 > Official syllabus line: Various security forces and agencies and their mandate.
 
@@ -136,9 +136,23 @@ Expect questions on mandates of CAPFs and intelligence agencies, coordination fa
 - Laxmikanth, Indian Polity - Seventh Schedule and Centre-State relations
 - 2nd ARC 5th Report 'Public Order'
 
+## Asked in PPSC papers — 4 times 🔥 (in every recent exam)
+
+| Paper | Years asked |
+|---|---|
+| Mains GS3 | 2021, 2026 |
+| Mains GS2 | 2018, 2021 |
+
+- [Mains 2026 · GS3 Q8](../../past-papers/mains_2026_GS3.md#q8) — Examine the operational and strategic role of Central Armed Police Forces (CAPFs) in addressing India's internal security challenges in the contemporary securit
+- [Mains 2021 · GS3 Q11](../../past-papers/mains_2021_GS3.md#q11) — Do you think that the reforms in Police as a law enforcement agency is one of the bottlenecks in the internal security policy of India. Examine critically.
+- [Mains 2021 · GS2 Q11(b)](../../past-papers/mains_2021_GS2.md#q11-b) — The recent war between Azerbaijan and Armenia has indicated that the conduct of warfare is set to change drastically. Explain.
+- [Mains 2018 · GS2 Q15(a)](../../past-papers/mains_2018_GS2.md#q15-a) — In the present situation and style of police working, suggest an approach to make police organization more efficient and modern to maintain the law and order in
+
 ## Mains practice questions (3)
 
 **1.** Briefly describe the mandate of various Central Armed Police Forces. Why is there a growing demand to reduce their deployment in internal security duties? (250 words)
+
+*Like a real PPSC question: [Mains 2026 · GS3 Q8](../../past-papers/mains_2026_GS3.md#q8)*
 
 <details><summary>Answer outline</summary>
 
@@ -163,6 +177,8 @@ Expect questions on mandates of CAPFs and intelligence agencies, coordination fa
 </details>
 
 **3.** Police reforms are central to internal security. Evaluate the implementation of the Prakash Singh judgment directives and suggest reforms for a border state like Punjab. (250 words)
+
+*Like a real PPSC question: [Mains 2021 · GS3 Q11](../../past-papers/mains_2021_GS3.md#q11)*
 
 <details><summary>Answer outline</summary>
 

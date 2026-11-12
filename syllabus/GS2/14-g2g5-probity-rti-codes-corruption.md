@@ -1,6 +1,6 @@
 # Probity — RTI, codes, corruption
 
-**Paper 5 — GS II: Constitution, Polity, Governance, IR** › Governance · Subject: GS II — Constitution, Polity, Governance, IR · Priority: High
+**Paper 5 — GS II: Constitution, Polity, Governance, IR** › Governance · Subject: GS II — Constitution, Polity, Governance, IR · Priority: High · **Asked by PPSC: 🔥 4× (’18 ’21 ’26)**
 
 > Official syllabus line: Concept and philosophical basis of governance and probity; corporate governance; information sharing and transparency, Right to Information, codes of ethics, codes of conduct, citizen's charters, work culture, service delivery, use of public funds, challenges of corruption.
 
@@ -133,9 +133,22 @@ Expect concept questions (probity, code of ethics vs conduct), RTI critiques, co
 - SEBI (LODR) Regulations 2015 and Uday Kotak Committee Report summary
 - G. Subba Rao & P.N. Roy Chowdhury, Ethics, Integrity and Aptitude
 
+## Asked in PPSC papers — 4 times 🔥 (in every recent exam)
+
+| Paper | Years asked |
+|---|---|
+| Mains GS2 | 2018, 2021 (×2), 2026 |
+
+- [Mains 2026 · GS2 Q7](../../past-papers/mains_2026_GS2.md#q7) — Explain how the recent RTI amendments might compromise the Information Commission's "Check-and-Balance" function.
+- [Mains 2021 · GS2 Q2(a)](../../past-papers/mains_2021_GS2.md#q2-a) — 'Probity in public life is an internally induced behaviour than an externally administered action'. Explain.
+- [Mains 2021 · GS2 Q10](../../past-papers/mains_2021_GS2.md#q10) — In 2019, the Supreme Court ruled that the office of the Chief Justice of India is a public authority under the Right to Information (RTI) Act. Discuss the signi
+- [Mains 2018 · GS2 Q2](../../past-papers/mains_2018_GS2.md#q2) — "Corruption in public life is a great challenge to the Indian democracy." Explain it.
+
 ## Mains practice questions (3)
 
 **1.** What do you understand by probity in public life? Discuss the philosophical basis of probity and the challenges in ensuring it in Indian administration. (250 words)
+
+*Like a real PPSC question: [Mains 2021 · GS2 Q2(a)](../../past-papers/mains_2021_GS2.md#q2-a)*
 
 <details><summary>Answer outline</summary>
 

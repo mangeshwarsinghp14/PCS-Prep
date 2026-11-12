@@ -1,6 +1,6 @@
 # Atmosphere & solar system
 
-**Paper I — General Studies** › Environmental Studies · Subject: Environment · Priority: Medium
+**Paper I — General Studies** › Environmental Studies · Subject: Environment · Priority: Medium · **Asked by PPSC: 🔁 1× (’25)**
 
 > Official syllabus line: Composition and structure of the atmosphere. Solar system – heat balance & temperature.
 
@@ -135,6 +135,14 @@ UPSC/PPSC ask layer-wise features (where ozone lies, which layer reflects radio 
 - NCERT Class 6 Geography Ch 1 (The Earth in the Solar System)
 - G.C. Leong, 'Certificate Physical and Human Geography' (climate chapters)
 - ISRO website for Indian space missions
+
+## Asked in PPSC papers — 1 time (in 1 of 3 recent exams)
+
+| Paper | Years asked |
+|---|---|
+| Prelims GS | 2025 |
+
+- [Prelims 2025 · GS Q56](../../past-papers/pre_2025_GS.md#q56) — Match the following layers of the atmosphere with their characteristics :
 
 ## Practice MCQs (12)
 

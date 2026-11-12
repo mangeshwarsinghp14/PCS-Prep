@@ -1,6 +1,6 @@
 # Sufis, saints and Gurus
 
-**Paper I — General Studies** › Punjab · Subject: Punjab History · Priority: High
+**Paper I — General Studies** › Punjab · Subject: Punjab History · Priority: High · **Asked by PPSC: 🔁 3× (’18 ’25)**
 
 > Official syllabus line: History: Sufis, saints and gurus.
 
@@ -146,6 +146,16 @@ PPSC asks Guru–contribution–place matching, the sequence of Gurus, compilati
 - J.S. Grewal, The Sikhs of the Punjab
 - Surinder Singh & Gaur, Sufism in Punjab (or Punjab University Sufism readings)
 - SGPC/Punjabi University Encyclopaedia of Sikhism (Harbans Singh, ed.)
+
+## Asked in PPSC papers — 3 times (in 2 of 3 recent exams)
+
+| Paper | Years asked |
+|---|---|
+| Prelims GS | 2018 (×2), 2025 |
+
+- [Prelims 2025 · GS Q99](../../past-papers/pre_2025_GS.md#q99) — Which of the following Sultanate/Mughal rulers were the contemporaries of Guru Nanak Dev ji ?
+- [Prelims 2018 · GS Q93](../../past-papers/pre_2018_GS.md#q93) — "Chun kar az hameh heelate dar guzasht, Halal ast burden bi-shamsher dast". This verse is a part of which work by Guru Gobind Singh ji ?
+- [Prelims 2018 · GS Q100](../../past-papers/pre_2018_GS.md#q100) — "Aiti maar payi kurlane tain ki dard na aaya" was written by Guru Nanak Dev ji after the invasion by
 
 ## Practice MCQs (16)
 

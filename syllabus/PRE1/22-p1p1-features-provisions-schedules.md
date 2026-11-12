@@ -1,6 +1,6 @@
 # Features, provisions, schedules
 
-**Paper I — General Studies** › Indian Polity · Subject: Indian Polity · Priority: High
+**Paper I — General Studies** › Indian Polity · Subject: Indian Polity · Priority: High · **Asked by PPSC: 🔥 18× (’18 ’21 ’25)**
 
 > Official syllabus line: Basic features, provisions, schedules of the Indian Constitution.
 
@@ -157,6 +157,32 @@ PPSC repeatedly asks 'source of borrowed feature' matches, which Schedule contai
 - D.D. Basu, Introduction to the Constitution of India
 - Bare Act - Constitution of India (Legislative Department, legislative.gov.in)
 
+## Asked in PPSC papers — 18 times 🔥 (in every recent exam)
+
+| Paper | Years asked |
+|---|---|
+| Prelims GS | 2018 (×6), 2021 (×5), 2025 (×7) |
+
+- [Prelims 2025 · GS Q79](../../past-papers/pre_2025_GS.md#q79) — Consider the following Constitutional Provisions :
+- [Prelims 2025 · GS Q80](../../past-papers/pre_2025_GS.md#q80) — In reference to Money Bill, consider the following statements :
+- [Prelims 2025 · GS Q83](../../past-papers/pre_2025_GS.md#q83) — Consider the following statements in connection with the Vice-President of India :
+- [Prelims 2025 · GS Q84](../../past-papers/pre_2025_GS.md#q84) — In reference to Fundamental Right under Article 20, consider the following statements :
+- [Prelims 2025 · GS Q85](../../past-papers/pre_2025_GS.md#q85) — In connection with the Preamble to the Indian Constitution, which of the following statements is correct ?  
+  ↻ *Same theme also asked:* [Mains 2018 · GS2 Q7(b)](../../past-papers/mains_2018_GS2.md#q7-b)
+- [Prelims 2025 · GS Q89](../../past-papers/pre_2025_GS.md#q89) — Consider the following statements regarding the writ jurisdiction of the Courts :
+- [Prelims 2025 · GS Q91](../../past-papers/pre_2025_GS.md#q91) — Consider the following statements :
+- [Prelims 2021 · GS Q34](../../past-papers/pre_2021_GS.md#q34) — Which of the statements given below is correct ?
+- [Prelims 2021 · GS Q35](../../past-papers/pre_2021_GS.md#q35) — Consider the following statements :
+- [Prelims 2021 · GS Q36](../../past-papers/pre_2021_GS.md#q36) — Consider the following statements :
+- [Prelims 2021 · GS Q37](../../past-papers/pre_2021_GS.md#q37) — Consider the following statements :
+- [Prelims 2021 · GS Q93](../../past-papers/pre_2021_GS.md#q93) — Which Article of the Constitution provides that it shall be the endeavor of every State to provide adequate facility for instruction in the mother tongue at the
+- [Prelims 2018 · GS Q28](../../past-papers/pre_2018_GS.md#q28) — Match the following features of the Indian Constitution from their adoptions :
+- [Prelims 2018 · GS Q29](../../past-papers/pre_2018_GS.md#q29) — Which two committees of the Parliament are described as 'twin sister' committees ?
+- [Prelims 2018 · GS Q32](../../past-papers/pre_2018_GS.md#q32) — Which of the following is incorrect with regard to the Schedules listed in the Constitution of India ?
+- [Prelims 2018 · GS Q35](../../past-papers/pre_2018_GS.md#q35) — Who is the Chairman of the Inter-State Council ?
+- [Prelims 2018 · GS Q38](../../past-papers/pre_2018_GS.md#q38) — Which one of the following is not a sufficient ground for convening a joint sitting of both the Houses of Parliament ?
+- [Prelims 2018 · GS Q40](../../past-papers/pre_2018_GS.md#q40) — Which of the following statements is/are not correct ?
+
 ## Practice MCQs (12)
 
 **1.** The anti-defection provisions are contained in which Schedule?
@@ -172,6 +198,8 @@ PPSC repeatedly asks 'source of borrowed feature' matches, which Schedule contai
 
 </details>
 
+*Like a real PPSC question: [Prelims 2018 · GS Q32](../../past-papers/pre_2018_GS.md#q32)*
+
 **2.** The concept of Directive Principles of State Policy was borrowed from the constitution of:
 
 (a) Canada  
@@ -184,6 +212,8 @@ PPSC repeatedly asks 'source of borrowed feature' matches, which Schedule contai
 **(d) Ireland** — DPSPs come from the Irish Constitution; Fundamental Duties come from the USSR.
 
 </details>
+
+*Like a real PPSC question: [Prelims 2018 · GS Q28](../../past-papers/pre_2018_GS.md#q28)*
 
 **3.** Constitution Day (Samvidhan Divas) is observed on:
 

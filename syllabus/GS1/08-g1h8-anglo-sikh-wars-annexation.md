@@ -1,6 +1,6 @@
 # Anglo-Sikh wars & annexation
 
-**Paper 4 — GS I: History, Geography, Society** › History · Subject: GS I — History, Geography, Society · Priority: High
+**Paper 4 — GS I: History, Geography, Society** › History · Subject: GS I — History, Geography, Society · Priority: High · **Asked by PPSC: 🔁 1× (’18)**
 
 > Official syllabus line: Annexation of Punjab with special reference to the causes and consequences of the Anglo-Sikh wars.
 
@@ -139,6 +139,14 @@ PPSC asks causes and consequences of each war, the treaties of 1846 and whether 
 - Khushwant Singh, 'A History of the Sikhs, Vol. 2'
 - J.S. Grewal, 'The Sikhs of the Punjab'
 - Rajiv Ahir, 'A Brief History of Modern India' (expansion of British power)
+
+## Asked in PPSC papers — 1 time (in 1 of 3 recent exams)
+
+| Paper | Years asked |
+|---|---|
+| Mains GS1 | 2018 |
+
+- [Mains 2018 · GS1 Q5](../../past-papers/mains_2018_GS1.md#q5) — Explain the rise and fall of Ranjit Singh's Empire.
 
 ## Mains practice questions (3)
 

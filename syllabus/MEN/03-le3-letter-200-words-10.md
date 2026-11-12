@@ -1,6 +1,6 @@
 # Letter, 200 words (10)
 
-**Paper 2 — English, 10+2 standard** › English · Subject: Language papers (Punjabi & English) · Priority: Medium
+**Paper 2 — English, 10+2 standard** › English · Subject: Language papers (Punjabi & English) · Priority: Medium · **Asked by PPSC: 🔁 1× (’21)**
 
 > Official syllabus line: Letter writing (200 words).
 
@@ -133,9 +133,19 @@ Marks are given for correct format, clarity of purpose, relevant details and pol
 - PSEB Class 12 English (General) workbook, letter and application section
 - PPSC Mains English previous papers
 
+## Asked in PPSC papers — 1 time (in 1 of 3 recent exams)
+
+| Paper | Years asked |
+|---|---|
+| Mains English | 2021 |
+
+- [Mains 2021 · English Q3](../../past-papers/mains_2021_ENG.md#q3) — Write a letter to the editor of a national newspaper about street begging and suggest the ways to tackle it. OR You are the Student Union in-charge of your coll
+
 ## Mains practice questions (7)
 
 **1.** Write a letter to the editor of a newspaper about smoke from stubble burning in your area and suggest remedies (200 words).
+
+*Like a real PPSC question: [Mains 2021 · English Q3](../../past-papers/mains_2021_ENG.md#q3)*
 
 <details><summary>Answer outline</summary>
 

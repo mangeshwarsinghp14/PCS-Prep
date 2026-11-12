@@ -1,6 +1,6 @@
 # Indian culture — art, literature, architecture
 
-**Paper 4 — GS I: History, Geography, Society** › History · Subject: GS I — History, Geography, Society · Priority: High
+**Paper 4 — GS I: History, Geography, Society** › History · Subject: GS I — History, Geography, Society · Priority: High · **Asked by PPSC: 🔥 5× (’18 ’21 ’26)**
 
 > Official syllabus line: Salient aspects of art forms, literature and architecture from ancient to modern times.
 
@@ -141,6 +141,18 @@ PPSC asks analytical questions on synthesis (Indo-Islamic architecture, Bhakti-S
 - Nitin Singhania, 'Indian Art and Culture'
 - NCERT Class 12 'Themes in Indian History' Parts I-II (Ch on Bhakti-Sufi, Vijayanagara, Mughal courts)
 - CCRT (Centre for Cultural Resources and Training) material
+
+## Asked in PPSC papers — 5 times 🔥 (in every recent exam)
+
+| Paper | Years asked |
+|---|---|
+| Mains GS1 | 2018 (×2), 2021 (×2), 2026 |
+
+- [Mains 2026 · GS1 Q1](../../past-papers/mains_2026_GS1.md#q1) — Give the salient features of the Gandhara Art. How was it different from the Mathura Art?
+- [Mains 2021 · GS1 Q1(a)](../../past-papers/mains_2021_GS1.md#q1-a) — "Gupta sculpture is the logical outcome of the early classical sculpture of Amravati and Mathura." Discuss with examples.
+- [Mains 2021 · GS1 Q1(b)](../../past-papers/mains_2021_GS1.md#q1-b) — Critically examine the cultural contribution of Pallavas.
+- [Mains 2018 · GS1 Q2(a)](../../past-papers/mains_2018_GS1.md#q2-a) — Write short note on: Sangam age was the Golden age in the history of Tamil Nadu.
+- [Mains 2018 · GS1 Q2(b)](../../past-papers/mains_2018_GS1.md#q2-b) — Write short note on: Zenith of Mughal painting under Jahangir.
 
 ## Mains practice questions (3)
 

@@ -1,6 +1,6 @@
 # Key amendments
 
-**Paper I — General Studies** › Indian Polity · Subject: Indian Polity · Priority: High
+**Paper I — General Studies** › Indian Polity · Subject: Indian Polity · Priority: High · **Asked by PPSC: 🔁 3× (’18 ’25)**
 
 > Official syllabus line: Key amendments.
 
@@ -146,6 +146,16 @@ Questions match amendment numbers to changes (61st voting age, 86th RTE, 101st G
 - PRS Legislative Research (prsindia.org) - bill summaries for recent amendment bills
 - NCERT Class 11 'Indian Constitution at Work' Ch 9 (Constitution as a Living Document)
 
+## Asked in PPSC papers — 3 times (in 2 of 3 recent exams)
+
+| Paper | Years asked |
+|---|---|
+| Prelims GS | 2018, 2025 (×2) |
+
+- [Prelims 2025 · GS Q81](../../past-papers/pre_2025_GS.md#q81) — In connection with the procedure for amendment to the Constitution, consider the following statements :
+- [Prelims 2025 · GS Q88](../../past-papers/pre_2025_GS.md#q88) — Match List-I with List-II and select the correct answer from the codes given below :
+- [Prelims 2018 · GS Q31](../../past-papers/pre_2018_GS.md#q31) — Which of the following amendment/s in the Indian Constitution was/were equated with 'Mini Constitution' ?
+
 ## Practice MCQs (12)
 
 **1.** The voting age was reduced from 21 to 18 years by the:
@@ -174,6 +184,8 @@ Questions match amendment numbers to changes (61st voting age, 86th RTE, 101st G
 
 </details>
 
+*Like a real PPSC question: [Prelims 2018 · GS Q31](../../past-papers/pre_2018_GS.md#q31)*
+
 **3.** The 99th Amendment creating the NJAC was struck down by the Supreme Court in:
 
 (a) I.R. Coelho v State of Tamil Nadu (2007)  
@@ -199,6 +211,8 @@ Questions match amendment numbers to changes (61st voting age, 86th RTE, 101st G
 **(b) 2 only** — An amendment bill can be introduced in either House; joint sitting is not available for it.
 
 </details>
+
+*Like a real PPSC question: [Prelims 2025 · GS Q81](../../past-papers/pre_2025_GS.md#q81)*
 
 **5.** The 106th Constitutional Amendment (2023) provides for:
 
@@ -255,6 +269,8 @@ Which of the statements given above is/are correct?
 
 </details>
 
+*Like a real PPSC question: [Prelims 2025 · GS Q81](../../past-papers/pre_2025_GS.md#q81)*
+
 **9.** Which of the following were struck down wholly or partly for want of ratification by states? 1. Paragraph 7 of the Tenth Schedule 2. Part IXB as applied to state co-operative societies 3. The 103rd Amendment
 
 (a) 1 and 2 only  
@@ -293,6 +309,8 @@ Which of the statements given above is/are correct?
 **(b) Constitution (128th Amendment) Bill** — Act and Bill numbers differ; the 127th Bill became the 105th Act.
 
 </details>
+
+*Like a real PPSC question: [Prelims 2025 · GS Q81](../../past-papers/pre_2025_GS.md#q81), [Prelims 2018 · GS Q31](../../past-papers/pre_2018_GS.md#q31)*
 
 **12.** The 100th Constitutional Amendment (2015) gave effect to:
 

@@ -1,6 +1,6 @@
 # Jainism & Buddhism
 
-**Paper I — General Studies** › History of India & World History · Subject: Indian History · Priority: Medium
+**Paper I — General Studies** › History of India & World History · Subject: Indian History · Priority: Medium · **Asked by PPSC: 🔥 4× (’18 ’21 ’25)**
 
 > Official syllabus line: Jainism and Buddhism.
 
@@ -136,6 +136,17 @@ PPSC/UPSC test councils (place, king, president, outcome), places of the Buddha'
 - NCERT Class 12 Themes in Indian History Part I, Ch 4 (Thinkers, Beliefs and Buildings)
 - R.S. Sharma, India's Ancient Past (chapter on Jainism and Buddhism)
 - Upinder Singh, A History of Ancient and Early Medieval India
+
+## Asked in PPSC papers — 4 times 🔥 (in every recent exam)
+
+| Paper | Years asked |
+|---|---|
+| Prelims GS | 2018, 2021 (×2), 2025 |
+
+- [Prelims 2025 · GS Q2](../../past-papers/pre_2025_GS.md#q2) — Match the following texts with their authors :
+- [Prelims 2021 · GS Q67](../../past-papers/pre_2021_GS.md#q67) — Which among the following statements is/are correct about the Palas ?
+- [Prelims 2021 · GS Q76](../../past-papers/pre_2021_GS.md#q76) — With reference to the Udaigiri-Khandagiri caves, which of the following statements is/are correct ?
+- [Prelims 2018 · GS Q81](../../past-papers/pre_2018_GS.md#q81) — The leader of a Jain gana was known as
 
 ## Practice MCQs (12)
 

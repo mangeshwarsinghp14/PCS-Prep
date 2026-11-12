@@ -4,6 +4,8 @@ Held 2021-02-13. Answer key: PPSC official final key. 100 questions.
 
 Sources: [1](https://theiashub.com/upsc/punjab-pcs-previous-year-question-paper/) · [2](https://drive.google.com/file/d/1bYxP2DG-yXOBpTLq8dw-6moPYsiNq1N2/view) · [3](https://www.pw.live/state-psc/exams/punjab-pcs-previous-year-question-paper) · [4](https://d2bps9p1kiy4ka.cloudfront.net/5b09189f7285894d9130ccd0/74087af6-c1e1-4dd8-93a3-44f9224bfab2.pdf) · [5](https://www.adda247.com/exams/punjab/punjab-pcs-previous-year-question-papers/) · [6](https://scroll.in/announcements/986968/punjab-civil-service-exam-2020-prelims-answer-key-released-raise-objections-till-feb-17)
 
+<a id="q1"></a>
+
 **Q1.** The World Health Organization has declared Africa wild polio-free. The disease is now found only in which of the following countries :
 
 (a) Afghanistan and Pakistan  
@@ -18,6 +20,9 @@ Sources: [1](https://theiashub.com/upsc/punjab-pcs-previous-year-question-paper/
 Topic: [notes](../syllabus/PRE1/06-p1s6-public-health-programmes.md)
 
 </details>
+*Topic asked 4× (2021, 2025)*
+
+<a id="q2"></a>
 
 **Q2.** Which of the following statements are correct ?  
 1. The DNA Technology (Use and Application) Regulation Bill, 2019 provides for the regulation of use of DNA technology for establishing the identity of certain persons.  
@@ -38,6 +43,9 @@ Select the correct answer using the code given below :
 Topic: [notes](../syllabus/PRE1/04-p1s4-human-body-life-processes-nutrition.md)
 
 </details>
+*Topic asked 4× (2018, 2021, 2025) 🔥*
+
+<a id="q3"></a>
 
 **Q3.** Recently, the Union Minister of Commerce and Industry launched National GIS-enabled Land Bank System. Which of the following statements are correct about the system ?  
 1. The platform is created to provide database of industrial clusters over South India.  
@@ -57,6 +65,9 @@ Select the correct answer using the code given below :
 Topic: [notes](../syllabus/PRE1/56-p1ca-current-events-national-international.md)
 
 </details>
+*Topic asked 28× (2018, 2021, 2025) 🔥*
+
+<a id="q4"></a>
 
 **Q4.** Consider the following statements :  
 1. Pratheeksha is India's first Marine Ambulance launched by Kerala Govt.  
@@ -75,6 +86,9 @@ Choose the incorrect statement(s) :
 Topic: [notes](../syllabus/PRE1/15-p1e5-biodiversity-conservation.md)
 
 </details>
+*Topic asked 17× (2018, 2021, 2025) 🔥*
+
+<a id="q5"></a>
 
 **Q5.** ICMR published "National Guidelines for Gene Therapy Product Development and Clinical Trials". Which of the following statements are correct about Gene Therapy Product (GTP) ?  
 1. It is defined as any biological entity, having the required gene, that could introduce modifications in the genome for therapeutic benefit.  
@@ -95,6 +109,9 @@ Select the correct answer using the code given below :
 Topic: [notes](../syllabus/PRE1/05-p1s5-diseases-causes-prevention.md)
 
 </details>
+*Topic asked 2× (2021, 2025)*
+
+<a id="q6"></a>
 
 **Q6.** The Prime Minister of India mentioned the mega plan of "One Sun, One World, One Grid" project in the Independence Day address. Which of the following statements are correct about the project ?  
 1. It is a transnational electricity grid supplying solar power project.  
@@ -114,6 +131,9 @@ Select the correct answer using the code given below :
 Topic: [notes](../syllabus/PRE1/13-p1e3-climate-change-energy.md)
 
 </details>
+*Topic asked 9× (2018, 2021, 2025) 🔥*
+
+<a id="q7"></a>
 
 **Q7.** The Government of India has constituted National Council for Transgender Persons. Which of the following statements are correct about the Council ?  
 1. The Council will be headed by the Union Minister of Social Justice and Empowerment.  
@@ -133,6 +153,9 @@ Select the correct answer using the code given below :
 Topic: [notes](../syllabus/PRE1/18-p1t1-freedom-equality-justice-rights.md)
 
 </details>
+*Topic asked 4× (2018, 2021)*
+
+<a id="q8"></a>
 
 **Q8.** The Ministry of Environment, Forest and Climate Change recently published the draft Environment Impact Assessment (EIA) Notification, 2020. Which of the following statements are correct about EIA ?  
 1. It predicts the effect of a proposed industrial/infrastructural project on the environment.  
@@ -155,6 +178,9 @@ Key not available — PPSC dropped this question in the final key.
 Topic: [notes](../syllabus/PRE1/17-p1e7-pollution-toxicity.md)
 
 </details>
+*Topic asked 9× (2018, 2021, 2025) 🔥*
+
+<a id="q9"></a>
 
 **Q9.** Recently 'Decarbonising Transport in India' project was launched by NITI Aayog in collaboration with International Transport Forum (ITF). Identify the incorrect statement.
 
@@ -170,6 +196,9 @@ Topic: [notes](../syllabus/PRE1/17-p1e7-pollution-toxicity.md)
 Topic: [notes](../syllabus/PRE1/13-p1e3-climate-change-energy.md)
 
 </details>
+*Topic asked 9× (2018, 2021, 2025) 🔥*
+
+<a id="q10"></a>
 
 **Q10.** The United Nations Environment Programme and International Energy Agency jointly released a 'Cooling Emissions and Policy Synthesis Report' (CEPSR). Which of the following statements is/are correct about the report ?  
 1. It is based on assessment of development and climate benefits of efficient and climate-friendly cooling.  
@@ -188,6 +217,9 @@ Select the correct answer using the code given below :
 Topic: [notes](../syllabus/PRE1/13-p1e3-climate-change-energy.md)
 
 </details>
+*Topic asked 9× (2018, 2021, 2025) 🔥*
+
+<a id="q11"></a>
 
 **Q11.** Which of the following statements are correct regarding Virtual Water Trade (VWT) ?  
 1. It refers to the import and export of hidden water in the form of products such as crop products, textiles, machinery and livestock which require water for production.  
@@ -207,6 +239,9 @@ Select the correct answer using the code given below :
 Topic: [notes](../syllabus/PRE1/14-p1e4-water-bodies-groundwater.md)
 
 </details>
+*Topic asked 5× (2018, 2021, 2025) 🔥*
+
+<a id="q12"></a>
 
 **Q12.** Recently, the 15th India-European Union Summit was held through a virtual medium. Which of the following are correct about the summit ?  
 1. 'India-EU Strategic Partnership : A Roadmap to 2025' was adopted to guide cooperation between India and the EU over the next five years.  
@@ -227,6 +262,9 @@ Select the correct answer using the code given below :
 Topic: [notes](../syllabus/PRE1/21-p1t4-world-bank-imf-wto-eu-g20-brics.md)
 
 </details>
+*Topic asked 7× (2018, 2021, 2025) 🔥*
+
+<a id="q13"></a>
 
 **Q13.** The Union Cabinet recently approved the New Education Policy (NEP), 2020. Which of the following statements are correct about the policy ?  
 1. Compulsory allocation of 4% of the GDP in Education sector by the Union Govt.  
@@ -250,6 +288,9 @@ Key not available — PPSC dropped this question in the final key.
 Topic: [notes](../syllabus/PRE1/56-p1ca-current-events-national-international.md)
 
 </details>
+*Topic asked 28× (2018, 2021, 2025) 🔥*
+
+<a id="q14"></a>
 
 **Q14.** Ministry of Earth Sciences (MoES) released a report titled 'Assessment of Climate Change over the Indian Region'. Which of the following statements are true ?  
 1. It is a first ever attempt to document and assess climate change in different parts of India.  
@@ -269,6 +310,9 @@ Select the correct answer using the code given below :
 Topic: [notes](../syllabus/PRE1/13-p1e3-climate-change-energy.md)
 
 </details>
+*Topic asked 9× (2018, 2021, 2025) 🔥*
+
+<a id="q15"></a>
 
 **Q15.** The Accredited Social Health Activists (ASHAs), a community-based functionary under National Rural Health Mission (NRHM), have been supporting delivery of health care services to the last mile, especially during COVID-19. Which of the following are the primary duties of ASHAs ?  
 1. It counsels women on birth preparedness, importance of safe delivery, breastfeeding and complementary feeding, immunization, contraception and prevention of common infections.  
@@ -289,6 +333,9 @@ Select the correct answer using the code given below :
 Topic: [notes](../syllabus/PRE1/06-p1s6-public-health-programmes.md)
 
 </details>
+*Topic asked 4× (2021, 2025)*
+
+<a id="q16"></a>
 
 **Q16.** The Government of India announced linking of Lakshadweep Islands with the mainland through Optical Fibre Cable link. Which of the following statements is/are true ?  
 1. The submarine optical fibre cable link will connect 11 islands of Lakshadweep with Kochi in mainland India.  
@@ -306,6 +353,9 @@ Topic: [notes](../syllabus/PRE1/06-p1s6-public-health-programmes.md)
 Topic: [notes](../syllabus/PRE1/10-p1s10-computers-telecommunication.md)
 
 </details>
+*Topic asked 4× (2021, 2025)*
+
+<a id="q17"></a>
 
 **Q17.** India's first gas exchange, the Indian Gas Exchange (IGX), was launched as a wholly owned subsidiary of Indian Energy Exchange. Which of the following statements are correct ?  
 1. It is a digital trading platform that will allow buyers and sellers to trade both in the spot market and in the forward market for imported natural gas.  
@@ -326,6 +376,9 @@ Select the correct answer using the code given below :
 Topic: [notes](../syllabus/PRE1/52-p1g5-minerals-energy.md)
 
 </details>
+*Topic asked 10× (2018, 2021, 2025) 🔥*
+
+<a id="q18"></a>
 
 **Q18.** Consider the following statements :  
 1. Angola and Nigeria are one of the largest crude oil suppliers of the sub-Saharan region.  
@@ -344,6 +397,9 @@ Which among the above statements is/are incorrect ?
 Topic: [notes](../syllabus/PRE1/52-p1g5-minerals-energy.md)
 
 </details>
+*Topic asked 10× (2018, 2021, 2025) 🔥*
+
+<a id="q19"></a>
 
 **Q19.** Recently, Pan-India Real Time Market in electricity was launched. Which of the following statements are correct about the market ?  
 1. Real time market is an organized market platform enabling buyers and sellers to meet their energy requirement closer to real time operation.  
@@ -363,6 +419,9 @@ Select the correct answer using the code given below :
 Topic: [notes](../syllabus/PRE1/52-p1g5-minerals-energy.md)
 
 </details>
+*Topic asked 10× (2018, 2021, 2025) 🔥*
+
+<a id="q20"></a>
 
 **Q20.** National Commodity and Derivatives Exchange (NCDEX) announced the commencement of trading in the country's first agriculture futures index called :
 
@@ -378,6 +437,9 @@ Topic: [notes](../syllabus/PRE1/52-p1g5-minerals-energy.md)
 Topic: [notes](../syllabus/PRE1/56-p1ca-current-events-national-international.md)
 
 </details>
+*Topic asked 28× (2018, 2021, 2025) 🔥*
+
+<a id="q21"></a>
 
 **Q21.** Consider the following statements :  
 1. Ezulwini consensus calls for a more democratic security council with a permanent seat to Egypt, Turkey and South Africa.  
@@ -396,6 +458,9 @@ Choose the correct statement(s) :
 Topic: [notes](../syllabus/PRE1/20-p1t3-united-nations.md)
 
 </details>
+*Topic asked 6× (2018, 2021)*
+
+<a id="q22"></a>
 
 **Q22.** India recently announced a second phase of Cotton Technical Assistance Programme for African countries. Choose the correct statements among the following :  
 1. The grouping of Mali, Benin, Burkina Faso and Chad is popularly called Cotton-4.  
@@ -414,6 +479,9 @@ Topic: [notes](../syllabus/PRE1/20-p1t3-united-nations.md)
 Topic: [notes](../syllabus/PRE1/50-p1g3-land-resources-agriculture.md)
 
 </details>
+*Topic asked 10× (2018, 2021, 2025) 🔥*
+
+<a id="q23"></a>
 
 **Q23.** The All India Trade Union Congress (AITUC), the first pan-India trade union recently completed 100 years. Who among the following contributed to the formation of AITUC.  
 1. Lala Lajpat Rai  
@@ -435,6 +503,9 @@ Choose the correct code :
 Topic: [notes](../syllabus/PRE1/37-p1h10-national-movement-1857-1947.md)
 
 </details>
+*Topic asked 7× (2018, 2021, 2025) 🔥*
+
+<a id="q24"></a>
 
 **Q24.** The International Maritime Organisation (IMO) has recently recognized Indian Regional Navigation Satellite System (IRNSS) as a part of World Wide Radio Navigation System (WWRNS). Choose the correct statement(s) among the following :  
 1. India has become the fourth country in the world to have its independent navigation satellite system recognized by IMO.  
@@ -453,6 +524,9 @@ Topic: [notes](../syllabus/PRE1/37-p1h10-national-movement-1857-1947.md)
 Topic: [notes](../syllabus/PRE1/10-p1s10-computers-telecommunication.md)
 
 </details>
+*Topic asked 4× (2021, 2025)*
+
+<a id="q25"></a>
 
 **Q25.** The Bureau of Indian Standards has prepared a draft standard for the supply of piped drinking water, named as "Drinking Water Supply Quality Management System-requirements for piped drinking water supply service". Which of the following statements are the key features of the draft ?  
 1. After treatment the drinking water should conform to Indian Standard (IS) 10500.  
@@ -472,6 +546,9 @@ Select the correct answer using the code given below :
 Topic: [notes](../syllabus/PRE1/51-p1g4-water-resources.md)
 
 </details>
+*Topic asked 6× (2018, 2021, 2025) 🔥*
+
+<a id="q26"></a>
 
 **Q26.** Winter Diesel is a specialized fuel that was introduced by Indian Oil Corporation. Choose the incorrect statement about Winter Diesel :
 
@@ -487,6 +564,9 @@ Topic: [notes](../syllabus/PRE1/51-p1g4-water-resources.md)
 Topic: [notes](../syllabus/PRE1/52-p1g5-minerals-energy.md)
 
 </details>
+*Topic asked 10× (2018, 2021, 2025) 🔥*
+
+<a id="q27"></a>
 
 **Q27.** Hydropower sector cooperation is the flagship area of Indo-Bhutan bilateral relations. Choose the correct statement(s) among the following with regard to India's investment in the hydropower sector in Bhutan :  
 1. The Mangdechhu hydroelectric project is a run-of-river power plant being built with Indian assistance in central Bhutan.  
@@ -505,6 +585,9 @@ Topic: [notes](../syllabus/PRE1/52-p1g5-minerals-energy.md)
 Topic: [notes](../syllabus/PRE1/52-p1g5-minerals-energy.md)
 
 </details>
+*Topic asked 10× (2018, 2021, 2025) 🔥*
+
+<a id="q28"></a>
 
 **Q28.** Consider the following statements regarding 'One Nation, One Ration Card' scheme.  
 1. The scheme allows portability of food security benefits for migrant workers in other States.  
@@ -523,6 +606,9 @@ Which of the above statements is/are correct ?
 Topic: [notes](../syllabus/PRE1/47-p1c5-key-challenges-responses.md)
 
 </details>
+*Topic asked 13× (2018, 2021, 2025) 🔥*
+
+<a id="q29"></a>
 
 **Q29.** Consider the following statements :  
 1. A permanent bridge has been built on River Ravi for connecting Kasowal enclave in Punjab along the India-Pakistan border with the rest of the country.  
@@ -541,6 +627,9 @@ Which of the above statements is/are correct ?
 Topic: [notes](../syllabus/PRE1/57-pbg1-regions-agro-climatic-zones-rivers.md)
 
 </details>
+*Topic asked 3× (2018, 2021)*
+
+<a id="q30"></a>
 
 **Q30.** Consider the following statements regarding Styrene gas leakage from LG Polymers Plant in Vishakhapatnam, Andhra Pradesh :  
 1. Styrene gas that is used in the production of polystyrene plastics and resins is normally stored as liquid in factories.  
@@ -559,6 +648,9 @@ Which of the statements given above is/are correct ?
 Topic: [notes](../syllabus/PRE1/17-p1e7-pollution-toxicity.md)
 
 </details>
+*Topic asked 9× (2018, 2021, 2025) 🔥*
+
+<a id="q31"></a>
 
 **Q31.** JIGYASA programme of Council of Scientific and Industrial Research (CSIR) is a/an
 
@@ -574,6 +666,9 @@ Topic: [notes](../syllabus/PRE1/17-p1e7-pollution-toxicity.md)
 Topic: [notes](../syllabus/PRE1/56-p1ca-current-events-national-international.md)
 
 </details>
+*Topic asked 28× (2018, 2021, 2025) 🔥*
+
+<a id="q32"></a>
 
 **Q32.** Consider the following statements :  
 1. 'Ajj Aakhaan Waris Shah Nu' (Today I Invoke Waris Shah) is a famous poem by the renowned Punjabi writer Amrita Pritam about the horrors of the partition of the Punjab during the Partition of India in 1947.  
@@ -592,6 +687,9 @@ Which of the above statements is/are correct ?
 Topic: [notes](../syllabus/PRE1/62-pbc3-punjabi-literature.md)
 
 </details>
+*Topic asked 6× (2018, 2021, 2025) 🔥*
+
+<a id="q33"></a>
 
 **Q33.** Consider the following statements :  
 1. World Bank allocates votes for member countries on the basis of the share of bank's capital stock held by the member country.  
@@ -612,6 +710,9 @@ Key not available — PPSC dropped this question in the final key.
 Topic: [notes](../syllabus/PRE1/21-p1t4-world-bank-imf-wto-eu-g20-brics.md)
 
 </details>
+*Topic asked 7× (2018, 2021, 2025) 🔥*
+
+<a id="q34"></a>
 
 **Q34.** Which of the statements given below is correct ?
 
@@ -627,6 +728,9 @@ Topic: [notes](../syllabus/PRE1/21-p1t4-world-bank-imf-wto-eu-g20-brics.md)
 Topic: [notes](../syllabus/PRE1/22-p1p1-features-provisions-schedules.md)
 
 </details>
+*Topic asked 18× (2018, 2021, 2025) 🔥*
+
+<a id="q35"></a>
 
 **Q35.** Consider the following statements :  
 1. The Sixth Schedule has conferred the District Councils the power to constitute Village Councils or courts for the trial of cases between persons belonging to Scheduled Tribes.  
@@ -645,6 +749,9 @@ Which of the statements given above is/are correct ?
 Topic: [notes](../syllabus/PRE1/22-p1p1-features-provisions-schedules.md)
 
 </details>
+*Topic asked 18× (2018, 2021, 2025) 🔥*
+
+<a id="q36"></a>
 
 **Q36.** Consider the following statements :  
 1. Matters concerning Trade Unions, industrial and labour disputes fall within the purview of Concurrent list.  
@@ -663,6 +770,9 @@ Which of the above statements is/are correct ?
 Topic: [notes](../syllabus/PRE1/22-p1p1-features-provisions-schedules.md)
 
 </details>
+*Topic asked 18× (2018, 2021, 2025) 🔥*
+
+<a id="q37"></a>
 
 **Q37.** Consider the following statements :  
 1. With respect to the ordinary Bills passed by the State Legislature, the Governor is vested with a discretionary power either to withhold his/her assent or return the Bill for reconsideration by the State Legislature.  
@@ -681,6 +791,9 @@ Which of the above statements is/are correct ?
 Topic: [notes](../syllabus/PRE1/22-p1p1-features-provisions-schedules.md)
 
 </details>
+*Topic asked 18× (2018, 2021, 2025) 🔥*
+
+<a id="q38"></a>
 
 **Q38.** As per the Scheduled Tribes and Other Traditional Forest Dwellers (Recognition of Forest Rights) Act, 2006, who has the authority to initiate the process for determining the nature and extent of individual or family rights ?
 
@@ -696,6 +809,9 @@ Topic: [notes](../syllabus/PRE1/22-p1p1-features-provisions-schedules.md)
 Topic: [notes](../syllabus/PRE1/24-p1p3-panchayati-raj.md)
 
 </details>
+*Topic asked 3× (2018, 2021, 2025) 🔥*
+
+<a id="q39"></a>
 
 **Q39.** Which of the following is not a provision of the Representation of the People Act, 1950 ?
 
@@ -711,6 +827,9 @@ Topic: [notes](../syllabus/PRE1/24-p1p3-panchayati-raj.md)
 Topic: [notes](../syllabus/PRE1/25-p1p4-elections-rpa-electoral-reforms.md)
 
 </details>
+*Topic asked 3× (2018, 2021, 2025) 🔥*
+
+<a id="q40"></a>
 
 **Q40.** Which of the following categories of borrowers are eligible for taking the benefit of Priority Sector Lending under the Weaker Sections Category ?  
 1. Small and Marginal Farmers  
@@ -732,6 +851,9 @@ Select the correct answer from the choices below :
 Topic: [notes](../syllabus/PRE1/47-p1c5-key-challenges-responses.md)
 
 </details>
+*Topic asked 13× (2018, 2021, 2025) 🔥*
+
+<a id="q41"></a>
 
 **Q41.** Which out of the following sets of industries is not a part of the eight core industries in India ?
 
@@ -747,6 +869,9 @@ Topic: [notes](../syllabus/PRE1/47-p1c5-key-challenges-responses.md)
 Topic: [notes](../syllabus/PRE1/46-p1c4-performance-since-1991.md)
 
 </details>
+*Topic asked 19× (2018, 2021, 2025) 🔥*
+
+<a id="q42"></a>
 
 **Q42.** Which out of the following has been categorised as a Domestic Systematically Important Bank (D-SIB) as per the recent report the RBI ?
 
@@ -762,6 +887,9 @@ Topic: [notes](../syllabus/PRE1/46-p1c4-performance-since-1991.md)
 Topic: [notes](../syllabus/PRE1/46-p1c4-performance-since-1991.md)
 
 </details>
+*Topic asked 19× (2018, 2021, 2025) 🔥*
+
+<a id="q43"></a>
 
 **Q43.** Which among the following is incorrect with respect to Payment Banks and Small Finance Banks in India ?
 
@@ -777,6 +905,9 @@ Topic: [notes](../syllabus/PRE1/46-p1c4-performance-since-1991.md)
 Topic: [notes](../syllabus/PRE1/46-p1c4-performance-since-1991.md)
 
 </details>
+*Topic asked 19× (2018, 2021, 2025) 🔥*
+
+<a id="q44"></a>
 
 **Q44.** Consider the following pairings of Non-Performing Assets (NPA) classification in India with their descriptions :  
 1. Substandard assets : Assets which have remained NPAs for a period less than or equal to 12 months.  
@@ -796,6 +927,9 @@ Which out of the above pairings are correct ?
 Topic: [notes](../syllabus/PRE1/46-p1c4-performance-since-1991.md)
 
 </details>
+*Topic asked 19× (2018, 2021, 2025) 🔥*
+
+<a id="q45"></a>
 
 **Q45.** Which among the following is the objective of the Cheque Truncation System (CTS) introduced by the RBI ?
 
@@ -811,6 +945,9 @@ Topic: [notes](../syllabus/PRE1/46-p1c4-performance-since-1991.md)
 Topic: [notes](../syllabus/PRE1/46-p1c4-performance-since-1991.md)
 
 </details>
+*Topic asked 19× (2018, 2021, 2025) 🔥*
+
+<a id="q46"></a>
 
 **Q46.** Which out of the following is the largest network of shared ATMs in India, run by the National Payments Corporation of India ?
 
@@ -826,6 +963,9 @@ Topic: [notes](../syllabus/PRE1/46-p1c4-performance-since-1991.md)
 Topic: [notes](../syllabus/PRE1/46-p1c4-performance-since-1991.md)
 
 </details>
+*Topic asked 19× (2018, 2021, 2025) 🔥*
+
+<a id="q47"></a>
 
 **Q47.** Credit Rating Agencies in India are regulated by which of the following entities ?
 
@@ -841,6 +981,9 @@ Topic: [notes](../syllabus/PRE1/46-p1c4-performance-since-1991.md)
 Topic: [notes](../syllabus/PRE1/46-p1c4-performance-since-1991.md)
 
 </details>
+*Topic asked 19× (2018, 2021, 2025) 🔥*
+
+<a id="q48"></a>
 
 **Q48.** Which of the following statements is incorrect with respect to TReDS ?
 
@@ -856,6 +999,9 @@ Topic: [notes](../syllabus/PRE1/46-p1c4-performance-since-1991.md)
 Topic: [notes](../syllabus/PRE1/46-p1c4-performance-since-1991.md)
 
 </details>
+*Topic asked 19× (2018, 2021, 2025) 🔥*
+
+<a id="q49"></a>
 
 **Q49.** Start-ups registered with the Department of Industrial Policy and Promotion of the Government of India are exempted from the payment of the "Angel Tax" with conditions. This tax refers to
 
@@ -871,6 +1017,9 @@ Topic: [notes](../syllabus/PRE1/46-p1c4-performance-since-1991.md)
 Topic: [notes](../syllabus/PRE1/46-p1c4-performance-since-1991.md)
 
 </details>
+*Topic asked 19× (2018, 2021, 2025) 🔥*
+
+<a id="q50"></a>
 
 **Q50.** 'Usual Principal Status', 'Usual Subsidiary Status' and 'Usual Principal and Subsidiary Status' approaches are used in the measurement of
 
@@ -886,6 +1035,9 @@ Topic: [notes](../syllabus/PRE1/46-p1c4-performance-since-1991.md)
 Topic: [notes](../syllabus/PRE1/47-p1c5-key-challenges-responses.md)
 
 </details>
+*Topic asked 13× (2018, 2021, 2025) 🔥*
+
+<a id="q51"></a>
 
 **Q51.** India has been constantly negotiating for an expansion in the trade in services via Mode 4 as defined under the General Agreement on Trade in Services (GATS). Consider the following pairings regarding different modes of Services under GATS of the WTO :  
 1. Mode 1 : Cross-Border Supply of Services  
@@ -906,6 +1058,9 @@ Which of the above are correctly paired ?
 Topic: [notes](../syllabus/PRE1/21-p1t4-world-bank-imf-wto-eu-g20-brics.md)
 
 </details>
+*Topic asked 7× (2018, 2021, 2025) 🔥*
+
+<a id="q52"></a>
 
 **Q52.** Which among the following are sources of non-tax revenue receipts for the Union Government ?  
 1. Disinvestment Receipts  
@@ -926,6 +1081,9 @@ Choose the correct answer from the choices given below :
 Topic: [notes](../syllabus/PRE1/46-p1c4-performance-since-1991.md)
 
 </details>
+*Topic asked 19× (2018, 2021, 2025) 🔥*
+
+<a id="q53"></a>
 
 **Q53.** Consider the following statements with respect to Consumer Price Index and Wholesale Price Index in India :  
 1. The WPI is calculated for only goods and CPI is calculated for both goods and services.  
@@ -948,6 +1106,9 @@ Key not available — PPSC dropped this question in the final key.
 Topic: [notes](../syllabus/PRE1/46-p1c4-performance-since-1991.md)
 
 </details>
+*Topic asked 19× (2018, 2021, 2025) 🔥*
+
+<a id="q54"></a>
 
 **Q54.** Commission for Agriculture Costs and Prices (CACP) submits its recommendation for MSPs of agricultural commodities in form of Price Policy Reports. Consider the following statements :  
 1. CACP is a statutory body formed under Agriculture Price Commission Act, 1962.  
@@ -967,6 +1128,9 @@ Which among the following statements is/are incorrect ?
 Topic: [notes](../syllabus/PRE1/50-p1g3-land-resources-agriculture.md)
 
 </details>
+*↻ **Same theme also asked:** [Prelims 2018 · GS Q48](pre_2018_GS.md#q48) · Topic asked 10× (2018, 2021, 2025) 🔥*
+
+<a id="q55"></a>
 
 **Q55.** Some suggest that India needs to move to an escrow-based payment mechanism to ensure a fearless business environment in the country. Which of the following correctly describes an escrow account ?
 
@@ -982,6 +1146,9 @@ Topic: [notes](../syllabus/PRE1/50-p1g3-land-resources-agriculture.md)
 Topic: [notes](../syllabus/PRE1/46-p1c4-performance-since-1991.md)
 
 </details>
+*Topic asked 19× (2018, 2021, 2025) 🔥*
+
+<a id="q56"></a>
 
 **Q56.** The Mineral Laws (Amendment) Bill, 2020 has recently been passed. Consider the following regarding the same :  
 1. With the introduction of this Bill, companies which do not have any prior coal mining experience in India can also participate in the auction of coal blocks.  
@@ -1002,6 +1169,9 @@ Which of the above are true ?
 Topic: [notes](../syllabus/PRE1/52-p1g5-minerals-energy.md)
 
 </details>
+*Topic asked 10× (2018, 2021, 2025) 🔥*
+
+<a id="q57"></a>
 
 **Q57.** Consider the following pairings of the names of Government initiated portals and the area/industry with which they are associated :  
 1. Sambandh : MSME  
@@ -1022,6 +1192,9 @@ Which out of the above are correctly paired ?
 Topic: [notes](../syllabus/PRE1/56-p1ca-current-events-national-international.md)
 
 </details>
+*Topic asked 28× (2018, 2021, 2025) 🔥*
+
+<a id="q58"></a>
 
 **Q58.** Consider the following statements with respect to the Export Preparedness Index, 2020 :  
 1. It was published by the NITI Aayog in partnership with the Institute of Competitiveness.  
@@ -1043,6 +1216,9 @@ Which of the above statements are true ?
 Topic: [notes](../syllabus/PRE1/54-p1g7-planning-transport-trade.md)
 
 </details>
+*Topic asked 5× (2018, 2021, 2025) 🔥*
+
+<a id="q59"></a>
 
 **Q59.** According to the World Bank's classification of economies into income groups (on the basis of GNI per capita using the Atlas method exchange rates) for the 2020 – 2021 fiscal year, India falls in which of the four incomes groups described below ?
 
@@ -1058,6 +1234,9 @@ Topic: [notes](../syllabus/PRE1/54-p1g7-planning-transport-trade.md)
 Topic: [notes](../syllabus/PRE1/21-p1t4-world-bank-imf-wto-eu-g20-brics.md)
 
 </details>
+*Topic asked 7× (2018, 2021, 2025) 🔥*
+
+<a id="q60"></a>
 
 **Q60.** Consider the following products :  
 1. Phulkari  
@@ -1078,6 +1257,8 @@ Topic: [notes](../syllabus/PRE1/63-pbc4-folklore-performing-fine-arts-crafts.md)
 
 </details>
 
+<a id="q61"></a>
+
 **Q61.** Mesothelioma is a malignant tumour that is caused by  
 1. Cadmium  
 2. Arsenic  
@@ -1097,6 +1278,9 @@ Select the correct answer using the code given below :
 Topic: [notes](../syllabus/PRE1/17-p1e7-pollution-toxicity.md)
 
 </details>
+*Topic asked 9× (2018, 2021, 2025) 🔥*
+
+<a id="q62"></a>
 
 **Q62.** Three-way catalytic converter is used in vehicles to reduce  
 1. Unburnt Hydrocarbon  
@@ -1117,6 +1301,9 @@ Select the correct answer using the code given below :
 Topic: [notes](../syllabus/PRE1/17-p1e7-pollution-toxicity.md)
 
 </details>
+*Topic asked 9× (2018, 2021, 2025) 🔥*
+
+<a id="q63"></a>
 
 **Q63.** Statements about Terrestrial laser scanning are given below :  
 1. It is a measurement technique that can acquire millimeter-level of detail from the surrounding area.  
@@ -1137,6 +1324,9 @@ Which of the above given statements are true ?
 Topic: [notes](../syllabus/PRE1/10-p1s10-computers-telecommunication.md)
 
 </details>
+*Topic asked 4× (2021, 2025)*
+
+<a id="q64"></a>
 
 **Q64.** Read the following and choose the correct statement(s) :  
 1. The Pacific nation of Palau became the first country to ban "Coral reef-toxic" sunscreens.  
@@ -1155,6 +1345,9 @@ Choose the correct option :
 Topic: [notes](../syllabus/PRE1/15-p1e5-biodiversity-conservation.md)
 
 </details>
+*Topic asked 17× (2018, 2021, 2025) 🔥*
+
+<a id="q65"></a>
 
 **Q65.** Read the following and choose the correct statement(s) :  
 Statement I : The Himachal Pradesh State Government is to develop India's first Snow Leopard Conservation Centre of India. The Centre is to be developed by the Himachal Pradesh Forest Department and the United Nations Development Programme (UNDP).  
@@ -1173,6 +1366,9 @@ Choose the correct option :
 Topic: [notes](../syllabus/PRE1/15-p1e5-biodiversity-conservation.md)
 
 </details>
+*Topic asked 17× (2018, 2021, 2025) 🔥*
+
+<a id="q66"></a>
 
 **Q66.** The symbol of Indian ecomark is
 
@@ -1188,6 +1384,9 @@ Topic: [notes](../syllabus/PRE1/15-p1e5-biodiversity-conservation.md)
 Topic: [notes](../syllabus/PRE1/17-p1e7-pollution-toxicity.md)
 
 </details>
+*Topic asked 9× (2018, 2021, 2025) 🔥*
+
+<a id="q67"></a>
 
 **Q67.** Which among the following statements is/are correct about the Palas ?  
 1. The Palas were ardent followers of Jainism.  
@@ -1206,6 +1405,9 @@ Select the correct answer using the code given below :
 Topic: [notes](../syllabus/PRE1/30-p1h3-jainism-buddhism.md)
 
 </details>
+*Topic asked 4× (2018, 2021, 2025) 🔥*
+
+<a id="q68"></a>
 
 **Q68.** Which among the following statements(s) is/are true about the Mughal rule under Akbar ?  
 1. Akbar opened the Ibadat Khana to people of all religions; Sufis, Shias, Christians, Jains and atheists.  
@@ -1224,6 +1426,9 @@ Select the correct answer using the code given below :
 Topic: [notes](../syllabus/PRE1/34-p1h7-mughals-to-aurangzeb.md)
 
 </details>
+*↻ **Same theme also asked:** [Prelims 2025 · GS Q6](pre_2025_GS.md#q6) · Topic asked 7× (2018, 2021, 2025) 🔥*
+
+<a id="q69"></a>
 
 **Q69.** In the Indian Freedom Struggle, who among the following revolutionaries carried out their activities from abroad ?  
 1. Raja Mahendra Pratap  
@@ -1243,6 +1448,9 @@ Select the correct answer using the code given below :
 Topic: [notes](../syllabus/PRE1/37-p1h10-national-movement-1857-1947.md)
 
 </details>
+*Topic asked 7× (2018, 2021, 2025) 🔥*
+
+<a id="q70"></a>
 
 **Q70.** Which of the following initiatives was/were taken by Sher Shah Suri to promote trade and commerce ?  
 1. Introduction of gold, silver and copper coins of uniform standard.  
@@ -1262,6 +1470,9 @@ Select the correct answer using the code given below :
 Topic: [notes](../syllabus/PRE1/34-p1h7-mughals-to-aurangzeb.md)
 
 </details>
+*Topic asked 7× (2018, 2021, 2025) 🔥*
+
+<a id="q71"></a>
 
 **Q71.** Sangam texts suggest several stages of social evolution of Tamil people. In this context consider the following statements :  
 1. The narrative texts show that Tamil people of the times were primarily pastoral.  
@@ -1280,6 +1491,9 @@ Which of the statements given above is/are not correct ?
 Topic: [notes](../syllabus/PRE1/31-p1h4-mauryas-guptas.md)
 
 </details>
+*Topic asked 4× (2018, 2021, 2025) 🔥*
+
+<a id="q72"></a>
 
 **Q72.** Which of the following was/were found in Mohenjodaro ?  
 1. Bronze Image of a dancing girl  
@@ -1299,6 +1513,9 @@ Select the correct answer using the code given below :
 Topic: [notes](../syllabus/PRE1/28-p1h1-indus-valley-civilisation.md)
 
 </details>
+*Topic asked 3× (2018, 2021, 2025) 🔥*
+
+<a id="q73"></a>
 
 **Q73.** With reference to the medieval history of India, the terms 'Dahsala', 'Batai' and 'Nasaq' are related to
 
@@ -1314,6 +1531,9 @@ Topic: [notes](../syllabus/PRE1/28-p1h1-indus-valley-civilisation.md)
 Topic: [notes](../syllabus/PRE1/34-p1h7-mughals-to-aurangzeb.md)
 
 </details>
+*Topic asked 7× (2018, 2021, 2025) 🔥*
+
+<a id="q74"></a>
 
 **Q74.** Consider the following statements regarding the administration under Chola Empire :  
 1. The Ur and Sabha were village assemblies mentioned under Chola inscriptions.  
@@ -1333,6 +1553,9 @@ Which of the statements given above is/are correct ?
 Topic: [notes](../syllabus/PRE1/32-p1h5-advent-of-islam-sultanate.md)
 
 </details>
+*Topic asked 4× (2018, 2021, 2025) 🔥*
+
+<a id="q75"></a>
 
 **Q75.** Which of the following statements is/are not correct about the Vijayanagara kingdom ?  
 1. The Vijayanagara kings maintained complete separation between religion and administration.  
@@ -1352,6 +1575,9 @@ Select the correct answer using the code given below :
 Topic: [notes](../syllabus/PRE1/32-p1h5-advent-of-islam-sultanate.md)
 
 </details>
+*Topic asked 4× (2018, 2021, 2025) 🔥*
+
+<a id="q76"></a>
 
 **Q76.** With reference to the Udaigiri-Khandagiri caves, which of the following statements is/are correct ?  
 1. They are examples of the rock-cut cave tradition.  
@@ -1371,6 +1597,9 @@ Select the correct answer using the code given below :
 Topic: [notes](../syllabus/PRE1/30-p1h3-jainism-buddhism.md)
 
 </details>
+*Topic asked 4× (2018, 2021, 2025) 🔥*
+
+<a id="q77"></a>
 
 **Q77.** What important influence did John Locke, Baron de Montesquieu, Jean-Jacques Rousseau and Voltaire have on the United States ?
 
@@ -1386,6 +1615,9 @@ Topic: [notes](../syllabus/PRE1/30-p1h3-jainism-buddhism.md)
 Topic: [notes](../syllabus/PRE1/39-p1w2-american-revolution-1776.md)
 
 </details>
+*Topic asked 2× (2018, 2021)*
+
+<a id="q78"></a>
 
 **Q78.** From July 17 to August 2, 1945, leaders from the Allied nations met at the Potsdam Conference to decide the sanctions to be put in place against the recently defeated Nazi Germany. During the conference, the decision was made that certain industries in Germany would be
 
@@ -1401,6 +1633,9 @@ Topic: [notes](../syllabus/PRE1/39-p1w2-american-revolution-1776.md)
 Topic: [notes](../syllabus/PRE1/42-p1w5-world-wars-i-ii.md)
 
 </details>
+*Topic asked 3× (2018, 2021)*
+
+<a id="q79"></a>
 
 **Q79.** Match the following :  
 List I (Personalities) — List II (Misls)  
@@ -1422,6 +1657,9 @@ Codes : A B C D
 Topic: [notes](../syllabus/PRE1/66-pbh3-sikh-rulers.md)
 
 </details>
+*Topic asked 2× (2021)*
+
+<a id="q80"></a>
 
 **Q80.** Maharaja Ranjit Singh gave grants to the following religious places :
 
@@ -1437,6 +1675,9 @@ Topic: [notes](../syllabus/PRE1/66-pbh3-sikh-rulers.md)
 Topic: [notes](../syllabus/PRE1/66-pbh3-sikh-rulers.md)
 
 </details>
+*Topic asked 2× (2021)*
+
+<a id="q81"></a>
 
 **Q81.** Consider the following statements and choose the correct one(s).  
 1. As per 2011 census, the percentage of agricultural labourers constitute more than 30% of total workers in the State of Punjab.  
@@ -1455,6 +1696,9 @@ Select the correct answer using the code given below :
 Topic: [notes](../syllabus/PRE1/70-pbe1-agriculture-animal-husbandry.md)
 
 </details>
+*Topic asked 4× (2018, 2021)*
+
+<a id="q82"></a>
 
 **Q82.** Match the following pairs : State — Dams and Reservoirs  
 1. Madhya Pradesh — Sriram Sagar Reservoir  
@@ -1474,6 +1718,9 @@ Which of the pairs given above are correctly matched ?
 Topic: [notes](../syllabus/PRE1/51-p1g4-water-resources.md)
 
 </details>
+*Topic asked 6× (2018, 2021, 2025) 🔥*
+
+<a id="q83"></a>
 
 **Q83.** Consider the following statements about Thal Ghat :  
 1. It is also called Kasara Ghat.  
@@ -1493,6 +1740,9 @@ Which of the statements given above are correct ?
 Topic: [notes](../syllabus/PRE1/54-p1g7-planning-transport-trade.md)
 
 </details>
+*Topic asked 5× (2018, 2021, 2025) 🔥*
+
+<a id="q84"></a>
 
 **Q84.** Which among the following is a Glaciatic Wetland ?
 
@@ -1508,6 +1758,9 @@ Topic: [notes](../syllabus/PRE1/54-p1g7-planning-transport-trade.md)
 Topic: [notes](../syllabus/PRE1/14-p1e4-water-bodies-groundwater.md)
 
 </details>
+*Topic asked 5× (2018, 2021, 2025) 🔥*
+
+<a id="q85"></a>
 
 **Q85.** Choose the correct statement(s) :  
 Statement I : Wild water buffalo is majorly found in North-Eastern and Central India.  
@@ -1526,6 +1779,9 @@ Choose the correct option :
 Topic: [notes](../syllabus/PRE1/15-p1e5-biodiversity-conservation.md)
 
 </details>
+*Topic asked 17× (2018, 2021, 2025) 🔥*
+
+<a id="q86"></a>
 
 **Q86.** Choose the correct statement(s) :  
 Statement I : Corals are an endangered marine species and protected under Schedule I of Wildlife Protection Act, 1972.  
@@ -1544,6 +1800,9 @@ Choose the correct option :
 Topic: [notes](../syllabus/PRE1/15-p1e5-biodiversity-conservation.md)
 
 </details>
+*Topic asked 17× (2018, 2021, 2025) 🔥*
+
+<a id="q87"></a>
 
 **Q87.** The COVID-19 pandemic has exposed the vulnerability and plight of sex workers across the world. Which among the following statements are true about the recent advisory related to sex workers issued by NHRC (National Human Rights Commission) ?  
 Statement I : NHRC advised to change the current statutory status of sex workers from 'informal workers' to 'Women at work'.  
@@ -1562,6 +1821,9 @@ Choose the correct option :
 Topic: [notes](../syllabus/PRE1/18-p1t1-freedom-equality-justice-rights.md)
 
 </details>
+*Topic asked 4× (2018, 2021)*
+
+<a id="q88"></a>
 
 **Q88.** Choose the incorrect statements :  
 1. The Mediterranean lands account for more than half of the world's exports of citrus fruits.  
@@ -1582,6 +1844,9 @@ Choose from the code given below :
 Topic: [notes](../syllabus/PRE1/50-p1g3-land-resources-agriculture.md)
 
 </details>
+*Topic asked 10× (2018, 2021, 2025) 🔥*
+
+<a id="q89"></a>
 
 **Q89.** Choose the correct statements :  
 1. The gentle slope of continental shelves of Grand Banks of Newfoundland is one of the reasons for it to emerge among the largest fishing grounds of the world.  
@@ -1602,6 +1867,9 @@ Choose the correct option :
 Topic: [notes](../syllabus/PRE1/50-p1g3-land-resources-agriculture.md)
 
 </details>
+*Topic asked 10× (2018, 2021, 2025) 🔥*
+
+<a id="q90"></a>
 
 **Q90.** Choose the incorrect statement :  
 1. Sea of Galilee is an example of lava blocked lake in the Jordan Valley.  
@@ -1620,6 +1888,9 @@ Choose from the code given below :
 Topic: [notes](../syllabus/PRE1/14-p1e4-water-bodies-groundwater.md)
 
 </details>
+*Topic asked 5× (2018, 2021, 2025) 🔥*
+
+<a id="q91"></a>
 
 **Q91.** Consider the following statements :  
 1. The Medical Termination of Pregnancy (Amendment) Bill 2020 seeks to amend The Medical Termination of Pregnancy Act, 1971.  
@@ -1639,6 +1910,9 @@ Choose the correct statement(s) :
 Topic: [notes](../syllabus/PRE1/06-p1s6-public-health-programmes.md)
 
 </details>
+*Topic asked 4× (2021, 2025)*
+
+<a id="q92"></a>
 
 **Q92.** Consider the following statements :  
 1. Odisha recently launched "Drink from the tap Mission-Sujal" to ensure the supply of quality drinking water to the people.  
@@ -1657,6 +1931,9 @@ Choose the correct statement(s) :
 Topic: [notes](../syllabus/PRE1/51-p1g4-water-resources.md)
 
 </details>
+*Topic asked 6× (2018, 2021, 2025) 🔥*
+
+<a id="q93"></a>
 
 **Q93.** Which Article of the Constitution provides that it shall be the endeavor of every State to provide adequate facility for instruction in the mother tongue at the primary stage of education to children belonging to linguistic minority groups ?
 
@@ -1672,6 +1949,9 @@ Topic: [notes](../syllabus/PRE1/51-p1g4-water-resources.md)
 Topic: [notes](../syllabus/PRE1/22-p1p1-features-provisions-schedules.md)
 
 </details>
+*Topic asked 18× (2018, 2021, 2025) 🔥*
+
+<a id="q94"></a>
 
 **Q94.** Choose the incorrect statement among the following :  
 1. The Hausa are a primarily pastoral tribe of Nigeria for whom cattle is a symbol of wealth.  
@@ -1689,6 +1969,9 @@ Topic: [notes](../syllabus/PRE1/22-p1p1-features-provisions-schedules.md)
 Topic: [notes](../syllabus/PRE1/48-p1g1-population-migration.md)
 
 </details>
+*Topic asked 5× (2018, 2021, 2025) 🔥*
+
+<a id="q95"></a>
 
 **Q95.** As part of 'Vaccine Maitri' policy which of the following countries became first recipients of the Made-in-India COVID-19 vaccine.
 
@@ -1704,6 +1987,9 @@ Topic: [notes](../syllabus/PRE1/48-p1g1-population-migration.md)
 Topic: [notes](../syllabus/PRE1/56-p1ca-current-events-national-international.md)
 
 </details>
+*Topic asked 28× (2018, 2021, 2025) 🔥*
+
+<a id="q96"></a>
 
 **Q96.** Recently again in controversy, Jallikattu, is the bull taming traditional sport of which Indian State ?
 
@@ -1719,6 +2005,9 @@ Topic: [notes](../syllabus/PRE1/56-p1ca-current-events-national-international.md
 Topic: [notes](../syllabus/PRE1/56-p1ca-current-events-national-international.md)
 
 </details>
+*Topic asked 28× (2018, 2021, 2025) 🔥*
+
+<a id="q97"></a>
 
 **Q97.** Which among the following nations, owing to its steady economic growth, has recently graduated from the UN's official list of Least Developed Countries (LDCs) ?
 
@@ -1734,6 +2023,9 @@ Topic: [notes](../syllabus/PRE1/56-p1ca-current-events-national-international.md
 Topic: [notes](../syllabus/PRE1/20-p1t3-united-nations.md)
 
 </details>
+*Topic asked 6× (2018, 2021)*
+
+<a id="q98"></a>
 
 **Q98.** Which of the following is not a foreign bank in India ?
 
@@ -1749,6 +2041,9 @@ Topic: [notes](../syllabus/PRE1/20-p1t3-united-nations.md)
 Topic: [notes](../syllabus/PRE1/46-p1c4-performance-since-1991.md)
 
 </details>
+*Topic asked 19× (2018, 2021, 2025) 🔥*
+
+<a id="q99"></a>
 
 **Q99.** In view of a recent Supreme Court order, consider the following features of coastal regulation zones in India as per the CRZ Notification :  
 1. CRZ-1 : Exploration and extraction of natural gas is permitted selectively.  
@@ -1768,6 +2063,9 @@ Choose the correct matches :
 Topic: [notes](../syllabus/PRE1/55-p1g8-geographical-issues-problems.md)
 
 </details>
+*Topic asked 3× (2021, 2025)*
+
+<a id="q100"></a>
 
 **Q100.** Which of the following organisms is/are considered as "Benthos" biotic community ?  
 1. Starfish  
@@ -1789,3 +2087,4 @@ Key not available — PPSC dropped this question in the final key.
 Topic: [notes](../syllabus/PRE1/15-p1e5-biodiversity-conservation.md)
 
 </details>
+*Topic asked 17× (2018, 2021, 2025) 🔥*

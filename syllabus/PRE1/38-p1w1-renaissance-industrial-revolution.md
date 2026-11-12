@@ -1,6 +1,6 @@
 # Renaissance & Industrial Revolution
 
-**Paper I — General Studies** › History of India & World History · Subject: World History · Priority: Low
+**Paper I — General Studies** › History of India & World History · Subject: World History · Priority: Low · **Asked by PPSC: 🔁 2× (’18)**
 
 > Official syllabus line: World History: The Renaissance and the Industrial Revolution in Europe.
 
@@ -134,6 +134,15 @@ Low-priority but easy marks: inventor–invention pairs, author–book pairs and
 - NCERT Class 11 Themes in World History (older editions), chapters Changing Cultural Traditions and The Industrial Revolution
 - Arjun Dev, History of the World (old NCERT)
 - Jain and Mathur, World History (1500–1950)
+
+## Asked in PPSC papers — 2 times (in 1 of 3 recent exams)
+
+| Paper | Years asked |
+|---|---|
+| Prelims GS | 2018 (×2) |
+
+- [Prelims 2018 · GS Q71](../../past-papers/pre_2018_GS.md#q71) — "The Virgin of the Rocks" is the masterpiece of which painter ?
+- [Prelims 2018 · GS Q72](../../past-papers/pre_2018_GS.md#q72) — Who gave the idea of the "Penny Post" – fast and cheap communication ?
 
 ## Practice MCQs (18)
 

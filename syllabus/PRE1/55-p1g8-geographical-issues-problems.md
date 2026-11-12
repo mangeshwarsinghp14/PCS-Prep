@@ -1,6 +1,6 @@
 # Geographical issues & problems
 
-**Paper I — General Studies** › Geography · Subject: Geography · Priority: Low
+**Paper I — General Studies** › Geography · Subject: Geography · Priority: Low · **Asked by PPSC: 🔁 3× (’21 ’25)**
 
 > Official syllabus line: Geographical perspective on selected issues and problems.
 
@@ -108,6 +108,16 @@ Questions cover pollution laws and their years, sources and effects of pollution
 - NCERT Class 12 'India: People and Economy' Ch 12 (Geographical Perspective on Selected Issues and Problems)
 - NCERT Class 11 'India: Physical Environment' Ch 7 (Natural Hazards and Disasters)
 - CPCB and MoEFCC websites (NCAP, waste management rules)
+
+## Asked in PPSC papers — 3 times (in 2 of 3 recent exams)
+
+| Paper | Years asked |
+|---|---|
+| Prelims GS | 2021, 2025 (×2) |
+
+- [Prelims 2025 · GS Q76](../../past-papers/pre_2025_GS.md#q76) — Match the following volcanoes with the places where they are located :
+- [Prelims 2025 · GS Q77](../../past-papers/pre_2025_GS.md#q77) — Match the following terms related to mountain formation with their examples :
+- [Prelims 2021 · GS Q99](../../past-papers/pre_2021_GS.md#q99) — In view of a recent Supreme Court order, consider the following features of coastal regulation zones in India as per the CRZ Notification :
 
 ## Practice MCQs (12)
 

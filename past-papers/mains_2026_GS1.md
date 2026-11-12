@@ -4,6 +4,8 @@ Held 2026-04-06. 20 questions. Source scan (O2 IAS) shows the GS-I page without 
 
 Sources: [1](https://o2iasacademy.in/resources/punjab-pcs-previous-year-question-papers-pdfs-9506/) · [2](https://drive.google.com/file/d/1DvhCnH90kDPymCIVL7RzRD09idxG5X4a/view) · [3](https://www.adda247.com/exams/punjab/punjab-pcs-exam-date-2025/)
 
+<a id="q1"></a>
+
 **Q1.** Give the salient features of the Gandhara Art. How was it different from the Mathura Art? *(10 marks, 100 words)*
 
 <details><summary>Model answer points</summary>
@@ -34,6 +36,10 @@ Topic: [notes](../syllabus/GS1/02-g1h2-indian-culture-art-literature-architectur
 
 </details>
 
+*Topic asked 5× (2018, 2021, 2026) 🔥*
+
+<a id="q2"></a>
+
 **Q2.** Participation of women in Indian National Movement is generally regarded as a feature of Gandhian Movements but it was not limited to the Gandhian Movements only. Discuss. *(10 marks, 100 words)*
 
 <details><summary>Model answer points</summary>
@@ -60,6 +66,10 @@ Topic: [notes](../syllabus/GS1/05-g1h5-freedom-struggle-punjab-focus.md)
 
 </details>
 
+*Topic asked 6× (2018, 2021, 2026) 🔥*
+
+<a id="q3"></a>
+
 **Q3.** Examine the contribution of the Arya Samaj in the evolution of education in British India. *(10 marks, 100 words)*
 
 <details><summary>Model answer points</summary>
@@ -85,6 +95,9 @@ Topic: [notes](../syllabus/GS1/05-g1h5-freedom-struggle-punjab-focus.md)
 Topic: [notes](../syllabus/GS1/04-g1h4-socio-religious-reform-punjab-focus.md)
 
 </details>
+
+
+<a id="q4"></a>
 
 **Q4.** The Amritsar massacre left a scar on the Indo-British relations which could never be erased. Analyse. *(10 marks, 100 words)*
 
@@ -113,6 +126,10 @@ Topic: [notes](../syllabus/GS1/05-g1h5-freedom-struggle-punjab-focus.md)
 
 </details>
 
+*Topic asked 6× (2018, 2021, 2026) 🔥*
+
+<a id="q5"></a>
+
 **Q5.** Write a short note on cloud burst as hydro-meteorological disaster in India. *(10 marks, 100 words)*
 
 <details><summary>Model answer points</summary>
@@ -140,6 +157,10 @@ Topic: [notes](../syllabus/GS1/10-g1g2-geophysical-phenomena-changes.md)
 
 </details>
 
+*Topic asked 8× (2018, 2021, 2026) 🔥*
+
+<a id="q6"></a>
+
 **Q6.** "The pharmaceutical industry in India has emerged as a global leader in generic medicines, with distinct regional clusters driving its growth." Explain and discuss the challenges faced by this industry. *(10 marks, 100 words)*
 
 <details><summary>Model answer points</summary>
@@ -165,6 +186,10 @@ Topic: [notes](../syllabus/GS1/10-g1g2-geophysical-phenomena-changes.md)
 Topic: [notes](../syllabus/GS1/09-g1g1-world-physical-geography-resources-industry-locati.md)
 
 </details>
+
+*Topic asked 7× (2018, 2021, 2026) 🔥*
+
+<a id="q7"></a>
 
 **Q7.** Assess the status of water resources in Punjab. What are the key ecological and socio-economic challenges emerging from their overexploitation? *(10 marks, 100 words)*
 
@@ -193,6 +218,10 @@ Topic: [notes](../syllabus/GS1/12-g1g4-punjab-crops-farming-agri-issues.md)
 
 </details>
 
+*Topic asked 4× (2018, 2021, 2026) 🔥*
+
+<a id="q8"></a>
+
 **Q8.** Discuss the issues affecting agricultural productivity and sustainability in Punjab. *(10 marks, 100 words)*
 
 <details><summary>Model answer points</summary>
@@ -220,6 +249,10 @@ Topic: [notes](../syllabus/GS1/12-g1g4-punjab-crops-farming-agri-issues.md)
 
 </details>
 
+*Topic asked 4× (2018, 2021, 2026) 🔥*
+
+<a id="q9"></a>
+
 **Q9.** In the era of Digital Technology and Artificial Intelligence, ethical challenges have become increasingly complex. Critically analyse the significance of ethics in public sphere. *(10 marks, 100 words)*
 
 <details><summary>Model answer points</summary>
@@ -246,6 +279,10 @@ Topic: [notes](../syllabus/GS1/17-g1s5-ethics-and-society.md)
 
 </details>
 
+*Topic asked 2× (2018, 2026)*
+
+<a id="q10"></a>
+
 **Q10.** Highlight the contributions of Shri Guru Nanak Dev Ji's philosophy in inculcating the values of an egalitarian and a just society. *(10 marks, 100 words)*
 
 <details><summary>Model answer points</summary>
@@ -271,6 +308,10 @@ Topic: [notes](../syllabus/GS1/17-g1s5-ethics-and-society.md)
 Topic: [notes](../syllabus/GS1/18-g1s6-human-values-great-reformers.md)
 
 </details>
+
+*Topic asked 4× (2018, 2021, 2026) 🔥*
+
+<a id="q11"></a>
 
 **Q11.** Bhagat Singh was not merely a martyr but also a thinker who left behind a rich intellectual legacy. Elucidate. *(15 marks, 200 words)*
 
@@ -301,6 +342,10 @@ Topic: [notes](../syllabus/GS1/05-g1h5-freedom-struggle-punjab-focus.md)
 
 </details>
 
+*Topic asked 6× (2018, 2021, 2026) 🔥*
+
+<a id="q12"></a>
+
 **Q12.** Adam Smith illustrated the market as an invisible hand which can pave the path to prosperity and well-being for all, but Marx pointed its gloomy side. Critically analyse their respective ideologies. *(15 marks, 200 words)*
 
 <details><summary>Model answer points</summary>
@@ -327,6 +372,10 @@ Topic: [notes](../syllabus/GS1/05-g1h5-freedom-struggle-punjab-focus.md)
 Topic: [notes](../syllabus/GS1/01-g1h1-world-history-from-18th-century.md)
 
 </details>
+
+*Topic asked 3× (2018, 2021, 2026) 🔥*
+
+<a id="q13"></a>
 
 **Q13.** Maharaja Ranjit Singh was the most accomplished ruler of the first half of the nineteenth century India. Do you think that he could have done more to save Punjab from the yoke of British Imperialism? *(15 marks, 200 words)*
 
@@ -356,6 +405,10 @@ Topic: [notes](../syllabus/GS1/07-g1h7-ranjit-singh-power-administration-british
 
 </details>
 
+*Topic asked 2× (2021, 2026)*
+
+<a id="q14"></a>
+
 **Q14.** Explain the major physiographic regions of Punjab. Discuss their role in shaping soil distribution, irrigation patterns, and cropping systems. *(15 marks, 200 words)*
 
 <details><summary>Model answer points</summary>
@@ -383,6 +436,10 @@ Topic: [notes](../syllabus/GS1/07-g1h7-ranjit-singh-power-administration-british
 Topic: [notes](../syllabus/GS1/11-g1g3-punjab-physiography-strategic-location.md)
 
 </details>
+
+*Topic asked 3× (2021, 2026)*
+
+<a id="q15"></a>
 
 **Q15.** Discuss the revised Seismic Zonation Map of India released by the Bureau of Standards in Nov 2025 and its implications. *(15 marks, 200 words)*
 
@@ -413,6 +470,10 @@ Topic: [notes](../syllabus/GS1/10-g1g2-geophysical-phenomena-changes.md)
 
 </details>
 
+*Topic asked 8× (2018, 2021, 2026) 🔥*
+
+<a id="q16"></a>
+
 **Q16.** What is the importance of glaciers and ice caps? Explain glacial retreat changes in glaciers and their impact on environment. *(15 marks, 200 words)*
 
 <details><summary>Model answer points</summary>
@@ -440,6 +501,10 @@ Topic: [notes](../syllabus/GS1/10-g1g2-geophysical-phenomena-changes.md)
 Topic: [notes](../syllabus/GS1/10-g1g2-geophysical-phenomena-changes.md)
 
 </details>
+
+*Topic asked 8× (2018, 2021, 2026) 🔥*
+
+<a id="q17"></a>
 
 **Q17.** Discuss the role of Women's organizations and Self-Help Groups (SHGs) in Punjab in strengthening agrarian economy and social development. *(15 marks, 200 words)*
 
@@ -469,6 +534,10 @@ Topic: [notes](../syllabus/GS1/14-g1s2-women-population-poverty-urbanisation.md)
 
 </details>
 
+*Topic asked 6× (2018, 2021, 2026) 🔥*
+
+<a id="q18"></a>
+
 **Q18.** Elucidate the causes and consequences of declining sex ratio in Punjab. Suggest some measures to curtail it. *(15 marks, 200 words)*
 
 <details><summary>Model answer points</summary>
@@ -497,6 +566,10 @@ Topic: [notes](../syllabus/GS1/14-g1s2-women-population-poverty-urbanisation.md)
 
 </details>
 
+*Topic asked 6× (2018, 2021, 2026) 🔥*
+
+<a id="q19"></a>
+
 **Q19.** Globalisation has simultaneously promoted cultural homogenisation and heterogenization in India. Examine the growing impact of globalisation on both these aspects citing suitable examples. *(15 marks, 200 words)*
 
 <details><summary>Model answer points</summary>
@@ -522,6 +595,10 @@ Topic: [notes](../syllabus/GS1/14-g1s2-women-population-poverty-urbanisation.md)
 Topic: [notes](../syllabus/GS1/15-g1s3-globalisation-indian-society.md)
 
 </details>
+
+*Topic asked 3× (2018, 2021, 2026) 🔥*
+
+<a id="q20"></a>
 
 **Q20.** Caste in India functions as a system of hierarchy and exploitation rather than merely a form of social stratification. Critically analyse. *(15 marks, 200 words)*
 
@@ -549,3 +626,5 @@ Topic: [notes](../syllabus/GS1/15-g1s3-globalisation-indian-society.md)
 Topic: [notes](../syllabus/GS1/13-g1s1-indian-society-diversity.md)
 
 </details>
+
+*Topic asked 3× (2018, 2021, 2026) 🔥*

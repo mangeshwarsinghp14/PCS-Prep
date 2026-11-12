@@ -1,6 +1,6 @@
 # Revolt of 1857
 
-**Paper I — General Studies** › History of India & World History · Subject: Indian History · Priority: Medium
+**Paper I — General Studies** › History of India & World History · Subject: Indian History · Priority: Medium · **Asked by PPSC: 🔁 1× (’18)**
 
 > Official syllabus line: The Mutiny of 1857.
 
@@ -127,6 +127,14 @@ Expect centre–leader–British commander matching, causes, the 1858 Act and Pr
 - NCERT Class 12 Themes in Indian History Part III, Ch 11 (Rebels and the Raj)
 - Rajiv Ahir, A Brief History of Modern India (Spectrum)
 
+## Asked in PPSC papers — 1 time (in 1 of 3 recent exams)
+
+| Paper | Years asked |
+|---|---|
+| Prelims GS | 2018 |
+
+- [Prelims 2018 · GS Q84](../../past-papers/pre_2018_GS.md#q84) — Kunwar Singh was a leader of the Revolt of 1857 in which of the following States ?
+
 ## Practice MCQs (12)
 
 **1.** The Revolt of 1857 broke out on 10 May 1857 at:
@@ -167,6 +175,8 @@ Expect centre–leader–British commander matching, causes, the 1858 Act and Pr
 **(d) Bihar** — Kunwar Singh was the zamindar of Jagdishpur in Bihar.
 
 </details>
+
+*Like a real PPSC question: [Prelims 2018 · GS Q84](../../past-papers/pre_2018_GS.md#q84)*
 
 **4.** Who described the Revolt of 1857 as the 'War of Independence'?
 

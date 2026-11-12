@@ -1,6 +1,6 @@
 # Grammar (50)
 
-**Paper 2 — English, 10+2 standard** › English · Subject: Language papers (Punjabi & English) · Priority: High
+**Paper 2 — English, 10+2 standard** › English · Subject: Language papers (Punjabi & English) · Priority: High · **Asked by PPSC: 🔁 9× (’21)**
 
 > Official syllabus line: Grammar — Section B, 50 marks.
 
@@ -226,6 +226,22 @@ Section B (50 marks) is the most scoring part: short items on correction, voice,
 - PSEB Class 11 and 12 English (General) grammar workbooks
 - S.P. Bakshi, Objective General English (for error spotting, idioms, one-word substitution)
 - PPSC Mains English previous papers (Section B)
+
+## Asked in PPSC papers — 9 times (in 1 of 3 recent exams)
+
+| Paper | Years asked |
+|---|---|
+| Mains English | 2021 (×9) |
+
+- [Mains 2021 · English Q6](../../past-papers/mains_2021_ENG.md#q6) — Give one word substitute for the following: a) A person who compiles a dictionary. b) Irrelevant talk. c) Period of gradual recovery of health after illness. d)
+- [Mains 2021 · English Q7](../../past-papers/mains_2021_ENG.md#q7) — Use the following words first as noun and then as verb in your sentences: a) Counter b) Bark c) Reign d) Bang e) Men [as printed; probably 'Mend']
+- [Mains 2021 · English Q8](../../past-papers/mains_2021_ENG.md#q8) — Give both synonyms and antonyms of the following words: a) Abridge b) Reticent c) Benediction d) Myopia e) Fecund
+- [Mains 2021 · English Q9](../../past-papers/mains_2021_ENG.md#q9) — Use the following idioms/phrases in your sentences: a) To kick the bucket. b) To take to altar. c) To make a mark. d) Fall out. e) To put on the back burner.
+- [Mains 2021 · English Q10](../../past-papers/mains_2021_ENG.md#q10) — Rewrite the following sentences after changing the narration: a) He said to his wife, "Why did you buy this shirt if you did not like it? You've wasted so much 
+- [Mains 2021 · English Q11](../../past-papers/mains_2021_ENG.md#q11) — Change the voice of the following: a) So, why didn't she swear it? b) Some of the boys in the neighbourhood formed a super hero club. c) Our eyes, though lookin
+- [Mains 2021 · English Q12](../../past-papers/mains_2021_ENG.md#q12) — Do as directed: 1. Researchers were asked to make an analysis of the results. (Change the noun form to verb form) 2. A law-abiding citizen pays his taxes prompt
+- [Mains 2021 · English Q13](../../past-papers/mains_2021_ENG.md#q13) — Rewrite the given paragraph using appropriate punctuation marks. (A short unpunctuated paragraph of dialogue between the writer and a colleague named Atima abou
+- [Mains 2021 · English Q14](../../past-papers/mains_2021_ENG.md#q14) — Rewrite the following sentences after making necessary corrections, if needed: 1) My car gives better mileage from your car. 2) I have known him from the last t
 
 ## Practice MCQs (40)
 

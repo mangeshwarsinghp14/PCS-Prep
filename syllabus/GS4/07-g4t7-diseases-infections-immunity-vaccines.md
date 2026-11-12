@@ -1,6 +1,6 @@
 # Diseases, infections, immunity, vaccines
 
-**Paper 7 — GS IV: S&T, Environment, Problem Solving** › Science & Technology · Subject: GS IV — S&T, Environment, Problem solving · Priority: High
+**Paper 7 — GS IV: S&T, Environment, Problem Solving** › Science & Technology · Subject: GS IV — S&T, Environment, Problem solving · Priority: High · **Asked by PPSC: 🔥 5× (’18 ’21 ’26)**
 
 > Official syllabus line: Human diseases and microbial infections; common infections and preventive measures; preventive measures during outbreaks; immunity and vaccination.
 
@@ -126,6 +126,18 @@ Questions mix basic immunology with public-health preparedness and post-COVID le
 - Park's Textbook of Preventive and Social Medicine (selected chapters)
 - MoHFW annual report; NCDC/IDSP guidelines
 - Punjab Health Department website
+
+## Asked in PPSC papers — 5 times 🔥 (in every recent exam)
+
+| Paper | Years asked |
+|---|---|
+| Mains GS4 | 2018 (×2), 2021 (×2), 2026 |
+
+- [Mains 2026 · GS4 Q14](../../past-papers/mains_2026_GS4.md#q14) — Antimicrobial Resistance is rising due to the misuse of antibiotics in humans and animals. Discuss. Propose a One Health plan for a district of Punjab with clea
+- [Mains 2021 · GS4 Q3](../../past-papers/mains_2021_GS4.md#q3) — What are Trans Fats? Describe the recent measures taken up by WHO and FSSAI for their elimination towards healthier food systems.
+- [Mains 2021 · GS4 Q10(a)](../../past-papers/mains_2021_GS4.md#q10-a) — Write short note on: National Digital Health Mission (NDHM).
+- [Mains 2018 · GS4 Q2](../../past-papers/mains_2018_GS4.md#q2) — What is active and passive immunization and also discuss the role of second and third generation vaccines in controlling hepatitis?
+- [Mains 2018 · GS4 Q8](../../past-papers/mains_2018_GS4.md#q8) — What is the current status of tuberculosis in India? How drug resistance against this disease is impacting its control measures?
 
 ## Mains practice questions (3)
 

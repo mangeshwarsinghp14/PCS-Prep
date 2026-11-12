@@ -1,6 +1,6 @@
 # Panchayati Raj
 
-**Paper I — General Studies** › Indian Polity · Subject: Indian Polity · Priority: High
+**Paper I — General Studies** › Indian Polity · Subject: Indian Polity · Priority: High · **Asked by PPSC: 🔥 3× (’18 ’21 ’25)**
 
 > Official syllabus line: Panchayati Raj.
 
@@ -132,6 +132,16 @@ Expect questions on committee recommendations, articles (243-I, 243K), Eleventh/
 - NCERT Class 11 'Indian Constitution at Work' Ch 8 (Local Governments)
 - Ministry of Panchayati Raj (panchayat.gov.in) - annual report and scheme pages
 
+## Asked in PPSC papers — 3 times 🔥 (in every recent exam)
+
+| Paper | Years asked |
+|---|---|
+| Prelims GS | 2018, 2021, 2025 |
+
+- [Prelims 2025 · GS Q86](../../past-papers/pre_2025_GS.md#q86) — In connection with the 73rd Amendment Act of 1992, consider the following statements :
+- [Prelims 2021 · GS Q38](../../past-papers/pre_2021_GS.md#q38) — As per the Scheduled Tribes and Other Traditional Forest Dwellers (Recognition of Forest Rights) Act, 2006, who has the authority to initiate the process for de
+- [Prelims 2018 · GS Q34](../../past-papers/pre_2018_GS.md#q34) — The Panchayati elections are scheduled in the month of September 2018 in Punjab. Consider the following statements about the Panchayati Raj Institutions. Which 
+
 ## Practice MCQs (12)
 
 **1.** The Balwant Rai Mehta Committee recommended:
@@ -240,6 +250,8 @@ Which of the statements given above is/are correct?
 **(b) 2 only** — Intermediate and district chairpersons are elected indirectly by elected members.
 
 </details>
+
+*Like a real PPSC question: [Prelims 2025 · GS Q86](../../past-papers/pre_2025_GS.md#q86)*
 
 **9.** Under PESA 1996, the Gram Sabha or panchayat in Scheduled Areas is empowered with respect to: 1. Ownership of minor forest produce 2. Control over money-lending to Scheduled Tribes 3. Final approval of mining leases for major minerals
 

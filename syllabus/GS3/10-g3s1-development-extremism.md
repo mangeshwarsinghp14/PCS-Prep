@@ -1,6 +1,6 @@
 # Development & extremism
 
-**Paper 6 — GS III: Economy, Statistics, Security** › Security · Subject: GS III — Economy, Statistics, Security · Priority: Medium
+**Paper 6 — GS III: Economy, Statistics, Security** › Security · Subject: GS III — Economy, Statistics, Security · Priority: Medium · **Asked by PPSC: 🔁 2× (’18 ’21)**
 
 > Official syllabus line: Linkages between development and spread of extremism.
 
@@ -129,6 +129,15 @@ Questions ask whether underdevelopment causes extremism; balanced answers show t
 - Ministry of Home Affairs Annual Report - LWE Division
 - Planning Commission Expert Group Report on Development Challenges in Extremist Affected Areas (2008)
 - 2nd ARC 7th Report 'Capacity Building for Conflict Resolution'
+
+## Asked in PPSC papers — 2 times (in 2 of 3 recent exams)
+
+| Paper | Years asked |
+|---|---|
+| Mains GS3 | 2018, 2021 |
+
+- [Mains 2021 · GS3 Q13](../../past-papers/mains_2021_GS3.md#q13) — Often the causes of violent extremism are categorised into 'push' and 'pull' factors and overlooks the links between 'individual' and 'community' factors. Criti
+- [Mains 2018 · GS3 Q12(b)](../../past-papers/mains_2018_GS3.md#q12-b) — Explain how is comprehensive security a significant departure from conventional security paradigm?
 
 ## Mains practice questions (3)
 

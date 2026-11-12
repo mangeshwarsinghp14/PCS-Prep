@@ -1,6 +1,6 @@
 # Electric current
 
-**Paper I — General Studies** › Everyday Science · Subject: Everyday Science · Priority: Medium
+**Paper I — General Studies** › Everyday Science · Subject: Everyday Science · Priority: Medium · **Asked by PPSC: 🔁 2× (’18 ’25)**
 
 > Official syllabus line: Electric current – concepts and applications.
 
@@ -117,6 +117,15 @@ Questions test series vs parallel logic, uses of materials (nichrome, tungsten, 
 - NCERT Class 10 Science Ch 11 (Electricity) and Ch 12 (Magnetic Effects of Electric Current)
 - NCERT Class 12 Physics Ch 3 (Current Electricity) and Ch 6-7 (Electromagnetic Induction, AC) for advanced points
 - Lucent's General Science (Physics: electricity)
+
+## Asked in PPSC papers — 2 times (in 2 of 3 recent exams)
+
+| Paper | Years asked |
+|---|---|
+| Prelims GS | 2018, 2025 |
+
+- [Prelims 2025 · GS Q26](../../past-papers/pre_2025_GS.md#q26) — Which one of the following statements is correct regarding lithium and alkaline batteries ?
+- [Prelims 2018 · GS Q4](../../past-papers/pre_2018_GS.md#q4) — What is the difference between a CFL and an LED lamp ?
 
 ## Practice MCQs (12)
 

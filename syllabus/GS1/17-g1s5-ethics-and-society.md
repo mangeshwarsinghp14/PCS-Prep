@@ -1,6 +1,6 @@
 # Ethics and society
 
-**Paper 4 — GS I: History, Geography, Society** › Society · Subject: GS I — History, Geography, Society · Priority: Medium
+**Paper 4 — GS I: History, Geography, Society** › Society · Subject: GS I — History, Geography, Society · Priority: Medium · **Asked by PPSC: 🔁 2× (’18 ’26)**
 
 > Official syllabus line: Essence, determinants and consequences of ethics in human actions; dimensions of ethics; ethics in private and public relationships.
 
@@ -121,6 +121,15 @@ Theory questions ask to define and illustrate essence, determinants, consequence
 - G. Subba Rao and P.N. Roy Chowdhury, 'Ethics, Integrity and Aptitude'
 - Lexicon, 'Ethics, Integrity and Aptitude'
 - Nolan Committee Report, 'Standards in Public Life' (1995)
+
+## Asked in PPSC papers — 2 times (in 2 of 3 recent exams)
+
+| Paper | Years asked |
+|---|---|
+| Mains GS1 | 2018, 2026 |
+
+- [Mains 2026 · GS1 Q9](../../past-papers/mains_2026_GS1.md#q9) — In the era of Digital Technology and Artificial Intelligence, ethical challenges have become increasingly complex. Critically analyse the significance of ethics
+- [Mains 2018 · GS1 Q13](../../past-papers/mains_2018_GS1.md#q13) — Define ethical dilemma. Discuss some common ethical dilemmas that arise for those holding public offices.
 
 ## Mains practice questions (3)
 

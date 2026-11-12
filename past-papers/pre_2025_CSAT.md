@@ -4,6 +4,8 @@ Held 2025-12-07. Answer key: PPSC official final key. 80 questions.
 
 Sources: [1](https://www.adda247.com/jobs/wp-content/uploads/sites/22/2025/12/08161320/CSAT-Paper-2-Set-A.pdf) · [2](https://www.adda247.com/exams/punjab/punjab-pcs-question-paper-2025/) · [3](https://cdn.testbook.com/1768050516741-PPSC-final-answer-key.pdf/1768050517.pdf) · [4](https://testbook.com/punjab-civil-service-exam/answer-key) · [5](https://static.pw.live/5eb393ee95fab7468a79d189/fd9ceb62-e59c-4cb9-ad0b-0576ae29072a.pdf)
 
+<a id="q1"></a>
+
 **Q1.** If a = √0.25, b = 0.25, c = (0.25)^2 and d = 0.05 then,
 
 (a) a<b<c<d  
@@ -18,6 +20,9 @@ Sources: [1](https://www.adda247.com/jobs/wp-content/uploads/sites/22/2025/12/08
 Topic: [notes](../syllabus/PRE2/04-cs4-basic-numeracy.md)
 
 </details>
+*Topic asked 49× (2021, 2025)*
+
+<a id="q2"></a>
 
 **Q2.** Directions (Question No. 2-4) : Study the table carefully and answer the questions given below.  
 Details of applications received and candidates selected under different disciplines over the years (Recd. / Selected):  
@@ -40,6 +45,9 @@ In which year was the percentage of total candidates selected out of the total a
 Topic: [notes](../syllabus/PRE2/05-cs5-data-analysis.md)
 
 </details>
+*Topic asked 25× (2021, 2025)*
+
+<a id="q3"></a>
 
 **Q3.** Directions (Question No. 2-4) : Study the table carefully and answer the questions given below.  
 Details of applications received and candidates selected under different disciplines over the years (Recd. / Selected):  
@@ -62,6 +70,9 @@ Under which discipline and in which year was the percentage of students selected
 Topic: [notes](../syllabus/PRE2/05-cs5-data-analysis.md)
 
 </details>
+*Topic asked 25× (2021, 2025)*
+
+<a id="q4"></a>
 
 **Q4.** Directions (Question No. 2-4) : Study the table carefully and answer the questions given below.  
 Details of applications received and candidates selected under different disciplines over the years (Recd. / Selected):  
@@ -84,6 +95,9 @@ Under which discipline and in which year was the percentage increase in the appl
 Topic: [notes](../syllabus/PRE2/05-cs5-data-analysis.md)
 
 </details>
+*Topic asked 25× (2021, 2025)*
+
+<a id="q5"></a>
 
 **Q5.** Sudha's grandfather was 8 times older to her 16 years ago. He would be 3 times of her age 8 years from now. Eight years ago, what was the ratio of Sudha's age to that of her grandfather ?
 
@@ -99,6 +113,9 @@ Topic: [notes](../syllabus/PRE2/05-cs5-data-analysis.md)
 Topic: [notes](../syllabus/PRE2/04-cs4-basic-numeracy.md)
 
 </details>
+*Topic asked 49× (2021, 2025)*
+
+<a id="q6"></a>
 
 **Q6.** Out of the three given numbers, the first number is twice the second and thrice the third. If the average of the three numbers is 121, what is the difference between the first and the third number ?
 
@@ -114,6 +131,9 @@ Topic: [notes](../syllabus/PRE2/04-cs4-basic-numeracy.md)
 Topic: [notes](../syllabus/PRE2/04-cs4-basic-numeracy.md)
 
 </details>
+*Topic asked 49× (2021, 2025)*
+
+<a id="q7"></a>
 
 **Q7.** 13.08 × 24.98 + √624 = ?
 
@@ -129,6 +149,9 @@ Topic: [notes](../syllabus/PRE2/04-cs4-basic-numeracy.md)
 Topic: [notes](../syllabus/PRE2/04-cs4-basic-numeracy.md)
 
 </details>
+*Topic asked 49× (2021, 2025)*
+
+<a id="q8"></a>
 
 **Q8.** 0.0005 × 76 × 103 + ? = 170% of 29.98
 
@@ -146,6 +169,9 @@ Key not available — No option fits: the left side is about 3.91 + ? and 170% o
 Topic: [notes](../syllabus/PRE2/04-cs4-basic-numeracy.md)
 
 </details>
+*Topic asked 49× (2021, 2025)*
+
+<a id="q9"></a>
 
 **Q9.** If W/X = 6/11, Y/Z = 16/23 and W/Y = 9/16, then what is the value of X/Y ?
 
@@ -161,6 +187,9 @@ Topic: [notes](../syllabus/PRE2/04-cs4-basic-numeracy.md)
 Topic: [notes](../syllabus/PRE2/04-cs4-basic-numeracy.md)
 
 </details>
+*Topic asked 49× (2021, 2025)*
+
+<a id="q10"></a>
 
 **Q10.** If a^3 − b^3 = 91 and a − b = 1, what is the value of (ab) ?
 
@@ -176,6 +205,9 @@ Topic: [notes](../syllabus/PRE2/04-cs4-basic-numeracy.md)
 Topic: [notes](../syllabus/PRE2/04-cs4-basic-numeracy.md)
 
 </details>
+*Topic asked 49× (2021, 2025)*
+
+<a id="q11"></a>
 
 **Q11.** What number should be added to each of the numbers 94, 24, 100 and 26 so that resulting numbers are in proportion ?
 
@@ -191,6 +223,9 @@ Topic: [notes](../syllabus/PRE2/04-cs4-basic-numeracy.md)
 Topic: [notes](../syllabus/PRE2/04-cs4-basic-numeracy.md)
 
 </details>
+*Topic asked 49× (2021, 2025)*
+
+<a id="q12"></a>
 
 **Q12.** Directions (Question No. 12-16) : Study the following information to answer the questions given below :  
 I. The ratio of population of males, females and children 10 years and above is 11 : 10 : 9 in state 'A'. Out of which 40% males or 8800 are literates, 20% children are illiterates while 30% females are literates.  
@@ -209,6 +244,9 @@ What is the number of illiterate persons below the poverty line ?
 Topic: [notes](../syllabus/PRE2/05-cs5-data-analysis.md)
 
 </details>
+*Topic asked 25× (2021, 2025)*
+
+<a id="q13"></a>
 
 **Q13.** Directions (Question No. 12-16) : Study the following information to answer the questions given below :  
 I. The ratio of population of males, females and children 10 years and above is 11 : 10 : 9 in state 'A'. Out of which 40% males or 8800 are literates, 20% children are illiterates while 30% females are literates.  
@@ -227,6 +265,9 @@ What is the total population of the state ?
 Topic: [notes](../syllabus/PRE2/05-cs5-data-analysis.md)
 
 </details>
+*Topic asked 25× (2021, 2025)*
+
+<a id="q14"></a>
 
 **Q14.** Directions (Question No. 12-16) : Study the following information to answer the questions given below :  
 I. The ratio of population of males, females and children 10 years and above is 11 : 10 : 9 in state 'A'. Out of which 40% males or 8800 are literates, 20% children are illiterates while 30% females are literates.  
@@ -245,6 +286,9 @@ What is the number of literate children of age 10 years and above ?
 Topic: [notes](../syllabus/PRE2/05-cs5-data-analysis.md)
 
 </details>
+*Topic asked 25× (2021, 2025)*
+
+<a id="q15"></a>
 
 **Q15.** Directions (Question No. 12-16) : Study the following information to answer the questions given below :  
 I. The ratio of population of males, females and children 10 years and above is 11 : 10 : 9 in state 'A'. Out of which 40% males or 8800 are literates, 20% children are illiterates while 30% females are literates.  
@@ -263,6 +307,9 @@ Total number of women is what percentage of the total population of the state ? 
 Topic: [notes](../syllabus/PRE2/05-cs5-data-analysis.md)
 
 </details>
+*Topic asked 25× (2021, 2025)*
+
+<a id="q16"></a>
 
 **Q16.** Directions (Question No. 12-16) : Study the following information to answer the questions given below :  
 I. The ratio of population of males, females and children 10 years and above is 11 : 10 : 9 in state 'A'. Out of which 40% males or 8800 are literates, 20% children are illiterates while 30% females are literates.  
@@ -281,6 +328,9 @@ How many women are illiterate ?
 Topic: [notes](../syllabus/PRE2/05-cs5-data-analysis.md)
 
 </details>
+*Topic asked 25× (2021, 2025)*
+
+<a id="q17"></a>
 
 **Q17.** Directions (Question No. 17) : Study the following information to answer the question given below.  
 I. In a group of 8 boys, 2 boys aged at 21 and 23 were replaced by two new boys. Due to this the average age of the group increased by 2 years. "x" is the average age of 2 new boys.  
@@ -299,6 +349,9 @@ What is the ratio between x and y ?
 Topic: [notes](../syllabus/PRE2/04-cs4-basic-numeracy.md)
 
 </details>
+*Topic asked 49× (2021, 2025)*
+
+<a id="q18"></a>
 
 **Q18.** If X : Y = 9 : 11, then the value of (5x + 3y)/(3x + 5y) is :
 
@@ -314,6 +367,9 @@ Topic: [notes](../syllabus/PRE2/04-cs4-basic-numeracy.md)
 Topic: [notes](../syllabus/PRE2/04-cs4-basic-numeracy.md)
 
 </details>
+*Topic asked 49× (2021, 2025)*
+
+<a id="q19"></a>
 
 **Q19.** Total 900 shirts were produced on Monday and Tuesday together. 5% and 4% of the shirts produced on Monday and Tuesday, respectively, were defective. If number of defective shirts produced on both the days were equal, how many shirts were produced on Tuesday ?
 
@@ -329,6 +385,9 @@ Topic: [notes](../syllabus/PRE2/04-cs4-basic-numeracy.md)
 Topic: [notes](../syllabus/PRE2/04-cs4-basic-numeracy.md)
 
 </details>
+*Topic asked 49× (2021, 2025)*
+
+<a id="q20"></a>
 
 **Q20.** Bhim invested 28% of his monthly salary of ₹ 40,000 in mutual funds. He spent the remaining salary in the respective ratio of 1 : 4 : 3 on house rent, groceries and medical expenses, respectively. What was the difference between the amount invested in mutual funds and that spent on groceries ?
 
@@ -344,6 +403,9 @@ Topic: [notes](../syllabus/PRE2/04-cs4-basic-numeracy.md)
 Topic: [notes](../syllabus/PRE2/04-cs4-basic-numeracy.md)
 
 </details>
+*Topic asked 49× (2021, 2025)*
+
+<a id="q21"></a>
 
 **Q21.** When a two-digit number 'X' is reversed, the number so formed is 63 more than 'X'. If the sum of digits of 'X' is 11, what is the value of 'X + 21' ?
 
@@ -359,6 +421,9 @@ Topic: [notes](../syllabus/PRE2/04-cs4-basic-numeracy.md)
 Topic: [notes](../syllabus/PRE2/04-cs4-basic-numeracy.md)
 
 </details>
+*Topic asked 49× (2021, 2025)*
+
+<a id="q22"></a>
 
 **Q22.** Directions (Question No. 22 and 23) : What will come in place of the question mark (?) in the given number series ?  
 5, 40, 280, 1680, 8400, ?
@@ -375,6 +440,9 @@ Topic: [notes](../syllabus/PRE2/04-cs4-basic-numeracy.md)
 Topic: [notes](../syllabus/PRE2/04-cs4-basic-numeracy.md)
 
 </details>
+*Topic asked 49× (2021, 2025)*
+
+<a id="q23"></a>
 
 **Q23.** Directions (Question No. 22 and 23) : What will come in place of the question mark (?) in the given number series ?  
 30, 31, 27, 36, 20, ?
@@ -391,6 +459,9 @@ Topic: [notes](../syllabus/PRE2/04-cs4-basic-numeracy.md)
 Topic: [notes](../syllabus/PRE2/04-cs4-basic-numeracy.md)
 
 </details>
+*Topic asked 49× (2021, 2025)*
+
+<a id="q24"></a>
 
 **Q24.** A fraction is greater than twice its reciprocal by 7/15. What is the fraction ?
 
@@ -406,6 +477,9 @@ Topic: [notes](../syllabus/PRE2/04-cs4-basic-numeracy.md)
 Topic: [notes](../syllabus/PRE2/04-cs4-basic-numeracy.md)
 
 </details>
+*Topic asked 49× (2021, 2025)*
+
+<a id="q25"></a>
 
 **Q25.** Consider the following figures (two 2 × 2 boxes) :  
 Box 1 - top row: 2, 6; bottom row: 80, 24  
@@ -424,6 +498,9 @@ Which number should come in place of the question mark (?) ?
 Topic: [notes](../syllabus/PRE2/03-cs3-logical-reasoning-mental-ability.md)
 
 </details>
+*Topic asked 47× (2021, 2025)*
+
+<a id="q26"></a>
 
 **Q26.** Consider the table given below in which the numbers bear certain relationship among themselves along the rows.  
 Row 1: 29, 13, 18  
@@ -445,6 +522,9 @@ Which one of the following numbers is the missing number indicated above by X ?
 Topic: [notes](../syllabus/PRE2/03-cs3-logical-reasoning-mental-ability.md)
 
 </details>
+*Topic asked 47× (2021, 2025)*
+
+<a id="q27"></a>
 
 **Q27.** Consider the following matrix (two rows, six columns) :  
 Row 1: 3, 8, 10, 2, ?, 1  
@@ -463,6 +543,9 @@ What is the missing number at '?' in the matrix ?
 Topic: [notes](../syllabus/PRE2/03-cs3-logical-reasoning-mental-ability.md)
 
 </details>
+*Topic asked 47× (2021, 2025)*
+
+<a id="q28"></a>
 
 **Q28.** A, B, C, D, E, F and G are members of a family consisting of 4 adults and 3 children, two of whom, F and G are girls. A and D are brothers and A is a doctor. E is an engineer married to one of the brothers and has two children. B is married to D and G is their child. Who is C ?
 
@@ -478,6 +561,9 @@ Topic: [notes](../syllabus/PRE2/03-cs3-logical-reasoning-mental-ability.md)
 Topic: [notes](../syllabus/PRE2/03-cs3-logical-reasoning-mental-ability.md)
 
 </details>
+*Topic asked 47× (2021, 2025)*
+
+<a id="q29"></a>
 
 **Q29.** In a group of six women, there are four tennis players, four postgraduates in Sociology, one postgraduate in Commerce and three bank employees. Vimala and Kamla are the bank employees while Amala and Komala are unemployed. Komala and Nirmala are among the tennis players. Amala, Kamla, Komala and Nirmala are postgraduates in Sociology of whom two are bank employees. If Shyamala is a postgraduate in Commerce, who among the following is both a tennis player and a bank employee ?
 
@@ -493,6 +579,9 @@ Topic: [notes](../syllabus/PRE2/03-cs3-logical-reasoning-mental-ability.md)
 Topic: [notes](../syllabus/PRE2/03-cs3-logical-reasoning-mental-ability.md)
 
 </details>
+*Topic asked 47× (2021, 2025)*
+
+<a id="q30"></a>
 
 **Q30.** Consider the following argument : "In order to be a teacher, one must graduate from college. All poets are poor. Some Mathematicians are poets. No college graduate is poor." Which one of the following is not a valid conclusion regarding the above argument ?
 
@@ -508,6 +597,9 @@ Topic: [notes](../syllabus/PRE2/03-cs3-logical-reasoning-mental-ability.md)
 Topic: [notes](../syllabus/PRE2/03-cs3-logical-reasoning-mental-ability.md)
 
 </details>
+*Topic asked 47× (2021, 2025)*
+
+<a id="q31"></a>
 
 **Q31.** Examine the following relationships among members of a family of six persons A, B, C, D, E and F. I. The number of males equals that of females. II. A and E are sons of F. III. D is the mother of two, one boy and one girl. IV. B is the son of A. V. There is only one married couple in the family at present.  
 Which one of the following inferences can be drawn from the above ?
@@ -524,6 +616,9 @@ Which one of the following inferences can be drawn from the above ?
 Topic: [notes](../syllabus/PRE2/03-cs3-logical-reasoning-mental-ability.md)
 
 </details>
+*Topic asked 47× (2021, 2025)*
+
+<a id="q32"></a>
 
 **Q32.** In a code language, 'SOLID' is, written as 'WPSLPIMFHA', what does the code 'ATEXXQIBV' refer to ?
 
@@ -541,6 +636,9 @@ Key not available — The coding rule cannot be applied consistently to any opti
 Topic: [notes](../syllabus/PRE2/03-cs3-logical-reasoning-mental-ability.md)
 
 </details>
+*Topic asked 47× (2021, 2025)*
+
+<a id="q33"></a>
 
 **Q33.** 
 
@@ -553,6 +651,8 @@ Key not available
 *Note:* Venn-diagram options are small drawings that could not be described reliably (official key: b)
 
 </details>
+
+<a id="q34"></a>
 
 **Q34.** Directions (Question No. 34 and 35) : Guest lectures on five subjects viz., Economics, History, Statistics, English and Mathematics have to be arranged in a week from Monday to Friday. Only one lecture can be arranged on each day. Economics cannot be scheduled on Tuesday. Guest faculty for History is available only on Tuesday. Mathematics lecture has to be scheduled immediately after the day of Economics lecture. English lecture has to be scheduled immediately before the day of Economics lecture.  
 Which lecture is scheduled on Monday ?
@@ -569,6 +669,9 @@ Which lecture is scheduled on Monday ?
 Topic: [notes](../syllabus/PRE2/03-cs3-logical-reasoning-mental-ability.md)
 
 </details>
+*Topic asked 47× (2021, 2025)*
+
+<a id="q35"></a>
 
 **Q35.** Directions (Question No. 34 and 35) : Guest lectures on five subjects viz., Economics, History, Statistics, English and Mathematics have to be arranged in a week from Monday to Friday. Only one lecture can be arranged on each day. Economics cannot be scheduled on Tuesday. Guest faculty for History is available only on Tuesday. Mathematics lecture has to be scheduled immediately after the day of Economics lecture. English lecture has to be scheduled immediately before the day of Economics lecture.  
 Which lecture is scheduled between Statistics and English ?
@@ -585,6 +688,9 @@ Which lecture is scheduled between Statistics and English ?
 Topic: [notes](../syllabus/PRE2/03-cs3-logical-reasoning-mental-ability.md)
 
 </details>
+*Topic asked 47× (2021, 2025)*
+
+<a id="q36"></a>
 
 **Q36.** A man divides his property, so that his son's share to his wife's and wife's shares to his daughter's are both as in the ratio 3 : 1. If the daughter gets ₹ 10,000 less than the son, the value (in ₹) of the whole property is :
 
@@ -600,6 +706,9 @@ Topic: [notes](../syllabus/PRE2/03-cs3-logical-reasoning-mental-ability.md)
 Topic: [notes](../syllabus/PRE2/04-cs4-basic-numeracy.md)
 
 </details>
+*Topic asked 49× (2021, 2025)*
+
+<a id="q37"></a>
 
 **Q37.** Four numbers are in the ratio 1 : 2 : 3 : 4. Their sum is 16. The sum of the first and fourth number is equal to :
 
@@ -615,6 +724,9 @@ Topic: [notes](../syllabus/PRE2/04-cs4-basic-numeracy.md)
 Topic: [notes](../syllabus/PRE2/04-cs4-basic-numeracy.md)
 
 </details>
+*Topic asked 49× (2021, 2025)*
+
+<a id="q38"></a>
 
 **Q38.** The daily wages of A and B respectively are ₹ 3.50 and ₹ 2.50. When A finishes a certain work, he gets a total wage of ₹ 63. When B does the same work, he gets a total wage of ₹ 75. If both of them do it together, what is the cost of the work ?
 
@@ -630,6 +742,9 @@ Topic: [notes](../syllabus/PRE2/04-cs4-basic-numeracy.md)
 Topic: [notes](../syllabus/PRE2/04-cs4-basic-numeracy.md)
 
 </details>
+*Topic asked 49× (2021, 2025)*
+
+<a id="q39"></a>
 
 **Q39.** A, B and C did certain investments and the ratio of the durations of their investments is 3 : 2 : 7 respectively. Ratio of the profits of A, B and C is 4 : 3 : 14 respectively. What is the ratio of the investments of A, B and C ?
 
@@ -645,6 +760,9 @@ Topic: [notes](../syllabus/PRE2/04-cs4-basic-numeracy.md)
 Topic: [notes](../syllabus/PRE2/04-cs4-basic-numeracy.md)
 
 </details>
+*Topic asked 49× (2021, 2025)*
+
+<a id="q40"></a>
 
 **Q40.** Working alone A can do a task in 27 hours and B can do the same in 54 hours. Find C's share (in ₹) if A, B and C get paid ₹ 4,320 for completing a task in 12 hours on which they worked together.
 
@@ -660,6 +778,9 @@ Topic: [notes](../syllabus/PRE2/04-cs4-basic-numeracy.md)
 Topic: [notes](../syllabus/PRE2/04-cs4-basic-numeracy.md)
 
 </details>
+*Topic asked 49× (2021, 2025)*
+
+<a id="q41"></a>
 
 **Q41.** Two men and 7 women can complete a work in 28 days, whereas 6 men and 16 women can do the same work in 11 days. In how many days will 5 men and 4 women, working together, complete the same work ?
 
@@ -675,6 +796,9 @@ Topic: [notes](../syllabus/PRE2/04-cs4-basic-numeracy.md)
 Topic: [notes](../syllabus/PRE2/04-cs4-basic-numeracy.md)
 
 </details>
+*↻ **Same theme also asked:** [Prelims 2021 · CSAT Q46](pre_2021_CSAT.md#q46) · Topic asked 49× (2021, 2025)*
+
+<a id="q42"></a>
 
 **Q42.** Four children are sitting in a row. A is occupying the seat next to B but not next to C. If C is not sitting next to D, who is/are occupying seat/seats adjacent to D ?
 
@@ -690,6 +814,9 @@ Topic: [notes](../syllabus/PRE2/04-cs4-basic-numeracy.md)
 Topic: [notes](../syllabus/PRE2/03-cs3-logical-reasoning-mental-ability.md)
 
 </details>
+*↻ **Same theme also asked:** [Prelims 2021 · CSAT Q30](pre_2021_CSAT.md#q30), [Prelims 2021 · CSAT Q31](pre_2021_CSAT.md#q31), [Prelims 2021 · CSAT Q32](pre_2021_CSAT.md#q32), [Prelims 2021 · CSAT Q33](pre_2021_CSAT.md#q33) · Topic asked 47× (2021, 2025)*
+
+<a id="q43"></a>
 
 **Q43.** P = (40% of A) + (65% of B) and Q = (50% of A) + (50% of B), where A is greater than B. In this context, which of the following statements is correct ?
 
@@ -705,6 +832,9 @@ Topic: [notes](../syllabus/PRE2/03-cs3-logical-reasoning-mental-ability.md)
 Topic: [notes](../syllabus/PRE2/04-cs4-basic-numeracy.md)
 
 </details>
+*Topic asked 49× (2021, 2025)*
+
+<a id="q44"></a>
 
 **Q44.** A person stood alone in a desert on a dark night and wanted to reach his village which was situated 5 km east of the point where he was standing. He had no instruments to find the direction but he located the polestar. The most convenient way now to reach his village is to walk in the :
 
@@ -720,6 +850,9 @@ Topic: [notes](../syllabus/PRE2/04-cs4-basic-numeracy.md)
 Topic: [notes](../syllabus/PRE2/03-cs3-logical-reasoning-mental-ability.md)
 
 </details>
+*Topic asked 47× (2021, 2025)*
+
+<a id="q45"></a>
 
 **Q45.** Six boys A, B, C, D, E and F play a game of cards. Each has a pack of 10 cards. F borrows 2 cards from A and gives away 5 to C who in turn gives 3 to B while B gives 6 to D who passes 1 to E. Then the number of cards possessed by D and E is equal to the number of cards possessed by :
 
@@ -735,6 +868,9 @@ Topic: [notes](../syllabus/PRE2/03-cs3-logical-reasoning-mental-ability.md)
 Topic: [notes](../syllabus/PRE2/03-cs3-logical-reasoning-mental-ability.md)
 
 </details>
+*Topic asked 47× (2021, 2025)*
+
+<a id="q46"></a>
 
 **Q46.** If second and fourth Saturdays and all the Sundays are taken as only holidays for an office, what would be the minimum number of possible working days of any month of any year ?
 
@@ -750,6 +886,9 @@ Topic: [notes](../syllabus/PRE2/03-cs3-logical-reasoning-mental-ability.md)
 Topic: [notes](../syllabus/PRE2/03-cs3-logical-reasoning-mental-ability.md)
 
 </details>
+*Topic asked 47× (2021, 2025)*
+
+<a id="q47"></a>
 
 **Q47.** In a certain code, '256' means 'red colour chalk', '589' means 'green colour flower' and '254' means 'white colour chalk'. The digit in the code that indicates 'white' is :
 
@@ -765,6 +904,9 @@ Topic: [notes](../syllabus/PRE2/03-cs3-logical-reasoning-mental-ability.md)
 Topic: [notes](../syllabus/PRE2/03-cs3-logical-reasoning-mental-ability.md)
 
 </details>
+*↻ **Same theme also asked:** [Prelims 2021 · CSAT Q7](pre_2021_CSAT.md#q7) · Topic asked 47× (2021, 2025)*
+
+<a id="q48"></a>
 
 **Q48.** Directions (Question No. 48 to 50) : A, B, C, D, E, F and G are Lecturers from different cities Hyderabad, Delhi, Shillong, Kanpur, Chennai, Mumbai and Srinagar, (not necessarily in the same order) who participated in a conference. Each one of them is specialized in a different subject, viz., Economics, Commerce, History, Sociology, Geography, Mathematics and Statistics (not necessarily in the same order). Further,  
 I. Lecturer from Kanpur is specialized in Geography.  
@@ -788,6 +930,9 @@ Who is specialized in Geography ?
 Topic: [notes](../syllabus/PRE2/03-cs3-logical-reasoning-mental-ability.md)
 
 </details>
+*Topic asked 47× (2021, 2025)*
+
+<a id="q49"></a>
 
 **Q49.** Directions (Question No. 48 to 50) : A, B, C, D, E, F and G are Lecturers from different cities Hyderabad, Delhi, Shillong, Kanpur, Chennai, Mumbai and Srinagar, (not necessarily in the same order) who participated in a conference. Each one of them is specialized in a different subject, viz., Economics, Commerce, History, Sociology, Geography, Mathematics and Statistics (not necessarily in the same order). Further,  
 I. Lecturer from Kanpur is specialized in Geography.  
@@ -811,6 +956,9 @@ From which city Lecturer specialized in Economics belongs ?
 Topic: [notes](../syllabus/PRE2/03-cs3-logical-reasoning-mental-ability.md)
 
 </details>
+*Topic asked 47× (2021, 2025)*
+
+<a id="q50"></a>
 
 **Q50.** Directions (Question No. 48 to 50) : A, B, C, D, E, F and G are Lecturers from different cities Hyderabad, Delhi, Shillong, Kanpur, Chennai, Mumbai and Srinagar, (not necessarily in the same order) who participated in a conference. Each one of them is specialized in a different subject, viz., Economics, Commerce, History, Sociology, Geography, Mathematics and Statistics (not necessarily in the same order). Further,  
 I. Lecturer from Kanpur is specialized in Geography.  
@@ -834,6 +982,9 @@ Who belongs to Hyderabad ?
 Topic: [notes](../syllabus/PRE2/03-cs3-logical-reasoning-mental-ability.md)
 
 </details>
+*Topic asked 47× (2021, 2025)*
+
+<a id="q51"></a>
 
 **Q51.** In a school, there are five teachers A, B, C, D and E, A and B teach Hindi and English. C and B English and Geography. D and A teach Mathematics and Hindi. E and B teach History and French. Who teaches maximum number of subjects ?
 
@@ -849,6 +1000,9 @@ Topic: [notes](../syllabus/PRE2/03-cs3-logical-reasoning-mental-ability.md)
 Topic: [notes](../syllabus/PRE2/03-cs3-logical-reasoning-mental-ability.md)
 
 </details>
+*Topic asked 47× (2021, 2025)*
+
+<a id="q52"></a>
 
 **Q52.** 
 
@@ -861,6 +1015,8 @@ Key not available
 *Note:* figure-series question (stars with dots); options are drawings that cannot be rendered faithfully in text
 
 </details>
+
+<a id="q53"></a>
 
 **Q53.** Consider the following pictures of dice (the same die shown four times; faces visible as top / left / front) :  
 I. 6 / 3 / 2  
@@ -881,6 +1037,9 @@ What is the number opposite to 3 ?
 Topic: [notes](../syllabus/PRE2/03-cs3-logical-reasoning-mental-ability.md)
 
 </details>
+*Topic asked 47× (2021, 2025)*
+
+<a id="q54"></a>
 
 **Q54.** 
 
@@ -893,6 +1052,8 @@ Key not available
 *Note:* figure-matrix question; options are drawings
 
 </details>
+
+<a id="q55"></a>
 
 **Q55.** Directions (Question No. 55 to 57) : Three out of M, B, T, W, D and H work in factory X and remaining three work in factory Y. Each of them has his own earnings which is different from others. T works in factory Y and earns the least. W and D do not work in factory Y and neither of them earns the maximum amount. B earns less than H and W. T does not work in the same factory in which M works. M earns more than D, but less than B.  
 Who earns the maximum amount ?
@@ -909,6 +1070,9 @@ Who earns the maximum amount ?
 Topic: [notes](../syllabus/PRE2/03-cs3-logical-reasoning-mental-ability.md)
 
 </details>
+*Topic asked 47× (2021, 2025)*
+
+<a id="q56"></a>
 
 **Q56.** Directions (Question No. 55 to 57) : Three out of M, B, T, W, D and H work in factory X and remaining three work in factory Y. Each of them has his own earnings which is different from others. T works in factory Y and earns the least. W and D do not work in factory Y and neither of them earns the maximum amount. B earns less than H and W. T does not work in the same factory in which M works. M earns more than D, but less than B.  
 In which factory does B work ?
@@ -925,6 +1089,9 @@ In which factory does B work ?
 Topic: [notes](../syllabus/PRE2/03-cs3-logical-reasoning-mental-ability.md)
 
 </details>
+*Topic asked 47× (2021, 2025)*
+
+<a id="q57"></a>
 
 **Q57.** Directions (Question No. 55 to 57) : Three out of M, B, T, W, D and H work in factory X and remaining three work in factory Y. Each of them has his own earnings which is different from others. T works in factory Y and earns the least. W and D do not work in factory Y and neither of them earns the maximum amount. B earns less than H and W. T does not work in the same factory in which M works. M earns more than D, but less than B.  
 Who earns less than M ?
@@ -941,6 +1108,9 @@ Who earns less than M ?
 Topic: [notes](../syllabus/PRE2/03-cs3-logical-reasoning-mental-ability.md)
 
 </details>
+*Topic asked 47× (2021, 2025)*
+
+<a id="q58"></a>
 
 **Q58.** A wheat merchant has four varieties of wheat – A, B, C, D with him. He mixed the entire quantity of the wheat of varieties A and B together. With this mixture, if he mixes the entire quantity of wheat of variety C, which costs ₹ 20/kg, the mixture so formed would cost ₹ 25/kg. Instead, if he mixes with it the entire quantity of wheat of variety D, which costs ₹ 36/kg, the mixture so formed would cost ₹ 31 per kg. If the entire quantity of wheat of variety D is thrice that of wheat of variety C, how much would the mixture of the entire quantity of wheat of all the four varieties cost ?
 
@@ -956,6 +1126,9 @@ Topic: [notes](../syllabus/PRE2/03-cs3-logical-reasoning-mental-ability.md)
 Topic: [notes](../syllabus/PRE2/04-cs4-basic-numeracy.md)
 
 </details>
+*Topic asked 49× (2021, 2025)*
+
+<a id="q59"></a>
 
 **Q59.** Akshay has a big drum for storing milk. The radius of the drum is 80 cm while its height is 1.5 metres. Initially, the drum is empty. He wants to fill up the drum up to 80% of its height by pouring milk from a bucket with radius 20 cm and height 30 cm. Every time he pours the milk in the drum, 10% of the milk is spilled out of the bucket and is wasted. Approximately how many buckets will he need to fill in the drum ?
 
@@ -971,6 +1144,9 @@ Topic: [notes](../syllabus/PRE2/04-cs4-basic-numeracy.md)
 Topic: [notes](../syllabus/PRE2/04-cs4-basic-numeracy.md)
 
 </details>
+*Topic asked 49× (2021, 2025)*
+
+<a id="q60"></a>
 
 **Q60.** Directions (Question No. 60 and 61) : The letters of the word MIDDLE are written on blank cards, one letter per card. The letters are shuffled and a toddler (who does not know the spelling of the word) is asked to place the letters one by one, on a straight line. The top and the bottom of each card are marked, and the toddler understands the same. The toddler places the letters on a straight line, in arbitrary order, with the top and bottom of each letter placed correctly. Answer each question independently; additional information given in a question holds only for that question.  
 What is the total number of distinct ways in which the toddler can place the cards ?
@@ -987,6 +1163,9 @@ What is the total number of distinct ways in which the toddler can place the car
 Topic: [notes](../syllabus/PRE2/04-cs4-basic-numeracy.md)
 
 </details>
+*Topic asked 49× (2021, 2025)*
+
+<a id="q61"></a>
 
 **Q61.** Directions (Question No. 60 and 61) : The letters of the word MIDDLE are written on blank cards, one letter per card. The letters are shuffled and a toddler (who does not know the spelling of the word) is asked to place the letters one by one, on a straight line. The top and the bottom of each card are marked, and the toddler understands the same. The toddler places the letters on a straight line, in arbitrary order, with the top and bottom of each letter placed correctly. Answer each question independently; additional information given in a question holds only for that question.  
 If one of the ''Ds'' is placed correctly, what is the total number of ways in which the toddler can place the other cards so that the word is spelt incorrectly ?
@@ -1003,6 +1182,9 @@ If one of the ''Ds'' is placed correctly, what is the total number of ways in wh
 Topic: [notes](../syllabus/PRE2/04-cs4-basic-numeracy.md)
 
 </details>
+*Topic asked 49× (2021, 2025)*
+
+<a id="q62"></a>
 
 **Q62.** How many natural numbers having at most five digits have a sum of their digits as at most six ?
 
@@ -1018,6 +1200,9 @@ Topic: [notes](../syllabus/PRE2/04-cs4-basic-numeracy.md)
 Topic: [notes](../syllabus/PRE2/04-cs4-basic-numeracy.md)
 
 </details>
+*Topic asked 49× (2021, 2025)*
+
+<a id="q63"></a>
 
 **Q63.** A plane travelled a certain distance at a uniform speed. Had the speed been 216 kmph more, the journey would have taken one hour less and had the speed been 108 kmph less, the journey would have taken one hour more. Find the distance travelled by the plane.
 
@@ -1033,6 +1218,9 @@ Topic: [notes](../syllabus/PRE2/04-cs4-basic-numeracy.md)
 Topic: [notes](../syllabus/PRE2/04-cs4-basic-numeracy.md)
 
 </details>
+*↻ **Same theme also asked:** [Prelims 2021 · CSAT Q45](pre_2021_CSAT.md#q45) · Topic asked 49× (2021, 2025)*
+
+<a id="q64"></a>
 
 **Q64.** Of the total amount that Harish spent in a shopping mall, excluding taxes, he spent 40% on clothing, 20% on grocery items and 40% on computer accessories. If he paid 10% on clothing, 5% on grocery items and 15% on computer accessories as taxes, then the total tax that he paid was what percent of the total amount that he spent, excluding taxes ?
 
@@ -1048,6 +1236,9 @@ Topic: [notes](../syllabus/PRE2/04-cs4-basic-numeracy.md)
 Topic: [notes](../syllabus/PRE2/04-cs4-basic-numeracy.md)
 
 </details>
+*Topic asked 49× (2021, 2025)*
+
+<a id="q65"></a>
 
 **Q65.** 
 
@@ -1059,6 +1250,8 @@ Key not available
 
 </details>
 
+<a id="q66"></a>
+
 **Q66.** 
 
 
@@ -1068,6 +1261,8 @@ Key not available
 Key not available
 
 </details>
+
+<a id="q67"></a>
 
 **Q67.** 
 
@@ -1079,6 +1274,8 @@ Key not available
 
 </details>
 
+<a id="q68"></a>
+
 **Q68.** 
 
 
@@ -1088,6 +1285,8 @@ Key not available
 Key not available
 
 </details>
+
+<a id="q69"></a>
 
 **Q69.** Which of the choices is CLOSEST in meaning to the word "PREPOSTEROUS" ?
 
@@ -1103,6 +1302,9 @@ Key not available
 Topic: [notes](../syllabus/PRE2/01-cs1-comprehension-language-english-punjabi.md)
 
 </details>
+*Topic asked 15× (2021, 2025)*
+
+<a id="q70"></a>
 
 **Q70.** Fill in the blank with the most appropriate option :  
 I took a blanket outside, rolled myself ________ it and slept there.
@@ -1119,6 +1321,9 @@ I took a blanket outside, rolled myself ________ it and slept there.
 Topic: [notes](../syllabus/PRE2/01-cs1-comprehension-language-english-punjabi.md)
 
 </details>
+*Topic asked 15× (2021, 2025)*
+
+<a id="q71"></a>
 
 **Q71.** Replace the underlined portion ('is discover') in the following sentence with the most appropriate option to make it grammatically correct. If the sentence is correct as it stands, mark '(d)' as the answer.  
 It was of utmost importance to re-build the organization after the felony is discover.
@@ -1135,6 +1340,9 @@ It was of utmost importance to re-build the organization after the felony is dis
 Topic: [notes](../syllabus/PRE2/01-cs1-comprehension-language-english-punjabi.md)
 
 </details>
+*Topic asked 15× (2021, 2025)*
+
+<a id="q72"></a>
 
 **Q72.** Choose the grammatically correct sentence.
 
@@ -1150,6 +1358,9 @@ Topic: [notes](../syllabus/PRE2/01-cs1-comprehension-language-english-punjabi.md
 Topic: [notes](../syllabus/PRE2/01-cs1-comprehension-language-english-punjabi.md)
 
 </details>
+*Topic asked 15× (2021, 2025)*
+
+<a id="q73"></a>
 
 **Q73.** 
 
@@ -1161,6 +1372,8 @@ Key not available
 
 </details>
 
+<a id="q74"></a>
+
 **Q74.** 
 
 
@@ -1170,6 +1383,8 @@ Key not available
 Key not available
 
 </details>
+
+<a id="q75"></a>
 
 **Q75.** 
 
@@ -1181,6 +1396,8 @@ Key not available
 
 </details>
 
+<a id="q76"></a>
+
 **Q76.** 
 
 
@@ -1190,6 +1407,8 @@ Key not available
 Key not available
 
 </details>
+
+<a id="q77"></a>
 
 **Q77.** ਹੇਠ ਲਿਖਿਆਂ ਵਿੱਚ ਬਹੁ-ਅਰਥਕ ਸ਼ਬਦਾਂ ਦਾ ਸਹੀ ਵਿਕਲਪ ਹੈ :
 
@@ -1207,6 +1426,9 @@ Key not available — PPSC deleted this question in the revised key.
 Topic: [notes](../syllabus/PRE2/01-cs1-comprehension-language-english-punjabi.md)
 
 </details>
+*Topic asked 15× (2021, 2025)*
+
+<a id="q78"></a>
 
 **Q78.** ਜਦੋਂ ਕੋਈ ਇਨਸਾਨ ਕੰਮ ਦਾ ਸਹੀ ਮੌਕਾ ਗੁਆ ਕੇ ਭਟਕਦਾ ਫਿਰੇ ਤਾਂ ਉਸ ਲਈ ਕਿਸ ਅਖਾਣ ਦੀ ਵਰਤੋਂ ਕੀਤੀ ਜਾਂਦੀ ਹੈ ?
 
@@ -1222,6 +1444,9 @@ Topic: [notes](../syllabus/PRE2/01-cs1-comprehension-language-english-punjabi.md
 Topic: [notes](../syllabus/PRE2/01-cs1-comprehension-language-english-punjabi.md)
 
 </details>
+*Topic asked 15× (2021, 2025)*
+
+<a id="q79"></a>
 
 **Q79.** ਨਾਟਕੀ ਵਾਰਤਾਲਾਪ ਦਾ ਸਹੀ ਵਿਕਲਪ ਚੁਣੋ :
 
@@ -1237,6 +1462,9 @@ Topic: [notes](../syllabus/PRE2/01-cs1-comprehension-language-english-punjabi.md
 Topic: [notes](../syllabus/PRE2/01-cs1-comprehension-language-english-punjabi.md)
 
 </details>
+*Topic asked 15× (2021, 2025)*
+
+<a id="q80"></a>
 
 **Q80.** ਹੇਠ ਲਿਖਿਆਂ ਵਿੱਚ ਸ਼ੁੱਧ ਸ਼ਬਦ-ਜੋੜਾਂ ਵਾਲਾ ਵਿਕਲਪ ਹੈ :
 
@@ -1254,3 +1482,4 @@ Key not available — PPSC deleted this question in the revised key.
 Topic: [notes](../syllabus/PRE2/01-cs1-comprehension-language-english-punjabi.md)
 
 </details>
+*Topic asked 15× (2021, 2025)*

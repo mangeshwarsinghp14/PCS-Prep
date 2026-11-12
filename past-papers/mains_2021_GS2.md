@@ -4,6 +4,8 @@ Held 2021-04-01. 18 questions.
 
 Sources: [1](https://theiashub.com/upsc/punjab-pcs-previous-year-question-paper/) · [2](https://www.freejobalert.com/punjab-civil-services-2020/852429/) · [3](https://drive.google.com/file/d/1sOlZzLS03INn1PknLArLXTwIoPJuxrPb/view) · [4](https://www.adda247.com/jobs/wp-content/uploads/sites/22/2025/11/18111209/PCS-Mains-Exam-General-Paper-II.pdf)
 
+<a id="q1"></a>
+
 **Q1.** 'More number of constitutional amendments in India were carried out because of political necessity than of constitutional need'. Elucidate. *(15 marks, 200 words)*
 
 <details><summary>Model answer points</summary>
@@ -33,6 +35,10 @@ Topic: [notes](../syllabus/GS2/01-g2p1-constitution-evolution-features-basic-str
 
 </details>
 
+*Topic asked 4× (2018, 2021, 2026) 🔥*
+
+<a id="q2-a"></a>
+
 **Q2(a).** 'Probity in public life is an internally induced behaviour than an externally administered action'. Explain. *(10 marks, 100 words)*
 
 <details><summary>Model answer points</summary>
@@ -57,6 +63,10 @@ Topic: [notes](../syllabus/GS2/14-g2g5-probity-rti-codes-corruption.md)
 
 </details>
 
+*Topic asked 4× (2018, 2021, 2026) 🔥*
+
+<a id="q2-b"></a>
+
 **Q2(b).** Examine any of the two recent E-Governance initiatives to illustrate how they have enhanced transparency and efficiency in government services. *(10 marks, 100 words)*
 
 <details><summary>Model answer points</summary>
@@ -80,6 +90,10 @@ Topic: [notes](../syllabus/GS2/14-g2g5-probity-rti-codes-corruption.md)
 Topic: [notes](../syllabus/GS2/12-g2g3-transparency-e-governance-civil-services.md)
 
 </details>
+
+*Topic asked 5× (2018, 2021, 2026) 🔥*
+
+<a id="q3"></a>
 
 **Q3.** Analyse the major issues creating tension in relationship between the Centre and the States with reference to recent controversies. *(15 marks, 200 words)*
 
@@ -111,6 +125,10 @@ Topic: [notes](../syllabus/GS2/02-g2p2-federalism-devolution.md)
 
 </details>
 
+*Topic asked 5× (2018, 2021, 2026) 🔥*
+
+<a id="q4"></a>
+
 **Q4.** The phenomenon of political defections in India has assumed large proportions in recent years. Bring out the factors responsible for this. Is it right to say that ban on defection will amount to suppression of freedom of thought and action? *(15 marks, 200 words)*
 
 <details><summary>Model answer points</summary>
@@ -139,6 +157,10 @@ Topic: [notes](../syllabus/GS2/02-g2p2-federalism-devolution.md)
 Topic: [notes](../syllabus/GS2/05-g2p5-parliament-state-legislatures.md)
 
 </details>
+
+*Topic asked 4× (2018, 2021, 2026) 🔥*
+
+<a id="q5"></a>
 
 **Q5.** "The Representation of the People Act, 1951 is not an effective preventive law against criminalization of politics and corruption in public life". Analyse. *(15 marks, 200 words)*
 
@@ -169,6 +191,10 @@ Topic: [notes](../syllabus/GS2/07-g2p7-representation-of-the-people-act.md)
 
 </details>
 
+*Topic asked 2× (2018, 2021)*
+
+<a id="q6"></a>
+
 **Q6.** The strength of any modern democracy is based on the deliberative functions of the Parliament. How do you evaluate the role of Indian Parliament as a deliberative body in the light of its working in recent years? *(15 marks, 200 words)*
 
 <details><summary>Model answer points</summary>
@@ -197,6 +223,10 @@ Topic: [notes](../syllabus/GS2/05-g2p5-parliament-state-legislatures.md)
 
 </details>
 
+*Topic asked 4× (2018, 2021, 2026) 🔥*
+
+<a id="q7"></a>
+
 **Q7.** Independence of the Election Commission is a pre-condition for holding free and fair elections. Critically analyse the constitutional safeguards for the impartial functioning of Election Commission. *(15 marks, 200 words)*
 
 <details><summary>Model answer points</summary>
@@ -223,6 +253,10 @@ Topic: [notes](../syllabus/GS2/05-g2p5-parliament-state-legislatures.md)
 Topic: [notes](../syllabus/GS2/08-g2p8-constitutional-posts-bodies.md)
 
 </details>
+
+*Topic asked 2× (2018, 2021)*
+
+<a id="q8"></a>
 
 **Q8.** The Companies Act, 2013 has made Corporate Social Responsibility (CSR) mandatory for business corporates in India. However, the impact of CSR contributions towards social welfare and environmental protection still remains inadequate. Comment. *(15 marks, 200 words)*
 
@@ -251,6 +285,10 @@ Topic: [notes](../syllabus/GS2/11-g2g2-policies-ngos-shgs-development-actors.md)
 
 </details>
 
+*↻ **Same theme also asked:** [Mains 2026 · GS2 Q15](mains_2026_GS2.md#q15) · Topic asked 6× (2018, 2021, 2026) 🔥*
+
+<a id="q9"></a>
+
 **Q9.** India's democratic governance confronts the challenge of manipulation by private interests. Critically Analyse. *(15 marks, 200 words)*
 
 <details><summary>Model answer points</summary>
@@ -278,6 +316,9 @@ Topic: [notes](../syllabus/GS2/13-g2g4-values-ethics-in-governance.md)
 
 </details>
 
+
+<a id="q10"></a>
+
 **Q10.** In 2019, the Supreme Court ruled that the office of the Chief Justice of India is a public authority under the Right to Information (RTI) Act. Discuss the significance of this judgement by explaining the implications of bringing office of CJI under the RTI. *(15 marks, 200 words)*
 
 <details><summary>Model answer points</summary>
@@ -304,6 +345,10 @@ Topic: [notes](../syllabus/GS2/14-g2g5-probity-rti-codes-corruption.md)
 
 </details>
 
+*Topic asked 4× (2018, 2021, 2026) 🔥*
+
+<a id="q11-a"></a>
+
 **Q11(a).** The Quadrilateral Security Dialogue may not be a reliable long-term counter to China because it shall always remain dependent on the policy preferences of a US President. Critically Analyse. *(10 marks, 100 words)*
 
 <details><summary>Model answer points</summary>
@@ -328,6 +373,10 @@ Topic: [notes](../syllabus/GS2/16-g2i2-groupings-agreements.md)
 
 </details>
 
+*Topic asked 3× (2018, 2021, 2026) 🔥*
+
+<a id="q11-b"></a>
+
 **Q11(b).** The recent war between Azerbaijan and Armenia has indicated that the conduct of warfare is set to change drastically. Explain. *(10 marks, 100 words)*
 
 <details><summary>Model answer points</summary>
@@ -351,6 +400,10 @@ Topic: [notes](../syllabus/GS2/16-g2i2-groupings-agreements.md)
 Topic: [notes](../syllabus/GS3/14-g3s5-security-forces-agencies.md)
 
 </details>
+
+*Topic asked 4× (2018, 2021, 2026) 🔥*
+
+<a id="q12"></a>
 
 **Q12.** The changing geo-economic factors in Pakistan will stabilise the South Asian Region. Critically analyse. *(15 marks, 200 words)*
 
@@ -378,6 +431,10 @@ Topic: [notes](../syllabus/GS3/14-g3s5-security-forces-agencies.md)
 Topic: [notes](../syllabus/GS2/15-g2i1-india-and-its-neighbourhood.md)
 
 </details>
+
+*Topic asked 5× (2018, 2021, 2026) 🔥*
+
+<a id="q13"></a>
 
 **Q13.** With China inheriting the Soviet Union's ability to directly rival the US and empower its opponents, is the world witnessing a revival of the Cold War? *(15 marks, 200 words)*
 
@@ -407,6 +464,10 @@ Topic: [notes](../syllabus/GS2/17-g2i3-policies-of-other-nations-diaspora.md)
 
 </details>
 
+*Topic asked 8× (2018, 2021, 2026) 🔥*
+
+<a id="q14"></a>
+
 **Q14.** What has been Canada's response to India's proposed Farm laws? How will it impact India-Canada's bilateral relationship? Critically Analyse. *(15 marks, 200 words)*
 
 <details><summary>Model answer points</summary>
@@ -435,6 +496,10 @@ Topic: [notes](../syllabus/GS2/17-g2i3-policies-of-other-nations-diaspora.md)
 
 </details>
 
+*Topic asked 8× (2018, 2021, 2026) 🔥*
+
+<a id="q15"></a>
+
 **Q15.** Despite the aim for an Atmanirbhar Bharat India shall find it difficult to detach itself from China's supply chain at least in the short run. Comment. *(15 marks, 200 words)*
 
 <details><summary>Model answer points</summary>
@@ -461,6 +526,10 @@ Topic: [notes](../syllabus/GS2/17-g2i3-policies-of-other-nations-diaspora.md)
 
 </details>
 
+*Topic asked 8× (2018, 2021, 2026) 🔥*
+
+<a id="q16"></a>
+
 **Q16.** What is the mandate of WHO and how binding are its decisions? Examine the role played by WHO in context of COVID-19 Pandemic. *(15 marks, 200 words)*
 
 <details><summary>Model answer points</summary>
@@ -486,3 +555,5 @@ Topic: [notes](../syllabus/GS2/17-g2i3-policies-of-other-nations-diaspora.md)
 Topic: [notes](../syllabus/GS2/18-g2i4-international-institutions.md)
 
 </details>
+
+*Topic asked 3× (2018, 2021, 2026) 🔥*

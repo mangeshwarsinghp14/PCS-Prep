@@ -1,6 +1,6 @@
 # Translation (10)
 
-**Paper 2 — English, 10+2 standard** › English · Subject: Language papers (Punjabi & English) · Priority: Medium
+**Paper 2 — English, 10+2 standard** › English · Subject: Language papers (Punjabi & English) · Priority: Medium · **Asked by PPSC: 🔁 1× (’21)**
 
 > Official syllabus line: Translation.
 
@@ -114,9 +114,19 @@ Usually a short Punjabi passage of everyday or cultural content is to be rendere
 - A Punjabi-English dictionary (e.g. Punjabi University, Patiala)
 - Punjabi and English newspapers for parallel practice
 
+## Asked in PPSC papers — 1 time (in 1 of 3 recent exams)
+
+| Paper | Years asked |
+|---|---|
+| Mains English | 2021 |
+
+- [Mains 2021 · English Q5](../../past-papers/mains_2021_ENG.md#q5) — Translate the following into English: (1) ਪੰਜਾਬ ਵਿੱਚ ਪਹਿਲੀ ਅਪਰੈਲ ਤੋਂ ਔਰਤਾਂ ਲਈ ਸਰਕਾਰੀ ਬੱਸਾਂ ਵਿੱਚ ਮੁਫ਼ਤ ਬਸ ਸੇਵਾ ਦੀ ਸਹੂਲਤ ਦਿੱਤੀ ਗਈ ਹੈ। (2) ਕਰੋਨਾ ਮਹਾਂਮਾਰੀ ਨੇ ਸਾਡੇ ਸ
+
 ## Mains practice questions (7)
 
 **1.** Translate into English: 'ਪੰਜਾਬ ਦੇ ਕਿਸਾਨ ਦੇਸ਼ ਦਾ ਢਿੱਡ ਭਰਦੇ ਹਨ। ਪਰ ਅੱਜ ਧਰਤੀ ਹੇਠਲਾ ਪਾਣੀ ਹਰ ਸਾਲ ਹੋਰ ਡੂੰਘਾ ਹੁੰਦਾ ਜਾ ਰਿਹਾ ਹੈ।'
+
+*Like a real PPSC question: [Mains 2021 · English Q5](../../past-papers/mains_2021_ENG.md#q5)*
 
 <details><summary>Answer outline</summary>
 
@@ -130,6 +140,8 @@ Usually a short Punjabi passage of everyday or cultural content is to be rendere
 
 **2.** Translate into English: 'ਸਾਨੂੰ ਪਰਾਲੀ ਸਾੜਨ ਦੀ ਥਾਂ ਉਸ ਦੀ ਸੰਭਾਲ ਕਰਨੀ ਚਾਹੀਦੀ ਹੈ, ਕਿਉਂਕਿ ਧੂੰਆਂ ਸਭ ਦੀ ਸਿਹਤ ਲਈ ਹਾਨੀਕਾਰਕ ਹੈ।'
 
+*Like a real PPSC question: [Mains 2021 · English Q5](../../past-papers/mains_2021_ENG.md#q5)*
+
 <details><summary>Answer outline</summary>
 
 - 'ਸਾਨੂੰ ... ਕਰਨੀ ਚਾਹੀਦੀ ਹੈ' = 'we should ...'.
@@ -141,6 +153,8 @@ Usually a short Punjabi passage of everyday or cultural content is to be rendere
 </details>
 
 **3.** Translate into English: 'ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਜੀ ਨੇ ਸਾਰੀ ਮਨੁੱਖਤਾ ਨੂੰ ਬਰਾਬਰੀ ਦਾ ਸੁਨੇਹਾ ਦਿੱਤਾ। ਲੰਗਰ ਦੀ ਪਰੰਪਰਾ ਇਸ ਸਿਧਾਂਤ ਦੀ ਜੀਉਂਦੀ ਮਿਸਾਲ ਹੈ।'
+
+*Like a real PPSC question: [Mains 2021 · English Q5](../../past-papers/mains_2021_ENG.md#q5)*
 
 <details><summary>Answer outline</summary>
 
@@ -164,6 +178,8 @@ Usually a short Punjabi passage of everyday or cultural content is to be rendere
 9. ਮੀਂਹ ਪੈਣ ਕਾਰਨ ਮੀਟਿੰਗ ਮੁਲਤਵੀ ਕਰ ਦਿੱਤੀ ਗਈ।
 10. ਕਾਸ਼! ਹਰ ਪਿੰਡ ਵਿੱਚ ਚੰਗਾ ਸਕੂਲ ਅਤੇ ਹਸਪਤਾਲ ਹੁੰਦਾ।
 
+*Like a real PPSC question: [Mains 2021 · English Q5](../../past-papers/mains_2021_ENG.md#q5)*
+
 <details><summary>Answer outline</summary>
 
 - 1. The Deputy Commissioner visited the flood-affected villages. | 2. The patwari was ordered to complete the girdawari (crop inspection) within a week.
@@ -178,6 +194,8 @@ Usually a short Punjabi passage of everyday or cultural content is to be rendere
 
 **5.** Translate the following passage into English (5 marks):
 'ਪੰਜਾਬ ਵਿੱਚ ਸੇਵਾ ਕੇਂਦਰਾਂ ਰਾਹੀਂ ਲੋਕਾਂ ਨੂੰ ਬਹੁਤ ਸਾਰੀਆਂ ਸਰਕਾਰੀ ਸੇਵਾਵਾਂ ਇੱਕੋ ਛੱਤ ਹੇਠ ਮਿਲਦੀਆਂ ਹਨ। ਜਨਮ ਅਤੇ ਮੌਤ ਦੇ ਸਰਟੀਫ਼ਿਕੇਟ, ਰਿਹਾਇਸ਼ੀ ਸਰਟੀਫ਼ਿਕੇਟ ਅਤੇ ਪੈਨਸ਼ਨ ਲਈ ਹੁਣ ਵੱਖ-ਵੱਖ ਦਫ਼ਤਰਾਂ ਵਿੱਚ ਨਹੀਂ ਭਟਕਣਾ ਪੈਂਦਾ। ਅਰਜ਼ੀ ਦੇਣ ਵਾਲੇ ਨੂੰ ਰਸੀਦ ਮਿਲਦੀ ਹੈ ਅਤੇ ਉਸ ਦੇ ਮੋਬਾਈਲ ਉੱਤੇ ਅਰਜ਼ੀ ਦੀ ਸਥਿਤੀ ਦਾ ਸੁਨੇਹਾ ਆਉਂਦਾ ਹੈ। ਜੇ ਤੈਅ ਸਮੇਂ ਵਿੱਚ ਸੇਵਾ ਨਾ ਮਿਲੇ, ਤਾਂ ਨਾਗਰਿਕ ਉੱਚ ਅਧਿਕਾਰੀ ਕੋਲ ਸ਼ਿਕਾਇਤ ਕਰ ਸਕਦਾ ਹੈ। ਇਸ ਪ੍ਰਬੰਧ ਨੇ ਸਮਾਂ ਬਚਾਇਆ ਹੈ ਅਤੇ ਵਿਚੋਲਿਆਂ ਦੀ ਭੂਮਿਕਾ ਘਟਾਈ ਹੈ।'
+
+*Like a real PPSC question: [Mains 2021 · English Q5](../../past-papers/mains_2021_ENG.md#q5)*
 
 <details><summary>Answer outline</summary>
 
@@ -194,6 +212,8 @@ Usually a short Punjabi passage of everyday or cultural content is to be rendere
 **6.** Translate the following passage into English (5 marks):
 'ਤੇਰ੍ਹਾਂ ਅਪ੍ਰੈਲ 1919 ਨੂੰ ਵਿਸਾਖੀ ਵਾਲੇ ਦਿਨ ਅੰਮ੍ਰਿਤਸਰ ਦੇ ਜਲ੍ਹਿਆਂਵਾਲਾ ਬਾਗ਼ ਵਿੱਚ ਹਜ਼ਾਰਾਂ ਲੋਕ ਸ਼ਾਂਤਮਈ ਢੰਗ ਨਾਲ ਇਕੱਠੇ ਹੋਏ ਸਨ। ਜਨਰਲ ਡਾਇਰ ਨੇ ਬਿਨਾਂ ਕਿਸੇ ਚੇਤਾਵਨੀ ਦੇ ਨਿਹੱਥੇ ਲੋਕਾਂ ਉੱਤੇ ਗੋਲੀ ਚਲਾਉਣ ਦਾ ਹੁਕਮ ਦਿੱਤਾ। ਬਾਹਰ ਨਿਕਲਣ ਦੇ ਰਸਤੇ ਤੰਗ ਹੋਣ ਕਾਰਨ ਲੋਕ ਬਚ ਕੇ ਨਿਕਲ ਨਾ ਸਕੇ ਅਤੇ ਸੈਂਕੜੇ ਬੇਕਸੂਰ ਮਾਰੇ ਗਏ। ਇਸ ਕਤਲੇਆਮ ਨੇ ਸਾਰੇ ਦੇਸ਼ ਨੂੰ ਹਲੂਣ ਦਿੱਤਾ ਅਤੇ ਆਜ਼ਾਦੀ ਦੀ ਲਹਿਰ ਨੂੰ ਨਵਾਂ ਜੋਸ਼ ਦਿੱਤਾ। ਅੱਜ ਵੀ ਬਾਗ਼ ਦੀਆਂ ਕੰਧਾਂ ਉੱਤੇ ਗੋਲੀਆਂ ਦੇ ਨਿਸ਼ਾਨ ਉਸ ਦਿਨ ਦੀ ਗਵਾਹੀ ਭਰਦੇ ਹਨ।'
 
+*Like a real PPSC question: [Mains 2021 · English Q5](../../past-papers/mains_2021_ENG.md#q5)*
+
 <details><summary>Answer outline</summary>
 
 - Model: 'On 13 April 1919, the day of Baisakhi, thousands of people had gathered peacefully at Jallianwala Bagh in Amritsar. General Dyer ordered his troops to fire on the unarmed crowd without any warning.'
@@ -207,6 +227,8 @@ Usually a short Punjabi passage of everyday or cultural content is to be rendere
 
 **7.** Translate the following passage into English (5 marks):
 'ਨਸ਼ਾ ਇੱਕ ਬਿਮਾਰੀ ਹੈ, ਜੁਰਮ ਨਹੀਂ — ਇਹ ਸੋਚ ਹੌਲੀ-ਹੌਲੀ ਸਮਾਜ ਵਿੱਚ ਥਾਂ ਬਣਾ ਰਹੀ ਹੈ। ਨਸ਼ਾ ਛੁਡਾਊ ਕੇਂਦਰਾਂ ਵਿੱਚ ਇਲਾਜ ਦੇ ਨਾਲ-ਨਾਲ ਸਲਾਹ-ਮਸ਼ਵਰਾ ਵੀ ਦਿੱਤਾ ਜਾਂਦਾ ਹੈ। ਪਰ ਇਲਾਜ ਤੋਂ ਬਾਅਦ ਕਈ ਨੌਜਵਾਨ ਉਸੇ ਮਾਹੌਲ ਵਿੱਚ ਪਰਤ ਕੇ ਫਿਰ ਨਸ਼ੇ ਦੀ ਲਪੇਟ ਵਿੱਚ ਆ ਜਾਂਦੇ ਹਨ। ਇਸ ਲਈ ਪਰਿਵਾਰ ਦਾ ਸਹਾਰਾ, ਹੁਨਰ ਦੀ ਸਿਖਲਾਈ ਅਤੇ ਰੁਜ਼ਗਾਰ ਦੇ ਮੌਕੇ ਮੁੜ-ਵਸੇਬੇ ਦਾ ਜ਼ਰੂਰੀ ਹਿੱਸਾ ਹਨ। ਨਸ਼ੇ ਦੇ ਸ਼ਿਕਾਰ ਨੌਜਵਾਨ ਨੂੰ ਨਫ਼ਰਤ ਦੀ ਨਹੀਂ, ਹਮਦਰਦੀ ਦੀ ਲੋੜ ਹੈ।'
+
+*Like a real PPSC question: [Mains 2021 · English Q5](../../past-papers/mains_2021_ENG.md#q5)*
 
 <details><summary>Answer outline</summary>
 

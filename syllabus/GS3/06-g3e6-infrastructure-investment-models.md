@@ -1,6 +1,6 @@
 # Infrastructure & investment models
 
-**Paper 6 — GS III: Economy, Statistics, Security** › Indian Economy · Subject: GS III — Economy, Statistics, Security · Priority: Medium
+**Paper 6 — GS III: Economy, Statistics, Security** › Indian Economy · Subject: GS III — Economy, Statistics, Security · Priority: Medium · **Asked by PPSC: 🔁 3× (’21 ’26)**
 
 > Official syllabus line: Infrastructure – energy, ports, roads, airports, railways etc.; investment models.
 
@@ -133,6 +133,16 @@ Examiners test investment models (HAM vs BOT vs EPC), PPP failures and fixes, an
 - Report of the Committee on Revisiting and Revitalising PPP Model (Kelkar, 2015)
 - Punjab Economic Survey 2025-26 - Infrastructure chapter
 
+## Asked in PPSC papers — 3 times (in 2 of 3 recent exams)
+
+| Paper | Years asked |
+|---|---|
+| Mains GS3 | 2021 (×2), 2026 |
+
+- [Mains 2026 · GS3 Q12](../../past-papers/mains_2026_GS3.md#q12) — Discuss the difficulties Public-Private Partnership (PPP) models have so far faced in infrastructure development in India. What are the important lessons for th
+- [Mains 2021 · GS3 Q2](../../past-papers/mains_2021_GS3.md#q2) — "Infrastructure investment is one of the key pillars of sustained economic development". Critically examine the recommendations of the Task Force on National In
+- [Mains 2021 · GS3 Q3](../../past-papers/mains_2021_GS3.md#q3) — Explain the structure and state of the power sector in India. Present a critical analysis of the government proposal to privatise power distribution companies i
+
 ## Mains practice questions (3)
 
 **1.** Compare the EPC, BOT and Hybrid Annuity models of infrastructure financing. Why did HAM become popular in highway development? (150 words)
@@ -160,6 +170,8 @@ Examiners test investment models (HAM vs BOT vs EPC), PPP failures and fixes, an
 </details>
 
 **3.** Logistics and energy infrastructure are crucial for Punjab's industrial revival. Examine the infrastructure gaps in Punjab and suggest an investment strategy. (250 words)
+
+*Like a real PPSC question: [Mains 2021 · GS3 Q2](../../past-papers/mains_2021_GS3.md#q2)*
 
 <details><summary>Answer outline</summary>
 
