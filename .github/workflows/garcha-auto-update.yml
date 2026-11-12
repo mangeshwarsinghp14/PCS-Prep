@@ -1,0 +1,45 @@
+# PCS Prep — automatic, no-AI updates.
+# Twice a day GitHub runs the updater: it re-trains the keyword tagger on the app's notes,
+# reads official and news feeds, and commits feed.json, archive/, alert.json and status.json
+# to the gh-pages branch, which GitHub Pages serves next to the app.
+name: PCS Prep auto-update
+on:
+  schedule:
+    - cron: "17 1,13 * * *"   # 06:47 and 18:47 IST
+  workflow_dispatch: {}
+  push:
+    branches: [main]
+    paths: ["updater/**", ".github/workflows/garcha-auto-update.yml"]
+permissions:
+  contents: write
+concurrency:
+  group: pcs-prep-auto-update
+  cancel-in-progress: false
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          path: tool
+      - uses: actions/checkout@v4
+        with:
+          ref: gh-pages
+          path: site
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Train the topic tagger on the app's notes
+        run: node tool/updater/scripts/garcha_train.mjs site
+      - name: Collect current affairs and watch for PPSC notices
+        run: node tool/updater/scripts/garcha_feed.mjs site
+      - name: Publish if anything changed
+        run: |
+          cd site
+          git config user.name "PCS Prep updater"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then echo "No changes"; exit 0; fi
+          git commit -m "Auto-update: current affairs $(date -u +%Y-%m-%dT%H:%MZ)"
+          git push
