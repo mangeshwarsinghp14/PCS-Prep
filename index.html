@@ -192,6 +192,19 @@ body.presenting .topbar,body.presenting nav.tabs{display:none}
 .slide .cover{text-align:center;padding:24px 0}.slide .band.sep{padding:28px 20px;text-align:left}.slide .band.sep h2{font-size:30px;line-height:1.15;margin:6px 0}.slide .cover h2{font-size:30px}
 .pres-nav{display:grid;grid-template-columns:1fr auto auto 1fr;gap:8px;padding:10px var(--gut-r,16px) calc(10px + env(safe-area-inset-bottom,0px)) var(--gut-l,16px);border-top:1px solid var(--line);background:var(--surface)}
 .pres-nav .btn{min-height:46px}
+.lrn-seg{flex:1;display:flex;gap:3px;min-width:0}.lrn-seg i{flex:1;height:5px;border-radius:3px;background:var(--line)}.lrn-seg i.d{background:var(--field)}.lrn-seg i.c{background:var(--gold,#C9A227)}
+.lrn-card{max-width:640px;margin:0 auto;display:grid;gap:14px;animation:slin .2s ease-out}
+.lrn-card h2{font-size:28px;line-height:1.15;margin:0}.lrn-card h3{font-size:21px;margin:0}
+.lrn-chip{justify-self:start;font-size:12px;font-weight:700;letter-spacing:.05em;text-transform:uppercase;padding:4px 10px;border-radius:999px;background:var(--gold-soft,#f4e7c2);color:var(--ink)}
+.lrn-did{border-left:4px solid var(--gold,#C9A227);background:var(--surface);padding:12px 14px;border-radius:10px}.lrn-did p{margin:6px 0 0;font-size:17px;line-height:1.5}
+.lrn-pts{margin:0;padding-left:22px;display:grid;gap:12px;font-size:17px;line-height:1.5}.lrn-pts li.new{animation:slin .25s ease-out}
+.lrn-q{font-size:18px;line-height:1.5;margin:0}.lrn-tip{color:var(--muted);font-size:13px;margin:0}
+.lrn-opts{display:grid;gap:10px}.lrn-opts .opt,.lrn-match .opt{text-align:left;min-height:48px}
+.lrn-match{display:grid;grid-template-columns:1fr 1fr;gap:10px}.lrn-match>div{display:grid;gap:10px;align-content:start}
+.opt.sel{outline:3px solid var(--gold,#C9A227)}.opt.right{background:rgba(46,125,50,.16);border-color:#2e7d32}.opt.wrong{background:rgba(179,38,30,.14);border-color:#b3261e}
+.lrn-fb{padding:10px 12px;border-radius:10px;font-size:15px;line-height:1.45}.lrn-fb.ok{background:rgba(46,125,50,.16)}.lrn-fb.no{background:rgba(179,38,30,.14)}
+.lrn-card.pb .lrn-q{border-left:4px solid var(--madder,#8E241E);padding-left:12px}
+@media (prefers-reduced-motion:reduce){.lrn-card,.lrn-pts li.new{animation:none}}
 .topbar h1{white-space:nowrap;overflow:hidden;text-overflow:ellipsis;min-width:0}
 .pill{white-space:nowrap}
 .iconbtn{border:1px solid var(--line);background:var(--surface);border-radius:10px;padding:5px 10px;font-size:13px;font-weight:700;min-height:34px}
@@ -560,7 +573,7 @@ async function initRuntime(){
 const view=$("#view");let current="today",arg="";let quiz=null;let timerH=null;let shortN=25;
 function setTitle(t){$("#ttl").textContent=t;}
 function refreshPill(){$("#streakPill").textContent=streak()+"-day streak";}
-const TABOF={present:"syllabus",weak:"practice",fullp:"practice",interview:"practice",library:"",papers:"practice",paper:"practice",mpaper:"practice",today:"today",syllabus:"syllabus",node:"syllabus",shorts:"shorts",practice:"practice",mlist:"practice",write:"practice",updates:"updates",guide:""};
+const TABOF={learn:"today",present:"syllabus",weak:"practice",fullp:"practice",interview:"practice",library:"",papers:"practice",paper:"practice",mpaper:"practice",today:"today",syllabus:"syllabus",node:"syllabus",shorts:"shorts",practice:"practice",mlist:"practice",write:"practice",updates:"updates",guide:""};
 function route(keep){
   const h=decodeURIComponent((location.hash||"#today").slice(1));const parts=h.split("/");
   const v=parts[0];arg=parts.slice(1).join("/");
@@ -576,7 +589,7 @@ function route(keep){
   const st=keep===true?view.scrollTop:0;
   view.classList.remove("snap");$("#chips").hidden=true;quiz=null;refreshPill();
   document.body.classList.remove("presenting");if(presTimer){clearInterval(presTimer);presTimer=null;}$("#homeBtn").hidden=current==="today";
-  ({present:renderPresent,weak:renderWeak,fullp:renderFullP,interview:renderInterview,library:renderLibrary,papers:renderPapers,paper:renderPaper,mpaper:renderMPaper,today:renderToday,syllabus:renderSyllabus,node:renderNode,shorts:renderShorts,practice:renderPractice,mlist:renderMList,write:renderWrite,updates:renderUpdates,guide:renderGuide})[current]();
+  ({learn:renderLearn,present:renderPresent,weak:renderWeak,fullp:renderFullP,interview:renderInterview,library:renderLibrary,papers:renderPapers,paper:renderPaper,mpaper:renderMPaper,today:renderToday,syllabus:renderSyllabus,node:renderNode,shorts:renderShorts,practice:renderPractice,mlist:renderMList,write:renderWrite,updates:renderUpdates,guide:renderGuide})[current]();
   if(current==="write")fpWriterBanner();
   view.scrollTop=st;
 }
@@ -605,6 +618,7 @@ function renderToday(){
      <div class="xp"><i style="width:${lv.next?Math.round(((S.xp||0)-lv.from)/(lv.need-lv.from)*100):100}%"></i></div>
    </section>
    ${todayCardHTML()}
+   ${learnCardHTML()}
    <section class="card" aria-labelledby="sessH">
      <div class="eyebrow">Today · ${minutesToday()} minutes</div>
      <h3 id="sessH">${doneToday?"Done for today — well played":"Focus: "+esc(se.focus)}</h3>
@@ -863,6 +877,7 @@ function renderPractice(){
      <a class="tile action" href="#papers" style="text-decoration:none;color:inherit"><small>Previous year papers</small><b>${(D.pyq.pre||[]).length+(D.pyq.mains||[]).length}</b><small>Real PPSC papers, tick answers</small></a>
      <button class="tile action" id="light"><small>Lightning round</small><b>⚡ 60s</b><small>True/false sprint · best ${(S.best&&S.best.lightning)||0}</small></button>
      <a class="tile action" href="#syllabus" style="text-decoration:none;color:inherit"><small>By topic</small><b>${NODES.length}</b><small>Pick any syllabus topic</small></a>
+     <a class="tile action" href="#learn" style="text-decoration:none;color:inherit"><small>Shuffle Learn</small><b>🎲</b><small>Random 7-min lessons</small></a>
      <a class="tile action" href="#weak" style="text-decoration:none;color:inherit"><small>My weak areas</small><b>📉</b><small>Weakest topics + drill</small></a>
      <button class="tile action" id="gram" ${MCQ.some(q=>q.n==="lp6"||q.n==="le6")?"":"disabled"}><small>Grammar drill</small><b>ਪੰ / En</b><small>Punjabi & English papers</small></button>
      <a class="tile action" href="#fullp" style="text-decoration:none;color:inherit"><small>Full Mains paper</small><b>3 h</b><small>GS, Essay, language — timed</small></a>
@@ -1391,6 +1406,95 @@ async function loadOlderAuto(){if(caLoading)return;caLoading=true;route(true);
     else{const a=await getJSON("archive/"+pick+".json");autoLoaded.push(pick);CAOLD=CAOLD.concat(a.items||[]);buildContent();toast((a.items||[]).length+" items from "+pick);}}
   catch(e){toast("Couldn't load the archive — check your connection");}
   caLoading=false;route(true);}
+
+/* ----- v5.6: Shuffle Learn — the whole syllabus in random, interleaved micro-lessons that keep attention on the content.
+   Each topic is a short story-like sequence: hook → one-idea-per-tap reveal → an active check (fill the year, order the
+   timeline, match the pairs or a question) → Punjab link → one-line recall. Rounds of ~7 minutes, subjects interleaved,
+   unmet and weak topics drawn more often, mistakes come back at the end of the round. No AI; built from the notes. ----- */
+var LRN=null;
+function cut(t,n){t=String(t).replace(/\s+/g," ").trim();return t.length<=n?t:t.slice(0,n).replace(/[\s,;:(]+\S*$/,"")+"…";}
+const YEAR_RE=/\b(1[0-9]{3}|20[0-3][0-9])\b/;
+function lrnStats(){if(!S.lrn)S.lrn={met:{},rounds:0,best:0};return S.lrn;}
+function lrnPool(){return NODES.filter(n=>!n.removed&&(n.brief||[]).length>=2&&!/^(lp|le|es|iv)\d/.test(n.id));}
+function lrnPick(count,rand){const st=lrnStats(),acc={};MCQ.forEach(q=>{const it=q.n&&S.items[q.i];if(it){const a=acc[q.n]=acc[q.n]||{r:0,w:0};a.r+=it.r||0;a.w+=it.w||0;}});
+  const pool=lrnPool().map(n=>{const met=st.met[n.id]||0,a=acc[n.id];let w=met?1/(1+met):4;if(a&&a.r+a.w>=3&&a.r/(a.r+a.w)<0.6)w*=2;if(n.pr==="H")w*=1.4;return {n,w};});
+  const out=[];let last="";for(let k=0;k<count&&pool.length;k++){let cand=pool.filter(x=>x.n.g!==last);if(!cand.length)cand=pool;const tot=cand.reduce((a,x)=>a+x.w,0);let r=rand()*tot,pick=cand[0];for(const x of cand){r-=x.w;if(r<=0){pick=x;break;}}
+    out.push(pick.n);last=pick.n.g;pool.splice(pool.indexOf(pick),1);}return out;}
+function shuffleR(a,r){return shuffle(a.slice(),r);}
+function lrnCloze(n,r){const bs=[].concat(n.brief||[],...(n.deep||[]).map(d=>d.b||[])).filter(b=>(b.match(/\b(1[0-9]{3}|20[0-3][0-9])\b/g)||[]).length===1&&b.length<=220);if(!bs.length)return null;
+  const b=bs.at(Math.floor(r()*bs.length)),yr=b.match(YEAR_RE)[1],y=+yr;
+  const near=[...new Set([].concat(...NODES.filter(x=>x.g===n.g).map(x=>[].concat(x.brief||[],...(x.deep||[]).map(d=>d.b||[])))).map(t=>(t.match(YEAR_RE)||[])[1]).filter(Boolean).map(Number).filter(v=>v!==y&&Math.abs(v-y)<=60))];
+  const opts=new Set([y]);shuffleR(near,r).forEach(v=>{if(opts.size<4)opts.add(v);});[3,7,12,5,9,15].forEach(d=>{if(opts.size<4){const v=y+(r()<0.5?-d:d);if(v<=2030)opts.add(v);}});
+  return {k:"cloze",text:b.replace(yr,"_____"),full:b,ans:y,opts:shuffleR([...opts],r)};}
+function lrnTimeline(n,r){const sec=(n.deep||[]).find(d=>/timeline|chronolog|events|milestone/i.test(d.h))||(n.deep||[]).find(d=>(d.b||[]).filter(b=>/^\s*(c\.\s*)?\d{3,4}/.test(b)).length>=4);if(!sec)return null;
+  const items=(sec.b||[]).map(b=>{const m=b.match(/^\s*(?:c\.\s*)?(\d{3,4})s?(?:\s*[–-]\s*\d{2,4})?\s*[—–:-]\s*(.+)$/);return m?{y:+m[1],t:cut(m[2],110),full:b}:null;}).filter(Boolean);
+  const uniq=[];items.forEach(x=>{if(!uniq.some(u=>u.y===x.y))uniq.push(x);});if(uniq.length<3)return null;
+  const pick=shuffleR(uniq,r).slice(0,4);return {k:"order",items:shuffleR(pick,r),sorted:pick.slice().sort((a,b)=>a.y-b.y)};}
+function lrnPairOf(b){const parts=String(b).split(/\s[—–]\s/);if(parts.length<2)return null;const a=parts[0].trim(),bb=parts[1].trim();if(a.length<3||a.length>36||/^\d/.test(a)||bb.length<4)return null;return {a,b:cut(bb,80)};}
+function lrnPairs(n,r){const sec=(n.deep||[]).find(d=>!/trap|ask/i.test(d.h)&&(d.b||[]).filter(lrnPairOf).length>=4);if(!sec)return null;
+  const ps=(sec.b||[]).map(b=>{const parts=b.split(/\s[—–]\s/);if(parts.length<2)return null;const a=parts[0].trim(),bb=parts[1].trim();if(a.length<3||a.length>36||bb.length<4)return null;return {a,b:cut(bb,80)};}).filter(Boolean);
+  if(ps.length<3)return null;const pick=shuffleR(ps,r).slice(0,3);return {k:"match",pairs:pick,right:shuffleR(pick.map((p,i)=>({i,b:p.b})),r)};}
+function lrnMcq(n,r){const qs=(n.mcq||[]).map((x,k)=>Q[n.id+"q"+k]).filter(Boolean);if(!qs.length)return null;const q=qs.at(Math.floor(r()*qs.length));return {k:"mcq",q,ord:optOrder(q)};}
+function lrnHook(n,r){const deep=[].concat(...(n.deep||[]).map(d=>(d.b||[]).map(b=>({h:d.h,b})))).filter(x=>/\d/.test(x.b)&&x.b.length<=200);
+  return deep.length?deep.at(Math.floor(r()*deep.length)):null;}
+function lrnSequence(n,r,used){used=used||{};const cards=[];const hook=lrnHook(n,r);cards.push({k:"hook",n,hook});
+  cards.push({k:"reveal",n,pts:(n.brief||[]).slice(0,4),shown:1});
+  const checks=[lrnTimeline(n,r),lrnPairs(n,r),lrnCloze(n,r),lrnMcq(n,r)].filter(Boolean);
+  const chk=checks.length?checks.slice().sort((a,b)=>((used[a.k]||0)-(used[b.k]||0))||(r()-0.5)).at(0):null;if(chk){chk.n=n;used[chk.k]=(used[chk.k]||0)+1;cards.push(chk);}
+  if((n.punjab||[]).length&&!/^pb/.test(n.id))cards.push({k:"punjab",n,b:n.punjab.at(Math.floor(r()*n.punjab.length))});
+  cards.push({k:"recall",n});return cards;}
+function startLearn(){const r=rng(Date.now());const topics=lrnPick(4,r);LRN={r,topics,cards:(()=>{const used={};return [].concat(...topics.map(n=>lrnSequence(n,r,used)));})(),i:0,combo:0,best:0,right:0,tries:0,missed:[],t0:Date.now(),done:{}};go("#learn/run");}
+function lrnBar(){const n=LRN.cards.length;return `<div class="lrn-seg">${LRN.cards.map((c,i)=>`<i class="${i<LRN.i?"d":i===LRN.i?"c":""}"></i>`).join("")}</div>`;}
+function lrnCardHTML(c){const n=c.n,G=GRP[n.g]||{n:""};const chip=`<span class="lrn-chip">${esc(G.short||G.n)}</span>`;
+  if(c.k==="hook")return `<div class="lrn-card hook">${chip}<h2>${esc(n.t)}</h2>${c.hook?`<div class="lrn-did"><b>Did you know?</b><p>${esc(c.hook.b)}</p></div>`:`<p class="sx">${esc(n.x||"")}</p>`}<p class="lrn-tip">Tap Next when you're ready — one idea at a time.</p></div>`;
+  if(c.k==="reveal")return `<div class="lrn-card">${chip}<h3>${esc(n.t)}</h3><ol class="lrn-pts">${c.pts.slice(0,c.shown).map((p,i)=>`<li class="${i===c.shown-1?"new":""}">${esc(p)}</li>`).join("")}</ol>${c.shown<c.pts.length?`<button class="btn alt block" id="lrnMore">Next point (${c.shown}/${c.pts.length})</button>`:`<p class="lrn-tip">Got all ${c.pts.length}? Now test yourself.</p>`}</div>`;
+  if(c.k==="cloze")return `<div class="lrn-card">${chip}<div class="eyebrow">Fill the year</div><p class="lrn-q">${esc(c.text)}</p><div class="lrn-opts">${c.opts.map(v=>`<button class="opt" data-v="${v}">${v}</button>`).join("")}</div><div id="lrnFb"></div></div>`;
+  if(c.k==="order")return `<div class="lrn-card">${chip}<div class="eyebrow">Put these in order — oldest first</div><p class="lrn-tip" style="margin-top:0">Tap them one by one.</p><div class="lrn-opts" id="ordBox">${c.items.map((x,i)=>`<button class="opt" data-i="${i}">${esc(x.t)}</button>`).join("")}</div><div id="lrnFb"></div></div>`;
+  if(c.k==="match")return `<div class="lrn-card">${chip}<div class="eyebrow">Match the pairs</div><div class="lrn-match"><div>${c.pairs.map((p,i)=>`<button class="opt" data-l="${i}">${esc(p.a)}</button>`).join("")}</div><div>${c.right.map(x=>`<button class="opt" data-r="${x.i}">${esc(x.b)}</button>`).join("")}</div></div><div id="lrnFb"></div></div>`;
+  if(c.k==="mcq")return `<div class="lrn-card">${chip}<div class="eyebrow">Quick check</div><p class="lrn-q">${esc(c.q.q)}</p><div class="lrn-opts">${c.ord.map((o,j)=>`<button class="opt" data-j="${j}">${esc(o.t)}</button>`).join("")}</div><div id="lrnFb"></div></div>`;
+  if(c.k==="punjab")return `<div class="lrn-card pb">${chip}<div class="eyebrow">Punjab link</div><h3>${esc(n.t)}</h3><p class="lrn-q">${esc(c.b)}</p><p class="lrn-tip">Use a Punjab example like this in every Mains answer.</p></div>`;
+  if(c.k==="recall")return `<div class="lrn-card">${chip}<div class="eyebrow">Say it in one line</div><h3>${esc(n.t)}</h3><p class="lrn-tip">Close your eyes and say the main idea aloud. Then check.</p><button class="btn alt block" id="lrnShow">Show the one-liner</button><p class="lrn-q" id="lrnOne" hidden>${esc((n.brief||[])[0]||"")}</p><div class="grid2" id="lrnSelf" hidden><button class="btn alt" data-self="0">I missed it</button><button class="btn" data-self="1">I had it</button></div></div>`;
+  return "";}
+function lrnAnswer(ok,expl){const c=LRN.cards.at(LRN.i);LRN.tries++;if(ok){LRN.right++;LRN.combo++;LRN.best=Math.max(LRN.best,LRN.combo);try{navigator.vibrate&&navigator.vibrate(15);}catch(e){}}else{LRN.combo=0;if(!c.retry)LRN.missed.push(Object.assign({},c,{retry:1}));}
+  c.answered=true;const fb=$("#lrnFb");if(fb)fb.innerHTML=`<div class="lrn-fb ${ok?"ok":"no"}"><b>${ok?(LRN.combo>=3?"🔥 "+LRN.combo+" in a row!":"Correct!"):"Not quite."}</b>${expl?` ${esc(expl)}`:""}</div>`;
+  $("#lrnNext").disabled=false;$("#lrnNext").focus();if(ok)setTimeout(()=>{if(LRN&&LRN.cards.at(LRN.i)===c&&!expl)lrnStep();},900);}
+function renderLearn(){
+  if(arg!=="run"||!LRN)return renderLearnHome();
+  document.body.classList.add("presenting");const c=LRN.cards.at(LRN.i);setTitle("Shuffle Learn");
+  const mins=Math.floor((Date.now()-LRN.t0)/60000);
+  view.innerHTML=`<div class="pres"><div class="pres-top"><button class="iconbtn" id="lrnQuit" aria-label="End round" style="min-width:40px;min-height:40px">✕</button>${lrnBar()}<span class="ctr num">${LRN.combo>=2?"🔥"+LRN.combo:""}</span></div>
+    <div class="pres-stage" id="lrnStage" aria-live="polite">${lrnCardHTML(c)}</div>
+    <div class="pres-nav" style="grid-template-columns:1fr 2fr"><button class="btn alt" id="lrnBack" ${LRN.i===0?"disabled":""}>◀</button><button class="btn" id="lrnNext">${LRN.i===LRN.cards.length-1&&!LRN.missed.length?"Finish ✓":"Next ▶"}</button></div></div>`;
+  const needs=["cloze","order","match","mcq"].includes(c.k)&&!c.answered;$("#lrnNext").disabled=needs||(c.k==="reveal"&&c.shown<c.pts.length);
+  $("#lrnQuit").onclick=()=>lrnFinish();$("#lrnBack").onclick=()=>{if(LRN.i>0){LRN.i--;renderLearn();}};$("#lrnNext").onclick=()=>lrnStep();
+  const more=$("#lrnMore");if(more)more.onclick=()=>{c.shown++;renderLearn();};
+  if(c.k==="cloze"&&!c.answered)view.querySelectorAll("[data-v]").forEach(b=>b.onclick=()=>{const ok=+b.dataset.v===c.ans;view.querySelectorAll("[data-v]").forEach(x=>{x.disabled=true;if(+x.dataset.v===c.ans)x.classList.add("right");});if(!ok)b.classList.add("wrong");lrnAnswer(ok,ok?"":c.full);});
+  if(c.k==="mcq"&&!c.answered)view.querySelectorAll("[data-j]").forEach(b=>b.onclick=()=>{const j=+b.dataset.j,cj=c.ord.findIndex(o=>o.ok),ok=j===cj;view.querySelectorAll("[data-j]").forEach((x,k)=>{x.disabled=true;if(k===cj)x.classList.add("right");});if(!ok)b.classList.add("wrong");gradeQ&&gradeQ(c.q,ok);lrnAnswer(ok,c.q.e||"");});
+  if(c.k==="order"&&!c.answered){const picked=[];view.querySelectorAll("[data-i]").forEach(b=>b.onclick=()=>{if(b.disabled)return;const x=c.items.at(+b.dataset.i);picked.push(x);b.disabled=true;b.innerHTML=`<b>${picked.length}.</b> `+b.innerHTML;
+    if(picked.length===c.items.length){const ok=picked.every((p,i)=>p===c.sorted.at(i));lrnAnswer(ok,ok?"":"Order: "+c.sorted.map(s=>s.full.match(/^\s*(?:c\.\s*)?(\d{3,4}s?(?:\s*[–-]\s*\d{2,4})?)/)[1]+" "+s.t.slice(0,40)).join(" → "));}});}
+  if(c.k==="match"&&!c.answered){let L=null,got=0,miss=0;view.querySelectorAll("[data-l]").forEach(b=>b.onclick=()=>{view.querySelectorAll("[data-l]").forEach(x=>x.classList.remove("sel"));if(!b.disabled){L=+b.dataset.l;b.classList.add("sel");}});
+    view.querySelectorAll("[data-r]").forEach(b=>b.onclick=()=>{if(L==null||b.disabled)return;const lb=view.querySelector(`[data-l="${L}"]`);if(+b.dataset.r===L){b.disabled=true;lb.disabled=true;b.classList.add("right");lb.classList.add("right");lb.classList.remove("sel");got++;L=null;if(got===c.pairs.length)lrnAnswer(miss===0,miss?"Matched with "+miss+" slip"+(miss>1?"s":"")+".":"");}else{miss++;b.classList.add("wrong");setTimeout(()=>b.classList.remove("wrong"),500);}});}
+  if(c.k==="recall"){$("#lrnShow").onclick=()=>{$("#lrnOne").hidden=false;$("#lrnSelf").hidden=false;$("#lrnShow").hidden=true;};view.querySelectorAll("[data-self]").forEach(b=>b.onclick=()=>{const ok=b.dataset.self==="1";if(ok){LRN.combo++;LRN.best=Math.max(LRN.best,LRN.combo);}else LRN.combo=0;lrnStep();});}
+  let x0=null;const st=$("#lrnStage");st.addEventListener("touchstart",e=>{x0=e.touches[0].clientX;},{passive:true});st.addEventListener("touchend",e=>{if(x0==null)return;const dx=e.changedTouches[0].clientX-x0;x0=null;if(dx<-70&&!$("#lrnNext").disabled)lrnStep();else if(dx>70&&LRN.i>0){LRN.i--;renderLearn();}},{passive:true});
+}
+function gradeQ(q,ok){try{grade(q.i,ok);}catch(e){}}
+function lrnStep(){const c=LRN.cards.at(LRN.i);if(c&&c.k==="recall"){const st=lrnStats();st.met[c.n.id]=(st.met[c.n.id]||0)+1;LRN.done[c.n.id]=1;if(nst(c.n.id)===0)setNst(c.n.id,1,true);save();}
+  if(LRN.i<LRN.cards.length-1){LRN.i++;renderLearn();return;}
+  if(LRN.missed.length){LRN.cards=LRN.cards.concat(LRN.missed.map(m=>Object.assign(m,{answered:false})));LRN.missed=[];toast("Second chance on the ones you missed");LRN.i++;renderLearn();return;}
+  lrnFinish();}
+function lrnFinish(){if(!LRN){go("#learn");return;}const st=lrnStats();const met=Object.keys(LRN.done);if(met.length){st.rounds++;st.best=Math.max(st.best||0,LRN.best);addXP(10+met.length*5,"Shuffle Learn");}save();
+  const sum={topics:met.map(id=>NODE[id]),right:LRN.right,tries:LRN.tries,best:LRN.best,mins:Math.max(1,Math.round((Date.now()-LRN.t0)/60000))};LRN=null;LRNSUM=sum;go("#learn/done");}
+var LRNSUM=null;
+function renderLearnHome(){document.body.classList.remove("presenting");setTitle("Shuffle Learn");const st=lrnStats(),pool=lrnPool(),met=pool.filter(n=>st.met[n.id]).length;const sm=arg==="done"?LRNSUM:null;
+  view.innerHTML=`<div class="pad">${sm?`<section class="band"><div class="kicker">Round complete · ${sm.mins} min</div><h2>${sm.topics.length} topic${sm.topics.length===1?"":"s"} learned</h2><div class="gur">${sm.tries?`${sm.right}/${sm.tries} checks right · `:""}best streak ${sm.best}</div></section>
+     <section class="card"><div class="eyebrow">Remember these</div><ul class="list" style="margin-top:8px">${sm.topics.map(n=>`<li><a href="#node/${esc(n.id)}"><b>${esc(n.t)}</b></a> — ${esc((n.brief||[])[0]||"")}</li>`).join("")}</ul></section>`:
+    `<section class="band"><div class="kicker">Learn everything, in random order</div><h2>${met} of ${pool.length} topics met</h2><div class="gur">Short rounds of about 7 minutes. Subjects are mixed so your brain keeps switching on; new and weak topics come up more often.</div></section>`}
+   <button class="btn block" id="lrnGo">${sm?"▶ Another round":"▶ Start a round"}</button>
+   <section class="card"><div class="eyebrow">How a round keeps you hooked</div><ul class="list" style="margin-top:8px"><li><b>A hook first</b> — a surprising fact from the deep dive.</li><li><b>One idea per tap</b> — key points appear one at a time.</li><li><b>You act, not just read</b> — fill the year, order a timeline, match pairs or answer a question.</li><li><b>A Punjab link</b> for Mains, then <b>say it in one line</b> from memory.</li><li><b>Streaks and second chances</b> — misses come back at the end of the round.</li></ul></section>
+   <div class="bar" style="height:8px"><i style="width:${Math.round(met/pool.length*100)}%"></i></div><p class="muted" style="margin:0;font-size:12px">${st.rounds||0} rounds played · best streak ${st.best||0}</p></div>`;
+  $("#lrnGo").onclick=startLearn;}
+function learnCardHTML(){const st=lrnStats(),pool=lrnPool(),met=pool.filter(n=>st.met[n.id]).length;
+  return `<section class="card"><div class="eyebrow">Shuffle Learn</div><p style="margin:6px 0">Random 7-minute rounds across the whole syllabus · ${met}/${pool.length} topics met</p><a class="btn alt block" href="#learn" style="text-align:center;text-decoration:none">🎲 Learn something new</a></section>`;}
 
 /* ----- v4: booklist & free library ----- */
 let libArea="All";
