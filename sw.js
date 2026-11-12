@@ -1,5 +1,5 @@
-// PCS Prep v5.2 offline cache
-const C="garcha-pcs-prep-v5_2-2026-11-04";
+// PCS Prep v5.3 offline cache
+const C="garcha-pcs-prep-v5_3-2026-11-04";
 const FILES=["./","./index.html","./manifest.webmanifest","./icon-180.png","./icon-192.png","./icon-512.png"];
 self.addEventListener("install",e=>{e.waitUntil(caches.open(C).then(c=>c.addAll(FILES)).then(()=>self.skipWaiting()));});
 self.addEventListener("activate",e=>{e.waitUntil(caches.keys().then(ks=>Promise.all(ks.filter(k=>k!==C).map(k=>caches.delete(k)))).then(()=>self.clients.claim()));});
