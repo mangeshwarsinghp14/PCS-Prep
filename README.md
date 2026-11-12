@@ -3,7 +3,9 @@
 Personal study app for the Punjab Civil Services (PPSC PCS) exam.
 
 - **App:** https://mangeshwarsinghp14.github.io/PCS-Prep/ — open on a phone and use *Add to Home Screen*.
-- **Branches:** `gh-pages` holds the app; `main` holds the automatic updater.
+- **Full syllabus to read on GitHub:** [syllabus/](syllabus/README.md) — every PPSC topic with notes, Punjab angle, deep dives, free reading links, books, practice MCQs (answers folded) and Mains questions.
+- **Real PPSC papers:** [past-papers/](past-papers/README.md) — with keys, explanations and links to the topic notes.
+- **Branches:** `gh-pages` holds the app; `main` holds the updater and the Markdown syllabus.
 
 ## Automatic updates (no AI)
 
@@ -14,3 +16,8 @@ Personal study app for the Punjab Civil Services (PPSC PCS) exam.
 3. It commits `feed.json` (newest 400), `archive/<month>.json`, `alert.json` and `status.json` to `gh-pages`. The installed app pulls them whenever it is online.
 
 `status.json` shows the last run and which sources worked. Auto-collected items carry the headline, a short summary where the source gives one, the source link and syllabus links; open the source for detail.
+4. `updater/scripts/garcha_export.mjs` rewrites `syllabus/` and `past-papers/` on `main` from the app's data, so the readable syllabus always matches the app.
+
+## Is this free?
+
+Yes. The repository is public, so GitHub Actions minutes on standard runners and GitHub Pages hosting cost nothing. Each run takes about a minute. GitHub pauses scheduled workflows after 60 days with no commits; the updater's own commits keep it active, and *Run workflow* restarts it if it is ever paused.
