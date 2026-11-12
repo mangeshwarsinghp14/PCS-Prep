@@ -1,5 +1,5 @@
 {
- "run": "2026-11-12T13:37:08.745Z",
+ "run": "2026-11-12T14:11:15.159Z",
  "sources": [
   {
    "name": "PIB",
@@ -19,7 +19,7 @@
    "name": "news",
    "url": "https://news.google.com/rss/search?hl=en-IN&gl=IN&ceid=IN:en&q=Punjab%20government+when:3d",
    "ok": true,
-   "items": 96,
+   "items": 100,
    "added": 0
   },
   {
@@ -61,7 +61,7 @@
    "name": "news",
    "url": "https://news.google.com/rss/search?hl=en-IN&gl=IN&ceid=IN:en&q=Chandigarh%20administration+when:3d",
    "ok": true,
-   "items": 16,
+   "items": 15,
    "added": 0
   },
   {
@@ -69,7 +69,7 @@
    "url": "https://news.google.com/rss/search?hl=en-IN&gl=IN&ceid=IN:en&q=Union%20Cabinet%20approves+when:3d",
    "ok": true,
    "items": 100,
-   "added": 2
+   "added": 0
   },
   {
    "name": "news",
@@ -82,7 +82,7 @@
    "name": "news",
    "url": "https://news.google.com/rss/search?hl=en-IN&gl=IN&ceid=IN:en&q=RBI%20policy+when:3d",
    "ok": true,
-   "items": 45,
+   "items": 49,
    "added": 0
   },
   {
@@ -90,7 +90,7 @@
    "url": "https://news.google.com/rss/search?hl=en-IN&gl=IN&ceid=IN:en&q=ISRO%20OR%20DRDO%20launch+when:3d",
    "ok": true,
    "items": 25,
-   "added": 0
+   "added": 1
   },
   {
    "name": "news",
@@ -103,28 +103,28 @@
    "name": "news",
    "url": "https://news.google.com/rss/search?hl=en-IN&gl=IN&ceid=IN:en&q=NITI%20Aayog%20report+when:3d",
    "ok": true,
-   "items": 12,
-   "added": 1
+   "items": 13,
+   "added": 0
   },
   {
    "name": "news",
    "url": "https://news.google.com/rss/search?hl=en-IN&gl=IN&ceid=IN:en&q=India%20ranks%20index%20report+when:3d",
    "ok": true,
-   "items": 13,
+   "items": 12,
    "added": 0
   },
   {
    "name": "news",
    "url": "https://news.google.com/rss/search?hl=en-IN&gl=IN&ceid=IN:en&q=India%20signs%20agreement+when:3d",
    "ok": true,
-   "items": 29,
+   "items": 28,
    "added": 0
   },
   {
    "name": "news",
    "url": "https://news.google.com/rss/search?hl=en-IN&gl=IN&ceid=IN:en&q=India%20bilateral%20talks%20summit+when:3d",
    "ok": true,
-   "items": 15,
+   "items": 14,
    "added": 0
   },
   {
@@ -135,7 +135,7 @@
    "added": 0
   }
  ],
- "added": 3,
- "kept": 166,
+ "added": 1,
+ "kept": 167,
  "ppsc": "site unreachable (fetch failed); site unreachable (fetch failed); news ok"
 }
