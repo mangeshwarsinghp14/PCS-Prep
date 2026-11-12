@@ -1,7 +1,7 @@
 {
   "id": "./",
-  "name": "Garcha PCS Saathi",
-  "short_name": "PCS Saathi",
+  "name": "PCS Prep",
+  "short_name": "PCS Prep",
   "start_url": "./index.html#today",
   "scope": "./",
   "display": "standalone",

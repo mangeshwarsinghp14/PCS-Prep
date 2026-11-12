@@ -6,13 +6,13 @@
 <style>:root{color-scheme:light;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}body{margin:0;font:14px system-ui,sans-serif}img{max-width:100%}[hidden]{display:none!important}</style>
 </head>
 <body>
-<title>Garcha PCS Saathi</title>
+<title>PCS Prep</title>
 <meta name="claude:viewport-fit-sides" content="cover">
 <meta name="description" content="One-stop Punjab Civil Services (PPSC) prep: full syllabus map with notes, live current affairs, Prelims practice, Mains answer writing and a plan to 2029.">
 <link rel="manifest" href="manifest.webmanifest">
 <meta name="theme-color" content="#8E241E">
 <meta name="apple-mobile-web-app-capable" content="yes">
-<meta name="apple-mobile-web-app-title" content="PCS Saathi">
+<meta name="apple-mobile-web-app-title" content="PCS Prep">
 <link rel="apple-touch-icon" sizes="180x180" href="icon-180.png">
 <link rel="icon" href="icon-192.png">
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -254,7 +254,7 @@ textarea.write{min-height:240px;font-family:var(--f-body);font-size:15px;line-he
 </style>
 
 <div id="app">
-  <div class="topbar" id="topbar"><h1 id="ttl">Garcha PCS Saathi</h1><div class="tb-r"><span class="pill num" id="streakPill">0-day streak</span><a class="iconbtn" href="#guide" id="guideBtn" style="text-decoration:none;color:inherit">Guide</a></div></div>
+  <div class="topbar" id="topbar"><h1 id="ttl">PCS Prep</h1><div class="tb-r"><span class="pill num" id="streakPill">0-day streak</span><a class="iconbtn" href="#guide" id="guideBtn" style="text-decoration:none;color:inherit">Guide</a></div></div>
   <div class="chips" id="chips" hidden></div>
   <main id="view" tabindex="-1"></main>
   <nav class="tabs" aria-label="Sections">
@@ -562,7 +562,7 @@ function go(h){if(location.hash===h)route();else location.hash=h;}
 
 /* ----- Today ----- */
 function renderToday(){
-  setTitle("Garcha PCS Saathi");
+  setTitle("PCS Prep");
   const se=todaySession(),ph=phaseNow(),mp=monthPlan(),dt=daysToTarget(),doneToday=S.days[ds()]&&S.days[ds()].done;
   const cnt=t=>se.steps.filter(x=>x.t===t).length;const pct=Math.round(se.i/se.steps.length*100);
   const cv=coverage(),cvP=coverage(n=>n.stage==="Prelims"),cvM=coverage(n=>n.stage!=="Prelims");
