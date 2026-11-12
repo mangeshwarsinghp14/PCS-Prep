@@ -541,7 +541,7 @@ async function pullRemote(){
   }catch(e){syncFail(e);}
 }
 async function initRuntime(){
-  if(!window.claude||typeof window.claude.use!=="function"){liveNote="Offline copy — showing updates up to "+fmtDate(LIVE.at||D.ca.asof)+".";return;}
+  if(!window.claude||typeof window.claude.use!=="function"){liveNote="Offline copy — showing updates up to "+fmtDate(LIVE.at||D.ca.asof)+".";if(window.IS_PWA){autoFeed();setInterval(autoFeed,6*3600e3);window.addEventListener("online",autoFeed);}return;}
   try{const u=await window.claude.use("user");if(u){UID=await u.id();}}catch(e){}
   try{SAMPLE=await window.claude.use("sample");if(SAMPLE){try{const L=await SAMPLE.limits();IMG=L&&L.images||null;}catch(e){IMG=null;}}}catch(e){SAMPLE=null;}
   try{DB=await window.claude.use("db");}catch(e){DB=null;}
@@ -675,7 +675,7 @@ function learnHTML(n){return `<article class="card short-card notes"><div class=
   ${(n.deep||[]).length?`<details style="margin-top:10px"><summary><b>Deep dive</b> — ${n.deep.length} sections (they come back as review cards)</summary>${n.deep.slice(0,2).map(d=>`<div class="eyebrow" style="margin-top:8px">${esc(d.h)}</div><ul>${(d.b||[]).map(x=>`<li>${esc(x)}</li>`).join("")}</ul>`).join("")}<a href="#node/${esc(n.id)}" style="font-size:14px">All ${n.deep.length} sections on the topic page →</a></details>`:""}
   ${(n.sources||[]).length?`<p class="src" style="margin:8px 0 0"><b>Read more:</b> ${n.sources.map(esc).join(" · ")}</p>`:""}${(n.read||[]).filter(r=>r.u).length?`<div class="links" style="margin-top:8px">${n.read.filter(r=>r.u&&/^https?:\/\//.test(r.u)).map(r=>`<a href="${esc(r.u)}" target="_blank" rel="noopener">📘 ${esc(r.t)}</a>`).join("")}</div>`:""}</article>`;}
 function caHTML(it,full){const nodes=(it.nodes||[]).filter(id=>NODE[id]&&id!=="p1ca");
-  return `<article class="card ca ${caRd(it)&&!full?"read":""}"><div class="meta"><span class="tag ${it.scope==="Punjab"?"pb":""}">${esc(it.scope||"News")}</span><span class="num">${esc(fmtDate(it.date))}</span></div><h3>${esc(it.title)}</h3>
+  return `<article class="card ca ${caRd(it)&&!full?"read":""}"><div class="meta"><span class="tag ${it.scope==="Punjab"?"pb":""}">${esc(it.scope||"News")}</span><span class="num">${esc(fmtDate(it.date))}</span>${it.auto?`<span class="muted" style="font-size:11px">auto-collected</span>`:""}</div><h3>${esc(it.title)}</h3>
    <ul>${(it.points||[]).map(x=>`<li>${esc(x)}</li>`).join("")}</ul>${it.why?`<div class="why"><b>Exam angle:</b> ${esc(it.why)}</div>`:""}
    ${nodes.length?`<div class="links">${nodes.map(id=>`<a href="#node/${esc(id)}">${esc(NODE[id].t)}</a>`).join("")}</div>`:""}
    ${(it.src||[]).length?`<div class="src">${it.src.map(s=>s&&s.u&&/^https?:\/\//.test(s.u)?`<a href="${esc(s.u)}" target="_blank" rel="noopener">${esc(s.t||"Source")}</a>`:"").join(" · ")}</div>`:""}</article>`;}
@@ -1007,8 +1007,8 @@ function alertHTML(){const a=LIVE.alert;if(!a||!a.active)return "";
    <ul class="list">${a.posts?`<li><b>Posts:</b> ${esc(a.posts)}</li>`:""}${a.apply_from||a.apply_last?`<li><b>Apply:</b> ${esc(fmtDate(a.apply_from)||"")}${a.apply_last?" → "+esc(fmtDate(a.apply_last)):""}${left!=null&&left>=0?" · <b>"+left+" days left</b>":""}</li>`:""}${a.prelims_date?`<li><b>Prelims:</b> ${esc(/^\d{4}/.test(a.prelims_date)?fmtDate(a.prelims_date):a.prelims_date)}</li>`:""}${a.fee?`<li><b>Fee:</b> ${esc(a.fee)}</li>`:""}${a.syllabus_changed?`<li><b>Syllabus changed</b> — see Updates.</li>`:""}</ul>
    ${a.summary?`<p style="margin:6px 0 0">${esc(a.summary)}</p>`:""}
    <div class="row" style="margin-top:10px">${a.url&&/^https?:\/\//.test(a.url)?`<a class="btn" style="display:inline-flex;align-items:center;text-decoration:none;background:var(--band-ink);color:var(--band)" href="${esc(a.url)}" target="_blank" rel="noopener">Official notice</a>`:""}<button class="btn alt" id="ackAlert">Stop reminders</button></div>
-   <p style="margin:8px 0 0;font-size:12px;opacity:.9">You'll get a phone reminder every morning until you tap Stop reminders.</p></section>`;}
-function bindAlert(){const b=$("#ackAlert");if(!b)return;b.onclick=async()=>{if(!DB){toast("Open the app in Claude to stop reminders");return;}
+   <p style="margin:8px 0 0;font-size:12px;opacity:.9">${a.auto?"This stays on top each time you open the app until you tap Stop reminders.":"You'll get a phone reminder every morning until you tap Stop reminders."}</p></section>`;}
+function bindAlert(){const b=$("#ackAlert");if(!b)return;b.onclick=async()=>{if(LIVE.alert&&LIVE.alert.auto){S.autoAlertAck=LIVE.alert.title;save();LIVE.alert=Object.assign({},LIVE.alert,{acked:true});persistLive();toast("Reminders stopped");route(true);return;}if(!DB){toast("Open the app in Claude to stop reminders");return;}
   b.disabled=true;try{await DB.doc("meta/alert").update({acked:true,ackedAt:ds()});LIVE.alert=Object.assign({},LIVE.alert,{acked:true});persistLive();toast("Reminders stopped");route(true);}catch(e){b.disabled=false;toast("Couldn't save — try again");}};}
 
 /* ---------- v3: previous-year papers ---------- */
@@ -1373,6 +1373,25 @@ function renderSlidesHub(){setTitle("Presentations");document.body.classList.rem
 document.addEventListener("keydown",e=>{if(current!=="present"||!$("#presNext")||/INPUT|SELECT|TEXTAREA/.test((e.target||{}).tagName||""))return;
   if(e.key==="ArrowRight"||e.key===" "||e.key==="PageDown"){e.preventDefault();$("#presNext").click();}else if(e.key==="ArrowLeft"||e.key==="PageUp"){e.preventDefault();$("#presPrev").click();}else if(e.key==="Escape")go("#present/hub");});
 
+/* ----- v5.5: no-AI auto-update (offline app). A GitHub Action reads official and news feeds twice a day,
+   tags items to the syllabus with a keyword model trained on these notes, and publishes feed.json, archive/<month>.json
+   and alert.json next to this app. The app pulls them whenever it is online. ----- */
+var autoBusy=false,autoMonths=[],autoLoaded=[];
+async function getJSON(u){const r=await fetch(u+(u.includes("?")?"&":"?")+"t="+Date.now(),{cache:"no-store"});if(!r.ok)throw new Error("HTTP "+r.status);return r.json();}
+async function autoFeed(){if(autoBusy||!navigator.onLine)return;autoBusy=true;
+  try{const f=await getJSON("feed.json");if(f&&Array.isArray(f.items)){LIVE.ca=f.items;LIVE.at=String(f.updated||"").slice(0,10)||ds();LIVE.autoAt=f.updated;autoMonths=f.months||[];liveNote="";liveChanged();}}catch(e){}
+  try{const a=await getJSON("alert.json");const h=a&&a.found&&a.found[0];
+    if(h&&h.first&&T()-dn(h.first)<=60&&!(LIVE.alert&&LIVE.alert.active&&!LIVE.alert.auto)){const acked=S.autoAlertAck===h.title;
+      LIVE.alert={active:true,auto:true,acked,title:h.title,url:h.link,summary:"Spotted automatically ("+(h.via==="news"?"news report":"PPSC website")+") on "+fmtDate(h.first)+". Confirm the details on ppsc.gov.in before acting."};persistLive();if(!quiz&&current==="today")route(true);}}catch(e){}
+  autoBusy=false;}
+async function loadOlderAuto(){if(caLoading)return;caLoading=true;route(true);
+  try{if(!autoMonths.length){const f=await getJSON("feed.json");autoMonths=f.months||[];}
+    const next=autoMonths.find(m=>!autoLoaded.includes(m)&&!(LIVE.ca||[]).every(x=>!String(x.date).startsWith(m)));const pick=next||autoMonths.find(m=>!autoLoaded.includes(m));
+    if(!pick){caNoMore=true;toast("No older months in the archive yet");}
+    else{const a=await getJSON("archive/"+pick+".json");autoLoaded.push(pick);CAOLD=CAOLD.concat(a.items||[]);buildContent();toast((a.items||[]).length+" items from "+pick);}}
+  catch(e){toast("Couldn't load the archive — check your connection");}
+  caLoading=false;route(true);}
+
 /* ----- v4: booklist & free library ----- */
 let libArea="All";
 function libBook(b){const inner=`${b.priority==="core"?"⭐ ":""}${esc(b.t)}${b.a?" — "+esc(b.a):""}${b.free?" · free online":""}<span>${esc(b.why||"")}${(b.papers||[]).length?" · "+esc(b.papers.join(", ")):""}</span>`;return b.u&&/^https?:\/\//.test(b.u)?`<a href="${esc(b.u)}" target="_blank" rel="noopener">${inner}</a>`:`<div style="padding:8px 0;border-bottom:1px solid var(--line);font-size:14px;font-weight:600">${inner.replace("<span>",'<span style="display:block;font-size:12px;color:var(--muted);font-weight:400">')}</div>`;}
@@ -1394,7 +1413,7 @@ function renderLibrary(){
 
 /* ----- Updates: current affairs, PPSC notices, syllabus changes ----- */
 let caScope="All",caMonth="",caN=40,caLoading=false,caNoMore=false;
-async function loadOlderCA(){if(!DB){toast("Older current affairs load inside the Claude app");return;}if(caLoading)return;caLoading=true;route(true);
+async function loadOlderCA(){if(!DB&&window.IS_PWA)return loadOlderAuto();if(!DB){toast("Older current affairs load inside the Claude app");return;}if(caLoading)return;caLoading=true;route(true);
   try{const all=caItems();const oldest=all.length?all[all.length-1].date:ds();const snap=await DB.collection("ca").where("date","<",oldest).orderBy("date","desc").limit(200).get();
     const got=snap.docs.map(d=>Object.assign({id:d.id},d.data()));if(!got.length){caNoMore=true;toast("No older current affairs");}else{CAOLD=CAOLD.concat(got);buildContent();toast(got.length+" older items loaded");}}
   catch(e){toast("Couldn't load older items — try again later");}
@@ -1416,10 +1435,10 @@ function renderUpdates(){
    ${nts.length?`<section class="card"><div class="eyebrow">Notices</div>${nts.map(x=>`<div class="edge"><b>${esc(x.title)}</b><span class="muted num" style="font-size:12px">${esc(fmtDate(x.date))}</span><span>${esc(x.body||"")}</span>${x.url&&/^https?:\/\//.test(x.url)?`<a href="${esc(x.url)}" target="_blank" rel="noopener" style="font-size:13px">Open source</a>`:""}</div>`).join("")}</section>`:""}
    <div class="row" style="justify-content:space-between"><h3>Current affairs</h3><button class="linkbtn" id="markAll">Mark all read</button></div>
    <div class="seg" style="grid-template-columns:repeat(5,1fr)" role="group" aria-label="Filter">${["All","Unread","Punjab","National","International"].map(s=>`<button data-sc="${s}" aria-pressed="${s===caScope}">${s==="International"?"World":s}</button>`).join("")}</div>
-   <div class="row" style="gap:8px;align-items:center"><label class="muted" for="caM" style="font-size:13px">Month</label><select id="caM" style="flex:1;min-height:40px"><option value="">All months (${allCA.length} items)</option>${months.map(m=>`<option value="${m}" ${m===caMonth?"selected":""}>${esc(fmtDate(m+"-01").replace(/^1 /,""))}</option>`).join("")}</select>${DB&&!caNoMore?`<button class="btn alt" id="caOld" ${caLoading?"disabled":""}>${caLoading?"Loading…":"Load older"}</button>`:""}</div>
+   <div class="row" style="gap:8px;align-items:center"><label class="muted" for="caM" style="font-size:13px">Month</label><select id="caM" style="flex:1;min-height:40px"><option value="">All months (${allCA.length} items)</option>${months.map(m=>`<option value="${m}" ${m===caMonth?"selected":""}>${esc(fmtDate(m+"-01").replace(/^1 /,""))}</option>`).join("")}</select>${(DB||window.IS_PWA)&&!caNoMore?`<button class="btn alt" id="caOld" ${caLoading?"disabled":""}>${caLoading?"Loading…":"Load older"}</button>`:""}</div>
    ${shown.length?shown.map(it=>`<div data-ca="${esc(it.id)}">${caHTML(it)}<div class="row" style="margin-top:6px">${(it.mcq||[]).length?`<button class="btn alt" data-quiz="${esc(it.id)}">Quiz me</button>`:""}${caRd(it)?`<span class="muted" style="font-size:13px">Read</span>`:`<button class="linkbtn" data-read="${esc(it.id)}">Mark read</button>`}</div></div>`).join(""):`<p class="empty">Nothing here.</p>`}
    ${items.length>shown.length?`<button class="btn alt" id="caMore" style="width:100%">Show more (${items.length-shown.length} left)</button>`:""}
-   <p class="muted" style="margin:0;font-size:12px">The app keeps the newest 400 items ready; "Load older" fetches earlier months from the archive, 200 at a time.</p>
+   <p class="muted" style="margin:0;font-size:12px">${window.IS_PWA?`Auto-updated twice a day from PIB, RBI and news reports, tagged to your syllabus without AI${LIVE.autoAt?" · last update "+esc(new Date(LIVE.autoAt).toLocaleString("en-IN",{day:"numeric",month:"short",hour:"2-digit",minute:"2-digit"})):""}. Auto-collected items show the headline and source; open the source for detail.`:`The app keeps the newest 400 items ready; "Load older" fetches earlier months from the archive, 200 at a time.`}</p>
    <p class="muted" style="margin:0;font-size:12px">Updated every week from official and reputable sources (PIB, Punjab Govt, PPSC, RBI, PRS, The Tribune, Indian Express, The Hindu). Each item links to the syllabus topics it belongs to.</p>
   </div>`;
   view.querySelectorAll("[data-sc]").forEach(b=>b.onclick=()=>{caScope=b.dataset.sc;caN=40;renderUpdates();});
