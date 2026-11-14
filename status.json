@@ -1,5 +1,5 @@
 {
- "run": "2026-11-14T07:38:27.479Z",
+ "run": "2026-11-14T18:45:38.072Z",
  "sources": [
   {
    "name": "PIB",
@@ -19,8 +19,8 @@
    "name": "news",
    "url": "https://news.google.com/rss/search?hl=en-IN&gl=IN&ceid=IN:en&q=Punjab%20government+when:3d",
    "ok": true,
-   "items": 97,
-   "added": 4
+   "items": 100,
+   "added": 11
   },
   {
    "name": "news",
@@ -33,42 +33,42 @@
    "name": "news",
    "url": "https://news.google.com/rss/search?hl=en-IN&gl=IN&ceid=IN:en&q=Punjab%20Vidhan%20Sabha+when:3d",
    "ok": true,
-   "items": 19,
-   "added": 1
+   "items": 17,
+   "added": 0
   },
   {
    "name": "news",
    "url": "https://news.google.com/rss/search?hl=en-IN&gl=IN&ceid=IN:en&q=Punjab%20scheme%20launched+when:3d",
    "ok": true,
-   "items": 23,
+   "items": 20,
    "added": 0
   },
   {
    "name": "news",
    "url": "https://news.google.com/rss/search?hl=en-IN&gl=IN&ceid=IN:en&q=Punjab%20paddy%20OR%20stubble%20OR%20groundwater%20OR%20canal+when:3d",
    "ok": true,
-   "items": 48,
-   "added": 1
+   "items": 44,
+   "added": 3
   },
   {
    "name": "news",
    "url": "https://news.google.com/rss/search?hl=en-IN&gl=IN&ceid=IN:en&q=Punjab%20economy%20OR%20budget%20OR%20GSDP+when:3d",
    "ok": true,
-   "items": 24,
-   "added": 1
+   "items": 29,
+   "added": 3
   },
   {
    "name": "news",
    "url": "https://news.google.com/rss/search?hl=en-IN&gl=IN&ceid=IN:en&q=Chandigarh%20administration+when:3d",
    "ok": true,
-   "items": 22,
-   "added": 1
+   "items": 21,
+   "added": 0
   },
   {
    "name": "news",
    "url": "https://news.google.com/rss/search?hl=en-IN&gl=IN&ceid=IN:en&q=Union%20Cabinet%20approves+when:3d",
    "ok": true,
-   "items": 100,
+   "items": 49,
    "added": 3
   },
   {
@@ -76,34 +76,34 @@
    "url": "https://news.google.com/rss/search?hl=en-IN&gl=IN&ceid=IN:en&q=Supreme%20Court%20verdict+when:3d",
    "ok": true,
    "items": 100,
-   "added": 1
+   "added": 3
   },
   {
    "name": "news",
    "url": "https://news.google.com/rss/search?hl=en-IN&gl=IN&ceid=IN:en&q=RBI%20policy+when:3d",
    "ok": true,
-   "items": 83,
-   "added": 5
+   "items": 78,
+   "added": 3
   },
   {
    "name": "news",
    "url": "https://news.google.com/rss/search?hl=en-IN&gl=IN&ceid=IN:en&q=ISRO%20OR%20DRDO%20launch+when:3d",
    "ok": true,
    "items": 19,
-   "added": 1
+   "added": 0
   },
   {
    "name": "news",
    "url": "https://news.google.com/rss/search?hl=en-IN&gl=IN&ceid=IN:en&q=government%20launches%20scheme%20India+when:3d",
    "ok": true,
-   "items": 29,
-   "added": 0
+   "items": 31,
+   "added": 4
   },
   {
    "name": "news",
    "url": "https://news.google.com/rss/search?hl=en-IN&gl=IN&ceid=IN:en&q=NITI%20Aayog%20report+when:3d",
    "ok": true,
-   "items": 34,
+   "items": 36,
    "added": 2
   },
   {
@@ -117,25 +117,25 @@
    "name": "news",
    "url": "https://news.google.com/rss/search?hl=en-IN&gl=IN&ceid=IN:en&q=India%20signs%20agreement+when:3d",
    "ok": true,
-   "items": 20,
-   "added": 2
+   "items": 26,
+   "added": 3
   },
   {
    "name": "news",
    "url": "https://news.google.com/rss/search?hl=en-IN&gl=IN&ceid=IN:en&q=India%20bilateral%20talks%20summit+when:3d",
    "ok": true,
-   "items": 21,
-   "added": 1
+   "items": 23,
+   "added": 2
   },
   {
    "name": "news",
    "url": "https://news.google.com/rss/search?hl=en-IN&gl=IN&ceid=IN:en&q=United%20Nations%20India+when:3d",
    "ok": true,
-   "items": 24,
-   "added": 0
+   "items": 34,
+   "added": 3
   }
  ],
- "added": 23,
- "kept": 296,
+ "added": 40,
+ "kept": 336,
  "ppsc": "site unreachable (fetch failed); site unreachable (fetch failed); news ok"
 }
