@@ -1,0 +1,162 @@
+{
+ "posts": [
+  {
+   "k": "pres",
+   "post": "President of India",
+   "name": "Droupadi Murmu",
+   "since": "2022-07-25",
+   "src": "checked by hand"
+  },
+  {
+   "k": "vp",
+   "post": "Vice-President of India",
+   "name": "C. P. Radhakrishnan",
+   "since": "2025-09-12",
+   "src": "checked by hand"
+  },
+  {
+   "k": "pm",
+   "post": "Prime Minister of India",
+   "name": "Narendra Modi",
+   "since": "2014-05-26",
+   "src": "checked by hand"
+  },
+  {
+   "k": "cji",
+   "post": "Chief Justice of India",
+   "name": "Surya Kant",
+   "since": "2025-11-24",
+   "src": "checked by hand"
+  },
+  {
+   "k": "cec",
+   "post": "Chief Election Commissioner",
+   "name": "Gyanesh Kumar",
+   "since": "2025-02-19",
+   "src": "checked by hand"
+  },
+  {
+   "k": "speaker",
+   "post": "Speaker, Lok Sabha",
+   "name": "Om Birla",
+   "since": "2019-06-19",
+   "src": "checked by hand"
+  },
+  {
+   "k": "cag",
+   "post": "Comptroller and Auditor General",
+   "name": "K. Sanjay Murthy",
+   "since": "2024-11-21",
+   "src": "checked by hand"
+  },
+  {
+   "k": "rbi",
+   "post": "Governor, Reserve Bank of India",
+   "name": "Sanjay Malhotra",
+   "since": "2024-12-11",
+   "src": "checked by hand"
+  },
+  {
+   "k": "niti",
+   "post": "Vice-Chairperson, NITI Aayog",
+   "name": "Ashok Kumar Lahiri",
+   "since": "2026-04",
+   "src": "checked by hand"
+  },
+  {
+   "k": "cds",
+   "post": "Chief of Defence Staff",
+   "name": "N. S. Raja Subramani",
+   "since": "2026",
+   "src": "checked by hand"
+  },
+  {
+   "k": "coas",
+   "post": "Chief of the Army Staff",
+   "name": "Dhiraj Seth",
+   "since": "2026",
+   "src": "checked by hand"
+  },
+  {
+   "k": "cns",
+   "post": "Chief of the Naval Staff",
+   "name": "Krishna Swaminathan",
+   "since": "2026",
+   "src": "checked by hand"
+  },
+  {
+   "k": "pbcm",
+   "post": "Chief Minister of Punjab",
+   "name": "Bhagwant Mann",
+   "since": "2022-03-16",
+   "src": "checked by hand"
+  },
+  {
+   "k": "pbgov",
+   "post": "Governor of Punjab & Administrator, Chandigarh",
+   "name": "Gulab Chand Kataria",
+   "since": "2024-07-31",
+   "src": "checked by hand"
+  },
+  {
+   "k": "unsg",
+   "post": "UN Secretary-General",
+   "name": "António Guterres",
+   "since": "2017-01-01",
+   "note": "Term ends 31 Dec 2026; successor being selected",
+   "src": "checked by hand"
+  }
+ ],
+ "rates": [
+  {
+   "k": "repo",
+   "label": "Policy repo rate",
+   "v": "5.50%",
+   "since": "2026-10-07",
+   "note": "Raised 25 bps by the MPC (5–7 Oct 2026); stance: calibrated tightening",
+   "src": "https://rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=63839"
+  },
+  {
+   "k": "sdf",
+   "label": "Standing Deposit Facility rate",
+   "v": "5.25%",
+   "since": "2026-10-07"
+  },
+  {
+   "k": "msf",
+   "label": "Marginal Standing Facility & Bank Rate",
+   "v": "5.75%",
+   "since": "2026-10-07"
+  },
+  {
+   "k": "cpi",
+   "label": "CPI inflation (Oct 2026)",
+   "v": "6.09%",
+   "since": "2026-11-13",
+   "note": "From news reports of the MoSPI release",
+   "src": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMnItQ3FhNEUxZGl5eDVqbUJXc1BMcmNPRXRmcGJsSW5FUDIxaThBZ2RXRHJzU2NnMEFKZjJQNWRXeVBTSzZXbHRoRFI3b1lGZDAtUmt0ODB4cURNR1ZtNWhTQ2JMdDFWNEZSb2VwYW5aTVJfUnRjSEozNWlDNzl5N2RkcHlBZEdPVXZrMHY0YTdrbkx4a1VHbndENTNXSjY4SE50N1hYV3c3elFYTUkzYy1IYzRiUQ?oc=5",
+   "order": "2026-10"
+  }
+ ],
+ "changes": [
+  {
+   "date": "2026-11-13",
+   "k": "cpi",
+   "text": "CPI inflation (Oct 2026): 6.09% (previous reading 5.54%).",
+   "src": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMnItQ3FhNEUxZGl5eDVqbUJXc1BMcmNPRXRmcGJsSW5FUDIxaThBZ2RXRHJzU2NnMEFKZjJQNWRXeVBTSzZXbHRoRFI3b1lGZDAtUmt0ODB4cURNR1ZtNWhTQ2JMdDFWNEZSb2VwYW5aTVJfUnRjSEozNWlDNzl5N2RkcHlBZEdPVXZrMHY0YTdrbkx4a1VHbndENTNXSjY4SE50N1hYV3c3elFYTUkzYy1IYzRiUQ?oc=5",
+   "rate": 1,
+   "name": "6.09%",
+   "prev": "5.54%",
+   "post": "CPI inflation (Oct 2026)"
+  }
+ ],
+ "seen": {
+  "cpi|6.09%": "2026-11-15"
+ },
+ "checked": "2026-11-15T04:07:43.034Z",
+ "log": [
+  "appointment search ok",
+  "appointment search ok",
+  "RBI ok"
+ ]
+}
