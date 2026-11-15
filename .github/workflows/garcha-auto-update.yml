@@ -1,8 +1,12 @@
-# PCS Prep — automatic, no-AI updates.
-# Twice a day GitHub runs the updater: it re-trains the keyword tagger on the app's notes,
-# reads official and news feeds, and commits feed.json, archive/, alert.json and status.json
-# to the gh-pages branch, which GitHub Pages serves next to the app.
-# It then rewrites syllabus/ and past-papers/ on main as Markdown from the app, if the app changed.
+# PCS Prep — automatic, no-AI updates (v2, Nov 2026).
+# Twice a day GitHub runs the updater on its own:
+#  1. re-trains the keyword tagger on the app's notes;
+#  2. collects current affairs (PIB full English releases, RBI, news), scores them for exam value, merges duplicates,
+#     writes summary points, key figures, exam angles and quiz questions, and watches for PPSC notices;
+#  3. checks facts that change (who holds key posts, repo rate, CPI, GDP) and adds "Fact update" items;
+#  4. commits everything to gh-pages, which GitHub Pages serves next to the app;
+#  5. rewrites syllabus/, past-papers/ and current-affairs/ on main as Markdown;
+#  6. keeps its own schedule switched on, and opens/closes a GitHub issue (you get an email) if something breaks.
 name: PCS Prep auto-update
 on:
   schedule:
@@ -13,13 +17,15 @@ on:
     paths: ["updater/**", ".github/workflows/garcha-auto-update.yml"]
 permissions:
   contents: write
+  issues: write
+  actions: write
 concurrency:
   group: pcs-prep-auto-update
   cancel-in-progress: false
 jobs:
   update:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 25
     steps:
       - uses: actions/checkout@v5
         with:
@@ -33,8 +39,14 @@ jobs:
           node-version: 22
       - name: Train the topic tagger on the app's notes
         run: node tool/updater/scripts/garcha_train.mjs site
-      - name: Collect current affairs and watch for PPSC notices
+      - name: Collect current affairs, make summaries and quiz questions, watch for PPSC notices
+        id: feed
+        continue-on-error: true
         run: node tool/updater/scripts/garcha_feed.mjs site
+      - name: Check facts that change (office holders, policy rates, inflation, GDP)
+        id: facts
+        continue-on-error: true
+        run: node tool/updater/scripts/garcha_facts.mjs site
       - name: Publish if anything changed
         run: |
           cd site
@@ -44,14 +56,27 @@ jobs:
           if git diff --cached --quiet; then echo "No changes"; exit 0; fi
           git commit -m "Auto-update: current affairs $(date -u +%Y-%m-%dT%H:%MZ)"
           git push
-      - name: Write the full syllabus and past papers as Markdown on main
+      - name: Write the syllabus, past papers and monthly current affairs as Markdown on main
         run: |
           node tool/updater/scripts/garcha_export.mjs site tool
           cd tool
           git config user.name "PCS Prep updater"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -A syllabus past-papers
-          if git diff --cached --quiet; then echo "Syllabus unchanged"; exit 0; fi
-          git commit -m "Syllabus pages refreshed from the app"
+          git add -A syllabus past-papers current-affairs
+          if git diff --cached --quiet; then echo "Markdown unchanged"; exit 0; fi
+          git commit -m "Syllabus and current-affairs pages refreshed"
           git pull --rebase -q origin main
           git push origin HEAD:main
+      - name: Keep the schedule switched on (GitHub pauses idle schedules after 60 days)
+        if: always()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh api -X PUT "repos/${{ github.repository }}/actions/workflows/garcha-auto-update.yml/enable" || echo "could not refresh the schedule"
+      - name: Health check — open or close a GitHub issue (GitHub emails you)
+        if: always()
+        env:
+          GH_TOKEN: ${{ github.token }}
+          JOB_STATUS: ${{ job.status }}
+          FEED_OUTCOME: ${{ steps.feed.outcome }}
+          FACTS_OUTCOME: ${{ steps.facts.outcome }}
+        run: node tool/updater/scripts/garcha_health.mjs site

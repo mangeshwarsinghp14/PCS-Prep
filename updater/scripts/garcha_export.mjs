@@ -70,6 +70,7 @@ function ansBlock(a) {
 const papers = D.syl.papers;
 const index = [];
 const topicFile = {};
+const NODE_T = {};
 let topicCount = 0, mcqCount = 0, mainsCount = 0;
 const syl = path.join(out, "syllabus");
 fs.rmSync(syl, { recursive: true, force: true });
@@ -87,6 +88,7 @@ for (const p of papers) {
       topicCount++;
       const file = `${String(++num).padStart(2, "0")}-${n.id}-${slug(n.t)}.md`;
       topicFile[n.id] = `../syllabus/${p.id}/${file}`;
+      NODE_T[n.id] = n.t;
       const dp = D.deep[n.id] || {};
       const grp = D.groups[n.g];
       const s = [];
@@ -224,4 +226,57 @@ fs.writeFileSync(path.join(pp, "README.md"), `# Real PPSC PCS papers\n\nPapers i
   ].join("\n");
   fs.writeFileSync(path.join(syl, "MOST-ASKED.md"), md);
 }
-console.log(`exported ${topicCount} topics, ${mcqCount} MCQs, ${mainsCount} Mains questions, ${ppRows.length} papers`);
+// ---- monthly current affairs (from the updater's archive) + facts that change ----
+let caMonths = 0;
+{
+  const arch = path.join(site, "archive");
+  const ca = path.join(out, "current-affairs");
+  if (fs.existsSync(arch)) {
+    fs.rmSync(ca, { recursive: true, force: true }); fs.mkdirSync(ca, { recursive: true });
+    const facts = (() => { try { return JSON.parse(fs.readFileSync(path.join(site, "facts.json"), "utf8")); } catch { return null; } })();
+    const files = fs.readdirSync(arch).filter(f => /^\d{4}-\d{2}\.json$/.test(f)).sort().reverse();
+    const rows = [];
+    const star = n => "★".repeat(n || 1);
+    const dayF = d => new Date(d + "T00:00:00Z").toLocaleDateString("en-IN", { day: "numeric", month: "short", timeZone: "UTC" });
+    const L = "abcd";
+    for (const f of files) {
+      const mon = f.slice(0, 7);
+      let items = []; try { items = JSON.parse(fs.readFileSync(path.join(arch, f), "utf8")).items || []; } catch {}
+      items = items.filter(x => x && x.title).sort((a, b) => (b.stars || 1) - (a.stars || 1) || b.date.localeCompare(a.date));
+      const name = new Date(mon + "-01T00:00:00Z").toLocaleDateString("en-IN", { month: "long", year: "numeric", timeZone: "UTC" });
+      const qs = items.flatMap(x => (x.mcq || []).map(q => ({ q, x })));
+      const md = [`# Current affairs — ${name}\n`, `${items.length} items collected and checked automatically (no AI) from PIB, RBI, DD News, All India Radio and major newspapers; ★★★ = most exam-worthy. ${qs.length} quiz questions at the end. [All months](README.md) · [Open the app](${APP}#updates)\n`];
+      for (const scope of ["Punjab", "National", "International"]) {
+        const list = items.filter(x => (x.scope || "National") === scope); if (!list.length) continue;
+        md.push(`## ${scope === "International" ? "World" : scope} (${list.length})\n`);
+        for (const x of list) {
+          const s0 = (x.src || [])[0] || {};
+          md.push(`### ${star(x.stars)} ${one(x.title)}\n`);
+          md.push(`*${dayF(x.date)}${x.ministry ? " · " + x.ministry : ""} · ${(x.src || []).filter(s => s.u).slice(0, 3).map(s => `[${cell(s.t || "source")}](${s.u})`).join(" · ") || cell(s0.t || "")}*\n`);
+          if ((x.points || []).length) md.push(bullets(x.points) + "\n");
+          if ((x.figs || []).length) md.push(`**Key figures:** ${x.figs.map(cell).join("; ")}\n`);
+          if (x.why) md.push(`**Exam angle:** ${one(x.why)}\n`);
+          const tl = (x.nodes || []).filter(id => id !== "p1ca" && topicFile[id]).map(id => `[${cell((NODE_T[id] || id))}](${topicFile[id]})`);
+          if (tl.length) md.push(`**Syllabus:** ${tl.join(" · ")}\n`);
+        }
+      }
+      if (qs.length) {
+        md.push(`## Quiz (${qs.length})\n`);
+        qs.forEach(({ q, x }, i) => {
+          const r = seeded(x.id + i); const opts = q.o.map((t, k) => ({ t, ok: k === 0 })); for (let k = opts.length - 1; k > 0; k--) { const j = Math.floor(r() * (k + 1)); [opts[k], opts[j]] = [opts[j], opts[k]]; }
+          const right = opts.findIndex(o => o.ok);
+          md.push(`**${i + 1}.** ${one(q.q)}\n\n${opts.map((o, k) => `(${L[k]}) ${one(o.t)}`).join("  \n")}\n\n<details><summary>Answer</summary>\n\n**(${L[right]}) ${one(opts[right].t)}** — ${one(q.e)}\n\n</details>\n`);
+        });
+      }
+      fs.writeFileSync(path.join(ca, mon + ".md"), md.join("\n"));
+      rows.push(`| [${name}](${mon}.md) | ${items.length} | ${items.filter(x => (x.stars || 1) >= 3).length} | ${qs.length} |`);
+      caMonths++;
+    }
+    const fx = facts ? [`## Facts that change (auto-checked ${facts.checked ? new Date(facts.checked).toLocaleDateString("en-IN", { day: "numeric", month: "short", year: "numeric" }) : ""})\n`,
+      `| Post | Holder | Since |\n|---|---|---|\n${(facts.posts || []).map(p => `| ${cell(p.post)} | ${cell(p.name)}${p.next ? ` (next: ${cell(p.next.name)})` : ""}${p.note ? ` — ${cell(p.note)}` : ""} | ${cell(p.since || "")} |`).join("\n")}\n`,
+      `| Rate / data | Value | Since |\n|---|---|---|\n${(facts.rates || []).map(r => `| ${cell(r.label)} | **${cell(r.v)}** | ${cell(r.since || "")} |`).join("\n")}\n`,
+      (facts.changes || []).length ? `### Recent changes\n\n${facts.changes.slice(0, 15).map(c => `- ${c.date}: ${one(c.text)}`).join("\n")}\n` : ""].join("\n") : "";
+    fs.writeFileSync(path.join(ca, "README.md"), `# Current affairs for PPSC PCS — month by month\n\nCollected twice a day by the repository's own updater (no AI): official releases are read in full and summarised, duplicate reports are merged, politics and crime are filtered out, and each item gets an exam angle, key figures, syllabus links and quiz questions.\n\n| Month | Items | ★★★ | Quiz |\n|---|---|---|---|\n${rows.join("\n")}\n\n${fx}\n[Back to the syllabus](../syllabus/README.md)\n`);
+  }
+}
+console.log(`exported ${topicCount} topics, ${mcqCount} MCQs, ${mainsCount} Mains questions, ${ppRows.length} papers, ${caMonths} current-affairs months`);
