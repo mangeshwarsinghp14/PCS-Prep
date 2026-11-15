@@ -1,12 +1,12 @@
 {
- "run": "2026-11-15T04:05:16.138Z",
+ "run": "2026-11-15T07:54:27.736Z",
  "sources": [
   {
    "name": "PIB",
    "url": "https://pib.gov.in/RssMain.aspx?ModId=6&Lang=1&Regid=3",
    "ok": true,
    "items": 20,
-   "taken": 9
+   "taken": 7
   },
   {
    "name": "RBI",
@@ -20,42 +20,42 @@
    "url": "https://news.google.com/rss/search?hl=en-IN&gl=IN&ceid=IN:en&q=Punjab%20government+when:3d",
    "ok": true,
    "items": 100,
-   "taken": 12
+   "taken": 13
   },
   {
    "name": "news: Punjab cabinet decision",
    "url": "https://news.google.com/rss/search?hl=en-IN&gl=IN&ceid=IN:en&q=Punjab%20cabinet%20decision+when:3d",
    "ok": true,
-   "items": 25,
+   "items": 26,
    "taken": 3
   },
   {
    "name": "news: Punjab Vidhan Sabha",
    "url": "https://news.google.com/rss/search?hl=en-IN&gl=IN&ceid=IN:en&q=Punjab%20Vidhan%20Sabha+when:3d",
    "ok": true,
-   "items": 17,
+   "items": 16,
    "taken": 1
   },
   {
    "name": "news: Punjab scheme launched",
    "url": "https://news.google.com/rss/search?hl=en-IN&gl=IN&ceid=IN:en&q=Punjab%20scheme%20launched+when:3d",
    "ok": true,
-   "items": 21,
+   "items": 20,
    "taken": 1
   },
   {
    "name": "news: Punjab paddy OR stubble OR groundwater OR canal",
    "url": "https://news.google.com/rss/search?hl=en-IN&gl=IN&ceid=IN:en&q=Punjab%20paddy%20OR%20stubble%20OR%20groundwater%20OR%20canal+when:3d",
    "ok": true,
-   "items": 44,
-   "taken": 8
+   "items": 42,
+   "taken": 9
   },
   {
    "name": "news: Punjab economy OR budget OR GSDP",
    "url": "https://news.google.com/rss/search?hl=en-IN&gl=IN&ceid=IN:en&q=Punjab%20economy%20OR%20budget%20OR%20GSDP+when:3d",
    "ok": true,
-   "items": 28,
-   "taken": 4
+   "items": 27,
+   "taken": 3
   },
   {
    "name": "news: Chandigarh administration",
@@ -75,29 +75,29 @@
    "name": "news: Union Cabinet approves",
    "url": "https://news.google.com/rss/search?hl=en-IN&gl=IN&ceid=IN:en&q=Union%20Cabinet%20approves+when:3d",
    "ok": true,
-   "items": 43,
-   "taken": 6
+   "items": 30,
+   "taken": 4
   },
   {
    "name": "news: Supreme Court verdict",
    "url": "https://news.google.com/rss/search?hl=en-IN&gl=IN&ceid=IN:en&q=Supreme%20Court%20verdict+when:3d",
    "ok": true,
-   "items": 98,
-   "taken": 3
+   "items": 100,
+   "taken": 4
   },
   {
    "name": "news: RBI policy",
    "url": "https://news.google.com/rss/search?hl=en-IN&gl=IN&ceid=IN:en&q=RBI%20policy+when:3d",
    "ok": true,
-   "items": 81,
-   "taken": 10
+   "items": 73,
+   "taken": 9
   },
   {
    "name": "news: ISRO OR DRDO launch",
    "url": "https://news.google.com/rss/search?hl=en-IN&gl=IN&ceid=IN:en&q=ISRO%20OR%20DRDO%20launch+when:3d",
    "ok": true,
-   "items": 18,
-   "taken": 2
+   "items": 19,
+   "taken": 1
   },
   {
    "name": "news: government launches scheme India",
@@ -117,7 +117,7 @@
    "name": "news: India ranks index report",
    "url": "https://news.google.com/rss/search?hl=en-IN&gl=IN&ceid=IN:en&q=India%20ranks%20index%20report+when:3d",
    "ok": true,
-   "items": 13,
+   "items": 18,
    "taken": 1
   },
   {
@@ -132,7 +132,7 @@
    "url": "https://news.google.com/rss/search?hl=en-IN&gl=IN&ceid=IN:en&q=India%20signs%20agreement+when:3d",
    "ok": true,
    "items": 24,
-   "taken": 4
+   "taken": 5
   },
   {
    "name": "news: India bilateral talks summit",
@@ -145,16 +145,16 @@
    "name": "news: United Nations India",
    "url": "https://news.google.com/rss/search?hl=en-IN&gl=IN&ceid=IN:en&q=United%20Nations%20India+when:3d",
    "ok": true,
-   "items": 37,
+   "items": 43,
    "taken": 0
   }
  ],
- "added": 18,
- "merged": 106,
- "dropped": 492,
- "kept": 113,
+ "added": 10,
+ "merged": 9,
+ "dropped": 189,
+ "kept": 117,
  "ppsc": "site unreachable (fetch failed); site unreachable (fetch failed); news ok",
- "quiz": 57,
+ "quiz": 6,
  "health": {
   "ok": true,
   "problems": []
