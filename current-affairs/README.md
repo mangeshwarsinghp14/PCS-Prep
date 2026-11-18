@@ -4,9 +4,9 @@ Collected twice a day by the repository's own updater (no AI): official releases
 
 | Month | Items | ★★★ | Quiz |
 |---|---|---|---|
-| [November 2026](2026-11.md) | 206 | 20 | 108 |
+| [November 2026](2026-11.md) | 223 | 21 | 114 |
 
-## Facts that change (auto-checked 17 Nov 2026)
+## Facts that change (auto-checked 18 Nov 2026)
 
 | Post | Holder | Since |
 |---|---|---|
