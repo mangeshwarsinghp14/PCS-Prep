@@ -1,12 +1,12 @@
 {
- "run": "2026-11-19T21:38:34.894Z",
+ "run": "2026-11-20T08:38:45.634Z",
  "sources": [
   {
    "name": "PIB",
    "url": "https://pib.gov.in/RssMain.aspx?ModId=6&Lang=1&Regid=3",
    "ok": true,
    "items": 20,
-   "taken": 12
+   "taken": 8
   },
   {
    "name": "RBI",
@@ -26,14 +26,14 @@
    "name": "news: Punjab cabinet decision",
    "url": "https://news.google.com/rss/search?hl=en-IN&gl=IN&ceid=IN:en&q=Punjab%20cabinet%20decision+when:3d",
    "ok": true,
-   "items": 22,
+   "items": 20,
    "taken": 0
   },
   {
    "name": "news: Punjab Vidhan Sabha",
    "url": "https://news.google.com/rss/search?hl=en-IN&gl=IN&ceid=IN:en&q=Punjab%20Vidhan%20Sabha+when:3d",
    "ok": true,
-   "items": 15,
+   "items": 13,
    "taken": 1
   },
   {
@@ -41,83 +41,83 @@
    "url": "https://news.google.com/rss/search?hl=en-IN&gl=IN&ceid=IN:en&q=Punjab%20scheme%20launched+when:3d",
    "ok": true,
    "items": 20,
-   "taken": 3
+   "taken": 4
   },
   {
    "name": "news: Punjab paddy OR stubble OR groundwater OR canal",
    "url": "https://news.google.com/rss/search?hl=en-IN&gl=IN&ceid=IN:en&q=Punjab%20paddy%20OR%20stubble%20OR%20groundwater%20OR%20canal+when:3d",
    "ok": true,
-   "items": 100,
-   "taken": 20
+   "items": 77,
+   "taken": 13
   },
   {
    "name": "news: Punjab economy OR budget OR GSDP",
    "url": "https://news.google.com/rss/search?hl=en-IN&gl=IN&ceid=IN:en&q=Punjab%20economy%20OR%20budget%20OR%20GSDP+when:3d",
    "ok": true,
-   "items": 25,
-   "taken": 3
+   "items": 26,
+   "taken": 0
   },
   {
    "name": "news: Chandigarh administration",
    "url": "https://news.google.com/rss/search?hl=en-IN&gl=IN&ceid=IN:en&q=Chandigarh%20administration+when:3d",
    "ok": true,
-   "items": 30,
+   "items": 33,
    "taken": 4
   },
   {
    "name": "news: Punjab heritage OR culture OR Sikh history",
    "url": "https://news.google.com/rss/search?hl=en-IN&gl=IN&ceid=IN:en&q=Punjab%20heritage%20OR%20culture%20OR%20Sikh%20history+when:3d",
    "ok": true,
-   "items": 23,
+   "items": 20,
    "taken": 2
   },
   {
    "name": "news: Union Cabinet approves",
    "url": "https://news.google.com/rss/search?hl=en-IN&gl=IN&ceid=IN:en&q=Union%20Cabinet%20approves+when:3d",
    "ok": true,
-   "items": 29,
-   "taken": 9
+   "items": 30,
+   "taken": 8
   },
   {
    "name": "news: Supreme Court verdict",
    "url": "https://news.google.com/rss/search?hl=en-IN&gl=IN&ceid=IN:en&q=Supreme%20Court%20verdict+when:3d",
    "ok": true,
    "items": 100,
-   "taken": 1
+   "taken": 6
   },
   {
    "name": "news: RBI policy",
    "url": "https://news.google.com/rss/search?hl=en-IN&gl=IN&ceid=IN:en&q=RBI%20policy+when:3d",
    "ok": true,
-   "items": 41,
-   "taken": 6
+   "items": 34,
+   "taken": 3
   },
   {
    "name": "news: ISRO OR DRDO launch",
    "url": "https://news.google.com/rss/search?hl=en-IN&gl=IN&ceid=IN:en&q=ISRO%20OR%20DRDO%20launch+when:3d",
    "ok": true,
-   "items": 26,
-   "taken": 4
+   "items": 24,
+   "taken": 1
   },
   {
    "name": "news: government launches scheme India",
    "url": "https://news.google.com/rss/search?hl=en-IN&gl=IN&ceid=IN:en&q=government%20launches%20scheme%20India+when:3d",
    "ok": true,
-   "items": 27,
-   "taken": 7
+   "items": 44,
+   "taken": 9
   },
   {
    "name": "news: NITI Aayog report",
    "url": "https://news.google.com/rss/search?hl=en-IN&gl=IN&ceid=IN:en&q=NITI%20Aayog%20report+when:3d",
    "ok": true,
-   "items": 22,
-   "taken": 2
+   "items": 21,
+   "taken": 1
   },
   {
    "name": "news: India ranks index report",
    "url": "https://news.google.com/rss/search?hl=en-IN&gl=IN&ceid=IN:en&q=India%20ranks%20index%20report+when:3d",
    "ok": true,
-   "items": 21,
+   "items": 23,
    "taken": 1
   },
   {
@@ -131,30 +131,30 @@
    "name": "news: India signs agreement",
    "url": "https://news.google.com/rss/search?hl=en-IN&gl=IN&ceid=IN:en&q=India%20signs%20agreement+when:3d",
    "ok": true,
-   "items": 30,
-   "taken": 5
+   "items": 32,
+   "taken": 8
   },
   {
    "name": "news: India bilateral talks summit",
    "url": "https://news.google.com/rss/search?hl=en-IN&gl=IN&ceid=IN:en&q=India%20bilateral%20talks%20summit+when:3d",
    "ok": true,
-   "items": 24,
-   "taken": 5
+   "items": 23,
+   "taken": 6
   },
   {
    "name": "news: United Nations India",
    "url": "https://news.google.com/rss/search?hl=en-IN&gl=IN&ceid=IN:en&q=United%20Nations%20India+when:3d",
    "ok": true,
-   "items": 66,
+   "items": 87,
    "taken": 3
   }
  ],
- "added": 29,
- "merged": 26,
- "dropped": 186,
- "kept": 275,
+ "added": 16,
+ "merged": 16,
+ "dropped": 188,
+ "kept": 291,
  "ppsc": "site unreachable (fetch failed); site unreachable (fetch failed); news ok",
- "quiz": 22,
+ "quiz": 20,
  "health": {
   "ok": true,
   "problems": []
