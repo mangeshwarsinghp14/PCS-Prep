@@ -4,9 +4,9 @@ Collected twice a day by the repository's own updater (no AI): official releases
 
 | Month | Items | ★★★ | Quiz |
 |---|---|---|---|
-| [November 2026](2026-11.md) | 320 | 27 | 167 |
+| [November 2026](2026-11.md) | 327 | 28 | 171 |
 
-## Facts that change (auto-checked 20 Nov 2026)
+## Facts that change (auto-checked 21 Nov 2026)
 
 | Post | Holder | Since |
 |---|---|---|
@@ -20,7 +20,7 @@ Collected twice a day by the repository's own updater (no AI): official releases
 | Governor, Reserve Bank of India | Sanjay Malhotra | 2024-12-11 |
 | Vice-Chairperson, NITI Aayog | Ashok Kumar Lahiri | 2026-04 |
 | Chief of Defence Staff | N. S. Raja Subramani | 2026 |
-| Chief of the Army Staff | Dhiraj Seth | 2026 |
+| Chief of the Army Staff | Ashutosh Dixit | 2026-11-01 |
 | Chief of the Naval Staff | Krishna Swaminathan | 2026 |
 | Chief Minister of Punjab | Bhagwant Mann | 2022-03-16 |
 | Governor of Punjab & Administrator, Chandigarh | Gulab Chand Kataria | 2024-07-31 |
@@ -35,6 +35,7 @@ Collected twice a day by the repository's own updater (no AI): official releases
 
 ### Recent changes
 
+- 2026-11-01: Ashutosh Dixit took charge as Chief of the Army Staff, succeeding Dhiraj Seth.
 - 2026-11-13: CPI inflation (Oct 2026): 6.09% (previous reading 5.54%).
 
 [Back to the syllabus](../syllabus/README.md)
