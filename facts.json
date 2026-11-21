@@ -73,9 +73,10 @@
   {
    "k": "coas",
    "post": "Chief of the Army Staff",
-   "name": "Dhiraj Seth",
-   "since": "2026",
-   "src": "checked by hand"
+   "name": "Ashutosh Dixit",
+   "since": "2026-11-01",
+   "src": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQeFZaUnVwTWJuVnE1N3ZLenhtYU9PWk9UYXJFdU8zcGlPVFh2cW0zRHZJZV9zcDJMaUxSYThtUms0QjVoOEhLY194TDVZR3NKcUxiNGRaa0UzTjg5N2NrOUo4NFI4R0Q3NEowaV9FaVMwNzk4dzZkVlUtRE9XSjFiZXdxTnIzX2YxbHAwaGNRMGpDZTNjQm1ycG00b2luNE9fa1pBUmxnTk94WmUxN0tEUHFSbENSYnlSX3MtU25n?oc=5",
+   "prev": "Dhiraj Seth"
   },
   {
    "k": "cns",
@@ -140,6 +141,15 @@
  ],
  "changes": [
   {
+   "date": "2026-11-01",
+   "k": "coas",
+   "text": "Ashutosh Dixit took charge as Chief of the Army Staff, succeeding Dhiraj Seth.",
+   "src": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQeFZaUnVwTWJuVnE1N3ZLenhtYU9PWk9UYXJFdU8zcGlPVFh2cW0zRHZJZV9zcDJMaUxSYThtUms0QjVoOEhLY194TDVZR3NKcUxiNGRaa0UzTjg5N2NrOUo4NFI4R0Q3NEowaV9FaVMwNzk4dzZkVlUtRE9XSjFiZXdxTnIzX2YxbHAwaGNRMGpDZTNjQm1ycG00b2luNE9fa1pBUmxnTk94WmUxN0tEUHFSbENSYnlSX3MtU25n?oc=5",
+   "name": "Ashutosh Dixit",
+   "prev": "Dhiraj Seth",
+   "post": "Chief of the Army Staff"
+  },
+  {
    "date": "2026-11-13",
    "k": "cpi",
    "text": "CPI inflation (Oct 2026): 6.09% (previous reading 5.54%).",
@@ -151,9 +161,10 @@
   }
  ],
  "seen": {
-  "cpi|6.09%": "2026-11-15"
+  "cpi|6.09%": "2026-11-15",
+  "coas|Ashutosh Dixit": "2026-11-21"
  },
- "checked": "2026-11-20T21:16:14.196Z",
+ "checked": "2026-11-21T08:21:47.466Z",
  "log": [
   "appointment search ok",
   "appointment search ok",
