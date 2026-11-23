@@ -164,10 +164,10 @@
   "cpi|6.09%": "2026-11-15",
   "coas|Ashutosh Dixit": "2026-11-21"
  },
- "checked": "2026-11-22T20:26:05.229Z",
+ "checked": "2026-11-23T09:12:24.976Z",
  "log": [
   "appointment search ok",
   "appointment search ok",
-  "RBI failed: fetch failed"
+  "RBI ok"
  ]
 }
